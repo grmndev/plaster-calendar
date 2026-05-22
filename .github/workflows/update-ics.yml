@@ -18,11 +18,26 @@ jobs:
 
       - name: Download dynamic calendar as static ICS
         run: |
+          SOURCE_URL="https://plasterlodzki.pl/wydarzenia/category/koncert/?ical=1"
+      
           curl -L \
+            --fail \
+            --silent \
+            --show-error \
+            --retry 3 \
+            --retry-delay 10 \
             -A "Mozilla/5.0" \
-            "https://plasterlodzki.pl/?post_type=tribe_events&tribe_events_cat=koncert&ical=1&eventDisplay=list" \
+            -H "Accept: text/calendar,*/*;q=0.8" \
+            "$SOURCE_URL" \
             -o events.ics
-
+      
+          echo "Downloaded file size:"
+          wc -c events.ics
+      
+          echo "First 30 lines of downloaded file:"
+          head -n 30 events.ics
+      
+          echo "Checking ICS markers..."
           test -s events.ics
           grep -q "BEGIN:VCALENDAR" events.ics
           grep -q "END:VCALENDAR" events.ics
