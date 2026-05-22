@@ -1,0 +1,415 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plaster Łódzki - ECPv6.5.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Plaster Łódzki
+X-ORIGINAL-URL:https://plasterlodzki.pl
+X-WR-CALDESC:Events for Plaster Łódzki
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20260329T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20261025T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260522T200000
+DTEND;TZID=Europe/Warsaw:20260522T213000
+DTSTAMP:20260522T125514
+CREATED:20241007T134640Z
+LAST-MODIFIED:20260425T115526Z
+UID:10037580-1779480000-1779485400@plasterlodzki.pl
+SUMMARY:Tomek Dyniak
+DESCRIPTION:22 maja na scenie Przechowalni wystąpi Tomek Dyniak– gitarzysta\, wokalista i autor piosenek z Łodzi. W przeszłości był członkiem zespołów Statyści i Sheik Spears\, a od 2024 roku występuje pod własnym nazwiskiem. Jego twórczość nawiązuje do tradycji songwriterskiej lat 60. i 70. XX wieku\, zwłaszcza w wydaniu amerykańskim. Łączą się w niej wpływy bluesa\, folku\, country i rocka. Na koncertach często towarzyszą mu łódzcy muzycy\, Marcin Kotfis i Marcin Helter.\n\n\nW lutym 2026 roku nakładem wytwórni Flower Records ukazał się jego debiutancki album\, „Out of Sight”\, nagrany z pomocą zaprzyjaźnionych łódzkich muzyków. Zawiera jedenaście autorskich utworów z angielskimi tekstami\, w oszczędnych aranżacjach\, z dominującą rolą gitary akustycznej i bluesowymi solówkami gitary elektrycznej\, urozmaiconymi niekiedy brzmieniem klawiszy i sitaru. W warstwie tekstowej albumu dominują rozważania o charakterze introspekcyjnym i egzystencjalnym. To zapis blisko dekady życia kogoś\, kto obserwuje rzeczywistość raczej z pozycji autsajdera\, niż osoby funkcjonującej w głównym nurcie współczesnego świata.\n\nStrona na FB: https://www.facebook.com/TomekDyniakmusic\nSpotify: https://open.spotify.com/album/324kHCuKGgoX459xxCqUIt\nBILETY: do kapelusza  \nPokaż mniej\n\n\n\nŁódź
+URL:https://plasterlodzki.pl/wydarzenia/stand-up-wojtek-kaminski-program-upadek-support/
+LOCATION:Przechowalnia\, 6-tego sierpnia 6\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260522T200000
+DTEND;TZID=Europe/Warsaw:20260522T220000
+DTSTAMP:20260522T125514
+CREATED:20240329T120818Z
+LAST-MODIFIED:20260425T112052Z
+UID:10032857-1779480000-1779487200@plasterlodzki.pl
+SUMMARY:CRASHBORNE
+DESCRIPTION:„Zespół Crashborne został założony w Łodzi w 2016 roku przez grupę przyjaciół\, których łączy pasja do muzyki. Ich twórczość to autorskie kompozycje instrumentalne\, łączące mocne i dynamiczne gitarowe brzmienia w nurcie progresywnego rocka i metalu\, z rozbudowaną linią melodyczną.”Skład grupy:Gitara prowadząca: Piotr „Kryśka” KrysickiGitara rytmiczna: Radosław „Sensei” BednarskiGitara basowa: Adam MajPerkusja: Marcin Grąbkowski
+URL:https://plasterlodzki.pl/wydarzenia/koncert-tomek-motyka/
+LOCATION:Piotrkowska 17\, Piotrkowska 17\, Łódź\, łódzkie\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260522T210000
+DTEND;TZID=Europe/Warsaw:20260522T213000
+DTSTAMP:20260522T125514
+CREATED:20230120T093742Z
+LAST-MODIFIED:20260425T103531Z
+UID:10029906-1779483600-1779485400@plasterlodzki.pl
+SUMMARY:Blues w Kiju - Danny Boy Solo
+DESCRIPTION:Zapraszamy na magiczny wieczór przy koktajlu i bluesie.Można trochę potańczyć\, można się pobujać\, można po prostu posłuchać.Będzie pięknie!Nasze drzwi otwieramy dla Państwa o 18:00. Start koncertu planujemy na godzinę 21:30.\nZaśpiewa i zagra Danny Boy czyli Daniel Frontczak\nMiejsce: KIJ\, ul. Jaracza 4590-249 ŁódźData: 22/05/2026Cena: Free\nArtysta\, zagra standardy nie stroniąc własnych interpretacji mistrzów jak Lee Hooker\, Mudy Waters\, BB King\, JJ Cale ale też Bob Dylan\, Tadeusz Nalepa.\nDaniel „Danny Boy” Frontczak. Urodzony w Łodzi polski gitarzysta i wokalista bluesowy. Założyciel Los Potatos i Danny Boy Experience. Ma za sobą liczne koncerty w klubach i festiwalach w Polsce i za granicą.\nW 2021 ukazała się płyta Danny Boy Experience pod tym samym tytułem. To 13 autorskich kompozycji i 1 cover. Cała płyta trwająca nieco ponad godzinę to zbiór utworów z szerokiego spektrum jakie w arsenale mają blues i rock.
+URL:https://plasterlodzki.pl/wydarzenia/live-jazz-baczek-ludwiczuk-rutkowski-kazmierski/
+LOCATION:Klub Kij\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260523T170000
+DTEND;TZID=Europe/Warsaw:20260523T230000
+DTSTAMP:20260522T125514
+CREATED:20231013T103700Z
+LAST-MODIFIED:20260304T203529Z
+UID:10031942-1779555600-1779577200@plasterlodzki.pl
+SUMMARY:Początek Muzycznego Bałaganu
+DESCRIPTION:Serdecznie zapraszamy na pierwszy w historii koncert Bayzel XL\, który odbędzie się w Łódzkim Klubie Wooltura\, 23 maja (sobora) 2026.\nWydarzenie swoją obecnością uświetnią formacje: STACJA B\, GORGONZOLLA\, MADRISE\, oraz jeszcze jeden gość specjalny\, którego ujawnimy niedługo.\nBądźcie czujni\, początek muzycznego bałaganu nadchodzi wielkimi krokami.
+URL:https://plasterlodzki.pl/wydarzenia/in-twilights-embrace-jad-schizma-nightbound/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260523T190000
+DTEND;TZID=Europe/Warsaw:20260523T210000
+DTSTAMP:20260522T125514
+CREATED:20230929T113730Z
+LAST-MODIFIED:20260305T172738Z
+UID:10031829-1779562800-1779570000@plasterlodzki.pl
+SUMMARY:ShataQS
+DESCRIPTION:Wiosenna odsłona to finał trasy „Wracam” – świadome dopełnienie drogi rozpoczętej po „Czy mnie słyszysz?”\, rozwijanej przez cały 2025 rok. To koncerty bardziej skupione\, intensywne\, będące podsumowaniem etapu\, który dojrzewał na scenie i w kontakcie z publicznością.\nJesienią ubiegłego roku wróciliśmy na scenę z trasą „Wracam”. Emocje\, spotkania i rozmowy po koncertach zostawiły w nas niedosyt – taki sam\, o jakim pisaliście w komentarzach. Pytaliście\, czy odwiedzimy kolejne miasta. Dlatego wracamy raz jeszcze\, by domknąć tę historię wspólnie.\nPodczas wiosennych koncertów ShataQS zaprezentuje utwory z albumów Fenix i Weda\, a także kompozycje z nadchodzącej płyty\, nad którą obecnie pracuje. To muzyczne spotkania pełne uważności\, emocji i przestrzeni – z wiosennym światłem\, ale wciąż z charakterystyczną wrażliwością artystki.\nWiosenny finał trasy „Wracam” nie jest powtórzeniem.To odpowiedź na Wasze głosy i naturalne domknięcie jesiennej opowieści.\nTo ostatnia odsłona trasy „Wracam”.Zanim pojawi się nowy album.Zanim nadejdzie nowy rozdział.\n\nDaty koncertów – Finał trasy „Wracam”• 27.03.2026 – Wrocław\, CK Agora• 11.04.2026 – Zabrze\, CK Wiatrak• 22.05.2026 – Gdańsk\, Klub Parlament• 23.05.2026 – Łódź\, Scenografia\n\nHarmonogram wydarzeń (Wrocław\, Zabrze\, Łódź):18:30 – otwarcie bram 19:00 – koncert ShataQS\nCeny biletów:• I pula – 120 zł • II pula – 130 zł • W dniu koncertu – 150 zł\nBilety kolekcjonerskie (papierowe):https://independentmusicmarket.com/pl/221-bilety\nBilety elektroniczne:Kupbilecik\, Biletyna\, eBilet\, Bilety24
+URL:https://plasterlodzki.pl/wydarzenia/daria-ze-slaska/
+LOCATION:Klub Scenografia\, Zachodnia 81/83\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260523T190000
+DTEND;TZID=Europe/Warsaw:20260523T210000
+DTSTAMP:20260522T125514
+CREATED:20251010T101717Z
+LAST-MODIFIED:20260501T090014Z
+UID:10042066-1779562800-1779570000@plasterlodzki.pl
+SUMMARY:Curious Collections - Smooth Jazz Night
+DESCRIPTION:Curious Collections zaprasza na Smooth Jazz Night w Klubokawiarni Podróżniczej Tubylec.Gramy jazzowe i bluesowe klasyki\, re-interpretujemy rockowe szlagiery i składamy z nich kolekcje. Jeśli w serduszku grają ci winyle i nadal pamiętasz jak przewijać kasetę ołówkiem\, to mamy dla ciebie doskonały plan na sobotni wieczór.\nKto: Anna Redlin (wokal)\, Piotrek Szeligowski (gitara)\, Daniel Piotrowski (perkusja)Kiedy: 23 maja\, sobota\, 19:00Gdzie: Tubylec – Klubokawiarnia Podróżnicza\, ul. Retkińska 70\, ŁódźWstęp: wolny. Jeśli spodoba Wam się nasza praca kolekcjonerska\, możecie ją wesprzeć wrzutką do kapelusza.\nPróbka naszych dźwięków tutaj:https://www.facebook.com/curious.collections.band/reels/\nTubylec: https://www.facebook.com/tubylec.cafe
+URL:https://plasterlodzki.pl/wydarzenia/nepal-solisci-roadshow-2024-prelekcje-podroznicze-2/
+LOCATION:Tubylec\, Retkińska 70\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260523T193000
+DTEND;TZID=Europe/Warsaw:20260523T213000
+DTSTAMP:20260522T125514
+CREATED:20260327T104757Z
+LAST-MODIFIED:20260426T142119Z
+UID:10047645-1779564600-1779571800@plasterlodzki.pl
+SUMMARY:50 lat Agnieszka Chylińska & Goście
+DESCRIPTION:Jedyny taki wieczór! Agnieszka Chylińska świętuje urodziny wyjątkowym koncertem w łódzkiej Atlas Arenie \nW dniu swoich 50. urodzin Agnieszka Chylińska stanie na scenie\, by świętować razem z fanami. 23 maja 2026 roku o godz. 20:00 w Atlas Arenie w Łodzi odbędzie się “Koncert Urodzinowy” – jedyny taki wieczór w jej karierze. „Wy i ja. Impreza mojego życia” – zapowiada artystka\, podkreślając\, że nigdy wcześniej nie czuła w sobie tyle siły i wiary w sens bycia na scenie. To będzie jubileusz osobisty i symboliczny zarazem. Spotkanie będące ukoronowaniem wieloletniej relacji z fanami budowanej na scenie i poza nią. Artystka zaplanowała na ten dzień wiele specjalnych atrakcji\, a także gości. \nDla fanów\, którzy uczestniczyli w jej wcześniejszych trasach\, przygotowano limitowaną przedsprzedaż z wcześniejszym dostępem do biletów oraz zniżką. Wystartuje ona 18 lutego o godz. 12:00. Otwarta sprzedaż dla wszystkich rozpocznie się 20 lutego o godz. 12:00. Bilety dostępne będą wyłącznie na eBilet.pl. \n23 maja 2026 roku w Atlas Arenie w Łodzi odbędzie się wydarzenie absolutnie wyjątkowe “Agnieszka Chylińska – Koncert Urodzinowy” to jedyny taki wieczór w karierze artystki. Tego dnia\, dokładnie w dniu swoich urodzin\, Agnieszka stanie na scenie\, by świętować razem z publicznością. \nTo decyzja symboliczna i niezwykle osobista. Urodziny zwykle spędza się w gronie najbliższych\, rodziny i przyjaciół. Agnieszka Chylińska od lat powtarza\, że jej fani są częścią tej najbliższej \nrodziny. Koncert urodzinowy jest więc naturalnym i pięknym dopełnieniem wspólnej drogi\, którą artystka i jej publiczność idą od ponad trzech dekad. \nW minioną sobotę w mediach społecznościowych artystka uchyliła rąbka tajemnicy\, pisząc: \n„To\, co przygotowałam dla moich fanów i sympatyków mojej twórczości\, będzie jednym z najważniejszych momentów w moim życiu. (…) To będzie jeden\, jedyny taki dzień.” \nZapowiedź ta poruszyła fanów – nie bez powodu. Agnieszka Chylińska jest jedną z najbardziej charakterystycznych i charyzmatycznych postaci polskiej sceny muzycznej. Od lat konsekwentnie podąża własną drogą\, nie bojąc się zmian\, eksperymentów i artystycznego ryzyka. \n“Ktoś mi kiedyś powiedział\, że prawdziwe życie zaczyna się po 50-tce. Coś w tym jest. Nigdy wcześniej nie czułam się tak dobrze. Myślałam\, że zapał\, wiara w ludzi i w sens mojego bycia na scenie z czasem wyblaknie. Chcę Wam z pełną uczciwością powiedzieć\, że tak nie jest. Niech dowodem na to będzie zaproszenie na mój urodzinowy koncert. Nie mogłam sobie wymarzyć lepszej scenerii. Wy i ja. Impreza mojego życia i goście\, których z ogromnym poczuciem szczęścia i zachwytu zaprosiłam\, by świętowali ze mną moją 50-tkę. Zapraszam wszystkich\, którzy życzą i sobie\, i mnie wszystkiego najlepszego. Będziecie mile\, mile widziani!” – mówi artystka. \nKoncert w Atlas Arenie będzie nie tylko podsumowaniem imponującej kariery\, ale także celebracją odwagi i siły. Znając artystkę\, można spodziewać się wieczoru pełnego emocji\, zaskoczeń i gości. To będzie opowieść o drodze\, którą przeszła i o relacji\, którą przez lata zbudowała z publicznością. 23 maja 2026 roku Atlas Arena stanie się miejscem świętowania nie tylko 50. urodzin artystki\, ale także wspólnej historii pisanej od lat przez nią i jej publiczność. \nArtystka postanowiła w szczególny sposób podziękować tym\, którzy byli z nią podczas wcześniejszych tras „30 lat Agnieszki Chylińskiej – Kiedyś do Ciebie wrócę” oraz „30 lat Agnieszki Chylińskiej – KIEDYŚ DO CIEBIE WRÓCĘ ostatnie 3 koncerty na bis”. To właśnie oni jako pierwsi będą mogli kupić bilety na „Koncert Urodzinowy” w ramach limitowanej przedsprzedaży oraz w specjalnej cenie fanowskiej. \nUprawnieni uczestnicy koncertów\, posiadający aktywne zgody marketingowe\, otrzymali drogą mailową indywidualne kody dostępu\, umożliwiające wcześniejszy zakup wejściówek w specjalnych cenach. \nPrzedsprzedaż rusza 18 lutego o godz. 12:00 i potrwa do 19 lutego do godz. 23:59 lub do wyczerpania puli. Otwarta sprzedaż dla wszystkich rozpocznie się 20 lutego o godz. 12:00. \nNa wydarzenie zapraszają: Atlas Arena\, Top Management\, TVN oraz RMF FM
+URL:https://plasterlodzki.pl/wydarzenia/50-lat-agnieszka-chylinska-goscie/
+LOCATION:Atlas Arena\, Bandurskiego 7\, Łódź\, łódzkie\, 94-020\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260523T200000
+DTEND;TZID=Europe/Warsaw:20260523T213000
+DTSTAMP:20260522T125514
+CREATED:20240522T135522Z
+LAST-MODIFIED:20260301T085119Z
+UID:10033099-1779566400-1779571800@plasterlodzki.pl
+SUMMARY:Furia gra Kino
+DESCRIPTION:Furia gra Kino w Monopolis\n23 MAJA 2026 | GODZINA 20.00\n\nZespołu Furia fanom ciężkiego brzmienia nie trzeba przedstawiać. \nOd lat udowadniają\, że potrafią wyznaczać nowe kierunki dla polskiej sceny metalowej: widzieliśmy ich na scenie Narodowego Teatru Starego w Krakowie\, w „Weselu” w reżyserii Jana Klaty\, dwa lata temu otrzymali nominację do „Paszportów Polityki\,” a niedawno ich płyta „Księżyc milczy luty” została płytą 25-lecia według Musick Magazine.\n W minionym roku w ramach współpracy z Instytucją Filmową Silesia Film w Katowicach\, z okazji 25. urodzin Filmoteki Śląskiej\, jedynego regionalnego archiwum filmowego\, narodził się projekt „Furia Gra Kino”.\nNiewielu fanów zespołu miało okazję doświadczyć tego wyjątkowego projektu\, gdyż wydarzenia wyprzedały się na pniu\, bez wzmianki o szansie na powtórkę.\nAż do tej pory.\nPrzed Wami jedyna możliwość\, by obejrzeć to nieprzeciętne widowisko koncertowe\, w równie wyjątkowych przestrzeniach\, wyselekcjonowanych w pięciu miastach w Polsce. „Furia Gra Kino” to coś znacznie więcej niż koncert na żywo połączony z projekcją filmu – w trakcie tego unikalnego wydarzenia obraz i dźwięk przeplatają się\, oferując niezwykłą podróż w przeszłość Śląska.\nW maju tego roku\, przy klasycznym secie zespołu wzbogaconym o partie improwizowane\, obrazy filmowe ze Śląska ożyją i wypełnią duchami sale kinowe i teatralne w całej Polsce.\n\nUwaga! Wydarzenie zawiera intensywne efekty świetlne i dźwiękowe.\nNa trasie „Furia Gra Kino” nie wystąpi żaden zespół towarzyszący.\nFilm prezentowany w trakcie koncertu uzupełni narracja prowadzona przez Krzysztofa Zawadzkiego\, a za live-montaż obrazu i jego wizualną interpretację odpowiada Bogna Przewoźniak\, artystka wizualna od lat współpracująca z zespołem.
+URL:https://plasterlodzki.pl/wydarzenia/rewia-burleski-madame-de-minou/
+LOCATION:Artkombinat Scena Monopolis\, Kopcińskiego 62a\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260523T200000
+DTEND;TZID=Europe/Warsaw:20260523T220000
+DTSTAMP:20260522T125514
+CREATED:20251010T115137Z
+LAST-MODIFIED:20260425T104229Z
+UID:10037603-1779566400-1779573600@plasterlodzki.pl
+SUMMARY:Madame Affair + Krokodyl
+DESCRIPTION:Koncert w ramach trasy Madame Affair promującej debiutancki album POST-FUNK \nŁódź\, 23.05Cyrk Pod Zielonym Xiężycem\nPłyta POST-FUNK to wynik kilkuletnich poszukiwań brzmienia\, które Madame Affair może uznać za własne. Poznański zespół\, niczym ojciec atomówek\, starannie odmierzał składniki\, aby stworzyć coś wyjątkowego\, ale wciąż przystępnego dla słuchacza. Funkowe rytmy układają się w geometryczne kształty\, niesione strumieniem wyzwalającej energii. Do tej rzeki dopływało zarówno nu-disco\, jak i dance punk\, indie rock\, soul czy elektronika. Fascynacja Talking Heads\, LCD Soundsytem\, Foals czy David’em Bowie przejawia się także w tekstach\, które stanowią nie tylko wyładowanie emocji\, ale też świadomy komentarz społeczny.\nKojarzysz ten moment imprezy\, kiedy zbieracie się w kuchni?Muzyka gra w salonie\, ale najlepsze rzeczy dzieją się tutaj – przy trzecim zalaniu yerby. W połowie czyjejś historii\, którą zaraz ktoś przerwie. W życiowym temacie\, który ktoś podłapie. Madame Affair to rozmowa w kuchni (lub na balkonie) podczas domówki. Nie rzucamy hooków w 3 sekundzie. Rozwijamy się powoli\, aby eksplodować. Wszystko żeby dać Ci coś tak rzadko spotykanego\nzdziwienie.\n\nIG instagram.com/madame_affairFB facebook.com/madameaffairYT youtube.com/@madameaffair9996Spotify http://open.spotify.com/artist/6TwD8d0Irny7eLLqt33rpD…\n\nKrokodyl:\nNeony spędzające sen z powiek\, bezgwiezdne niebo rozświetlanejedynie sztucznym światłem ulicy\, aleje w których mieszka trwoga. To wizja miasta którą zespół prezentuje na swojej debiutanckiej EP-ce. Miasta\, które zamiast zapewniać bezpieczeństwo staje sięprzytłaczającym otoczeniem. Próbą na odnalezienie się w nim okazują się być osobiste uczucia i doświadczenia zamknięte w autorskich kompozycjach. Każda z nich odmienna i różnorodna\, ich wspólnym elementem jest wokal poruszający tematykę bliskich nam problemów wczesnej dorosłości. Zespół zaprezentuje materiał z EPki „Ilzuje Naszych Miast” oraz zupełnie nowe utwory.\nSocial media i wydawnictwa: https://linktr.ee/krokodylband\n\nPrzedsprzedaż biletów: https://stage24.pl/…/madame-affair-cyrk-pod-zielonym…\nBilety będą też dostępne na miejscu w cenie 40 zł.\n19:00 otwarcie bramek20:00 Krokodyl21:00 Madame Affair
+URL:https://plasterlodzki.pl/wydarzenia/poznaj-cajon-rodzinnie-warsztaty-5/
+LOCATION:Cyrk Pod Zielonym Xiężycem\, Próchnika 1\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260523T200000
+DTEND;TZID=Europe/Warsaw:20260523T230000
+DTSTAMP:20260522T125514
+CREATED:20250822T132812Z
+LAST-MODIFIED:20260515T094057Z
+UID:10040114-1779566400-1779577200@plasterlodzki.pl
+SUMMARY:Mr.Noise
+DESCRIPTION:KOCHANI – zapraszamy na cudowny koncert z naszym udziałem już niebawem bo 23 Maja w IRON HORSE W ŁODZIUdostępniajcie i przybywajcie.Niech Rock and Roll będzie z Wami
+URL:https://plasterlodzki.pl/wydarzenia/renegady-rage-against-the-machine-tribute-2/
+LOCATION:Iron Horse\, Tuwima 16 / róg Sienkiewicza\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260523T210000
+DTEND;TZID=Europe/Warsaw:20260523T220000
+DTSTAMP:20260522T125514
+CREATED:20251010T133315Z
+LAST-MODIFIED:20260515T092431Z
+UID:10040286-1779570000-1779573600@plasterlodzki.pl
+SUMMARY:Live Jazz - Kolasa/Franciszek/Wierzchowski
+DESCRIPTION:Zapraszamy na magiczną podróż jazzowo – koktajlową.Nasze drzwi otwieramy dla Państwa o 18:00. Start koncertu planujemy na godzinę 21:00\nZagrają:Jerzy Kolasa – gitara\, Franciszek Trybus – bas\, Piotr Wierzchowski – perkusja.\nZPRASZAMY WSZYTKICH MUZYKÓW DO WSPÓLNEGO JAZZOWANIA\nMiejsce: KIJ\, ul. Jaracza 4590-249 ŁódźData: 23/05/2026cena: FREE
+URL:https://plasterlodzki.pl/wydarzenia/zatanczysz-ze-mna-jeszcze-raz-7-urodziny-kija-2-2-4/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260524T180000
+DTEND;TZID=Europe/Warsaw:20260524T193000
+DTSTAMP:20260522T125514
+CREATED:20251220T221010Z
+LAST-MODIFIED:20260420T085946Z
+UID:10040050-1779645600-1779651000@plasterlodzki.pl
+SUMMARY:Budka Suflera
+DESCRIPTION:🎸 Budka Suflera – legenda polskiego rocka wraca na scenę! Usłysz kultowe hity: Jolka Jolka\, Takie Tango\, Bal wszystkich Świętych i inne\, które na zawsze zapisały się w historii muzyki. 🔥 Nie przegap tego koncertu! 🎤 \nBudka Suflera – polski zespół rockowy założony w Lublinie w 1974 roku przez Krzysztofa Cugowskiego i Romualda Lipkę. Znany z takich przebojów jak: Sen o dolinie\, Za ostatni grosz\, Jolka Jolka\, pamiętasz\, Takie Tango czy Bal wszystkich Świętych. Budka Suflera to jeden z najpopularniejszych zespołów polskiej muzyki rockowej. Skład zespołu wielokrotnie zmieniał się\, a przez grupę przewinęło się ponad 25 muzyków. Osobą łączącą wszystkie składy od 1975 jest perkusista Tomasz Zeliszewski\, pełniący także rolę menedżera i lidera zespołu po śmierci Romualda Lipki (zm. 2020)\, jest jedynym członkiem Budki Suflera\, który nagrał z zespołem wszystkie albumy. Podczas koncertu zespół wykona znane przeboje Budki Suflera. Budka Suflera ma na swoim koncie wiele prestiżowych nagród. Jest między innymi laureatem Fryderyków w kategoriach Zespół roku oraz Piosenka roku za przebój Takie Tango. W 2002 roku otrzymał Super Jedynkę za utwór Bal wszystkich świętych. \nZamówienia grupowe i informacje: tel. 669 288 277 | 691 778 850 \nBilety online: \n\nkupbilecik.pl https://bkb.pl/199702-975e2– Otwórz w nowej karcie\nbiletyna.pl https://bilety.io/BvxXd– Otwórz w nowej karcie\nwww.agencjabrussa.pl\n\nOpis wydarzenia został przygotowany przez organizatora.
+URL:https://plasterlodzki.pl/wydarzenia/bawialnia-4/
+LOCATION:Filharmonia Łódzka im. Artura Rubinsteina\, Narutowicza 20/22\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260524T180000
+DTEND;TZID=Europe/Warsaw:20260524T203000
+DTSTAMP:20260522T125514
+CREATED:20260327T084737Z
+LAST-MODIFIED:20260515T090727Z
+UID:10047239-1779645600-1779654600@plasterlodzki.pl
+SUMMARY:Koncert lata 60\,70\,80 by Józef Kaczorowski i Marika Amrozińska
+DESCRIPTION:Serdecznie zapraszamy na koncert muzyki lat 60\, 70\, 80.Wielkie hity The Beatles\, The Rolling Stones czy Republiki w wykonaniu Józefa Kaczorowskiego i Mariki Amrozińskiej to gratka dla miłośników muzyki.Rezerwacja miejsc w BohoArt Cafe.
+URL:https://plasterlodzki.pl/wydarzenia/revision-2/
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260524T193000
+DTEND;TZID=Europe/Warsaw:20260524T220000
+DTSTAMP:20260522T125514
+CREATED:20260501T090739Z
+LAST-MODIFIED:20260508T084725Z
+UID:10048365-1779651000-1779660000@plasterlodzki.pl
+SUMMARY:Interferencje
+DESCRIPTION:INTERFERENCJE  Cykl spotkań dźwiękowych organizowanych w Łodzi przez Radio Kapitał.\n wiosenna edycja „Interferencji” odbędzie się w malowniczej scenerii ogrodu pałacu Alfreda Biedermanna \n\n Tak jak w fizyce fale nakładają się\, tworząc nowe struktury\, tak tutaj spotkają się idee\, osobowości i talenty. Z tych przecięć powstanie coś niepowtarzalnego. \nKoncerty i rozmowy z twórczyniami i twórcami\, podczas których:\n słuchamy w bliskości zaglądamy głębiej w praktyki artystyczne łączymy światy muzyki współczesnej\, niezależnej i sound artu\n 10.05 niedziela godzina 16:00  koncert Tymka Papiora Rozmowę po koncercie poprowadzi Bartosz Nowickiogród Pałacu Biedermanna ul. Franciszkańska 1/5 Wstęp wolny!\n Tymek Papior \nMultiinstrumentalista\, kompozytor i producent. Artysta wykorzystuje preparowane instrumenty akustyczne\, znalezione przedmioty oraz nagrania terenowe\, które zestawia z cyfrowym brzmieniem instrumentów midi oraz elektroniki do zniekształcania i tworzenia dźwięku. W 2024 Artysta wydał albumy – LUMBAGO (Tymek Papior\, Wuja HZG) oraz debiutancką solową płytę „Rugs/Carpets”\, która została nominowana do nagrody Fryderyk 2025. W styczniu 2026 ukazał się najnowszy album Tymka – „WSPÓLNA SPRAWA LP” wydanym przez label BZR RECORDS\, który współtworzy.\nhttps://www.instagram.com/tymekpapior/https://culture.pl/pl/tworca/tymek-papior\n—\n Bartosz Nowicki – krytyk muzyczny\, publicysta\, badacz dźwięku i uważny słuchacz. W latach 2012–2018 prowadził blog 1uchem/1okiem\, poświęcony polskiej muzyce niezależnej. Publikował m.in. w „Polityce”\, „Gazecie Magnetofonowej”\, „Kwartalniku Muzycznym M/I” i „Czasie Kultury”. Na co dzień współpracuje z dwutygodnik.com.\nUwielbia dźwięki i nasłuchiwanie\, a jego teksty i wystąpienia łączą refleksję nad muzyką współczesną z czułością wobec codziennego pejzażu akustycznego. Interesuje go to\, jak słuchanie staje się sposobem poznawania świata — i jak muzyka może otwierać nas na inne formy wrażliwości.\n\n\n\n\n\n Tak jak w fizyce fale nakładają się\, tworząc nowe struktury\, tak tutaj spotkają się idee\, osobowości i talenty. Z tych przecięć powstanie coś niepowtarzalnego. \nKoncerty i rozmowy z twórczyniami i twórcami\, podczas których:\n słuchamy w bliskości zaglądamy głębiej w praktyki artystyczne łączymy światy muzyki współczesnej\, niezależnej i sound artu 24.05 niedziela godzina 16:00 koncert Antoniny Nowackiej Rozmowę po koncercie poprowadzi Bartosz Nowickiogród Pałacu Biedermanna ul. Franciszkańska 1/5 Wstęp wolny!\n Antonina Nowacka \npolska wokalistka\, kompozytorka i artystka dźwięku. Głęboko zainteresowana naturą dźwięku – zwłaszcza jego wpływem na układ nerwowy i zdolnością muzyki do wprowadzania wykonawcy i słuchaczy w określone stany umysłu.\nStudiowała na Akademii Sztuk Pięknych w Warszawie w pracowni Mirosława Bałki\, muzykologię w ISI Yogyakarta (dzięki stypendium Ministra Kultury Indonezji)\, a także tradycyjne hindustańskie techniki wokalne pod kierunkiem Shashwati Mandal\, mistrzyni stylu Gwalior.\nCzerpiąc z muzyki tradycyjnej\, zjawisk naturalnych i stanów hipnagogicznych\, tworzy performances łączące dźwięk\, architekturę i wyobraźnię. Jej eksploracje oscylują wokół muzyki dawnej – pieśni religijnych\, antycznych i operowych – oraz eksperymentów z elektroniką i aparatem mowy.\nWspółpracowała m.in. z Sofie Birch (albumy Languoria i Hiraeth). Koncertowała na festiwalach takich jak Unsound\, a jej muzyka zdobywała najwyższe noty m.in. w Pitchforku i The Wire.\n— Bartosz Nowicki – krytyk muzyczny\, publicysta\, badacz dźwięku i uważny słuchacz. W latach 2012–2018 prowadził blog 1uchem/1okiem\, poświęcony polskiej muzyce niezależnej. Publikował m.in. w „Polityce”\, „Gazecie Magnetofonowej”\, „Kwartalniku Muzycznym M/I” i „Czasie Kultury”. Na co dzień współpracuje z dwutygodnik.com.Uwielbia dźwięki i nasłuchiwanie\, a jego teksty i wystąpienia łączą refleksję nad muzyką współczesną z czułością wobec codziennego pejzażu akustycznego. Interesuje go to\, jak słuchanie staje się sposobem poznawania świata — i jak muzyka może otwierać nas na inne formy wrażliwości.\n\n\n\nKoncerty i rozmowy z twórczyniami i twórcami\, podczas których:\n słuchamy w bliskości zaglądamy głębiej w praktyki artystyczne łączymy światy muzyki współczesnej\, niezależnej i sound artu\n 31.05 niedziela godzina 16:00 koncert Katarina Gryvul Rozmowę po koncercie poprowadzi Justyna Anders-Morawskaogród Pałacu Biedermanna ul. Franciszkańska 1/5 Wstęp wolny!\n Katarina Gryvul \nKatarina Gryvul jest klasycznie wykształconą kompozytorką\, skrzypaczką i producentką muzyczną. Po ukończeniu studiów skupiła się na muzyce elektronicznej\, łącząc klasyczne przygotowanie z awangardowymi technikami. W swojej twórczości wykorzystuje live electronics\, analogowe syntezatory oraz dźwięk przestrzenny\, tworząc immersyjne pejzaże dźwiękowe. Występowała m.in. na Lunchmeat Festival\, Ephemerze\, Rewire\, Ars Electronica czy Musikprotokoll.\n„Spomyn (wspomnienie) to eksploracja kruchej\, pofragmentowanej natury pamięci\, ukazująca\, w jaki sposób kształtuje ona sedno naszej tożsamości” – pisze o swoim albumie z 2025 kompozytorka Gryvul łączy tradycyjne motywy muzyczne z eksperymentalnymi technikami. W efekcie powstaje mroczny\, gęsty pejzaż dźwiękowy.\nhttps://www.gryvul.com/\n—\n dr Justyna Anders-Morawska – badaczka dźwięku i adiunktka na Wydziale Studiów Międzynarodowych i Politologicznych UŁ. Zajmuje się politycznością audiosfery – bada\, jak pejzaż dźwiękowy miast ujawnia relacje władzy\, planowania i partycypacji. Prowadziła spacery dźwiękowe w Polsce i za granicą\, m.in. w ramach kongresu AESOP 2023\, współpracowała z Radiem Kapitał\, Teatrem Łaźnia Nowa i Glissando. Obecnie realizuje projekt “Pogłosy miast” (ScienceHub/UNIC)\, poświęcony współsłyszeniu postindustrialnej przeszłości i dźwiękowej przyszłości miast.\n\n\n  \nOsoby potrzebujące tłumaczenia na Polski Język Migowy lub innego rodzaju wsparcia w pokonaniu barier utrudniających uczestnictwo w wydarzeniu prosimy o wcześniejszy kontakt. Dołożymy wszelkich starań\, aby zapewnić dostępność.\n  \n\n\n\n\n\n Co się wydarzy?\n 6 spotkań z wybitnymi postaciami polskiej i ukraińskiej sceny muzyki eksperymentalnej i sztuki dźwięku: Tymek Papior\, Antonina Nowacka\, Katarina Gryvul\, Paweł Kulczyński\, Olga Anna Markowska\, Lutto Lento\nKażde spotkanie = rozmowa „jeden na jeden” z prowadzącymi ekspertami (Bartosz Nowicki\, Daniel Muzyczuk\, Justyna Anders-Morawska).\n Koncert to okazja i możliwość swobodnej dyskusji z twórcami do czego serdecznie zachęcamy.\n Wszystkie wydarzenia są otwarte i bezpłatne \n Zapisz daty!\n10.05 – koncert Tymek Papiorrozmowę poprowadzi Bartosz Nowicki24.05 – koncert Antonina Nowackarozmowę poprowadzi Bartosz Nowicki31.05 – koncert Katarina Gryvulrozmowę poprowadzi Justyna Anders-Morawska\n4.11 – koncert /instalacja dźwiękowaPaweł Kulczyńskirozmowę poprowadzi Daniel Muzyczuk18.11 – koncert Olga Anna Markowskarozmowę poprowadzi Justyna Anders-Morawska25.11 – koncert  Lutto Lento rozmowę poprowadzi: tba\n—\nRealizatorem zadania „Interferencje” jest Stowarzyszenie Radio Kapitał\nZadanie „Interferencje” jest realizowane dzięki dofinansowaniu z budżetu Miasta Łodzi #lodzpelnakultury #lodzkreuje Łódź pełna kultury\nZadanie realizowane jest dzięki wsparciu Uniwersytetu Łódzkiego\nprojekt graficzny: Darek Pietraszewskiprogram i koordynacja: Justyna Banaszczyk\nwsparcie medialne:MIEJ MIEJSCENN6T notes na 6 tygodniGlissando
+URL:https://plasterlodzki.pl/wydarzenia/interferencje/2026-05-24/
+LOCATION:Pałac Biedermanna\, Franciszkańska 1/5\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert,Spotkanie
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260526T190000
+DTEND;TZID=Europe/Warsaw:20260526T210000
+DTSTAMP:20260522T125514
+CREATED:20250629T080906Z
+LAST-MODIFIED:20260515T102343Z
+UID:10041673-1779822000-1779829200@plasterlodzki.pl
+SUMMARY:ŁÓDZKI DOM KULTURY ŁĄCZY POKOLENIA
+DESCRIPTION:„Dla Ciebie\, Mamo” – wyjątkowy koncert z okazji Dnia Matki \nSą takie chwile\, które zasługują na szczególną oprawę. Jedną z nich jest Dzień Matki – święto pełne ciepła\, wdzięczności i miłości. Z tej okazji zapraszamy na niezwykły koncert „Dla Ciebie\, Mamo”\, który stanie się muzycznym hołdem dla wszystkich Mam. \nTego wieczoru scena wypełni się dźwiękami najpiękniejszych utworów poświęconych matce\, a także znanych i lubianych szlagierów muzyki rozrywkowej\, operetkowej i musicalowej. Usłyszymy poruszające „Do Ciebie\, Mamo” z repertuaru Violetty Villas\, pełne tęsknoty i wdzięczności „Moja matko\, ja wiem”\, a także nostalgiczne „Serce matki”\, które od lat wzrusza kolejne pokolenia. Obok nich zabrzmią ponadczasowe przeboje – niosące nadzieję i zachwyt nad światem „What a Wonderful World”\, refleksyjne „To świt\, to zmrok” z musicalu Skrzypek na dachu\, pełne elegancji i emocji operetkowe „Usta milczą\, dusza śpiewa”\, a także radosne i pełne energii „Do zakochania jeden krok”\, które przypomni\, jak niewiele potrzeba do szczęścia. To będzie podróż przez emocje – od wzruszenia\, przez radość\, aż po wspólne świętowanie. \nWystąpią znakomici artyści: utalentowani śpiewacy\, pełni energii tancerze\, a także chór i orkiestra\, którzy razem stworzą niezapomniane widowisko łączące pokolenia. \nSOLIŚCI : \nMAŁGORZATA DŁUGOSZ – sopran \nEMILIA KLIMCZAK – sopran \nRAFAŁ SONGAN – baryton \nTANCERZE \nCHÓR EUFEME \nWERNER MUSIC BAND \nZapraszamy wszystkich – dzieci\, rodziców\, dziadków – by wspólnie celebrować ten wyjątkowy dzień. Niech muzyka stanie się najpiękniejszym prezentem dla Mam. \nWstęp bezpłatny – obowiązują wejściówki do odbioru w Łódzkim Domu Kultury (rezerwacja telefoniczna: 797 326 220) \n*Jedna osoba może odebrać maksymalnie 4 wejściówki. \n\n\n\n\n\nOrganizatorzy:\n\nŁódzki Dom Kultury \n\n\nProsimy o zachowanie paragonu fiskalnego\, który jest podstawą do zwrotu pieniędzy w przypadku odwołania koncertu!\n\nHarmonogram:\n\n\n18:00 – Otwarcie drzwi \n19:00 – Start koncertu
+URL:https://plasterlodzki.pl/wydarzenia/final-concert-andreas-roysum-ensemble/
+LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260526T190000
+DTEND;TZID=Europe/Warsaw:20260526T210000
+DTSTAMP:20260522T125514
+CREATED:20260426T100836Z
+LAST-MODIFIED:20260426T100836Z
+UID:10048175-1779822000-1779829200@plasterlodzki.pl
+SUMMARY:Nie dokazuj!
+DESCRIPTION:Zapraszamy na wyjątkowy koncert\, który zabierze Państwa w niezapomnianą podróż po muzycznych przebojach Marka Grechuty. Katarzyna Pakosińska\, Olga Bończyk\, Rafał Cieszyński i Staszek Karpiel-Bułecka nie tylko zaśpiewają nieśmiertelne piosenki\, ale również zaskoczą publiczność błyskotliwymi anegdotami i ciekawymi historiami. Marek Grechuta to jeden z najwybitniejszych polskich twórców\, którego piosenki na stałe wpisały się w kanon polskiej muzyki. Podczas koncertu usłyszymy jego największe przeboje\, takie jak „Nie dokazuj”\, „Dni\, których nie znamy”\, „Wiosna\, ach\, to ty” oraz „Będziesz moją panią”. To jednak nie tylko koncert – to również pełna humoru i lekkości opowieść o Grechucie\, której towarzyszyć będą błyskotliwe anegdoty i osobiste historie wykonawców. Każdy utwór stanie się pretekstem do wspomnień i radosnych historii\, które sprawią\, że koncert nabierze jeszcze głębszego wymiaru. „Nie dokazuj! Największe przeboje Marka Grechuty” to wydarzenie\, które łączy muzykę\, humor i niezwykłą charyzmę artystów\, oferując publiczności niezapomniane emocje. To koncert\, który bawi\, wzrusza i angażuje – nie przegap tej wyjątkowej okazji\, by poczuć magię Grechuty na żywo! Wystąpią: Katarzyna Pakosińska Olga Bończyk Rafał Cieszyński Staszek Karpiel-Bułecka \nCzytaj więcej na: https://www.kupbilecik.pl/imprezy/196712/%C5%81%C3%B3d%C5%BA/Nie+dokazuj%21/
+URL:https://plasterlodzki.pl/wydarzenia/nie-dokazuj/
+LOCATION:Teatr Muzyczny w Łodzi\, Północna 47/51\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260528T190000
+DTEND;TZID=Europe/Warsaw:20260528T200000
+DTSTAMP:20260522T125514
+CREATED:20230113T102948Z
+LAST-MODIFIED:20260321T111009Z
+UID:10029867-1779994800-1779998400@plasterlodzki.pl
+SUMMARY:Jan Kondrak
+DESCRIPTION:Jan Kondrak to głos – wielki głos. Co do skali i siły pewnie największy spośród polskich głosów bardowskich. Jest cenionym autorem i kompozytorem. Pisze dla siebie i innych\, na przykład dla Marka Dyjaka. Kojarzony z wyjątkową piwnicą artystyczną jaką jest Lubelska Federacja Bardów. Ma na koncie jedenaście płyt z LFB i osiem solowych dokonań. Z klasą sięga po klasykę piosenki autorstwa Leonarda Cohena\, Boba Dylana\, Edwarda Stachury\, Bułata Okudżawy\, Włodzimierza Wysockiego\, Stinga czy Jacka Kaczmarskiego.\nBilety 50 złKupbilecik.pl https://share.google/wgqjyehJIiT19cCeuBiletyna.plTawerna KejaInformacje 609 152 420
+URL:https://plasterlodzki.pl/wydarzenia/the-part/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260528T210000
+DTEND;TZID=Europe/Warsaw:20260528T220000
+DTSTAMP:20260522T125514
+CREATED:20250414T092708Z
+LAST-MODIFIED:20260501T091957Z
+UID:10048377-1780002000-1780005600@plasterlodzki.pl
+SUMMARY:Czwartkowe\, Jazzowe Jam Session w Kiju
+DESCRIPTION:Jak co tydzień zapraszamy na czwartkowe\, jazzowe Jam Session w KIJu.Zapraszamy WSZYSTKICH muzyków do wspólnego jammowania.Sekcja rozgrywająca:Jan Maciejowski – piano\,Szymon Jarzmus – bas\,Joszko Grabiec – perkusja\,Maciej Woźnica – saksofon.\nMiejsce: KIJ\, ul. Jaracza 45 (wejście od P.O.W.)90-249 ŁódźGodzina: 21:00Cena: FREE
+URL:https://plasterlodzki.pl/wydarzenia/zatanczysz-ze-mna-jeszcze-raz-7-urodziny-kija-2/2026-05-28/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260531
+DTSTAMP:20260522T125514
+CREATED:20260315T103643Z
+LAST-MODIFIED:20260420T104053Z
+UID:10047446-1780012800-1780185599@plasterlodzki.pl
+SUMMARY:Juwenalia Łódzkie 2026
+DESCRIPTION:WIELKIE ŁÓDZKIE JUWENALIA | 29–30 MAJA 2026 R.\nOśmiu artystów i wspólna organizacja trzech uczelni. \nW dniach 29–30 maja 2026 r. odbędą się Łódzkie Juwenalia – największe studenckie wydarzenie muzyczne w mieście\, organizowane wspólnie przez Uniwersytet Łódzki\, Politechnikę Łódzką oraz Uniwersytet Medyczny w Łodzi\, we współpracy z Miastem Łódź. \n29 maja na scenie pojawią się Beata Kozidrak X KAMP!\, Kizo\, Sentino oraz Sokół. Dzień później wystąpią Bambi\, Coma\, Fukaj oraz Ich Troje. Program łączy współczesne brzmienia z artystami o ugruntowanej pozycji na polskiej scenie. \nWydarzenie odbędzie się na zielonym terenie przy ul. Lutomierskiej\, gdzie powstanie miasteczko festiwalowe ze strefą gastronomiczną i dodatkowymi atrakcjami. \nBilety dostępne są online: https://goingapp.pl/wydarzenie/lodzkie-juwenalia/lodz-maj-2026 \nINFORMACJE PRAKTYCZNE\nData: 29–30 maja 2026 r.\nLokalizacja: zielony skwer przy ul. Lutomierskiej\, Łódź\nBilety: od 30 zł
+URL:https://plasterlodzki.pl/wydarzenia/juwenalia-lodzkie-2026/
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260529T180000
+DTEND;TZID=Europe/Warsaw:20260529T190000
+DTSTAMP:20260522T125514
+CREATED:20230103T121321Z
+LAST-MODIFIED:20260503T135203Z
+UID:10029684-1780077600-1780081200@plasterlodzki.pl
+SUMMARY:Osiecka i inni\, koncert Emilii Kudry
+DESCRIPTION:Osiecka i inni\, koncert Emilii Kudry\n\nZapraszamy na niezwykły koncert wyjątkowej kobiety\, cudownej piosenkarki\, solistki o atomowym głosie\, utalentowanej artystki Emilii Kudry. \nZapisy: rondo@msk.lodz.pl\, 42 653 36 45\, 502 623 846.
+URL:https://plasterlodzki.pl/wydarzenia/pamiec-doswiadczania-michal-nowak-grafika-ilustracje/
+LOCATION:Bałucki Ośrodek Kultury – CAiR Rondo\, Limanowskiego 166\, Łódź\, łódzkie\, 91-027\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260529T190000
+DTEND;TZID=Europe/Warsaw:20260529T210000
+DTSTAMP:20260522T125514
+CREATED:20250502T080556Z
+LAST-MODIFIED:20260522T093701Z
+UID:10039186-1780081200-1780088400@plasterlodzki.pl
+SUMMARY:Amourette
+DESCRIPTION:Zapraszamy na wyjątkowy wieczór z Amourette — projektem Kuby i jego gitary Katana\, którzy tworzą songwriterski\, lekko niechlujny\, smutny bedroom pop. To muzyka z pogranicza intymności i niedopowiedzenia: delikatna\, osobista\, czasem krucha\, czasem zaskakująco ciepła.\nAmourette ma na koncie dwie płyty i kilkanaście koncertów\, a w Łodzi pojawi się z nowym materiałem — również z utworami\, które jeszcze nigdzie nie zostały opublikowane.\nW programie znajdą się także coverowe interpretacje\, raz bardziej melancholijne\, raz odrobinę lżejsze. Będzie więc miejsce i na ciszę\, i na uśmiech — na chwilę zatrzymania\, refleksji i zwykłe dobre słuchanie.\nZ twórczością Amourette można zapoznać się tutaj:Facebook: https://www.facebook.com/amourettepl\nYouTube: https://www.youtube.com/@AMOURETTE161\nPiątek\, 29.05.2026Drzwi: 19:00Start: 19:30Klub Jesteśmy\, ul. Jaracza 13\, ŁódźWjazd: 20 złRezerwacja miejsc: 531 511 500.
+URL:https://plasterlodzki.pl/wydarzenia/koncert-saksofonowy-jazz-swing-z-lat-20-30-4/
+LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260529T200000
+DTEND;TZID=Europe/Warsaw:20260529T210000
+DTSTAMP:20260522T125514
+CREATED:20221118T131515Z
+LAST-MODIFIED:20260425T114931Z
+UID:10028924-1780084800-1780088400@plasterlodzki.pl
+SUMMARY:Bergia
+DESCRIPTION:Jeseśmy z Łodzi i gramy szanty z lekkim zadziorem rock’owym Na naszych koncertach jest lirycznie ale też energetycznie. Największą radochę mamy ze wspólnego śpiewania z ludźmi\, bo kochamy piosenkę żeglarską\, a Ci którzy są z nami mają podobnieJesteśmy osobami grającymi od lat różne klimaty muzyczne\, ale od końca roku 2023 przyszedł czas na realizowanie naszych pasji\, a one są nieodłączne z wodą\, z wiatrem w żaglach\, sympatycznymi okrzykami: „Ahoj!!!” i oczywiście z radosnym śpiewem szant Zapraszamy!!! OJ się będzie działo\nBilety 40 złKupbilecik.pl\nBiletyna.plTawerna KejaInfo i rezerwacje 609 152 420
+URL:https://plasterlodzki.pl/wydarzenia/oreada/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260529T200000
+DTEND;TZID=Europe/Warsaw:20260529T213000
+DTSTAMP:20260522T125514
+CREATED:20260426T105509Z
+LAST-MODIFIED:20260426T105509Z
+UID:10048229-1780084800-1780090200@plasterlodzki.pl
+SUMMARY:ABBA - Mamma Mia! w Klasycznej Odsłonie
+DESCRIPTION:Zapraszamy na niezwykły wieczór pełen muzyki i emocji! Koncert „ABBA – Mamma Mia! Klasycznie” to wyjątkowe spotkanie z największymi hitami legendarnego szwedzkiego zespołu\, które tym razem zabrzmią w zupełnie nowej\, eleganckiej formie – w wykonaniu wybitnych artystów muzyki klasycznej. W nastrojowych wnętrzach zabytkowych pałaców i historycznych sal koncertowych publiczność przeniesie się w świat ponadczasowych melodii\, które od lat 70. podbijają serca słuchaczy na całym świecie. Podczas koncertu usłyszą Państwo m.in. takie utwory jak: „Mamma Mia”\, „Dancing Queen”\, „Waterloo”\, „Fernando”\, „The Winner Takes It All”\, „Chiquitita”\, „Gimme! Gimme! Gimme!” – w nowych\, nastrojowych aranżacjach\, łączących klasyczną elegancję z przebojowym charakterem muzyki ABBA. W zależności od terminu koncertu wystąpi: trio fortepianowe lub kwartet smyczkowy – wybitni muzycy polskich scen klasycznych\, którzy połączą elegancję muzyki kameralnej z energią przebojów ABBA. „ABBA – Mamma Mia! Klasycznie” to nie tylko koncert – to muzyczna podróż w czasie\, pełna emocji\, elegancji i ponadczasowych melodii. \nCzytaj więcej na: https://www.kupbilecik.pl/imprezy/192994/%C5%81%C3%B3d%C5%BA/ABBA+-+Mamma+Mia%21+w+Klasycznej+Ods%C5%82onie/
+URL:https://plasterlodzki.pl/wydarzenia/abba-mamma-mia-w-klasycznej-odslonie/
+LOCATION:Hotel Grand\, Piotrkowska 72\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260529T200000
+DTEND;TZID=Europe/Warsaw:20260529T220000
+DTSTAMP:20260522T125514
+CREATED:20260327T104817Z
+LAST-MODIFIED:20260426T142143Z
+UID:10047646-1780084800-1780092000@plasterlodzki.pl
+SUMMARY:WIELKI POWRÓT FRIENDZ
+DESCRIPTION:Za nami już koniec Daily\, ale Friendz\, zachęceni sukcesem Wielkiego Finału Daily\, przygotowali coś specjalnego. Wiosną tego roku cały skład będzie można zobaczyć na wydarzeniach pod szyldem WIELKI POWRÓT FRIENDZ!  \nNie zabraknie oczywiście Meet&Greet \nW Łodzi  zespół wystąpi 29 maja w Atlas Arena. Bilety na koncert są już w sprzedaży! \nBILETY oraz regulamin koncertu znajdziecie na: https://goingapp.pl/wydarzenie/wielki-powrot-friendz/lodz-maj-2026 \n\n\nWażny komunikat od organizatora wydarzenia dla posiadaczy biletów: Obowiązkowa wymiana wejściówek \nInformujemy\, że na adresy mailowe osób\, które zakupiły bilety przed zmianą terminu\, została wysłana instrukcja dotycząca ich wymiany na nowy termin wydarzenia (29.05.2026 r.). Prosimy o pilne sprawdzenie skrzynek odbiorczych. \nUwaga: Termin wymiany biletów i potwierdzenia udziału upływa 3 lutego o godzinie 15:00. Przypominamy\, że niewymienione bilety tracą ważność i nie będą upoważniać do wstępu na koncert w nowej dacie.
+URL:https://plasterlodzki.pl/wydarzenia/wielki-powrot-friendz/
+LOCATION:Atlas Arena\, Bandurskiego 7\, Łódź\, łódzkie\, 94-020\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260529T210000
+DTEND;TZID=Europe/Warsaw:20260529T223000
+DTSTAMP:20260522T125514
+CREATED:20260305T175645Z
+LAST-MODIFIED:20260522T102343Z
+UID:10042355-1780088400-1780093800@plasterlodzki.pl
+SUMMARY:Live Jazz - Olszewski/Kolasa/Cieślak/Kuś
+DESCRIPTION:Zapraszamy na magiczną podróż jazzowo – koktajlową.Nasze drzwi otwieramy dla Państwa o 18:00. Start koncertu planujemy na godzinę 21:00\nZagrają:Rafał Olszewski – gitara\,Jerzy Kolasa – gitara\,Bogumił Cieślak – kontrabas\,Artur Kuś – perkusja.\nZPRASZAMY WSZYTKICH MUZYKÓW DO WSPÓLNEGO JAZZOWANIA\nMiejsce: KIJ\, ul. Jaracza 4590-249 ŁódźData: 29/05/2026cena: FREE
+URL:https://plasterlodzki.pl/wydarzenia/bandaz-elastyczny-3-3/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260530T190000
+DTEND;TZID=Europe/Warsaw:20260530T220000
+DTSTAMP:20260522T125514
+CREATED:20230317T142725Z
+LAST-MODIFIED:20260417T100420Z
+UID:10030465-1780167600-1780178400@plasterlodzki.pl
+SUMMARY:Wirefall x SNOWBLIND x My Own Abyss
+DESCRIPTION:Już wkrótce Wirefall\, SNOWBLIND i My Own Abyss na jednej scenie!  To będzie wieczór pełen ciężkich riffów\, energii i niezapomnianych wrażeń. Jeśli lubisz bezkompromisowe granie — tego wydarzenia nie możesz przegapić! \n BILETY ► https://tiny.pl/njq05yyhc\n—————————————————————————\nSNOWBLIND to formacja balansująca na krawędzi rocka\, nowoczesnego metalu i alternatywy. Zespół wyróżnia się żywiołowymi występami oraz szczerymi\, bezkompromisowymi tekstami\, które stały się ich znakiem rozpoznawczym.\nGrupa ma na koncie istotne sukcesy\, w tym tytuł laureata festiwalu Żubrowisko 2025. Ich debiutancki krążek LP „Słaby” (2024) został doceniony przez branżę\, zdobywając nagrodę Albumu Roku.Po świetnie przyjętym debiucie LP „Słaby” (2024)\, grupa nie zwalnia tempa.\nWydany pod koniec 2025 roku singiel „W Górę” otworzył nowy\, bardziej dojrzały rozdział w ich historii. Kolejne single – „Jutro” oraz „Ćma” – tylko potwierdziły ewolucję brzmienia zespołu i są przedsmakiem nadchodzącego\, drugiego albumu długogrającego\, nad którym muzycy obecnie pracują.\n—————————————————————————\nMy Own Abyss to metalcore’owy zespół z Krakowa\, założony w 2018 roku. Ich dynamiczny rozwój zaowocował występami na prestiżowych europejskich scenach – m.in. na Rock For People 2025 (CZ)\, gdzie wystąpili u boku takich gigantów jak Slipknot\, Linkin Park i Avenged Sevenfold\, a także drugim miejscem w konkursie East European Young Talents podczas EERA Festival 2025 w Bukareszcie (RO).\nCzteroosobowy skład wyróżnia się charakterystycznym połączeniem ciężkich\, potężnych breakdownów z melodyjnymi\, chwytliwymi refrenami. Zespół konsekwentnie poszerza swoją bazę fanów dzięki intensywnej działalności koncertowej – mając na koncie ponad 100 występów w Polsce\, Niemczech\, Czechach\, Słowacji oraz Rumunii – a także poprzez regularne publikowanie nowych wydawnictw. Ich singiel „Taki Sam”\, wydany w maju 2025 roku\, przekroczył 205 tysięcy odtworzeń na Spotify oraz 115 tysięcy wyświetleń na YouTube w ciągu dziesięciu miesięcy od premiery.\nKoncerty My Own Abyss to widowiskowe spektakle\, w których muzyka łączy się z precyzyjnie zsynchronizowaną oprawą świetlną\, tworząc pełne energii i emocji show. Ich występy zostały docenione na licznych polskich i europejskich przeglądach muzycznych\, wśród których warto wyróżnić drugie miejsce na EERA Festival (RO)\, finał Planetrox (CZ)\, finał Wacken Metal Battle Polska oraz finał Pol’and’Rock Festival.
+URL:https://plasterlodzki.pl/wydarzenia/guantanamo-party-program-pure-bedlam/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260530T200000
+DTEND;TZID=Europe/Warsaw:20260530T213000
+DTSTAMP:20260522T125514
+CREATED:20230113T102827Z
+LAST-MODIFIED:20260508T095654Z
+UID:10029864-1780171200-1780176600@plasterlodzki.pl
+SUMMARY:Pavel Samokhin i przyjaciele
+DESCRIPTION:Zapraszamy na koncert fantastycznej formacji muzycznej pod wodzą uwielbianego przez publiczność Pavla Samokhina.Wspólnie popłyniemy w muzyczny rejs w klimacie Gruzji\, Kaukazu i Bałkanów\nSkład zespołuDarko Bugarić – wokal\, gitara; Armen Karapetyan – perkusja\, wokal; Kuba Matusiak – sax\, wokal; Wojtek Stępnik – piano\, wokal; Paweł Wochna – bass\, wokal; Pavel Samokhin – trąbka\, wokal\nBilety 60 złKupbilecik.plBiletyna.plTawerna KejaInfo i rezerwacje 609 152 420
+URL:https://plasterlodzki.pl/wydarzenia/muzykuny/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260530T210000
+DTEND;TZID=Europe/Warsaw:20260530T220000
+DTSTAMP:20260522T125514
+CREATED:20260305T175641Z
+LAST-MODIFIED:20260522T102352Z
+UID:10042467-1780174800-1780178400@plasterlodzki.pl
+SUMMARY:Live Jazz - Grąbkowski/Guźniczak/Jamroziak
+DESCRIPTION:Zapraszamy na magiczną podróż jazzowo – koktajlową.Nasze drzwi otwieramy dla Państwa o 18:00. Start koncertu planujemy na godzinę 21:00\nZagrają:Piotr Grąbkowski – saksofon\,Kamil Guźniczak – kontrabas\,Kacper Jamroziak – perkusja.\nZPRASZAMY WSZYTKICH MUZYKÓW DO WSPÓLNEGO JAZZOWANIA\nMiejsce: KIJ\, ul. Jaracza 4590-249 ŁódźData: 30/05/2026cena: FREE
+URL:https://plasterlodzki.pl/wydarzenia/zatanczysz-ze-mna-jeszcze-raz-7-urodziny-kija-4-4/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260531T180000
+DTEND;TZID=Europe/Warsaw:20260531T200000
+DTSTAMP:20260522T125514
+CREATED:20220422T125331Z
+LAST-MODIFIED:20260420T090306Z
+UID:10027524-1780250400-1780257600@plasterlodzki.pl
+SUMMARY:Męska Orkiestra Rozrywkowa NADĘCI
+DESCRIPTION:Męska Orkiestra Rozrywkowa NADĘCI – orkiestrowe show pełne dobrego humoru! \nTo nie jest zwykły koncert. To koncert z kabaretową nutą\, który zaskakuje\, bawi i wciąga od pierwszych minut. NADĘCI to pierwszy w Polsce męski zespół instrumentalny\, który łączy potężne\, rasowe brzmienie orkiestry dętej z energią scenicznego widowiska i lekkością estradowej rozrywki. Na scenie spotykają się doświadczeni muzycy\, wokaliści\, tancerze i aktorzy – artyści znani z największych scen koncertowych\, filharmonii i teatrów muzycznych – którzy stworzą dla Ciebie muzyczny spektakl\, jakiego jeszcze nie było. \nMuzyczna uczta i terapia śmiechem w jednym \nNADĘCI to prawdziwe orkiestrowe show pełne dobrego humoru\, błyskotliwych momentów i niespodzianek\, w którym największe przeboje zyskują zupełnie nowe\, często zaskakujące aranżacje. Tu wszystko może się zdarzyć – muzycy wychodzą poza schematy\, a powaga orkiestry przeplata się z humorem\, który rozbraja publiczność. To właśnie ten balans sprawia\, że widz nie tylko słucha\, ale naprawdę przeżywa każdy moment. \nW repertuarze między innymi: \n· polska klasyka: Zacznij od Bacha | Sen o Warszawie | Nic nie może wiecznie trwać \n· pop&latino: Despacito | Livin’ La Vida Loca | New York \n· polska rozrywka: Małomiasteczkowy | Prawy do lewego | Ściernisko \n· muzyka filmowa: Gwiezdne Wojny | Piraci z Karaibów | Mission Impossible \n· muzyka klasyczna: Toccata i fuga d-moll | Dance of the Knights \nAle to wciąż nie wszystko. Przez koncert poprowadzi Cię historia\, która – choć opowiedziana z humorem – będzie zaskakiwać\, bawić\, a momentami może nawet wzruszać. To jedna z tych opowieści\, w której niejeden z nas odnajdzie fragment własnej drogi\, wspomnienia i emocje. \nTo\, co wyróżnia NADĘTYCH\, to nie tylko potężne\, orkiestrowe brzmienie\, ale też luz\, dystans i fantastyczny kontakt z publicznością. Tu nikt nie ukrywa się za nutami – każdy artysta bawi się muzyką\, a Ty będziesz bawić się razem z nimi. \nJeśli szukasz koncertu\, który daje coś więcej niż tylko muzykę – właśnie go znalazłeś! \nBilety: https://www.nadeci.pl/koncerty/lodz
+URL:https://plasterlodzki.pl/wydarzenia/no-war-ad-hoc-poster-campain/
+LOCATION:Filharmonia Łódzka im. Artura Rubinsteina\, Narutowicza 20/22\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260531T180000
+DTEND;TZID=Europe/Warsaw:20260531T210000
+DTSTAMP:20260522T125514
+CREATED:20221202T185117Z
+LAST-MODIFIED:20260313T112042Z
+UID:10029158-1780250400-1780261200@plasterlodzki.pl
+SUMMARY:Jurek Świerczyński i Przyjaciele
+DESCRIPTION:Wystąpią dla PaństwaJurek Świerczyński – piosenki\, śpiew\, gitara klasyczna\,Piotrek Kołsut – gitara akustycznaMarcin Kunicki – skrzypceTomek Podwysocki – gitara klasyczna\, śpiewJurek Świerczyński na co dzień czynny przewodnik górski rodem z Łodzi oraz autor piosenek. Śpiewanie swoich piosenek zaczął na Studenckich Przeglądach Piosenki w1983 r (Uniejów\, Yapa\, Giełda\,Bazuna\, Bakcynalia).Nagrał je wspólnie z Piotrkiem Kołsutem na sześciu płytach\, w tym na ostatnich trzech już z Marcinem Kunickim\, a na ostatniej dołączył Tomek Podwysocki.Dobre niech zostanie (2006)\, W pół drogi (2009)\, Trwaj chwilo jesteś taka piękna (2014)\, Mój Przyjacielu (2016) 59 (2019)\, A Jeszcze Wczoraj (2024)W Kei zagrają razem piosenki z nowej płyty i te z poprzednich płyt a także noweInfo 609 152 420Bilety 40 złKupbilecik.plBiletyna.plTawerna Keja
+URL:https://plasterlodzki.pl/wydarzenia/wigilia-spiewankowa-w-tawernie-keja/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+END:VCALENDAR
