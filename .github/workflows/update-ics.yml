@@ -18,7 +18,7 @@ jobs:
 
       - name: Download dynamic calendar as static ICS
         run: |
-          SOURCE_URL="https://plasterlodzki.pl/wydarzenia/category/koncert/?ical=1"
+          SOURCE_URL="https://plasterlodzki.pl/wydarzenia/category/koncert/list/?ical=1"
       
           curl -L \
             --fail \
