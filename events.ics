@@ -27,7 +27,20 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260522T200000
 DTEND;TZID=Europe/Warsaw:20260522T213000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
+CREATED:20221202T185235Z
+LAST-MODIFIED:20260522T120416Z
+UID:10029161-1779480000-1779485400@plasterlodzki.pl
+SUMMARY:Męski Punkt Widzenia
+DESCRIPTION:Zapraszamy na fantastyczną zabawą w pirackich klimatachZespół związany z Tawerną Keja od prawie samego początku.Panowie uwielbiają luźną atmosferę i dobrą zabawęWielkie szantowe hity…zawsze na wesołoKapitan Wafel i jego wierna załoga jak zawsze nie zawiodą… tańce i swawole … gwarantowaneBilety 40 złTawerna KejaKupbilecik.pl\nhttps://share.google/oLM443xTj2JsWNT2iBiletyna.plRezerwacje 609 152 420
+URL:https://plasterlodzki.pl/wydarzenia/szantowo-i-zabawowo-wigilia-z-zespolem-meski-punkt-widzenia/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260522T200000
+DTEND;TZID=Europe/Warsaw:20260522T213000
+DTSTAMP:20260522T191704
 CREATED:20241007T134640Z
 LAST-MODIFIED:20260425T115526Z
 UID:10037580-1779480000-1779485400@plasterlodzki.pl
@@ -40,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260522T200000
 DTEND;TZID=Europe/Warsaw:20260522T220000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20240329T120818Z
 LAST-MODIFIED:20260425T112052Z
 UID:10032857-1779480000-1779487200@plasterlodzki.pl
@@ -53,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260522T210000
 DTEND;TZID=Europe/Warsaw:20260522T213000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20230120T093742Z
 LAST-MODIFIED:20260425T103531Z
 UID:10029906-1779483600-1779485400@plasterlodzki.pl
@@ -66,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260523T170000
 DTEND;TZID=Europe/Warsaw:20260523T230000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20231013T103700Z
 LAST-MODIFIED:20260304T203529Z
 UID:10031942-1779555600-1779577200@plasterlodzki.pl
@@ -79,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260523T190000
 DTEND;TZID=Europe/Warsaw:20260523T210000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20230929T113730Z
 LAST-MODIFIED:20260305T172738Z
 UID:10031829-1779562800-1779570000@plasterlodzki.pl
@@ -92,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260523T190000
 DTEND;TZID=Europe/Warsaw:20260523T210000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20251010T101717Z
 LAST-MODIFIED:20260501T090014Z
 UID:10042066-1779562800-1779570000@plasterlodzki.pl
@@ -105,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260523T193000
 DTEND;TZID=Europe/Warsaw:20260523T213000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20260327T104757Z
 LAST-MODIFIED:20260426T142119Z
 UID:10047645-1779564600-1779571800@plasterlodzki.pl
@@ -118,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260523T200000
 DTEND;TZID=Europe/Warsaw:20260523T213000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20240522T135522Z
 LAST-MODIFIED:20260301T085119Z
 UID:10033099-1779566400-1779571800@plasterlodzki.pl
@@ -131,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260523T200000
 DTEND;TZID=Europe/Warsaw:20260523T220000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20251010T115137Z
 LAST-MODIFIED:20260425T104229Z
 UID:10037603-1779566400-1779573600@plasterlodzki.pl
@@ -144,7 +157,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260523T200000
 DTEND;TZID=Europe/Warsaw:20260523T230000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20250822T132812Z
 LAST-MODIFIED:20260515T094057Z
 UID:10040114-1779566400-1779577200@plasterlodzki.pl
@@ -155,9 +168,22 @@ LOCATION:Iron Horse\, Tuwima 16 / róg Sienkiewicza\, Łódź\, łódzkie\, Pols
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260523T203000
+DTEND;TZID=Europe/Warsaw:20260523T210000
+DTSTAMP:20260522T191704
+CREATED:20251203T132413Z
+LAST-MODIFIED:20260522T123705Z
+UID:10045639-1779568200-1779570000@plasterlodzki.pl
+SUMMARY:Koncert z potańcówką - Duet Swinquet
+DESCRIPTION:Niesamowity Duet Swinquet w naszej Kawiarni Zapraszamy na ich wspaniały koncert  to co możemy obiecać\, to\, to\, że nie usiedzisz w miejscu
+URL:https://plasterlodzki.pl/wydarzenia/coffee-and-tea/
+LOCATION:Piotrkowska 17\, Piotrkowska 17\, Łódź\, łódzkie\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260523T210000
 DTEND;TZID=Europe/Warsaw:20260523T220000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20251010T133315Z
 LAST-MODIFIED:20260515T092431Z
 UID:10040286-1779570000-1779573600@plasterlodzki.pl
@@ -170,7 +196,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260524T180000
 DTEND;TZID=Europe/Warsaw:20260524T193000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20251220T221010Z
 LAST-MODIFIED:20260420T085946Z
 UID:10040050-1779645600-1779651000@plasterlodzki.pl
@@ -183,7 +209,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260524T180000
 DTEND;TZID=Europe/Warsaw:20260524T203000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20260327T084737Z
 LAST-MODIFIED:20260515T090727Z
 UID:10047239-1779645600-1779654600@plasterlodzki.pl
@@ -195,7 +221,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260524T193000
 DTEND;TZID=Europe/Warsaw:20260524T220000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20260501T090739Z
 LAST-MODIFIED:20260508T084725Z
 UID:10048365-1779651000-1779660000@plasterlodzki.pl
@@ -208,7 +234,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260526T190000
 DTEND;TZID=Europe/Warsaw:20260526T210000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20250629T080906Z
 LAST-MODIFIED:20260515T102343Z
 UID:10041673-1779822000-1779829200@plasterlodzki.pl
@@ -221,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260526T190000
 DTEND;TZID=Europe/Warsaw:20260526T210000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20260426T100836Z
 LAST-MODIFIED:20260426T100836Z
 UID:10048175-1779822000-1779829200@plasterlodzki.pl
@@ -234,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260528T190000
 DTEND;TZID=Europe/Warsaw:20260528T200000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20230113T102948Z
 LAST-MODIFIED:20260321T111009Z
 UID:10029867-1779994800-1779998400@plasterlodzki.pl
@@ -247,7 +273,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260528T210000
 DTEND;TZID=Europe/Warsaw:20260528T220000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20250414T092708Z
 LAST-MODIFIED:20260501T091957Z
 UID:10048377-1780002000-1780005600@plasterlodzki.pl
@@ -260,7 +286,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260531
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20260315T103643Z
 LAST-MODIFIED:20260420T104053Z
 UID:10047446-1780012800-1780185599@plasterlodzki.pl
@@ -272,7 +298,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260529T180000
 DTEND;TZID=Europe/Warsaw:20260529T190000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20230103T121321Z
 LAST-MODIFIED:20260503T135203Z
 UID:10029684-1780077600-1780081200@plasterlodzki.pl
@@ -285,7 +311,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260529T190000
 DTEND;TZID=Europe/Warsaw:20260529T210000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260522T093701Z
 UID:10039186-1780081200-1780088400@plasterlodzki.pl
@@ -298,7 +324,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260529T200000
 DTEND;TZID=Europe/Warsaw:20260529T210000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20221118T131515Z
 LAST-MODIFIED:20260425T114931Z
 UID:10028924-1780084800-1780088400@plasterlodzki.pl
@@ -311,7 +337,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260529T200000
 DTEND;TZID=Europe/Warsaw:20260529T213000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20260426T105509Z
 LAST-MODIFIED:20260426T105509Z
 UID:10048229-1780084800-1780090200@plasterlodzki.pl
@@ -324,7 +350,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260529T200000
 DTEND;TZID=Europe/Warsaw:20260529T220000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20260327T104817Z
 LAST-MODIFIED:20260426T142143Z
 UID:10047646-1780084800-1780092000@plasterlodzki.pl
@@ -337,7 +363,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260529T210000
 DTEND;TZID=Europe/Warsaw:20260529T223000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20260305T175645Z
 LAST-MODIFIED:20260522T102343Z
 UID:10042355-1780088400-1780093800@plasterlodzki.pl
@@ -350,7 +376,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260530T190000
 DTEND;TZID=Europe/Warsaw:20260530T220000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20230317T142725Z
 LAST-MODIFIED:20260417T100420Z
 UID:10030465-1780167600-1780178400@plasterlodzki.pl
@@ -363,7 +389,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260530T200000
 DTEND;TZID=Europe/Warsaw:20260530T213000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20230113T102827Z
 LAST-MODIFIED:20260508T095654Z
 UID:10029864-1780171200-1780176600@plasterlodzki.pl
@@ -376,7 +402,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260530T210000
 DTEND;TZID=Europe/Warsaw:20260530T220000
-DTSTAMP:20260522T131704
+DTSTAMP:20260522T191704
 CREATED:20260305T175641Z
 LAST-MODIFIED:20260522T102352Z
 UID:10042467-1780174800-1780178400@plasterlodzki.pl
@@ -384,32 +410,6 @@ SUMMARY:Live Jazz - Grąbkowski/Guźniczak/Jamroziak
 DESCRIPTION:Zapraszamy na magiczną podróż jazzowo – koktajlową.Nasze drzwi otwieramy dla Państwa o 18:00. Start koncertu planujemy na godzinę 21:00\nZagrają:Piotr Grąbkowski – saksofon\,Kamil Guźniczak – kontrabas\,Kacper Jamroziak – perkusja.\nZPRASZAMY WSZYTKICH MUZYKÓW DO WSPÓLNEGO JAZZOWANIA\nMiejsce: KIJ\, ul. Jaracza 4590-249 ŁódźData: 30/05/2026cena: FREE
 URL:https://plasterlodzki.pl/wydarzenia/zatanczysz-ze-mna-jeszcze-raz-7-urodziny-kija-4-4/
 LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20260531T180000
-DTEND;TZID=Europe/Warsaw:20260531T200000
-DTSTAMP:20260522T131704
-CREATED:20220422T125331Z
-LAST-MODIFIED:20260420T090306Z
-UID:10027524-1780250400-1780257600@plasterlodzki.pl
-SUMMARY:Męska Orkiestra Rozrywkowa NADĘCI
-DESCRIPTION:Męska Orkiestra Rozrywkowa NADĘCI – orkiestrowe show pełne dobrego humoru! \nTo nie jest zwykły koncert. To koncert z kabaretową nutą\, który zaskakuje\, bawi i wciąga od pierwszych minut. NADĘCI to pierwszy w Polsce męski zespół instrumentalny\, który łączy potężne\, rasowe brzmienie orkiestry dętej z energią scenicznego widowiska i lekkością estradowej rozrywki. Na scenie spotykają się doświadczeni muzycy\, wokaliści\, tancerze i aktorzy – artyści znani z największych scen koncertowych\, filharmonii i teatrów muzycznych – którzy stworzą dla Ciebie muzyczny spektakl\, jakiego jeszcze nie było. \nMuzyczna uczta i terapia śmiechem w jednym \nNADĘCI to prawdziwe orkiestrowe show pełne dobrego humoru\, błyskotliwych momentów i niespodzianek\, w którym największe przeboje zyskują zupełnie nowe\, często zaskakujące aranżacje. Tu wszystko może się zdarzyć – muzycy wychodzą poza schematy\, a powaga orkiestry przeplata się z humorem\, który rozbraja publiczność. To właśnie ten balans sprawia\, że widz nie tylko słucha\, ale naprawdę przeżywa każdy moment. \nW repertuarze między innymi: \n· polska klasyka: Zacznij od Bacha | Sen o Warszawie | Nic nie może wiecznie trwać \n· pop&latino: Despacito | Livin’ La Vida Loca | New York \n· polska rozrywka: Małomiasteczkowy | Prawy do lewego | Ściernisko \n· muzyka filmowa: Gwiezdne Wojny | Piraci z Karaibów | Mission Impossible \n· muzyka klasyczna: Toccata i fuga d-moll | Dance of the Knights \nAle to wciąż nie wszystko. Przez koncert poprowadzi Cię historia\, która – choć opowiedziana z humorem – będzie zaskakiwać\, bawić\, a momentami może nawet wzruszać. To jedna z tych opowieści\, w której niejeden z nas odnajdzie fragment własnej drogi\, wspomnienia i emocje. \nTo\, co wyróżnia NADĘTYCH\, to nie tylko potężne\, orkiestrowe brzmienie\, ale też luz\, dystans i fantastyczny kontakt z publicznością. Tu nikt nie ukrywa się za nutami – każdy artysta bawi się muzyką\, a Ty będziesz bawić się razem z nimi. \nJeśli szukasz koncertu\, który daje coś więcej niż tylko muzykę – właśnie go znalazłeś! \nBilety: https://www.nadeci.pl/koncerty/lodz
-URL:https://plasterlodzki.pl/wydarzenia/no-war-ad-hoc-poster-campain/
-LOCATION:Filharmonia Łódzka im. Artura Rubinsteina\, Narutowicza 20/22\, Łódź\, Poland
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20260531T180000
-DTEND;TZID=Europe/Warsaw:20260531T210000
-DTSTAMP:20260522T131704
-CREATED:20221202T185117Z
-LAST-MODIFIED:20260313T112042Z
-UID:10029158-1780250400-1780261200@plasterlodzki.pl
-SUMMARY:Jurek Świerczyński i Przyjaciele
-DESCRIPTION:Wystąpią dla PaństwaJurek Świerczyński – piosenki\, śpiew\, gitara klasyczna\,Piotrek Kołsut – gitara akustycznaMarcin Kunicki – skrzypceTomek Podwysocki – gitara klasyczna\, śpiewJurek Świerczyński na co dzień czynny przewodnik górski rodem z Łodzi oraz autor piosenek. Śpiewanie swoich piosenek zaczął na Studenckich Przeglądach Piosenki w1983 r (Uniejów\, Yapa\, Giełda\,Bazuna\, Bakcynalia).Nagrał je wspólnie z Piotrkiem Kołsutem na sześciu płytach\, w tym na ostatnich trzech już z Marcinem Kunickim\, a na ostatniej dołączył Tomek Podwysocki.Dobre niech zostanie (2006)\, W pół drogi (2009)\, Trwaj chwilo jesteś taka piękna (2014)\, Mój Przyjacielu (2016) 59 (2019)\, A Jeszcze Wczoraj (2024)W Kei zagrają razem piosenki z nowej płyty i te z poprzednich płyt a także noweInfo 609 152 420Bilety 40 złKupbilecik.plBiletyna.plTawerna Keja
-URL:https://plasterlodzki.pl/wydarzenia/wigilia-spiewankowa-w-tawernie-keja/
-LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 END:VCALENDAR
