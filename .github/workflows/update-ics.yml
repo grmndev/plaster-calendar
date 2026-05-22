@@ -16,28 +16,42 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download dynamic calendar as static ICS
+      - name: Diagnose ICS download
         run: |
           SOURCE_URL="https://plasterlodzki.pl/wydarzenia/category/koncert/list/?ical=1"
       
+          set +e
+      
           curl -L \
-            --fail \
             --silent \
             --show-error \
-            --retry 3 \
-            --retry-delay 10 \
-            -A "Mozilla/5.0" \
-            -H "Accept: text/calendar,*/*;q=0.8" \
+            --compressed \
+            --http1.1 \
+            -A "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
+            -H "Accept: text/calendar,application/calendar,text/plain,*/*;q=0.8" \
+            -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" \
+            -H "Referer: https://plasterlodzki.pl/wydarzenia/category/koncert/list/" \
+            -D headers.txt \
             "$SOURCE_URL" \
             -o events.ics
       
-          echo "Downloaded file size:"
-          wc -c events.ics
+          CURL_EXIT=$?
       
-          echo "First 30 lines of downloaded file:"
-          head -n 30 events.ics
+          echo "curl exit code: $CURL_EXIT"
       
-          echo "Checking ICS markers..."
+          echo "===== Response headers ====="
+          cat headers.txt || true
+      
+          echo "===== Downloaded file size ====="
+          wc -c events.ics || true
+      
+          echo "===== First 80 lines of downloaded file ====="
+          head -n 80 events.ics || true
+      
+          echo "===== ICS validation ====="
+          grep -q "BEGIN:VCALENDAR" events.ics && echo "BEGIN:VCALENDAR found" || echo "BEGIN:VCALENDAR NOT found"
+          grep -q "END:VCALENDAR" events.ics && echo "END:VCALENDAR found" || echo "END:VCALENDAR NOT found"
+      
           test -s events.ics
           grep -q "BEGIN:VCALENDAR" events.ics
           grep -q "END:VCALENDAR" events.ics
