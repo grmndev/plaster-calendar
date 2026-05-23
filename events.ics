@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260523T170000
 DTEND;TZID=Europe/Warsaw:20260523T230000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20231013T103700Z
 LAST-MODIFIED:20260304T203529Z
 UID:10031942-1779555600-1779577200@plasterlodzki.pl
@@ -40,20 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260523T190000
 DTEND;TZID=Europe/Warsaw:20260523T210000
-DTSTAMP:20260523T131705
-CREATED:20230929T113730Z
-LAST-MODIFIED:20260305T172738Z
-UID:10031829-1779562800-1779570000@plasterlodzki.pl
-SUMMARY:ShataQS
-DESCRIPTION:Wiosenna odsłona to finał trasy „Wracam” – świadome dopełnienie drogi rozpoczętej po „Czy mnie słyszysz?”\, rozwijanej przez cały 2025 rok. To koncerty bardziej skupione\, intensywne\, będące podsumowaniem etapu\, który dojrzewał na scenie i w kontakcie z publicznością.\nJesienią ubiegłego roku wróciliśmy na scenę z trasą „Wracam”. Emocje\, spotkania i rozmowy po koncertach zostawiły w nas niedosyt – taki sam\, o jakim pisaliście w komentarzach. Pytaliście\, czy odwiedzimy kolejne miasta. Dlatego wracamy raz jeszcze\, by domknąć tę historię wspólnie.\nPodczas wiosennych koncertów ShataQS zaprezentuje utwory z albumów Fenix i Weda\, a także kompozycje z nadchodzącej płyty\, nad którą obecnie pracuje. To muzyczne spotkania pełne uważności\, emocji i przestrzeni – z wiosennym światłem\, ale wciąż z charakterystyczną wrażliwością artystki.\nWiosenny finał trasy „Wracam” nie jest powtórzeniem.To odpowiedź na Wasze głosy i naturalne domknięcie jesiennej opowieści.\nTo ostatnia odsłona trasy „Wracam”.Zanim pojawi się nowy album.Zanim nadejdzie nowy rozdział.\n\nDaty koncertów – Finał trasy „Wracam”• 27.03.2026 – Wrocław\, CK Agora• 11.04.2026 – Zabrze\, CK Wiatrak• 22.05.2026 – Gdańsk\, Klub Parlament• 23.05.2026 – Łódź\, Scenografia\n\nHarmonogram wydarzeń (Wrocław\, Zabrze\, Łódź):18:30 – otwarcie bram 19:00 – koncert ShataQS\nCeny biletów:• I pula – 120 zł • II pula – 130 zł • W dniu koncertu – 150 zł\nBilety kolekcjonerskie (papierowe):https://independentmusicmarket.com/pl/221-bilety\nBilety elektroniczne:Kupbilecik\, Biletyna\, eBilet\, Bilety24
-URL:https://plasterlodzki.pl/wydarzenia/daria-ze-slaska/
-LOCATION:Klub Scenografia\, Zachodnia 81/83\, Łódź\, łódzkie\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20260523T190000
-DTEND;TZID=Europe/Warsaw:20260523T210000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20251010T101717Z
 LAST-MODIFIED:20260501T090014Z
 UID:10042066-1779562800-1779570000@plasterlodzki.pl
@@ -64,9 +51,22 @@ LOCATION:Tubylec\, Retkińska 70\, Łódź\, Poland
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260523T190000
+DTEND;TZID=Europe/Warsaw:20260523T210000
+DTSTAMP:20260523T141341
+CREATED:20230929T113730Z
+LAST-MODIFIED:20260305T172738Z
+UID:10031829-1779562800-1779570000@plasterlodzki.pl
+SUMMARY:ShataQS
+DESCRIPTION:Wiosenna odsłona to finał trasy „Wracam” – świadome dopełnienie drogi rozpoczętej po „Czy mnie słyszysz?”\, rozwijanej przez cały 2025 rok. To koncerty bardziej skupione\, intensywne\, będące podsumowaniem etapu\, który dojrzewał na scenie i w kontakcie z publicznością.\nJesienią ubiegłego roku wróciliśmy na scenę z trasą „Wracam”. Emocje\, spotkania i rozmowy po koncertach zostawiły w nas niedosyt – taki sam\, o jakim pisaliście w komentarzach. Pytaliście\, czy odwiedzimy kolejne miasta. Dlatego wracamy raz jeszcze\, by domknąć tę historię wspólnie.\nPodczas wiosennych koncertów ShataQS zaprezentuje utwory z albumów Fenix i Weda\, a także kompozycje z nadchodzącej płyty\, nad którą obecnie pracuje. To muzyczne spotkania pełne uważności\, emocji i przestrzeni – z wiosennym światłem\, ale wciąż z charakterystyczną wrażliwością artystki.\nWiosenny finał trasy „Wracam” nie jest powtórzeniem.To odpowiedź na Wasze głosy i naturalne domknięcie jesiennej opowieści.\nTo ostatnia odsłona trasy „Wracam”.Zanim pojawi się nowy album.Zanim nadejdzie nowy rozdział.\n\nDaty koncertów – Finał trasy „Wracam”• 27.03.2026 – Wrocław\, CK Agora• 11.04.2026 – Zabrze\, CK Wiatrak• 22.05.2026 – Gdańsk\, Klub Parlament• 23.05.2026 – Łódź\, Scenografia\n\nHarmonogram wydarzeń (Wrocław\, Zabrze\, Łódź):18:30 – otwarcie bram 19:00 – koncert ShataQS\nCeny biletów:• I pula – 120 zł • II pula – 130 zł • W dniu koncertu – 150 zł\nBilety kolekcjonerskie (papierowe):https://independentmusicmarket.com/pl/221-bilety\nBilety elektroniczne:Kupbilecik\, Biletyna\, eBilet\, Bilety24
+URL:https://plasterlodzki.pl/wydarzenia/daria-ze-slaska/
+LOCATION:Klub Scenografia\, Zachodnia 81/83\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260523T193000
 DTEND;TZID=Europe/Warsaw:20260523T213000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20260327T104757Z
 LAST-MODIFIED:20260426T142119Z
 UID:10047645-1779564600-1779571800@plasterlodzki.pl
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260523T200000
 DTEND;TZID=Europe/Warsaw:20260523T213000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20240522T135522Z
 LAST-MODIFIED:20260301T085119Z
 UID:10033099-1779566400-1779571800@plasterlodzki.pl
@@ -92,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260523T200000
 DTEND;TZID=Europe/Warsaw:20260523T220000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20251010T115137Z
 LAST-MODIFIED:20260425T104229Z
 UID:10037603-1779566400-1779573600@plasterlodzki.pl
@@ -105,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260523T200000
 DTEND;TZID=Europe/Warsaw:20260523T230000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20250822T132812Z
 LAST-MODIFIED:20260515T094057Z
 UID:10040114-1779566400-1779577200@plasterlodzki.pl
@@ -118,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260523T203000
 DTEND;TZID=Europe/Warsaw:20260523T210000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20251203T132413Z
 LAST-MODIFIED:20260522T123705Z
 UID:10045639-1779568200-1779570000@plasterlodzki.pl
@@ -131,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260523T210000
 DTEND;TZID=Europe/Warsaw:20260523T220000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20251010T133315Z
 LAST-MODIFIED:20260515T092431Z
 UID:10040286-1779570000-1779573600@plasterlodzki.pl
@@ -144,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260524T180000
 DTEND;TZID=Europe/Warsaw:20260524T193000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20251220T221010Z
 LAST-MODIFIED:20260420T085946Z
 UID:10040050-1779645600-1779651000@plasterlodzki.pl
@@ -157,7 +157,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260524T180000
 DTEND;TZID=Europe/Warsaw:20260524T203000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20260327T084737Z
 LAST-MODIFIED:20260515T090727Z
 UID:10047239-1779645600-1779654600@plasterlodzki.pl
@@ -169,7 +169,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260524T193000
 DTEND;TZID=Europe/Warsaw:20260524T220000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20260501T090739Z
 LAST-MODIFIED:20260508T084725Z
 UID:10048365-1779651000-1779660000@plasterlodzki.pl
@@ -182,20 +182,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260526T190000
 DTEND;TZID=Europe/Warsaw:20260526T210000
-DTSTAMP:20260523T131705
-CREATED:20250629T080906Z
-LAST-MODIFIED:20260515T102343Z
-UID:10041673-1779822000-1779829200@plasterlodzki.pl
-SUMMARY:ŁÓDZKI DOM KULTURY ŁĄCZY POKOLENIA
-DESCRIPTION:„Dla Ciebie\, Mamo” – wyjątkowy koncert z okazji Dnia Matki \nSą takie chwile\, które zasługują na szczególną oprawę. Jedną z nich jest Dzień Matki – święto pełne ciepła\, wdzięczności i miłości. Z tej okazji zapraszamy na niezwykły koncert „Dla Ciebie\, Mamo”\, który stanie się muzycznym hołdem dla wszystkich Mam. \nTego wieczoru scena wypełni się dźwiękami najpiękniejszych utworów poświęconych matce\, a także znanych i lubianych szlagierów muzyki rozrywkowej\, operetkowej i musicalowej. Usłyszymy poruszające „Do Ciebie\, Mamo” z repertuaru Violetty Villas\, pełne tęsknoty i wdzięczności „Moja matko\, ja wiem”\, a także nostalgiczne „Serce matki”\, które od lat wzrusza kolejne pokolenia. Obok nich zabrzmią ponadczasowe przeboje – niosące nadzieję i zachwyt nad światem „What a Wonderful World”\, refleksyjne „To świt\, to zmrok” z musicalu Skrzypek na dachu\, pełne elegancji i emocji operetkowe „Usta milczą\, dusza śpiewa”\, a także radosne i pełne energii „Do zakochania jeden krok”\, które przypomni\, jak niewiele potrzeba do szczęścia. To będzie podróż przez emocje – od wzruszenia\, przez radość\, aż po wspólne świętowanie. \nWystąpią znakomici artyści: utalentowani śpiewacy\, pełni energii tancerze\, a także chór i orkiestra\, którzy razem stworzą niezapomniane widowisko łączące pokolenia. \nSOLIŚCI : \nMAŁGORZATA DŁUGOSZ – sopran \nEMILIA KLIMCZAK – sopran \nRAFAŁ SONGAN – baryton \nTANCERZE \nCHÓR EUFEME \nWERNER MUSIC BAND \nZapraszamy wszystkich – dzieci\, rodziców\, dziadków – by wspólnie celebrować ten wyjątkowy dzień. Niech muzyka stanie się najpiękniejszym prezentem dla Mam. \nWstęp bezpłatny – obowiązują wejściówki do odbioru w Łódzkim Domu Kultury (rezerwacja telefoniczna: 797 326 220) \n*Jedna osoba może odebrać maksymalnie 4 wejściówki. \n\n\n\n\n\nOrganizatorzy:\n\nŁódzki Dom Kultury \n\n\nProsimy o zachowanie paragonu fiskalnego\, który jest podstawą do zwrotu pieniędzy w przypadku odwołania koncertu!\n\nHarmonogram:\n\n\n18:00 – Otwarcie drzwi \n19:00 – Start koncertu
-URL:https://plasterlodzki.pl/wydarzenia/final-concert-andreas-roysum-ensemble/
-LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20260526T190000
-DTEND;TZID=Europe/Warsaw:20260526T210000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20260426T100836Z
 LAST-MODIFIED:20260426T100836Z
 UID:10048175-1779822000-1779829200@plasterlodzki.pl
@@ -206,9 +193,22 @@ LOCATION:Teatr Muzyczny w Łodzi\, Północna 47/51\, Łódź\, łódzkie\, Pols
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260526T190000
+DTEND;TZID=Europe/Warsaw:20260526T210000
+DTSTAMP:20260523T141341
+CREATED:20250629T080906Z
+LAST-MODIFIED:20260515T102343Z
+UID:10041673-1779822000-1779829200@plasterlodzki.pl
+SUMMARY:ŁÓDZKI DOM KULTURY ŁĄCZY POKOLENIA
+DESCRIPTION:„Dla Ciebie\, Mamo” – wyjątkowy koncert z okazji Dnia Matki \nSą takie chwile\, które zasługują na szczególną oprawę. Jedną z nich jest Dzień Matki – święto pełne ciepła\, wdzięczności i miłości. Z tej okazji zapraszamy na niezwykły koncert „Dla Ciebie\, Mamo”\, który stanie się muzycznym hołdem dla wszystkich Mam. \nTego wieczoru scena wypełni się dźwiękami najpiękniejszych utworów poświęconych matce\, a także znanych i lubianych szlagierów muzyki rozrywkowej\, operetkowej i musicalowej. Usłyszymy poruszające „Do Ciebie\, Mamo” z repertuaru Violetty Villas\, pełne tęsknoty i wdzięczności „Moja matko\, ja wiem”\, a także nostalgiczne „Serce matki”\, które od lat wzrusza kolejne pokolenia. Obok nich zabrzmią ponadczasowe przeboje – niosące nadzieję i zachwyt nad światem „What a Wonderful World”\, refleksyjne „To świt\, to zmrok” z musicalu Skrzypek na dachu\, pełne elegancji i emocji operetkowe „Usta milczą\, dusza śpiewa”\, a także radosne i pełne energii „Do zakochania jeden krok”\, które przypomni\, jak niewiele potrzeba do szczęścia. To będzie podróż przez emocje – od wzruszenia\, przez radość\, aż po wspólne świętowanie. \nWystąpią znakomici artyści: utalentowani śpiewacy\, pełni energii tancerze\, a także chór i orkiestra\, którzy razem stworzą niezapomniane widowisko łączące pokolenia. \nSOLIŚCI : \nMAŁGORZATA DŁUGOSZ – sopran \nEMILIA KLIMCZAK – sopran \nRAFAŁ SONGAN – baryton \nTANCERZE \nCHÓR EUFEME \nWERNER MUSIC BAND \nZapraszamy wszystkich – dzieci\, rodziców\, dziadków – by wspólnie celebrować ten wyjątkowy dzień. Niech muzyka stanie się najpiękniejszym prezentem dla Mam. \nWstęp bezpłatny – obowiązują wejściówki do odbioru w Łódzkim Domu Kultury (rezerwacja telefoniczna: 797 326 220) \n*Jedna osoba może odebrać maksymalnie 4 wejściówki. \n\n\n\n\n\nOrganizatorzy:\n\nŁódzki Dom Kultury \n\n\nProsimy o zachowanie paragonu fiskalnego\, który jest podstawą do zwrotu pieniędzy w przypadku odwołania koncertu!\n\nHarmonogram:\n\n\n18:00 – Otwarcie drzwi \n19:00 – Start koncertu
+URL:https://plasterlodzki.pl/wydarzenia/final-concert-andreas-roysum-ensemble/
+LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260528T190000
 DTEND;TZID=Europe/Warsaw:20260528T200000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20230113T102948Z
 LAST-MODIFIED:20260321T111009Z
 UID:10029867-1779994800-1779998400@plasterlodzki.pl
@@ -221,7 +221,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260528T210000
 DTEND;TZID=Europe/Warsaw:20260528T220000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20250414T092708Z
 LAST-MODIFIED:20260501T091957Z
 UID:10048377-1780002000-1780005600@plasterlodzki.pl
@@ -234,7 +234,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260531
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20260315T103643Z
 LAST-MODIFIED:20260420T104053Z
 UID:10047446-1780012800-1780185599@plasterlodzki.pl
@@ -246,7 +246,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260529T180000
 DTEND;TZID=Europe/Warsaw:20260529T190000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20230103T121321Z
 LAST-MODIFIED:20260503T135203Z
 UID:10029684-1780077600-1780081200@plasterlodzki.pl
@@ -259,7 +259,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260529T190000
 DTEND;TZID=Europe/Warsaw:20260529T210000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260522T093701Z
 UID:10039186-1780081200-1780088400@plasterlodzki.pl
@@ -271,21 +271,8 @@ CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260529T200000
-DTEND;TZID=Europe/Warsaw:20260529T210000
-DTSTAMP:20260523T131705
-CREATED:20221118T131515Z
-LAST-MODIFIED:20260425T114931Z
-UID:10028924-1780084800-1780088400@plasterlodzki.pl
-SUMMARY:Bergia
-DESCRIPTION:Jeseśmy z Łodzi i gramy szanty z lekkim zadziorem rock’owym Na naszych koncertach jest lirycznie ale też energetycznie. Największą radochę mamy ze wspólnego śpiewania z ludźmi\, bo kochamy piosenkę żeglarską\, a Ci którzy są z nami mają podobnieJesteśmy osobami grającymi od lat różne klimaty muzyczne\, ale od końca roku 2023 przyszedł czas na realizowanie naszych pasji\, a one są nieodłączne z wodą\, z wiatrem w żaglach\, sympatycznymi okrzykami: „Ahoj!!!” i oczywiście z radosnym śpiewem szant Zapraszamy!!! OJ się będzie działo\nBilety 40 złKupbilecik.pl\nBiletyna.plTawerna KejaInfo i rezerwacje 609 152 420
-URL:https://plasterlodzki.pl/wydarzenia/oreada/
-LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20260529T200000
 DTEND;TZID=Europe/Warsaw:20260529T213000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20260426T105509Z
 LAST-MODIFIED:20260426T105509Z
 UID:10048229-1780084800-1780090200@plasterlodzki.pl
@@ -297,8 +284,21 @@ CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260529T200000
+DTEND;TZID=Europe/Warsaw:20260529T210000
+DTSTAMP:20260523T141341
+CREATED:20221118T131515Z
+LAST-MODIFIED:20260425T114931Z
+UID:10028924-1780084800-1780088400@plasterlodzki.pl
+SUMMARY:Bergia
+DESCRIPTION:Jeseśmy z Łodzi i gramy szanty z lekkim zadziorem rock’owym Na naszych koncertach jest lirycznie ale też energetycznie. Największą radochę mamy ze wspólnego śpiewania z ludźmi\, bo kochamy piosenkę żeglarską\, a Ci którzy są z nami mają podobnieJesteśmy osobami grającymi od lat różne klimaty muzyczne\, ale od końca roku 2023 przyszedł czas na realizowanie naszych pasji\, a one są nieodłączne z wodą\, z wiatrem w żaglach\, sympatycznymi okrzykami: „Ahoj!!!” i oczywiście z radosnym śpiewem szant Zapraszamy!!! OJ się będzie działo\nBilety 40 złKupbilecik.pl\nBiletyna.plTawerna KejaInfo i rezerwacje 609 152 420
+URL:https://plasterlodzki.pl/wydarzenia/oreada/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260529T200000
 DTEND;TZID=Europe/Warsaw:20260529T220000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20260327T104817Z
 LAST-MODIFIED:20260426T142143Z
 UID:10047646-1780084800-1780092000@plasterlodzki.pl
@@ -311,7 +311,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260529T210000
 DTEND;TZID=Europe/Warsaw:20260529T223000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20260305T175645Z
 LAST-MODIFIED:20260522T102343Z
 UID:10042355-1780088400-1780093800@plasterlodzki.pl
@@ -324,7 +324,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260530T190000
 DTEND;TZID=Europe/Warsaw:20260530T220000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20230317T142725Z
 LAST-MODIFIED:20260417T100420Z
 UID:10030465-1780167600-1780178400@plasterlodzki.pl
@@ -337,7 +337,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260530T200000
 DTEND;TZID=Europe/Warsaw:20260530T213000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20230113T102827Z
 LAST-MODIFIED:20260508T095654Z
 UID:10029864-1780171200-1780176600@plasterlodzki.pl
@@ -350,7 +350,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260530T210000
 DTEND;TZID=Europe/Warsaw:20260530T220000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20260305T175641Z
 LAST-MODIFIED:20260522T102352Z
 UID:10042467-1780174800-1780178400@plasterlodzki.pl
@@ -362,21 +362,8 @@ CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260531T180000
-DTEND;TZID=Europe/Warsaw:20260531T200000
-DTSTAMP:20260523T131705
-CREATED:20220422T125331Z
-LAST-MODIFIED:20260420T090306Z
-UID:10027524-1780250400-1780257600@plasterlodzki.pl
-SUMMARY:Męska Orkiestra Rozrywkowa NADĘCI
-DESCRIPTION:Męska Orkiestra Rozrywkowa NADĘCI – orkiestrowe show pełne dobrego humoru! \nTo nie jest zwykły koncert. To koncert z kabaretową nutą\, który zaskakuje\, bawi i wciąga od pierwszych minut. NADĘCI to pierwszy w Polsce męski zespół instrumentalny\, który łączy potężne\, rasowe brzmienie orkiestry dętej z energią scenicznego widowiska i lekkością estradowej rozrywki. Na scenie spotykają się doświadczeni muzycy\, wokaliści\, tancerze i aktorzy – artyści znani z największych scen koncertowych\, filharmonii i teatrów muzycznych – którzy stworzą dla Ciebie muzyczny spektakl\, jakiego jeszcze nie było. \nMuzyczna uczta i terapia śmiechem w jednym \nNADĘCI to prawdziwe orkiestrowe show pełne dobrego humoru\, błyskotliwych momentów i niespodzianek\, w którym największe przeboje zyskują zupełnie nowe\, często zaskakujące aranżacje. Tu wszystko może się zdarzyć – muzycy wychodzą poza schematy\, a powaga orkiestry przeplata się z humorem\, który rozbraja publiczność. To właśnie ten balans sprawia\, że widz nie tylko słucha\, ale naprawdę przeżywa każdy moment. \nW repertuarze między innymi: \n· polska klasyka: Zacznij od Bacha | Sen o Warszawie | Nic nie może wiecznie trwać \n· pop&latino: Despacito | Livin’ La Vida Loca | New York \n· polska rozrywka: Małomiasteczkowy | Prawy do lewego | Ściernisko \n· muzyka filmowa: Gwiezdne Wojny | Piraci z Karaibów | Mission Impossible \n· muzyka klasyczna: Toccata i fuga d-moll | Dance of the Knights \nAle to wciąż nie wszystko. Przez koncert poprowadzi Cię historia\, która – choć opowiedziana z humorem – będzie zaskakiwać\, bawić\, a momentami może nawet wzruszać. To jedna z tych opowieści\, w której niejeden z nas odnajdzie fragment własnej drogi\, wspomnienia i emocje. \nTo\, co wyróżnia NADĘTYCH\, to nie tylko potężne\, orkiestrowe brzmienie\, ale też luz\, dystans i fantastyczny kontakt z publicznością. Tu nikt nie ukrywa się za nutami – każdy artysta bawi się muzyką\, a Ty będziesz bawić się razem z nimi. \nJeśli szukasz koncertu\, który daje coś więcej niż tylko muzykę – właśnie go znalazłeś! \nBilety: https://www.nadeci.pl/koncerty/lodz
-URL:https://plasterlodzki.pl/wydarzenia/no-war-ad-hoc-poster-campain/
-LOCATION:Filharmonia Łódzka im. Artura Rubinsteina\, Narutowicza 20/22\, Łódź\, Poland
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20260531T180000
 DTEND;TZID=Europe/Warsaw:20260531T210000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20221202T185117Z
 LAST-MODIFIED:20260313T112042Z
 UID:10029158-1780250400-1780261200@plasterlodzki.pl
@@ -387,9 +374,22 @@ LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260531T180000
+DTEND;TZID=Europe/Warsaw:20260531T200000
+DTSTAMP:20260523T141341
+CREATED:20220422T125331Z
+LAST-MODIFIED:20260420T090306Z
+UID:10027524-1780250400-1780257600@plasterlodzki.pl
+SUMMARY:Męska Orkiestra Rozrywkowa NADĘCI
+DESCRIPTION:Męska Orkiestra Rozrywkowa NADĘCI – orkiestrowe show pełne dobrego humoru! \nTo nie jest zwykły koncert. To koncert z kabaretową nutą\, który zaskakuje\, bawi i wciąga od pierwszych minut. NADĘCI to pierwszy w Polsce męski zespół instrumentalny\, który łączy potężne\, rasowe brzmienie orkiestry dętej z energią scenicznego widowiska i lekkością estradowej rozrywki. Na scenie spotykają się doświadczeni muzycy\, wokaliści\, tancerze i aktorzy – artyści znani z największych scen koncertowych\, filharmonii i teatrów muzycznych – którzy stworzą dla Ciebie muzyczny spektakl\, jakiego jeszcze nie było. \nMuzyczna uczta i terapia śmiechem w jednym \nNADĘCI to prawdziwe orkiestrowe show pełne dobrego humoru\, błyskotliwych momentów i niespodzianek\, w którym największe przeboje zyskują zupełnie nowe\, często zaskakujące aranżacje. Tu wszystko może się zdarzyć – muzycy wychodzą poza schematy\, a powaga orkiestry przeplata się z humorem\, który rozbraja publiczność. To właśnie ten balans sprawia\, że widz nie tylko słucha\, ale naprawdę przeżywa każdy moment. \nW repertuarze między innymi: \n· polska klasyka: Zacznij od Bacha | Sen o Warszawie | Nic nie może wiecznie trwać \n· pop&latino: Despacito | Livin’ La Vida Loca | New York \n· polska rozrywka: Małomiasteczkowy | Prawy do lewego | Ściernisko \n· muzyka filmowa: Gwiezdne Wojny | Piraci z Karaibów | Mission Impossible \n· muzyka klasyczna: Toccata i fuga d-moll | Dance of the Knights \nAle to wciąż nie wszystko. Przez koncert poprowadzi Cię historia\, która – choć opowiedziana z humorem – będzie zaskakiwać\, bawić\, a momentami może nawet wzruszać. To jedna z tych opowieści\, w której niejeden z nas odnajdzie fragment własnej drogi\, wspomnienia i emocje. \nTo\, co wyróżnia NADĘTYCH\, to nie tylko potężne\, orkiestrowe brzmienie\, ale też luz\, dystans i fantastyczny kontakt z publicznością. Tu nikt nie ukrywa się za nutami – każdy artysta bawi się muzyką\, a Ty będziesz bawić się razem z nimi. \nJeśli szukasz koncertu\, który daje coś więcej niż tylko muzykę – właśnie go znalazłeś! \nBilety: https://www.nadeci.pl/koncerty/lodz
+URL:https://plasterlodzki.pl/wydarzenia/no-war-ad-hoc-poster-campain/
+LOCATION:Filharmonia Łódzka im. Artura Rubinsteina\, Narutowicza 20/22\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260531T183000
 DTEND;TZID=Europe/Warsaw:20260531T220000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20260327T104852Z
 LAST-MODIFIED:20260426T142210Z
 UID:10047647-1780252200-1780264800@plasterlodzki.pl
@@ -402,7 +402,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260531T193000
 DTEND;TZID=Europe/Warsaw:20260531T220000
-DTSTAMP:20260523T131705
+DTSTAMP:20260523T141341
 CREATED:20260501T090739Z
 LAST-MODIFIED:20260508T084725Z
 UID:10048366-1780255800-1780264800@plasterlodzki.pl
@@ -411,5 +411,369 @@ DESCRIPTION:INTERFERENCJE  Cykl spotkań dźwiękowych organizowanych w Łodzi p
 URL:https://plasterlodzki.pl/wydarzenia/interferencje/2026-05-31/
 LOCATION:Pałac Biedermanna\, Franciszkańska 1/5\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert,Spotkanie
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260603T190000
+DTEND;TZID=Europe/Warsaw:20260603T203000
+DTSTAMP:20260523T141342
+CREATED:20230831T081458Z
+LAST-MODIFIED:20250913T130031Z
+UID:10031677-1780513200-1780518600@plasterlodzki.pl
+SUMMARY:ABBA Show
+DESCRIPTION:Największe przeboje legendarnego zespołu ABBA w wykonaniu jednego z najlepszych zespołów revivalowych w Europie! Dancing Queen\, Money\, Money\, Money\, SOS\, Waterloo\, Mamma Mia\, Happy New Year\, Thank You For The Music\, The Winner Takes It All\, Fernando i wiele innych! \nCzytaj więcej na: https://www.kupbilecik.pl/imprezy/171225/%C5%81%C3%B3d%C5%BA/ABBA+SHOW+Tour/
+URL:https://plasterlodzki.pl/wydarzenia/11-az-festiwal-3/
+LOCATION:Sala Koncertowa Akademii Muzycznej w Łodzi\, Żubardzka 2a\, Łódź\, łódzkie\, 91-032
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260604T180000
+DTEND;TZID=Europe/Warsaw:20260604T203000
+DTSTAMP:20260523T141342
+CREATED:20241107T113028Z
+LAST-MODIFIED:20260522T093633Z
+UID:10037865-1780596000-1780605000@plasterlodzki.pl
+SUMMARY:Juan Mesa & Friends
+DESCRIPTION:Zapraszamy na wyjątkowy koncert Juana Mesa — Muzyka z La Gomery\, który odbędzie się 04.06.2026 o 18:00 w Klubie Jesteśmy.\nJuan Mesa jest kompozytorem\, wokalistą\, multiinstrumentalistą oraz producentem artystycznym i audiowizualnym. Jego twórczość wyrasta z głębokiego związku z jego przodkami i korzeniami na wyspie La Gomera (Wyspy Kanaryjskie)\, integrując dziedzictwo kulturowe ze współczesną kreacją w propozycji artystycznej o silnej tożsamości i międzynarodowym zasięgu.Jego język muzyczny budowany jest na fundamencie fuzji tradycji i nowoczesności. Muzyka autorska wchodzi w dialog z kanaryjskimi rytmami ancestralnymi\, jazzem\, rockiem progresywnym oraz world music\, tworząc własny\, aktualny i przystępny dla zróżnicowanej publiczności świat dźwięków\, nie tracąc przy tym głębi ani autentyczności. Sięga również po klasykę muzyki południowoamerykańskiej\, bolero i inne style.Na scenie Juan Mesa przekształca koncert w przestrzeń żywej kreacji i eksperymentu. Improwizacja\, interakcja z publicznością oraz ekspresyjny głos o szerokiej skali i wyrazistej osobowości łączą się z wykorzystaniem tradycyjnych instrumentów kanaryjskich.Szczególnie wyróżnia się jego badawcza praca i rozwój techniczny nad chácaras — instrumentem perkusyjnym\, który rozwinął do unikalnej formy nazwanej Chácaras Baifas\, której jest twórcą i jedynym wykonawcą. Projekt ten wzbudził zainteresowanie artystów\, programatorów i mediów międzynarodowych\, tworząc wyjątkową propozycję sceniczną w europejskim nurcie muzyki świata.Jego repertuar porusza uniwersalne tematy\, takie jak miłość\,świadomość społeczna\, zrównoważony rozwój\, ochrona środowisk wiejskich i rolniczych oraz szacunek dla ludów rdzennych\, wpisując się w wartości kulturowe i społeczne obecne we współczesnych europejskich programach artystycznych.Juan Mesa występował na scenach Ameryki Północnej\, AmerykiPołudniowej\, Europy oraz północnej Afryki\, współpracując zarówno z artystami lokalnymi\, jak i międzynarodowymi. Jego dorobek obejmuje również obecność w telewizji\, filmach dokumentalnych\, radiu oraz prasie branżowej.Uznawany za jednego z kanaryjskich artystów o największympotencjale międzynarodowym\, Juan Mesa reprezentuje solidną iwspółczesną propozycję żywego dziedzictwa kulturowego\, będąc aktualnym ambasadorem kultury La Gomery i przenosząc jej muzyczne oraz duchowe dziedzictwo na sceny całego świata.\nTego wieczoru Juanowi towarzyszyć będą:Lucjan Wesołowski (Polska)Anil Kumar (Indie)\n04.06.2026\, godz. 18:00Bilety: 40 złKlub Jesteśmy\nhttps://juanmesa.es
+URL:https://plasterlodzki.pl/wydarzenia/koncert-klasycznej-muzyki-indyjskiej/
+LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260605T190000
+DTEND;TZID=Europe/Warsaw:20260605T220000
+DTSTAMP:20260523T141342
+CREATED:20221118T093004Z
+LAST-MODIFIED:20260417T100454Z
+UID:10028785-1780686000-1780696800@plasterlodzki.pl
+SUMMARY:Velow x Wyjdzie W Praniu
+DESCRIPTION:nieMałe Miasta Tour!𝐕𝐄𝐋𝐎𝐖 x 𝐖𝐘𝐉𝐃𝐙𝐈𝐄 𝐖 𝐏𝐑𝐀𝐍𝐈𝐔\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n05.06.2026 (Łódź)\, godz. 19:00Woolturaul. Wólczańska 40/42\, Łódź\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘𝐕𝐄𝐋𝐎𝐖 (rock alternatywny – Szczecin)Velow to powstały w roku 2021 zespół\, muzycznie będący w klimatach rocka alternatywnego. Po pierwszych\, bardzo intensywnych dwóch latach działalności\, miało miejsce nasze pierwsze wyjście z mroku z naszym debiutanckim albumem pod tytułem “Wizje”\, który przyjął się bardzo dobrze w środowisku. Razem z premierą\, w 2023 wyruszyliśmy w trasę “Wizje Tour”\, odwiedzając takie miasta jak Szczecin\, Gdańsk\, Poznań. Nasza muzyka to pewna opowieść. To enigmatyczne teksty\, które w połączeniu z energiczną muzyką tworzą mieszankę wybuchową.Mamy za sobą występy na takich wydarzeniach jak Męskie Granie\, Juwenalia. W naszej dotychczasowej karierze graliśmy między innymi przed takimi zespołami jak: Lady Pank\, Kult\, Enej\, Organek„Jeśli takie są „Wizje” przyszłości polskiego rocka\, to jest dobrze\, naprawdę dobrze!”– EskaROCK„Velow bywają i czadowi (przewrotna Smutna Piosenka)\, i refleksyjni (Mimo Strat\, Miasto pełne krzyku). I w każdym wcieleniu im do twarzy”– TerazROCK\nwww.velow.pl\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘𝐖𝐘𝐉𝐃𝐙𝐈𝐄 𝐖 𝐏𝐑𝐀𝐍𝐈𝐔 (rock alternatywny – Poznań)Wyjdzie W Praniu – czteroosobowy\, młody\, poznański zespół\, realizujący materiał na swój debiutancki album. Mimo względnie krótkiego stażu\, śmiało można stwierdzić\, że są zdeterminowani do działania i cieszy ich możliwość dzielenia się swoją twórczością z nowymi odbiorcami. Muzykę\, która tworzą można porównać do spoglądania w kalejdoskop – jest barwna i często zmienia swoje oblicze. Najbliżej jest im do alternatywnego rocka\, jednak często i gęsto przeplatają swoja muzykę elementami innych gatunków.\nwww.fb.com/wyjdziewpraniuband/www.instagram.com/wyjdziewpraniu_https://youtube.com/@wyjdziewpraniu5568https://sptfy.com/Qfea
+URL:https://plasterlodzki.pl/wydarzenia/the-cassino/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260605T200000
+DTEND;TZID=Europe/Warsaw:20260605T233000
+DTSTAMP:20260523T141342
+CREATED:20221118T095513Z
+LAST-MODIFIED:20260522T103301Z
+UID:10028812-1780689600-1780702200@plasterlodzki.pl
+SUMMARY:TOMB NOIZER II / MŁOT AMBIENTO / SIR / WBS / EWA SAD
+DESCRIPTION:Tomb Noizer 2 // 5.06 // 20:00\nJak to w sequelu bywa: więcej i lepiej. Więcej kumpelstwa/koleżeństwa\, mocniejsze rypanie i jeszcze większe zło do pokonania potęgą naszej przyjaźni i siłą chaotycznego brzmienia. Weźcie ze sobą żelki i monsterki.\n\nKoledzy:\nWBS – projekt o poznańskich korzeniach\, składający się z dj Nikodem oraz Lichte. Grają „rock”\, piosenki eksperymentalne\, mega mix\, którego inspiracją są Skrillex\, Rage Against The Machine\, Atari Teenage Riot i Nirvana. Zaplecze osób w projekcie sięga z jednej strony breakcore’u i jungle\, a z drugiej death industrialu i noise rocka. W skrócie: spotkanie trackera z gitarą\, zamknięte w piosenkowych formach.\n\nEwa Sad – to polska artystka wizualna i kompozytorka mieszkająca w Berlinie.\nChociaż kojarzy się już z gitarą basową\, surowym wokalem i wyrazistymi tekstami\, tym razem zagra materiał oparty na najnowszej płycie ‚Lolopianko’ wydanej w BFF\, w której odeszła od formy piosenek na rzecz krótkich\, nostalgicznych i w pełni elektronicznych utworów – skitów\, brzmiących jak soundtrack do nieistniejących gier. vst\, ost\, PS one\, ringtone\, nostalgy\, idon’tcore\, lolopiancore.\nhttps://bffmusicbffmusic.bandcamp.com/album/lolopianko\n\nMłot Ambiento\nGra emo harsh noise violence step. Muzyczna personifikacja kołchozowego ptsd. Jeżeli pracujesz w znoju\, gnoju i kurzu. To muzyka do doświadczania dla Ciebie. Jego muzyczny opus magnum ŻYJ_I_POZWÓL_UMRZEĆ ukazał się w labelu Proto Tapes\nhttps://prototapes.bandcamp.com/album/yj-i-pozw-l-umrze\n\nSIR\nNapisz może triphopolo z Polski. Tutaj anatol kiedyś przerobił moje tak: Prowadzone przez pochodzącą z Ksawerowa artystke i wokalistke Sir to orbitujące wcielenie projektu SSRI ze zmiennym składem osobowym. Inspiracje (pochodzące z wielu źródeł) w imieniu metody 'style disorders’ spotykają się tu w formule illbientu.\nhttps://pointless-geometry.bandcamp.com/album/ssri-ssri\n————-Kiedy: 5.06Start: 20:00Adres: Rewolucji 1905 nr 10Sugerowana kwota: 40 PLN
+URL:https://plasterlodzki.pl/wydarzenia/medytacje-w-cyrku/
+LOCATION:Cyrk Pod Zielonym Xiężycem\, Próchnika 1\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260606T190000
+DTEND;TZID=Europe/Warsaw:20260606T210000
+DTSTAMP:20260523T141342
+CREATED:20241018T145825Z
+LAST-MODIFIED:20260508T083538Z
+UID:10037660-1780772400-1780779600@plasterlodzki.pl
+SUMMARY:Paweł Szymański Fingerpicking Show
+DESCRIPTION:PAWEŁ SZYMAŃSKI FINGERPICKING SHOWPodmiot twórczy i wykonawczy niezależny i samofinansujący się.Gitary: akustyczna\, rezofoniczna\, dwunastostrunowa\, harmonijka\, śpiew\, muzyka i teksty.\nAutorskie\, „proste piosenki o skomplikowanym życiu” ubrane w pozbawione prostych zapożyczeń\, rutyny i muzycznej konfekcji gitarowe akompaniamenty\,\nObyczajowe historyjki\, nadające trywialnym przejawom życia wymiar niemalże poetycki.\n\nSześć autorskich płyt wydanych przez wytwórnię Flower Records.\nhttps://soundcloud.com/steadyrollinman-910363961\nhttps://www.reverbnation.com/pawe%C5%82szyma%C5%84ski
+URL:https://plasterlodzki.pl/wydarzenia/artur-szczawinski/
+LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260606T190000
+DTEND;TZID=Europe/Warsaw:20260606T213000
+DTSTAMP:20260523T141342
+CREATED:20250501T081952Z
+LAST-MODIFIED:20260426T132013Z
+UID:10040537-1780772400-1780781400@plasterlodzki.pl
+SUMMARY:Tribute to Maanam – Na szklance szminki ślad
+DESCRIPTION:Już w czerwcu na sali widowiskowej Łódzkiego Centrum Wydarzeń odbędzie się niezwykłe muzyczne wydarzenie -koncert „Tribute to Maanam – na szklance szminki ślad”\, poświęcony twórczości jednego z najważniejszych zespołów w historii polskiego rocka – Maanam.\nNajwiększe przeboje Maanamu zabrzmią w wykonaniu Kamili Doruch-Olechno\, której towarzyszyć będzie Pokorski Session Band. \n Data: 06.06.2026 Godzina: 19:00 Lokalizacja: Sala Widowiskowa\, Łódzkie Centrum Wydarzeń\, ul. Zachodnia 54/56 Wstęp: Wydarzenie biletowane – 44.99 złBilety dostępne przez:– Going: https://goingapp.pl/…/tribute-to…/lodz-czerwiec-2026– Empik: https://empikbilety.pl/…/tribute-to…/lodz-czerwiec-2026\nTo wieczór\, w którym powrócimy do utworów\, trwale zapisanych w historii polskiej muzyki – pełnych energii\, emocji\, buntu i niepowtarzalnej poetyki. Piosenki takie jak „Kocham Cię\, kochanie moje”\, „Cykady na Cykladach”\, „Boskie Buenos” czy „Krakowski Spleen” wciąż brzmią świeżo i poruszają kolejne pokolenia słuchaczy. Artyści biorący udział w wydarzeniu oddadzą hołd nie tylko samym kompozycjom\, ale również wyjątkowej energii i charyzmie\, które przez lata definiowały twórczość zespołu.Szczególne znaczenie tego przedsięwzięcia podkreśla jego termin – koncert odbędzie się zaledwie dwa dni przed 75. rocznicą urodzin legendarnej wokalistki zespołu – Kory (Olga Aleksandra Sipowicz z domu Ostrowska\, primo voto Jackowska). To właśnie jej osobowość\, odwaga artystyczna i unikalna wrażliwość sprawiły\, że muzyka Maanamu stała się czymś więcej niż tylko rockiem – stała się głosem pokolenia i symbolem wolności.\nZapraszamy na koncert\, który połączy pokolenia i przypomni\, jak wielką siłę ma muzyka\, która nigdy nie traci swojej aktualności.Do zobaczenia pod sceną!
+URL:https://plasterlodzki.pl/wydarzenia/corki-tryglawa/
+LOCATION:Łódzkie Centrum Wydarzeń / dawnej Akademicki Ośrodek Inicjatyw Artystycznych\, Zachodnia 54/56\, Łódź\, łódzkie
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260612T190000
+DTEND;TZID=Europe/Warsaw:20260612T223000
+DTSTAMP:20260523T141342
+CREATED:20231004T085509Z
+LAST-MODIFIED:20260426T104851Z
+UID:10031877-1781290800-1781303400@plasterlodzki.pl
+SUMMARY:Iron Head
+DESCRIPTION:Iron Head w trasie promującej drugi album! Po niezwykle udanym debiucie „Dzień za dniem” kolbuszowska formacja wyrusza w drugą część trasy promującej swój długo wyczekiwany album pt. „Teraz albo Nigdy”. To 10 kompozycji utrzymanych w ich własnym\, unikalnym stylu\, którego nie sposób pomylić z żadną inną propozycją rodzimej sceny. Ironi Head to wyjątkowe połączenie charakternego riffu\, szacunku do melodii\, core’owego uderzenia i damsko-męskich akrobacji wokalnych dając na żywo wyjątkowo wybuchową mieszankę\, której nie chcesz przegapić! Harmonogram koncertu: 19:00 – Danse Macabre 19:45 – DethOps 20:30 – Iron Head Podane godziny są orientacyjne i mogą ulec zmianie. \nCzytaj więcej na: https://www.kupbilecik.pl/imprezy/197714/%C5%81%C3%B3d%C5%BA/Iron+Head/
+URL:https://plasterlodzki.pl/wydarzenia/pull-the-wire-zenek-kupatasa-antyreflks/
+LOCATION:Klubopiwiarnia\, Narutowicza 7/9\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260612T190000
+DTEND;TZID=Europe/Warsaw:20260612T203000
+DTSTAMP:20260523T141342
+CREATED:20240607T111843Z
+LAST-MODIFIED:20260515T102703Z
+UID:10033284-1781290800-1781296200@plasterlodzki.pl
+SUMMARY:Lightcheck - Koncert EKSTREMALNEJ SZKOŁY WOKALNEJ Ady Rusinkiewicz
+DESCRIPTION:Lightcheck to koncert EKSTREMALNEJ SZKOŁY WOKALNEJ Ady Rusinkiewicz. Jesteśmy łódzką szkołą wokalną z najszerszą ofertą edukacyjną w województwie. Specjalizujemy się w wokalnych technikach ekstremalnych\, śpiewie operowym oraz śpiewie rozrywkowym.\nLightcheck to lajtowa wersja Soundchecku\, czyli innej cyklicznej imprezy organizowanej przez szkołę. Podczas Lightchecku WYJĄTKOWO nie gramy rocka i metalu.Na koncercie zaprezentują się uczniowie i klienci szkoły. Koncert poprowadzi zespół ESW: Ada Rusinkiewicz\, Paulina Glinka i Alicja Tranda\nWstęp wolny! Jeśli marzysz o nauce śpiewu rozrywkowego lub operowego wbijaj na Lightcheck i zobacz\, co potrafimy!\nGDZIE: Kawiarnia Artystyczna\, Piotrkowska 17KIEDY: 12 czerwca 2026O KTÓREJ: 19:00ZA ILE: WSTĘP WOLNY
+URL:https://plasterlodzki.pl/wydarzenia/potancowka-swingowa/
+LOCATION:Piotrkowska 17\, Piotrkowska 17\, Łódź\, łódzkie\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260612T190000
+DTEND;TZID=Europe/Warsaw:20260612T220000
+DTSTAMP:20260523T141342
+CREATED:20220526T094429Z
+LAST-MODIFIED:20260405T085256Z
+UID:10027801-1781290800-1781301600@plasterlodzki.pl
+SUMMARY:THE EXPLOITED - odwołane
+DESCRIPTION:45 YEARS PUNKS NOT DEAD TOUR 2026\nTHE EXPLOITED\nŁódź –12.06.2026 – Scenografia ul Zachodnia 81/83\nOtwarcie wejść: 18:00 Start: 19:00\nBilety przedsprzedaż pierwsza pula 110 zł\, druga pula 130 zł w dniu koncertu 140 zł\nBilety do nabycia:\nBILETY ELEKTRONICZNE:\nBilety z systemu Ticketmaster (Przy zakupie biletów on-line nienaliczane są żadne dodatkowe opłaty manipulacyjne) https://www.ticketmaster.pl/…/the-exploited-bilety/22525\nBilety z systemu eBilet https://sklep.ebilet.pl/aeou/83316593106354532\nBilety z systemu Kup Bilecik https://www.kupbilecik.pl/…/%C5%81%C3…/The+Exploited/\nBilety z systemu Biletyna\nKochani\, z ogromną przyjemnością zapraszamy na koncert The Exploited\, który odbędzie się w ramach 2026 trasy „45 YEARS Punks Not Dead ” To wyjątkowa okazja\, aby doświadczyć na żywo energii i pasji\, jaką The Exploited wnoszą na scenę!The Exploited – Pionierzy drugiej fali brytyjskiego punka\nThe Exploited\, założony w 1979 roku przez byłego żołnierza Wattie Buchana w Edynburgu\, jest jednym z najważniejszych zespołów drugiej fali brytyjskiego punka. Grupa zyskała sławę dzięki agresywnemu stylowi i bezkompromisowym tekstom\, które stały się inspiracją dla wielu późniejszych zespołów\, takich jak Nirvana i Massive Attack. Zespół rozpoczął swoją karierę grając muzykę z gatunku Oi!\, która łączyła punk z elementami skinheadowskimi\, by z czasem przekształcić się w ikonę ulicznego punka i hardcore’u.Kultowe Albumy i Muzyczne Dziedzictwo\nDebiutancki album The Exploited\, „Punks Not Dead”\, wydany w 1981 roku\, szybko stał się numerem jeden na angielskiej liście niezależnych albumów i sprzedał się w 150 tysięcy egzemplarzy. Kolejne płyty\, takie jak „Troops Of Tomorrow” (1982)\, „Let’s Start A War” (1983) oraz „Horror Epics” (1985)\, utrwaliły pozycję zespołu na scenie punkowej. The Exploited z czasem zaczęli eksperymentować z połączeniem punk rocka i metalu\, czego dowodem są albumy „Massacre” (1990)\, „Beat The Bastards” (1996) i „Fuck The System” (2002)\, które zdobyły uznanie zarówno wśród fanów punk rocka\, jak i metalu.Niezmienna Energia i Trwałość\nMimo licznych zmian personalnych The Exploited nieprzerwanie działają na scenie muzycznej od ponad czterech dekad. Wattie Buchan\, jako niezmienny lider zespołu\, kontynuuje misję szerzenia punkowej rewolty. The Exploited nie tylko przetrwali próbę czasu\, ale także pozostają jedną z najważniejszych grup w historii punk rocka\, wpływając na kolejne pokolenia muzyków i fanów.Historia Zespołu\nZespół powstał w 1979 roku z inicjatywy Wattie Buchana. W pierwszym składzie znaleźli się także gitarzysta Big John Duncan\, perkusista Andrew „Dru Stix” Campbell\, basista Gary McCormack oraz wokalista Terry Buchan\, który szybko opuścił formację. Zespół początkowo wydawał swoje nagrania we własnej wytwórni Exploited Record Company\, gdzie ukazały się pierwsze EP-ki „Army Life” i „Exploited Barmy Army”.Muzyczna Ewolucja i Wpływ\nW 1982 roku zespół wydał swój drugi album „Troops Of Tomorrow”\, który stał się inspiracją dla zespołów takich jak Slayer. Kolejne wydawnictwa\, takie jak „Let’s Start a War” (1983) i „Horror Epics” (1985)\, ugruntowały ich pozycję w świecie punk rocka. W późniejszych latach zespół zaczął ewoluować w kierunku crossover thrash\, co zaowocowało albumami „The Massacre” (1990) i „Beat the Bastards” (1996).Niezmienna Siła i Przyszłość\nChoć ostatni album studyjny\, „Fuck the System”\, został wydany w 2002 roku\, The Exploited wciąż mają wiele do zaoferowania swoim fanom. Ich koncerty są pełne energii i niezapomnianych emocji\, a muzyka wciąż aktualna i inspirująca.\nNie przegap tej wyjątkowej okazji\, aby zobaczyć The Exploited na żywo! To wydarzenie\, które na długo pozostanie w pamięci każdego fana punk rocka.
+URL:https://plasterlodzki.pl/wydarzenia/bass-astral/
+LOCATION:Klub Scenografia\, Zachodnia 81/83\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260612T190000
+DTEND;TZID=Europe/Warsaw:20260612T210000
+DTSTAMP:20260523T141342
+CREATED:20260515T090932Z
+LAST-MODIFIED:20260515T091030Z
+UID:10042473-1781290800-1781298000@plasterlodzki.pl
+SUMMARY:Wicked 2
+DESCRIPTION:Wokal + Gitara Akustyczna = „Wicked 2”\, Duet z Pabianic.Dwóch gości z rock’n’roll’ową duszą\, zagnieżdżonych myślami w muzyce z lat 80’ i 90’.Znane i mniej znane przeboje rockowych gwiazd grane akustycznie.\nhttps://www.youtube.com/watch?v=hwiervR73rk…\nStart godzina 19:00.Wejście : Free donation
+URL:https://plasterlodzki.pl/wydarzenia/koncert-saksofonowy-jazz-swing-z-lat-20-30-6/
+LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260612T200000
+DTEND;TZID=Europe/Warsaw:20260612T220000
+DTSTAMP:20260523T141342
+CREATED:20230113T102852Z
+LAST-MODIFIED:20260321T110947Z
+UID:10029865-1781294400-1781301600@plasterlodzki.pl
+SUMMARY:Zrefowani
+DESCRIPTION:Ahoj Kamraci! \nZrefowani – Zrodzeni w pandemii\, hartowani online\, prawie sześć lat grają na żywo – folkowo\, szantowo\, z ogniem i sercem! W ich kufrach znajdziecie autorskie pieśni\, szantowe klasyki i melodie z dalekich krain – od Irlandii po Macedonię!\n Będzie śpiew\, tupanie\, śmiech i wzruszenie – jak na pokładzie przed wielką bitwą!\nTak grają! https://youtu.be/4GVTcT3ds1U?si=kTIK1ikYVqcY3Sy6\nZdobyte łupy:\n● II miejsce na Festiwalu „Szanta Claus – na cumach” – Poznań 2020r.\n● III miejsce na Festiwalu „Szantogranie” – Słupca 2022r.\n● II miejsce na Festiwalu „Szanta Claus” – Poznań 2022r.\n● Nominacja na Międzynarodowy Piosenki Shanties 2023r. – Kraków 2023r.\n● I miejsce na Festiwalu „Szanty pod Żurawiem” w kategorii „Kuźnia talentów” – Gdańsk 2023r.\nZałoga:Agnieszka Snopek – gitara akustyczna\, wokalPrzemek Lisek – wokalOleg Bote – skrzypce Michał Snopek – bodhranTomasz Szarszewski – gitara basowa\, wokalRadomir Rakowski – teksty i kompozycje\n\n Płyta „Pod pełnymi żaglami” do zgarnięcia na miejscu!\n Wstęp: 40 dublonów (czyt. złotych)
+URL:https://plasterlodzki.pl/wydarzenia/beltaine/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+DTSTAMP:20260523T141342
+CREATED:20260501T101153Z
+LAST-MODIFIED:20260501T101153Z
+UID:10048393-1781308800-1781395199@plasterlodzki.pl
+SUMMARY:Gortat Team vs NATO Team Air Force
+DESCRIPTION:Jedno z najbardziej rozpoznawalnych i wyjątkowych wydarzeń koszykarskich w Polsce powraca do Łodzi. Już 13 czerwca 2026 roku w Atlas Arenie odbędzie się kolejna edycja Wielkiego Meczu Gortat Team\, w której drużyna gwiazd Marcina Gortata zmierzy się z NATO Team Air Force. \nHistoria tego wydarzenia sięga 2012 roku\, kiedy to na warszawskim Torwarze Marcin Gortat – wówczas aktywny zawodnik NBA – zainicjował charytatywny mecz pomiędzy zaproszonymi przez siebie osobistościami a reprezentacją Wojska Polskiego. Celem od początku było nie tylko wsparcie potrzebujących poprzez działalność Fundacji MG13\, ale także promocja koszykówki w Polsce oraz budowanie pozytywnego wizerunku służb mundurowych. \nPo dziesięciu edycjach i wyrównanym bilansie spotkań (5:5)\, tegoroczna odsłona zapowiada się szczególnie emocjonująco. Po raz pierwszy drużyna Wojska Polskiego zostanie zastąpiona przez NATO Team Air Force. Zmiana ta związana jest z obchodami 25-lecia wstąpienia Polski do NATO. Na parkiecie zobaczymy żołnierzy z różnych krajów\, na co dzień stacjonujących w Polsce. \nWydarzenie tradycyjnie przyciąga szerokie grono znanych postaci ze świata sportu\, kultury i mediów. W poprzednich edycjach w barwach Gortat Team występowali m.in. Kuba Błaszczykowski\, Łukasz Fabiański\, Piotr Adamczyk\, Mamed Khalidov czy Adam Waczyński. Za każdym razem skład uzupełniały gwiazdy sceny muzycznej i znani influencerzy. Organizatorzy zapowiadają\, że także w tym roku skład drużyny będzie pełen znanych nazwisk! \nWielki Mecz to nie tylko sportowa rywalizacja\, ale również wydarzenie rodzinne i społeczne. Kibice mogą liczyć na widowisko pełne emocji\, integrujące różne środowiska oraz wspierające cele charytatywne Fundacji MG13. \nOrganizatorem wydarzenia jest Fundacja MG13 Marcina Gortata.
+URL:https://plasterlodzki.pl/wydarzenia/gortat-team-vs-nato-team-air-force/
+LOCATION:Atlas Arena\, Bandurskiego 7\, Łódź\, łódzkie\, 94-020\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260613T180000
+DTEND;TZID=Europe/Warsaw:20260613T223000
+DTSTAMP:20260523T141342
+CREATED:20230101T180341Z
+LAST-MODIFIED:20260417T100524Z
+UID:10029652-1781373600-1781389800@plasterlodzki.pl
+SUMMARY:Kingsphere + myUtopia + guests
+DESCRIPTION:Zapraszamy na modern metalową jazdę bez trzymanki w Łodzi!\nKingsphere powstał na przełomie 2019 i 2020 roku w śląskim Rybniku. Początkowo dwuosobowy projekt z biegiem czasu przerodził się w pełnoprawny zespół\, który aktualnie czynnie koncertuje. Muzyka Kingsphere to zderzenie modern metalu z oldschoolowym melodic death metalem\, a to wszystko doprawione jest solidną dawką elektroniki. Zespół ma na swoim koncie dwa albumy wyprodukowane oraz wydane własnymi siłami\, dostępne w dystrybucji cyfrowej na większości platform streamingowych. Inertia Tour promuje trzeci album „Inertia” z premierą w marcu 2026.\nmyUtopia to warszawski zespół grający muzykę typu Modern Metalcore. Naszamuzyka łączy ciężkie\, nisko strojone brzmienie z emocjonalnymi\, melodyjnymielementami. Przekaz tekstów zachęca do refleksji na temat otaczającej nasrzeczywistości. Zespół powstał w 2022 roku a na światło dzienne wyszedł w roku 2024\, wraz z wypuszczeniem pierwszego singla 'Brave New World’. Największe inspiracje muzyczne zespołu to artyści tacy jak Architects\, Bad Omens lub Spiritbox.Graliśmy na wielu koncertach\, od lokalnych po większe sale\, w tym jako supportThornhill podczas ich europejskiej trasy koncertowej w 2024 roku.\nDharmethic powstał w październiku 2023 roku\, w Łodzi z inicjatywy Rafała „Premy” Przybylaka. Zespół od samego początku stawiał na mieszanie różnych stylów ciężkiego grania. Po licznych zmianach personalnych\, w 2024 roku udało się zarejestrować i wydać pierwszy album pt. „7”. Na albumie znajduje się 7 utworów\, ułożonych w kolejności ich powstawania. Zespół bardzo szybko zabrał się za pisanie materiału na kolejną płytę\, do którego bębny zarejestrował Dariusz Daray Brzozowski\, a za realizację dźwięku jest odpowiedzialny Filip Heinrich Hałucha (Heinrich House Studio)\, i który ukaże się już w 2026r. Ciekawostką jest\, że z uwagi na bardzo trudne partie perkusyjne i deficyt kandydatów do ich odegrania\, Dharmethic zdecydował się na rozwiązanie elektroniczne\, wypracowując swoją\, innowacyjną metodę grania live\, o czym będzie można się przekonać już 13 czerwca\, w łódzkiej Woolturze. Obecny skład: Vesper Locust – wokal (Dammnatorum\, Necrosys) Prema – gitara 1 (ex Toxic Bonkers\, ex Red Forest\, Tamas Shadow) Wookee – gitara 2 Slav – gitara 3 (ex Iluzjon\, ex Red Forest\, Krew\, Eteritus) Nazar – bas (Krew) Mr Perfect – Electro drum destroyer.\nPerpetual Oath to łódzki zespół przeplatający siarczyste\, ciężkie riffy z melodyjnymi partiami\, czerpiąc pełnymi garściami z najróżniejszych stylów muzyki metalowej. Eksperymentalne wstawki i zabawa rytmem to ich chleb powszedni\, a wszystko okraszone szaloną energią i mocnym przekazem. W swoim portfolio mają do zaoferowania trzy potężne single\, które i tak nie są w stanie w pełni oddać tego czego doświadczyć można na żywo.\n—CZASÓWKA WKRÓTCE—\nBilety (przedsprzedaż 40 PLN / bramka 50 PLN):\nhttps://app.evently.pl/…/12494-inertia-tour-kingsphere…
+URL:https://plasterlodzki.pl/wydarzenia/guitar-harmony-day/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260613T200000
+DTEND;TZID=Europe/Warsaw:20260613T210000
+DTSTAMP:20260523T141342
+CREATED:20250717T091140Z
+LAST-MODIFIED:20260417T095657Z
+UID:10042436-1781380800-1781384400@plasterlodzki.pl
+SUMMARY:Gibbs
+DESCRIPTION:W marcu przeszła nad Polską burza\, a już w czerwcu Gibbs zaprasza na ZTDS TOUR – trasę związaną z jego ostatnim wydawnictwem. Zapraszamy! \n\n\n\nGibbs – ZTDS TOUR\n\nOrganizatorzy:\n\nQUEQUALITY SP. Z O.O. \n\n\nProsimy o zachowanie paragonu fiskalnego\, który jest podstawą do zwrotu pieniędzy w przypadku odwołania koncertu!\n\nHarmonogram:\n\n\n18:00 Otwarcie drzwi \n20:00 Koncert
+URL:https://plasterlodzki.pl/wydarzenia/michal-szpak/
+LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260614T170000
+DTEND;TZID=Europe/Warsaw:20260614T220000
+DTSTAMP:20260523T141342
+CREATED:20260109T092406Z
+LAST-MODIFIED:20260515T101844Z
+UID:10046368-1781456400-1781474400@plasterlodzki.pl
+SUMMARY:Koncert Charytatywny „Francuskie brzmienia\, polskie serca”
+DESCRIPTION:Serdecznie zapraszamy na wydarzenie organizowane przez LIONS CLUB ŁÓDŹ-LADIES „Francuskie brzmienia\, polskie serca” (Mélodies françaises\, cœurs polonais) pod hasłem „Łączymy serca – pokonujemy bariery”\nWykonawcami będą: Gośka Bańka i François Trio.\nProwadzenie: Grażyna Dzięgielewska – absolwentka Łódzkiej Szkoły Filmowej od 40 lat mieszkająca w Paryżu oraz Andrzej Borowczyk – dziennikarz sportowy od dawna wspierający działania klubu.\nAmbasadorką akcji jest sędzia Anna Maria Wesołowska\, która od 20 lat prowadzi szeroką edukację wśród dzieci od 6 r. ż. do okresu licealnego i dobrze zna ich problemy. \nCelem koncertu charytatywnego jest zbiórka funduszy na poprawę zdrowia psychicznego dzieci\, młodzieży\, a w szczególności urządzenie „pokoi ciszy” w szkołach dla osób z obniżoną sprawnością funkcjonowania społecznego\, wynikającą na przykład ze stresu lub spektrum autyzmu oraz zakup urządzeń określanych jako „trzecie oko – C-Eye”. C-Eye to zintegrowane narzędzie sprzętowe i programowe\, które wspiera ocenę stanu osób z dysfunkcjami neurologicznymi. System pozwala na prowadzenie terapii oraz umożliwia komunikację alternatywną\, bazując na technologii śledzenia wzroku osoby chorej często z utrudnieniami mówienia. \nPrzed koncertem oraz w trakcie wydarzenia będzie przestrzeń do zapoznania się z przedmiotami do licytacji jawnej i cichej oraz integracji działań w pięknym celu pomocy dzieciom. Chcemy także zachęcić do zapoznania się z pracami dzieci ze szkół specjalnych przygotowanych na to wydarzenie z możliwością zakupu. Liczymy także na obecność naszych sponsorów w przestrzeni wystawowej.\nLiczymy na Państwa udział w Koncercie Charytatywnym oraz na wsparcie w postaci darowizn. Przypomnijmy\, że Państwa wielkie serca rozkołyszą się w takt muzyki francuskiej\, która nam Polkom i Polakom jest bardzo bliska.\nTo doskonała okazja\, abyście mogli Państwo przyłączyć się do naszego lionowego działania zgodnego z sentencja ruchu LIONS „We serve” – „Służymy” i hasła naszego koncertu „Łączymy serca – pokonujemy bariery”.\nPołączmy więc nasze serca\, by dać dzieciom i młodzieży narzędzia do pokonywania barier. \nZapraszamy także do odwiedzenia naszej strony na Facebooku\, gdzie na bieżąco umieszczamy informacje o podejmowanych przez nas inicjatywach i działaniach\, także z zakresu prewencji zdrowia oraz relacje z aranżacji Ogrodu sensorycznego w Hospicjum dla Dorosłych w Łodzi.\nPowtarzając za Barbarą Bush: „Każdy ma coś\, co może dać innym”. \nZakup biletów przez platformę Bilety24 – https://www.bilety24.pl/qrcodeurl/geteventscode/re_id/901357\nMożna dodatkowo wpłacić darowiznę na zrzutkę \nProf. dr hab. med. Ewa Sewerynek\nPrezydent LIONS CLUB ŁÓDŹ-LADIES
+URL:https://plasterlodzki.pl/wydarzenia/rytm-ziemi/
+LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260614T180000
+DTEND;TZID=Europe/Warsaw:20260614T210000
+DTSTAMP:20260523T141342
+CREATED:20230810T122029Z
+LAST-MODIFIED:20260321T110923Z
+UID:10045563-1781460000-1781470800@plasterlodzki.pl
+SUMMARY:Łukasz Majewski
+DESCRIPTION:Łukasz Majewski – wykonawca z kręgu literackiej piosenki autorskiej. Na koncercie artysty usłyszycie przekrój jego twórczości. Będzie zatem i wesoło\, i poważnie\, energicznie i refleksyjnie\, ale przede wszystkim będziecie mieli okazję posłuchać życiowych tekstów i celnych point\, przeplatanych komentarzem autora.Łukasz jest laureatem kilkudziesięciu festiwali\, w tym festiwali kabaretowych. Otrzymał m.in.: nagrodę Ministra Kultury oraz nagrodę publiczności Międzynarodowego Festiwalu Piosenki Autorskiej OPPA. Od ponad 20 lat z powodzeniem koncertuje w całej Polsce. Występował również w Estonii\, Słowacji\, czy Czechach. Jedną ze swoich pięciu płyt\, \,\,Na prawo od Jiczyna”\, Łukasz poświęcił czeskim bardom. Umieścił na niej tłumaczenia piosenek dziewięciu czeskich autorów\, tych mniej znanych w Polsce. Poza tym ma na swoim koncie tomik wierszy dla dzieci oraz cztery w pełni autorskie albumy: \,\,Mężczyzna z zakolami”\, \,\,Ad acta”\, \,\,Niebajka” i \,\,Bosewo live”.O sobie mawia: \,\,Już nie młody\, ale cały czas obiecujący!”.Bilety 35/40 złKupbilecik.plBiletyna.plTawerna KejaRezerwacje tel 609 152 420
+URL:https://plasterlodzki.pl/wydarzenia/gabi-gunia/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260616T180000
+DTEND;TZID=Europe/Warsaw:20260616T220000
+DTSTAMP:20260523T141342
+CREATED:20260508T125003Z
+LAST-MODIFIED:20260508T125003Z
+UID:10048834-1781632800-1781647200@plasterlodzki.pl
+SUMMARY:Koncerty eliminacyjne NEW GENS MUSIC
+DESCRIPTION:UWAGA! ZNAMY SKŁAD KONCERTÓW ELIMINACYJNYCH NEW GENS MUSIC  \nPo długich i intensywnych obradach Jury wybrało 24 artystów\, którzy wystąpią na koncertach konkursowych przeglądu NEW GENS MUSIC w MSK: Niciarniana – Domu Kultury Ariadna. \nPrzed nami dwie tury koncertów eliminacyjnych\, które wyłonią finalistów tegorocznej edycji  \n I TURA\n 12 MAJA\nKUBA KUBIAK\nDDEEJJWWOO\nAABSURD\nMORGAN MORRISON\nSZ.A.J.S.\nPMA/JoDdHa \n 13 MAJA\nJÓZEF\nFOR EXAMPLE JOHN\nKAST.\nNEW BUDAPEST\nLUCAS FLINT\nRETAIN MIND \n⸻ \n II TURA\n 16 CZERWCA\nCTRL+Z\nNadiaRe\nFRANK PREGA\nKRESY\nTOSIA WITKOSZ\nMEG MELL \n 17 CZERWCA\nPOTATO STONKS\nNORBELANA\nK.K. CROIX\nWIECZNY MRÓZ\nPATMA\nKONGLOMERAT \nNiebawem więcej informacji odnośnie godzin koncertów\nSTAY TUNNED \n Wstęp wolny! \n⸻ \nKażda z tur wyłoni 3 wykonawców\, którzy przejdą do finału. Wybrana w ten sposób szóstka spotka się we wrześniu podczas koncertu finałowego  \n Stawka? Bardzo konkretna:\n– nagranie profesjonalnej EP-ki w Radiu Łódź\n– występ na festiwalu Soundedit 2026 \n⸻ \nNEW GENS MUSIC to coś więcej niż konkurs. To program dla młodych twórców\, którzy chcą wejść na wyższy poziom – od sceny lokalnej po festiwalowe line-upy. Uczestnicy przechodzą pełną ścieżkę: od selekcji\, przez koncerty na żywo\, aż po finał i realne wsparcie kariery. \nFinaliści mogą liczyć m.in. na:\n promocję i obecność w mediach\n profesjonalne nagrania audio-wideo\n wsparcie w budowaniu swojego projektu muzycznego \n⸻ \nZadanie współfinansowane z Urzędu Miasta Łodzi.
+URL:https://plasterlodzki.pl/wydarzenia/koncerty-eliminacyjne-new-gens-music/2026-06-16/
+LOCATION:Dom Kultury „Ariadna”\, Niciarniana 1/3\, Łódź\, łódzkie\, 92-208\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+DTSTAMP:20260523T141342
+CREATED:20251220T215025Z
+LAST-MODIFIED:20251220T215025Z
+UID:10045901-1781654400-1781740799@plasterlodzki.pl
+SUMMARY:Kings of Leon
+DESCRIPTION:Kings of Leon wracają do Polski! Zespół zagra w łódzkiej Atlas Arenie 17 czerwca 2026 roku \nPo dwóch latach przerwy jeden z najważniejszych zespołów XXI wieku ponownie odwiedzi Polskę! Koncert odbędzie się 17 czerwca 2026 roku w Atlas Arenie w Łodzi. Będzie to jednocześnie pierwszy występ Kings of Leon w tym mieście. Sprzedaż biletów rozpocznie się 24 listopada o godzinie 12:00 na stronie www.biletserwis.pl. \nOd ponad dwóch dekad Kings of Leon — Caleb\, Nathan\, Jared i Matthew Followill — kształtują brzmienie współczesnego rocka. W swoich początkach łączyli energię garażowego grania z elementami amerykańskiego i alternatywnego rocka. Trzy pierwsze albumy zespołu przyniosły im oddaną międzynarodową publiczność oraz platynowe nakłady w Wielkiej Brytanii\, Irlandii i Australii. Przełomowy krążek „Only by the Night” z 2008 roku zdobył status multiplatyny na całym świecie i utorował zespołowi drogę na największe sceny\, m.in. festiwali Coachella\, Glastonbury\, Roskilde\, Reading & Leeds czy Lollapalooza w Chicago\, Berlinie i São Paulo. Minionego lata zespół pobił swój historyczny rekord frekwencyjny w londyńskim Hyde Parku. \nW pierwszych dniach listopada grupa wydała właśnie nową EP-kę z czterema dotąd niepublikowanymi utworami\, a niedawno wystąpiła także u boku Bruce’a Springsteena i Zacha Bryana\, wykonując klasyk Springsteena „Atlantic City”. Kings of Leon współpracowali też z Bryanem przy dwóch nowych piosenkach\, wydanych tego lata. \nZespół ma na koncie trzy nagrody Grammy i dwie statuetki BRIT Awards. Od debiutu w 2003 roku wydał dziewięć albumów studyjnych\, sprzedając ponad 20 milionów płyt i 40 milionów singli na całym świecie. \nPolski koncert Kings of Leon odbędzie się 17 czerwca 2026 roku w Atlas Arenie w Łodzi. \nSprzedaż biletów rozpocznie się 24 listopada o godzinie 12:00 na www.biletserwis.pl. \nOrganizatorem wydarzenia jest PRESTIGE MJM.
+URL:https://plasterlodzki.pl/wydarzenia/kings-of-leon/
+LOCATION:Atlas Arena\, Bandurskiego 7\, Łódź\, łódzkie\, 94-020\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260617T180000
+DTEND;TZID=Europe/Warsaw:20260617T220000
+DTSTAMP:20260523T141342
+CREATED:20260508T125003Z
+LAST-MODIFIED:20260508T125003Z
+UID:10048835-1781719200-1781733600@plasterlodzki.pl
+SUMMARY:Koncerty eliminacyjne NEW GENS MUSIC
+DESCRIPTION:UWAGA! ZNAMY SKŁAD KONCERTÓW ELIMINACYJNYCH NEW GENS MUSIC  \nPo długich i intensywnych obradach Jury wybrało 24 artystów\, którzy wystąpią na koncertach konkursowych przeglądu NEW GENS MUSIC w MSK: Niciarniana – Domu Kultury Ariadna. \nPrzed nami dwie tury koncertów eliminacyjnych\, które wyłonią finalistów tegorocznej edycji  \n I TURA\n 12 MAJA\nKUBA KUBIAK\nDDEEJJWWOO\nAABSURD\nMORGAN MORRISON\nSZ.A.J.S.\nPMA/JoDdHa \n 13 MAJA\nJÓZEF\nFOR EXAMPLE JOHN\nKAST.\nNEW BUDAPEST\nLUCAS FLINT\nRETAIN MIND \n⸻ \n II TURA\n 16 CZERWCA\nCTRL+Z\nNadiaRe\nFRANK PREGA\nKRESY\nTOSIA WITKOSZ\nMEG MELL \n 17 CZERWCA\nPOTATO STONKS\nNORBELANA\nK.K. CROIX\nWIECZNY MRÓZ\nPATMA\nKONGLOMERAT \nNiebawem więcej informacji odnośnie godzin koncertów\nSTAY TUNNED \n Wstęp wolny! \n⸻ \nKażda z tur wyłoni 3 wykonawców\, którzy przejdą do finału. Wybrana w ten sposób szóstka spotka się we wrześniu podczas koncertu finałowego  \n Stawka? Bardzo konkretna:\n– nagranie profesjonalnej EP-ki w Radiu Łódź\n– występ na festiwalu Soundedit 2026 \n⸻ \nNEW GENS MUSIC to coś więcej niż konkurs. To program dla młodych twórców\, którzy chcą wejść na wyższy poziom – od sceny lokalnej po festiwalowe line-upy. Uczestnicy przechodzą pełną ścieżkę: od selekcji\, przez koncerty na żywo\, aż po finał i realne wsparcie kariery. \nFinaliści mogą liczyć m.in. na:\n promocję i obecność w mediach\n profesjonalne nagrania audio-wideo\n wsparcie w budowaniu swojego projektu muzycznego \n⸻ \nZadanie współfinansowane z Urzędu Miasta Łodzi.
+URL:https://plasterlodzki.pl/wydarzenia/koncerty-eliminacyjne-new-gens-music/2026-06-17/
+LOCATION:Dom Kultury „Ariadna”\, Niciarniana 1/3\, Łódź\, łódzkie\, 92-208\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260617T190000
+DTEND;TZID=Europe/Warsaw:20260617T210000
+DTSTAMP:20260523T141342
+CREATED:20230120T095413Z
+LAST-MODIFIED:20260508T095629Z
+UID:10029917-1781722800-1781730000@plasterlodzki.pl
+SUMMARY:Łobaszewska intymnie. Na głos i piano
+DESCRIPTION:Dla wielu Pierwsza Dama Polskiej Piosenki. Legenda polskiej sceny. Nazywana najczarniejszą z białych wokalistek\, polską Aretha Franklin czy współczesną Billie Holiday. Oszałamiający głos\, niepowtarzalna melodyka i absolutna charyzma. Zaśpiewa dla nas swoje największe przeboje – m.in. „Czas nas uczy pogody”\, „Brzydcy”\, „Gdybyś’\, czy „Za szybą (całkiem spokojnie wypiję trzecią kawę)”…\nKoncert „intymnie” to również znakomity pretekst do niecodziennych wykonań piosenek wielkich Artystów: Czesława Niemena\, Andrzeja Zauchy\, Marka Grechuty\, czy Grzegorza Ciechowskiego.\nA wszystko to w tytułowej – intymnej – odsłonie\, niespotykanej w jej wykonaniu już bardzo długo na krajowych scenach. Swoje hity i ulubione utwory Grażyna Łobaszewska zaprezentuje w zupełnie nowych\, urzekających i nastrojowych aranżacjach – na głos i fortepian. Przy którego dźwiękach towarzyszyć Jej będzie doskonały pianista…\nPrzeżyjmy wspólnie te piękne chwile!\nBilety w Pubie oraz w internecie
+URL:https://plasterlodzki.pl/wydarzenia/caryna/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260618T200000
+DTEND;TZID=Europe/Warsaw:20260618T213000
+DTSTAMP:20260523T141342
+CREATED:20260426T103748Z
+LAST-MODIFIED:20260426T103748Z
+UID:10048211-1781812800-1781818200@plasterlodzki.pl
+SUMMARY:Renata Ślesicka
+DESCRIPTION:Renata Ślesicka to jedno z najświeższych odkryć polskiej sceny indie-pop. Jej twórczość rozniosła się szerokim echem na TikToku\, gdzie publikuje fragmenty autorskich piosenek wypełnione szczerością i intymnym klimatem. Na koncertach stawia na bliskość i minimalizm – wystarczy gitara\, głos i historia\, żeby przyciągnąć uwagę publiczności. Jej najnowszy singiel pokazuje\, że potrafi łączyć lekkość indie-popu z osobistym\, niemal dziennikowym charakterem tekstów\, a to właśnie ta autentyczność stała się jej znakiem rozpoznawczym. Organizator: SIRYO\, wsparcie: Borówka Music. \nCzytaj więcej na: https://www.kupbilecik.pl/imprezy/202778/%C5%81%C3%B3d%C5%BA/Renata+%C5%9Alesicka/
+URL:https://plasterlodzki.pl/wydarzenia/renata-slesicka/
+LOCATION:Pan Tu Nie Stał\, Sienkiewicz 75\, Łódź\, łódzkie\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260619T080000
+DTEND;TZID=Europe/Warsaw:20260619T170000
+DTSTAMP:20260523T141342
+CREATED:20241018T173343Z
+LAST-MODIFIED:20241018T173343Z
+UID:10037671-1781856000-1781888400@plasterlodzki.pl
+SUMMARY:DJ Bobo
+DESCRIPTION:Z ogromną radością zapraszamy na niezapomniany koncert DJ Bobo\, który odbędzie się 19 czerwca 2026 roku w łódzkiej Atlas Arenie!  \nTo wyjątkowa okazja\, by na żywo usłyszeć legendę muzyki eurodance\, która od lat podbija serca fanów na całym świecie. DJ Bobo\, znany z takich hitów jak „Everybody” czy „Chihuahua”\, zapewni Wam wieczór pełen energii\, niesamowitych dźwięków i świetnej zabawy. \nNie przegapcie tego wydarzenia – widzimy się w Atlas Arenie! \nBilety dostępne od wtorku\, 12 listopada 2024\, godz. 14:00 www.djbobo.com
+URL:https://plasterlodzki.pl/wydarzenia/dj-bobo/
+LOCATION:Atlas Arena\, Bandurskiego 7\, Łódź\, łódzkie\, 94-020\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260619T180000
+DTEND;TZID=Europe/Warsaw:20260619T210000
+DTSTAMP:20260523T141342
+CREATED:20221118T131541Z
+LAST-MODIFIED:20260522T120440Z
+UID:10028925-1781892000-1781902800@plasterlodzki.pl
+SUMMARY:EKT Gdynia
+DESCRIPTION:Doskonała zabawa i niezapomniany klimat\, a jako że karnawał w pełni to wspólne śpiewy\, tańce i swawole jak najbardziej oczekiwane.Bilety 60 zł.
+URL:https://plasterlodzki.pl/wydarzenia/balkan-spirit-projekt/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260619T190000
+DTEND;TZID=Europe/Warsaw:20260619T203000
+DTSTAMP:20260523T141342
+CREATED:20230210T102133Z
+LAST-MODIFIED:20260522T102047Z
+UID:10030187-1781895600-1781901000@plasterlodzki.pl
+SUMMARY:Koncert School Of Music i Drum School
+DESCRIPTION:Wakacje tuż tuż\, ale zanim spakujecie walizki\, przybywajcie na najbardziej rockandrollową inaugurację zakończenia ROCKu szkolnego!\nW ten wyjątkowy piątkowy wieczór chcemy podsumuwać intensywny czas pracy na zajęciach i podzielić się tym\, co nas łączy – MUZYKĄ \nNa scenie zaprezentują się nasi wieloletni Uczniowie\, oraz nowe twarze\, które dołączyły do naszej muzycznej ekipy. Nie zabraknie wzruszeń\, dobrych riffów\, mocnego uderzenia\, energetycznej atmosfery\, a i liryczna nuta wybrzmi i poruszy Wasze serca \nSzykujemy dla Was niezły rollercoaster muzyczny \nPodczas koncertu zaprezentują się:– Uczniowie (wokaliści / instrumentaliści– szkolny zespół Music Start Band– Kadra\nNa KONCERT zapraszamy fanów dobrej muzyki\, o którą zadbają nasi Uczniowie. Nie może zabraknąć również Waszych rodzin\, znajomych i przyjaciół. To również dobra okazja dla tych\, którzy myślą o rozpoczęciu / wznowieniu edukacji muzycznej. Przyjdźcie i zobaczcie\, co się u nas dzieje!\nTo będzie naprawdę dobry wieczór
+URL:https://plasterlodzki.pl/wydarzenia/faceci-bryndal-boratyn/
+LOCATION:Przechowalnia\, 6-tego sierpnia 6\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260619T190000
+DTEND;TZID=Europe/Warsaw:20260619T223000
+DTSTAMP:20260523T141342
+CREATED:20230217T114354Z
+LAST-MODIFIED:20260425T104840Z
+UID:10030209-1781895600-1781908200@plasterlodzki.pl
+SUMMARY:Młot Na Czarownice x Aversja x Enfer Project x Cervesia
+DESCRIPTION:Młot Na Czarownice wraz z gośćmi zapraszają na Heavy Metal June w klubie Wooltura!\nJuż w piątek\, 19 czerwca 2026 roku  spotykamy się w Łodzi\, gdzie scena Wooltury rozgrzeje się do czerwoności za sprawą czterech zespołów i solidnej dawki ciężkiego grania \nTego wieczoru wystąpimy w odmienionym i poszerzonym składzie \, a towarzyszyć nam będzie troje metalowych przyjaciół\, z którymi nieraz dzieliliśmy już koncertowe przygody \n________________________________________\nNa scenie zagrają dla Was:\n MŁOT NA CZAROWNICE – Pionki\, PL( Slavic Heavy Metal / Hard Rock / Trash Metal / Speed Metal )\n· FB: https://www.facebook.com/MncMlotNaCzarownice· IG: https://www.instagram.com/mlot_na_czarownice_official· BC: https://ossuaryrecords.bandcamp.com/album/popio-y-wiar· YT: https://www.youtube.com/@mncband7361· Spotify: https://open.spotify.com/artist/33F4ljFF0rRrcDDQXYWrAH\nMłot Na Czarownice to mieszanka starego\, dobrego heavy metalu  z wpływem pięciu żywiołów \, jakie wnoszą muzycy. Ostre riffy\, solówki z piekła rodem \, przenikliwy wokal oraz mocny niczym uderzenia młota rytm tworzą niepowtarzalny klimat.\nW tekstach utworów\, których autorem jest sam wokalista \, można odnaleźć liczne porównania ukazujące silny związek człowieka z siłami natury. Motywami przewodnimi są często mitologia \, dualizm \, odwieczna walka żywiołów i przenikanie się przeciwieństw.\nNazwa zespołu nawiązuje do XV-wiecznego podręcznika łowców czarownic autorstwa Heinricha Kramera i Jacoba Sprengera — „Malleus Maleficarum”  Jej znaczenie jest jednak przewrotne i ma ukazywać niesprawiedliwość piętnowania ludzi z powodu odmienności — kulturowej\, światopoglądowej\, religijnej czy związanej ze stylem życia.\n Skład: Dawid Siwecki — wokal Dominik Niemirski — bas / chórki Krzysztof Kuśmierz — gitara Michał Michalczewski — gitara Tomasz Śwital — perkusja Paweł Wilcan — klawisze\n Posłuchaj:\n– Nija (live 2026) https://youtu.be/zHiTTyagJmI– Za Złamany Krzyż (audio) https://youtu.be/oLzc_W40QzU– Przedwiosenny Świt (audio) https://youtu.be/COsa8foUsAA– Popioły Wiar (Full Album 2015) https://youtu.be/0nohE9JVsac\n======================\n AVERSJA – Kielce\, PL( Groove Metal / Metalcore )\n· FB: https://www.facebook.com/aversja· IG: https://www.instagram.com/aversjaofficial· BC: https://aversja.bandcamp.com/· YT: https://www.youtube.com/@AVERSJAOFFICIAL· TT: https://www.tiktok.com/@aversjatiktok· Spotify: https://open.spotify.com/artist/5ZFy8gcVllvfkl6BATaCst· WWW: https://aversja.pl\nAVERSJA to zespół tworzący intensywne\, emocjonalne koncerty \, łączące gitarowe brzmienia z melodyjnymi i nastrojowymi fragmentami \nIch muzyka to nie tylko dźwięki — to opowieści o codziennych zmaganiach\, ludzkich emocjach i przełamywaniu barier.\nKażdy występ to energia \, autentyczność i bezpośrednia więź z publicznością \nNa scenie nie tylko grają\, ale budują atmosferę\, w której ludzie mogą poczuć się częścią czegoś większego. To wspólne przeżycie\, gdzie mocne riffy spotykają się z chwilami refleksji\, a publika przechodzi przez cały wachlarz emocji — od euforii po wzruszenie.\nTo dynamiczne widowisko dla fanów metalu \, którzy oprócz ciężaru i energii szukają w muzyce także emocji i głębszego przekazu.\n Posłuchaj:\n– Wait (video) https://youtu.be/EuWiJQsSkKY– Błazen (video) https://youtu.be/QypGCCyQl0I\n=========================\n ENFER PROJECT – Warszawa\, PL( Death Metal / Atmospheric Black Metal )\n· FB: https://www.facebook.com/EnferProject· BC: https://enferproject.bandcamp.com· YT: https://www.youtube.com/@enferproject· Spotify: https://open.spotify.com/artist/7bI9Ai8nmhgs98I4Dnbpxq\nEnfer to warszawska formacja poruszająca się na pograniczu progressive black metalu  i nowoczesnego ekstremum  Zespół tworzą muzycy wywodzący się z różnych nurtów metalu\, co przekłada się na wielowątkowe kompozycje łączące agresję z progresywną narracją.\nDebiutancka EP-ka „Kły”  z 2022 roku zaprezentowała charakterystyczne dla zespołu połączenie dysonansów\, ciężaru i nieoczywistych struktur.\nOd 2024 roku skład wzmocnił perkusista Leszek (Druid) \, nadając muzyce jeszcze większą dynamikę i techniczną precyzję.\nObecnie Enfer pracuje nad nowym materiałem \, który prezentuje już na koncertach.\n Posłuchaj:\n– Death (live 2025) https://youtu.be/SWaF0dSn2sQ– Sen (audio) https://youtu.be/JPK-bTK8rMk\n==========================\n CERVESIA – Radom\, PL( Death Metal / Groove Metal / Metalcore )\n· FB: https://www.facebook.com/profile.php?id=61586037515708· IG: https://www.instagram.com/cervesia_band· BC: https://cervesia.bandcamp.com· YT: https://www.youtube.com/@Cervesia_band· Spotify: https://open.spotify.com/artist/5GdBn4DQZD9j8L0R8vablq\nCervesia to radomska grupa metalowa \n Posłuchaj:\n– CREATÖR (live 2026) https://youtu.be/QcKBdnAPQlw– THE CALL OF THE SEA LIVE (live 2026) https://youtu.be/aFkxtTcbY0U\n______________________________________________________\n Szczegóły wydarzenia\n Piątek\, 19.06.2026 Wooltura Łódź\n Wejście 18:30 Start: 19:00\n 19:00 – CERVESIA 19:45 – ENFER PROJECT 20:30 – AVERSJA 21:30 – MŁOT NA CZAROWNICE\n Bilety:– TBA (przedsprzedaż)– TBA (na wejściu)\nLink do biletów:TBA\n Wpadajcie na wieczór pełen ciężaru\, energii i czarciej atmosfery!\n Do zobaczenia pod sceną!
+URL:https://plasterlodzki.pl/wydarzenia/evil-madness-v-species-night-lord-grimoire-rip/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260621T150000
+DTEND;TZID=Europe/Warsaw:20260621T170000
+DTSTAMP:20260523T141343
+CREATED:20260426T111645Z
+LAST-MODIFIED:20260426T111645Z
+UID:10048239-1782054000-1782061200@plasterlodzki.pl
+SUMMARY:Męskie brzmienia
+DESCRIPTION:Czas na wyjątkowe show! MĘSKIE BRZMIENIA\, pierwszy w Polsce profesjonalny męski chór rozrywkowy\, przejmuje scenę\, nadając znanym polskim i światowym utworom nową\, oryginalną formę. W unikalnych aranżacjach klasyki\, popu i rocka\, usłyszysz utwory pełne energii\, refleksji i mocnych dźwięków. Koncert MĘSKIE BRZMIENIA to doskonałe połączenie dynamicznych rockowych hitów\, klimatycznych ballad oraz niezapomnianych kompozycji muzyki filmowej. \nMAŁA DAWKA WIELKICH EMOCJI \nPrzygotuj się na wieczór pełen różnorodnych brzmień\, który wciągnie Cię od pierwszych dźwięków! MĘSKIE BRZMIENIA łamią stereotypy\, ukazując szerokie spektrum męskiej ekspresji\, od żywiołowej energii po spokojniejsze\, liryczne momenty. Spodziewaj się zaskoczeń\, świeżych aranżacji i niezapomnianego show\, które długo pozostanie w Twojej pamięci. \nPRZEDSMAK REPERTUARU \n● Polska klasyka: Supermoce\, Jaskółka uwięziona\, Krakowski spleen\, Mamona \n● Legendy sceny: It’s a Man’s World\, Desert Rose\, I Don’t Wanna Miss a Thing \n● Pop: Everybody\, Cry Me a River \n● Musical & film: Circle of Life \n● Rock: Sound of Silence\, Believer\, Numb\, We Will Rock You \nWSPANIALI ARTYŚCI \nMĘSKIE BRZMIENIA to ponad 30 znakomitych artystów – chórzystów\, aktorów oraz absolwentów Akademii Muzycznej i Teatralnej. Ich talent i doświadczenie zapewniają najwyższy poziom artystyczny wydarzenia\, a każdy utwór nabiera nowego wyrazu i emocji. \nCzy męski wokal może poruszyć serce? Przekonaj się! Więcej informacji i bilety: https://www.meskiebrzmienia.pl/koncerty/lodz– Otwórz w nowej karcie \nOpis wydarzenia został przygotowany przez organizatora.
+URL:https://plasterlodzki.pl/wydarzenia/meskie-brzmienia/2026-06-21/1/
+LOCATION:Filharmonia Łódzka im. Artura Rubinsteina\, Narutowicza 20/22\, Łódź\, łódzkie\, 90-135\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260621T180000
+DTEND;TZID=Europe/Warsaw:20260621T190000
+DTSTAMP:20260523T141343
+CREATED:20260426T111645Z
+LAST-MODIFIED:20260426T111645Z
+UID:10048240-1782064800-1782068400@plasterlodzki.pl
+SUMMARY:Męskie brzmienia
+DESCRIPTION:Czas na wyjątkowe show! MĘSKIE BRZMIENIA\, pierwszy w Polsce profesjonalny męski chór rozrywkowy\, przejmuje scenę\, nadając znanym polskim i światowym utworom nową\, oryginalną formę. W unikalnych aranżacjach klasyki\, popu i rocka\, usłyszysz utwory pełne energii\, refleksji i mocnych dźwięków. Koncert MĘSKIE BRZMIENIA to doskonałe połączenie dynamicznych rockowych hitów\, klimatycznych ballad oraz niezapomnianych kompozycji muzyki filmowej. \nMAŁA DAWKA WIELKICH EMOCJI \nPrzygotuj się na wieczór pełen różnorodnych brzmień\, który wciągnie Cię od pierwszych dźwięków! MĘSKIE BRZMIENIA łamią stereotypy\, ukazując szerokie spektrum męskiej ekspresji\, od żywiołowej energii po spokojniejsze\, liryczne momenty. Spodziewaj się zaskoczeń\, świeżych aranżacji i niezapomnianego show\, które długo pozostanie w Twojej pamięci. \nPRZEDSMAK REPERTUARU \n● Polska klasyka: Supermoce\, Jaskółka uwięziona\, Krakowski spleen\, Mamona \n● Legendy sceny: It’s a Man’s World\, Desert Rose\, I Don’t Wanna Miss a Thing \n● Pop: Everybody\, Cry Me a River \n● Musical & film: Circle of Life \n● Rock: Sound of Silence\, Believer\, Numb\, We Will Rock You \nWSPANIALI ARTYŚCI \nMĘSKIE BRZMIENIA to ponad 30 znakomitych artystów – chórzystów\, aktorów oraz absolwentów Akademii Muzycznej i Teatralnej. Ich talent i doświadczenie zapewniają najwyższy poziom artystyczny wydarzenia\, a każdy utwór nabiera nowego wyrazu i emocji. \nCzy męski wokal może poruszyć serce? Przekonaj się! Więcej informacji i bilety: https://www.meskiebrzmienia.pl/koncerty/lodz– Otwórz w nowej karcie \nOpis wydarzenia został przygotowany przez organizatora.
+URL:https://plasterlodzki.pl/wydarzenia/meskie-brzmienia/2026-06-21/2/
+LOCATION:Filharmonia Łódzka im. Artura Rubinsteina\, Narutowicza 20/22\, Łódź\, łódzkie\, 90-135\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260626T200000
+DTEND;TZID=Europe/Warsaw:20260626T220000
+DTSTAMP:20260523T141343
+CREATED:20260304T205552Z
+LAST-MODIFIED:20260515T094741Z
+UID:10037035-1782504000-1782511200@plasterlodzki.pl
+SUMMARY:POLSOJA + NIEMYDOTYK
+DESCRIPTION:Polsoja To dźwięk niskobudżetowego wegaństwa\, grzybów na ścianach\, lolka z pyłu\, nieogrzewanych pokojów w środku zimy. To ten moment kiedy część ciebie przeżywa traumy z dzieciństwa jednocześnie grając z ekipą w Wormsy. Czterostrunowa gitara ze wzmacniaczem rozkręconym na 10\, bossanova w rozpędzonym samochodzie\, ludzie w Żabce chyba się z Ciebie śmieją za plecami\, bo jakoś inaczej wyglądasz. Nie da się tego przespać\, bo ciśnienie nie pozwala. Trzeba wywrzeszczeć\, wyrzygać\, a jutro znowu ciągnąć to dalej.\npolsoja.bandcamp.com www.soundcloud.com/polsoja www.instagram.com/polsoja\nNiemydotyk \nlaptop noise extravaganza; projekt mimi znanej z robienia hałasu w polskim podziemiu od 15 lat; „to brzmi jak tortury” cyt. za Martą Kortan\ntax: 30pl
+URL:https://plasterlodzki.pl/wydarzenia/szkice-w-cyrku-5/
+LOCATION:Cyrk Pod Zielonym Xiężycem\, Próchnika 1\, Łódź\, Poland
+CATEGORIES:Koncert
 END:VEVENT
 END:VCALENDAR
