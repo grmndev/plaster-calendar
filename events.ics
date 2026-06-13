@@ -209,7 +209,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
-DTSTAMP:20260612T071703
+DTSTAMP:20260613T071703
 CREATED:20260501T101153Z
 LAST-MODIFIED:20260501T101153Z
 UID:10048393-1781308800-1781395199@plasterlodzki.pl
@@ -220,9 +220,22 @@ LOCATION:Atlas Arena\, Bandurskiego 7\, Łódź\, łódzkie\, 94-020\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260613T140000
+DTEND;TZID=Europe/Warsaw:20260613T150000
+DTSTAMP:20260613T071703
+CREATED:20260612T102028Z
+LAST-MODIFIED:20260612T102028Z
+UID:10049416-1781359200-1781362800@plasterlodzki.pl
+SUMMARY:Łódzka Orkiestra Improwizowana
+DESCRIPTION:Zapraszamy na pierwszy z trzech koncertów Łódzkiej Orkiestry Improwizowanej w przestrzeniach publicznych.\nŁOI to projekt muzyczny działający na styku kompozycji i improwizacji zbiorowej\, prowadzony przez dyrygentkę Julię Partykę. Orkiestra funkcjonuje jako zespół o stałym\, lecz otwartym składzie\, umożliwiającym dołączanie nowych muzyków (jeśli chcesz dołączyć napisz do nas na fb\, insta lub na maila lodzkaorkiestraimprowizowana@gmail.com).\nOrkiestra łączy praktykę dyrygencką z kompozycją powstającą w czasie rzeczywistym\, a forma i dramaturgia kształtowane są na żywo poprzez relacje pomiędzy muzykami\, przestrzenią i publicznością. Każdy koncert stanowi odrębne doświadczenie artystyczne\, wynikające z kontekstu miejsca\, jego akustyki i słuchaczy.\n\nW skład zespołu wchodzą:Szymon Przybysz – gitara elektroklasyczna; Marcin Garncarek – saksofon; Samael – beat box; Jakub Chwastyniak – piano\, Marcin Berner – gitara basowa; Wojtek Skowron – perkusjonalia\, cajon; Michał Gruszkiewicz – trąbka; Paweł Ciszewski – gitara elektryczna; Lila Waszkiewicz – skrzypce; Asia Błęcka – skrzypce.\n\nKiedy: 13.06.2026 o 14:00Gdzie: Dworzec Łódź Fabryczna\, kasy od strony wschodniej przy fasadach starego dworca\nWstęp na koncert jest wolny\nAutor grafiki: Szymon PrzybyszAutor zdjęcia: Jan Piszczatowski\n\nProjekt Łódzka Orkiestra Improwizowana realizowany jest dzięki środkom otrzymanym w ramach stypendium artystycznego Miasta Łodzi\, w ramach konkursu organizowanego przez Wydział Kultury
+URL:https://plasterlodzki.pl/wydarzenia/lodzka-orkiestra-improwizowana/
+LOCATION:Dworzec PKP Łódź Fabryczna\, Sałacińskiego 1\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260613T180000
 DTEND;TZID=Europe/Warsaw:20260613T223000
-DTSTAMP:20260612T071703
+DTSTAMP:20260613T071703
 CREATED:20230101T180341Z
 LAST-MODIFIED:20260417T100524Z
 UID:10029652-1781373600-1781389800@plasterlodzki.pl
@@ -233,9 +246,35 @@ LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260613T190000
+DTEND;TZID=Europe/Warsaw:20260613T213000
+DTSTAMP:20260613T071703
+CREATED:20221202T185732Z
+LAST-MODIFIED:20260612T092921Z
+UID:10029171-1781377200-1781386200@plasterlodzki.pl
+SUMMARY:SUCHY PION
+DESCRIPTION:(Ekran miga ostrymi\, neonowymi kolorami. W tle słychać nagły ryk przesterowanej gitary elektrycznej i dźwięk tłuczonego szkła. Dynamiczny\, głęboki głos lektora – jak z telezakupów z lat 90. – zaczyna niemal krzyczeć)\nUWAGA ŁÓDŹ! UWAGA FANI ROCKOWEGO BRZMIENIA ORAZ NIEWYBREDNEGO DISCO!\nCzy masz już dość nudnych\, przewidywalnych weekendów?Czy Twoje uszy błagają o solidną dawkę rock and rolla?!Mamy dla Ciebie coś\, co wyrwie Cię z butów i nie pozwoli zasnąć do niedzieli! Albo poniedziałku!\nTylko jeden wieczór! Tylko w jednym miejscu!\nJuż 13 czerwca 2026 roku kultowy IRON HORSE zamieni się w świątynię rocka! Na ich scenie po raz pierwszy…\n ZESPÓŁ SUCHY PION! \n(Na ekranie migają wybuchy i fragmenty koncertów\, tłum szaleje)\nBędą grać głośniej! Będą grać szybciej! Dostarczą Ci emocji\, których nie zagwarantuje żaden telewizyjny serial!\nAle czekaj… TO NIE WSZYSTKO!\nMyślałeś\, że idąc na koncert\, dostaniesz tylko jeden zespół? BŁĄD!Nasz szalony promotor postradał zmysły i dorzuca do tej oferty absolutny hit!Do koncertu głównego w pakiecie otrzymujesz… POTĘŻNE SUPPORTY!\nTak\, dobrze widzisz! Nie jedna\, nie dwie\, ale cała lawina muzycznych emocji! Zespoły rozgrzewkowe wjadą na scenę i podniosą temperaturę w Iron Horse do czerwoności\, zanim Suchy Pion w ogóle chwyci za instrumenty!\nA teraz usiądź\, bo mamy dla Ciebie informację\, która całkowicie rozwali system! Zastanawiasz się\, gdzie i za ile kupisz bilety na to niesamowite wydarzenie?\nOdpowiedź brzmi: NIGDZIE!\nNa ten koncert możecie wbić całkowicie BEZ BILETU! Dokładnie tak – wchodzicie na wydarzenie bez żadnej wejściówki\, zresztą\, bądźmy szczerzy… tak samo\, jak nie raz zdarzyło Wam się jechać 41. Różnica polega na tym\, że tutaj żaden kanar nie wlepi Wam mandatu! Co najwyżej będziecie jeszcze bardziej nietrzeźwi… tak samo\, jak nie raz zdarzyło Wam się jechać 41.\n PODSUMUJMY TĘ NIESAMOWITĄ OFERTĘ: \nCO? Niszczycielski koncert zespołu SUCHY PION!\nBONUS? Rewelacyjne zespoły supportujące w pakiecie!\nGDZIE? IRON HORSE\, Łódź!\nKIEDY? Sobota\, 13 czerwca 2026!\nWSTĘP? ZERO ZŁOTYCH PIĘKNY KAWALERZE!\nNie zwlekaj! ODŁÓŻ TEGO BYDLAKA NA CHWILĘ I UMYJ RĘCE! Zadzwoń do znajomych już teraz! Zaznacz tę datę w kalendarzu grubym\, czerwonym markerem!\nSUCHY PION W IRON HORSE! AUUUUU!\n*Wydarzenie zawiera supporty. Przypominamy\, że wejście na wydarzenie bez biletu jest w 100% legalne i wskazane tylko tego dnia w Iron Horse\, a jazda 41 na gapę w prawdziwym życiu odbywa się na własne ryzyko.*
+URL:https://plasterlodzki.pl/wydarzenia/sylwestrowa-domowka-w-ironie/
+LOCATION:Iron Horse\, Tuwima 16 / róg Sienkiewicza\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260613T190000
+DTEND;TZID=Europe/Warsaw:20260613T203000
+DTSTAMP:20260613T071703
+CREATED:20251206T095634Z
+LAST-MODIFIED:20260612T073131Z
+UID:10045660-1781377200-1781382600@plasterlodzki.pl
+SUMMARY:Sunday 4 p.m.
+DESCRIPTION:Sunday 4 p.m. — LIVE w Klubie Jesteśmy\nTo nie będzie wieczór do siedzenia z boku.To będzie koncert\, w którym gitara prowadzi\, rytm niesie\, a wszystko dzieje się tu i teraz.\nSunday 4 p.m. wchodzą na scenę z rockowym brzmieniem\, które łączy ciężar i przestrzeń — ballady\, które nie są tłem\, tylko historią opowiedzianą głośniej niż zwykle.\nBez filtrów. Bez półśrodków.Tylko muzyka i ludzie.\n 13.06.2026 (sobota) 19:00 Klub Jesteśmy\, ul. Jaracza 13\, Łódź\nJeśli lubisz koncerty\, które mają charakter — jesteś we właściwym miejscu.
+URL:https://plasterlodzki.pl/wydarzenia/bajarz-i-jego-ksiega-3d-interaktywna-bajka-seans-w-j-polskim/
+LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260613T200000
 DTEND;TZID=Europe/Warsaw:20260613T210000
-DTSTAMP:20260612T071703
+DTSTAMP:20260613T071703
 CREATED:20250717T091140Z
 LAST-MODIFIED:20260417T095657Z
 UID:10042436-1781380800-1781384400@plasterlodzki.pl
@@ -246,9 +285,48 @@ LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260613T200000
+DTEND;TZID=Europe/Warsaw:20260613T220000
+DTSTAMP:20260613T071703
+CREATED:20230120T095532Z
+LAST-MODIFIED:20260612T091016Z
+UID:10029920-1781380800-1781388000@plasterlodzki.pl
+SUMMARY:Męski Punkt Widzenia
+DESCRIPTION:Zapraszamy na fantastyczną zabawą w pirackich klimatachZespół związany z Tawerną Keja od prawie samego początku.Panowie uwielbiają luźną atmosferę i dobrą zabawęWielkie szantowe hity…zawsze na wesołoKapitan Wafel i jego wierna załoga jak zawsze nie zawiodą… tańce i swawole … gwarantowaneBilety 40 złTawerna KejaKupbilecik.pl\nhttps://share.google/oLM443xTj2JsWNT2iBiletyna.plRezerwacje 609 152 420
+URL:https://plasterlodzki.pl/wydarzenia/lukasz-wisniewski-i-jarek-jurkiewicz/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260613T200000
+DTEND;TZID=Europe/Warsaw:20260613T230000
+DTSTAMP:20260613T071703
+CREATED:20230901T104231Z
+LAST-MODIFIED:20260612T093141Z
+UID:10031736-1781380800-1781391600@plasterlodzki.pl
+SUMMARY:Poza Tym i Kajva
+DESCRIPTION:Zapraszamy Was na koncert łódzkich kapel w rockowym stylu!\nPOZA TYM\n– kwartet rockowy zawiązany jesienią 2020 roku. Tworzy i gra własne utwory . Klasyczne rockowe instrumentarium wzbogaca o skrzypce i ukulele elektroakustyczne. Wszyscy w zespole zasiądą w czasie koncertu przy zestawie perkusyjnym . Ale nie jednocześnie \nhttps://www.youtube.com/watch?v=UxWgxbu6Fyk\n\nKAJVA\n– łódzki zespół rockowy założony w 2024 roku. Gramy melodyjny rock oparty na wyrazistych gitarach\, mocnej sekcji rytmicznej i chwytliwych tekstach.\nW skład zespołu wchodzą: Konrad Mleczek (bas)\, Arek Zapotoczny (gitara rytmiczna)\, Adrian Kubik (perkusja)\, Magda Kopczyńska (wokal) i Jędrek Bartczak (gitara prowadząca).\n„Tworzymy muzykę\, która łączy energię\, emocje i przestrzeń brzmienia”\n\n\nWSTĘP: 30 PLN
+URL:https://plasterlodzki.pl/wydarzenia/25-lat-mumio-w-25-kawalkach/
+LOCATION:Przechowalnia\, 6-tego sierpnia 6\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260613T210000
+DTEND;TZID=Europe/Warsaw:20260613T220000
+DTSTAMP:20260613T071703
+CREATED:20221202T161053Z
+LAST-MODIFIED:20260612T093729Z
+UID:10029102-1781384400-1781388000@plasterlodzki.pl
+SUMMARY:Blues w Kiju - Haze Acoustic Trio
+DESCRIPTION:Zapraszamy na magiczny sobotni wieczór przy koktajlu i Bluesie.Można trochę potańczyć\, można się pobujać\, można po prostu posłuchać.Będzie pięknie!Nasze drzwi otwieramy dla Państwa o 18:00. Start koncertu planujemy na godzinę 21:00\nZagrają: Haze Acoustic Trio\nMiejsce: KIJ\, ul. Jaracza 45 (wejście od P.O.W.)90-249 ŁódźData: 13/06/2026Godzina: 21:00Cena: FREE\nPoczujcie wyjątkowy klimat\, bawcie się z nami!
+URL:https://plasterlodzki.pl/wydarzenia/czwartkowe-jazzowe-jam-session-w-kiju/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260614T170000
 DTEND;TZID=Europe/Warsaw:20260614T220000
-DTSTAMP:20260612T071703
+DTSTAMP:20260613T071703
 CREATED:20260109T092406Z
 LAST-MODIFIED:20260515T101844Z
 UID:10046368-1781456400-1781474400@plasterlodzki.pl
@@ -261,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260614T180000
 DTEND;TZID=Europe/Warsaw:20260614T210000
-DTSTAMP:20260612T071703
+DTSTAMP:20260613T071703
 CREATED:20230810T122029Z
 LAST-MODIFIED:20260321T110923Z
 UID:10045563-1781460000-1781470800@plasterlodzki.pl
@@ -274,7 +352,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260616T180000
 DTEND;TZID=Europe/Warsaw:20260616T220000
-DTSTAMP:20260612T071703
+DTSTAMP:20260613T071703
 CREATED:20260508T125003Z
 LAST-MODIFIED:20260508T125003Z
 UID:10048834-1781632800-1781647200@plasterlodzki.pl
@@ -287,7 +365,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
-DTSTAMP:20260612T071704
+DTSTAMP:20260613T071704
 CREATED:20251220T215025Z
 LAST-MODIFIED:20251220T215025Z
 UID:10045901-1781654400-1781740799@plasterlodzki.pl
@@ -300,7 +378,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260617T180000
 DTEND;TZID=Europe/Warsaw:20260617T220000
-DTSTAMP:20260612T071704
+DTSTAMP:20260613T071704
 CREATED:20260508T125003Z
 LAST-MODIFIED:20260508T125003Z
 UID:10048835-1781719200-1781733600@plasterlodzki.pl
@@ -313,7 +391,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260617T190000
 DTEND;TZID=Europe/Warsaw:20260617T210000
-DTSTAMP:20260612T071704
+DTSTAMP:20260613T071704
 CREATED:20230120T095413Z
 LAST-MODIFIED:20260508T095629Z
 UID:10029917-1781722800-1781730000@plasterlodzki.pl
@@ -325,8 +403,21 @@ CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260618T200000
+DTEND;TZID=Europe/Warsaw:20260618T220000
+DTSTAMP:20260613T071704
+CREATED:20221202T161216Z
+LAST-MODIFIED:20260612T093758Z
+UID:10029105-1781812800-1781820000@plasterlodzki.pl
+SUMMARY:Jazz na leżakach
+DESCRIPTION:Jazz na leżakach czyli letnia odsłona czwartkowych\, jazzowych jam session w KIJuZapraszamy do naszego magicznego ogrodu na JAZZ NA LEŻAKACH.\nZagra:Błażej Kozłowski Trio\nJak zawsze gościmy Was od 18:00\, muzyka na żywo startuje od 20:00. Większe grupy zachęcamy do wcześniejszych rezerwacji!!!\nMiejsce: KIJ\, ul. Jaracza 45 (wejście od P.O.W.)90-249 ŁódźData: 18/06/2026Cena: FREE\nPoczujcie wyjątkowy klimat\, bawcie się i grajcie razem z nami!Przypominamy: jazzowe jam session odbywa się u nas co czwartek! W razie złej pogody\, koncert zostaje przeniesiony do lokalu i staruje o 21:00
+URL:https://plasterlodzki.pl/wydarzenia/wszystko-czego-dzis-chce-tylko-polkie-sztosy/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260618T200000
 DTEND;TZID=Europe/Warsaw:20260618T213000
-DTSTAMP:20260612T071704
+DTSTAMP:20260613T071704
 CREATED:20260426T103748Z
 LAST-MODIFIED:20260426T103748Z
 UID:10048211-1781812800-1781818200@plasterlodzki.pl
@@ -337,9 +428,22 @@ LOCATION:Pan Tu Nie Stał\, Sienkiewicz 75\, Łódź\, łódzkie\, Poland
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260618T220000
+DTEND;TZID=Europe/Warsaw:20260618T233000
+DTSTAMP:20260613T071704
+CREATED:20260612T081523Z
+LAST-MODIFIED:20260612T081700Z
+UID:10034725-1781820000-1781825400@plasterlodzki.pl
+SUMMARY:Live performance: Hania Rani & John Akomfrah | Słuchając deszczu całą noc | Fotofestiwal 2026
+DESCRIPTION:Live performance | Hania Rani & sir John AkomfrahFuzja\, Elektrownia Rodziny Scheiblerów\, Tymienieckiego 11d\nWejście na koncert: 21:30-21:50Koncert: 22:00-22:30Obowiązują oddzielne bilety.\n18 czerwca na otwarciu Fotofestiwalu w Łodzi\, w ramach jubileuszu 25-lecia\, w wyjątkowej przestrzeni zabytkowej elektrowni rodziny Scheiblerów\, czyli w dzisiejszej Fuzji\, Hania Rani zaprezentuje wyjątkowy live performance — kompozycję na fortepian i talerze perkusyjne\, napisaną specjalnie z myślą o tym wydarzeniu.\nJej muzyka stworzy niepowtarzalny dialog z ośmioekranową\, siedemnastokanałową instalacją dźwiękową Johna Akomfraha — Listening All Night To The Rain. Dzieło to pierwotnie stworzone zostało dla Pawilonu Brytyjskiego na Biennale w Wenecji w 2022 roku i po raz pierwszy zostanie pokazane w Polsce.\nAkomfrah to filozof\, artysta i jedna z najważniejszych postaci współczesnej sztuki wideo. Od założenia Black Audio Film Collective w 1982 roku tworzy sztukę głęboko polityczną i kolektywną. Jego prace destabilizują przestarzałe idee\, jednocześnie wzmacniając te\, które wymagają naszej uwagi. Instalacja tworzy ponadczasową\, poetycką przestrzeń\, w której obrazy i dźwięki otaczają widza ze wszystkich stron.\n Instalacja dźwiękowo-wizualna będzie dostępna dla publiczności w formie wystawy w dniach 19-24.06 (obowiązują bilety/karnety festiwalowe). To wyjątkowa okazja\, by doświadczyć spotkania dwojga wyjątkowych artystów i zetknąć się z twórczością Akomfraha w Polsce.\nPrzed koncertem zapraszamy na otwarcie Fotofestiwalu 2026 o godz. 19:00 w Art_Inkubatorze/Fabryka Sztuki przy ul. Tymienieckiego 3.\nMecenasem projektu i parterem strategicznym 25. Fotofestiwalu jest PKO Bank Polski. Partnerem technologicznym przedsięwzięcia jest Eidotech Polska. Gospodarzem instalacji i koncertu-performance jest Fuzja
+URL:https://plasterlodzki.pl/wydarzenia/klasyka-w-szortach-7/
+LOCATION:Fuzja\, Tymienieckiego 5/7\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260619T080000
 DTEND;TZID=Europe/Warsaw:20260619T170000
-DTSTAMP:20260612T071704
+DTSTAMP:20260613T071704
 CREATED:20241018T173343Z
 LAST-MODIFIED:20241018T173343Z
 UID:10037671-1781856000-1781888400@plasterlodzki.pl
@@ -352,7 +456,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260619T180000
 DTEND;TZID=Europe/Warsaw:20260619T210000
-DTSTAMP:20260612T071704
+DTSTAMP:20260613T071704
 CREATED:20221118T131541Z
 LAST-MODIFIED:20260522T120440Z
 UID:10028925-1781892000-1781902800@plasterlodzki.pl
@@ -365,7 +469,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260619T190000
 DTEND;TZID=Europe/Warsaw:20260619T203000
-DTSTAMP:20260612T071704
+DTSTAMP:20260613T071704
 CREATED:20230210T102133Z
 LAST-MODIFIED:20260522T102047Z
 UID:10030187-1781895600-1781901000@plasterlodzki.pl
@@ -378,7 +482,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260619T190000
 DTEND;TZID=Europe/Warsaw:20260619T200000
-DTSTAMP:20260612T071704
+DTSTAMP:20260613T071704
 CREATED:20220907T113305Z
 LAST-MODIFIED:20260603T094838Z
 UID:10028360-1781895600-1781899200@plasterlodzki.pl
@@ -391,7 +495,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260619T190000
 DTEND;TZID=Europe/Warsaw:20260619T223000
-DTSTAMP:20260612T071704
+DTSTAMP:20260613T071704
 CREATED:20230217T114354Z
 LAST-MODIFIED:20260425T104840Z
 UID:10030209-1781895600-1781908200@plasterlodzki.pl
@@ -402,9 +506,87 @@ LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260619T200000
+DTEND;TZID=Europe/Warsaw:20260619T223000
+DTSTAMP:20260613T071704
+CREATED:20250822T131350Z
+LAST-MODIFIED:20260612T093816Z
+UID:10039124-1781899200-1781908200@plasterlodzki.pl
+SUMMARY:Blues na leżakach - Qbek i Chypis
+DESCRIPTION:Zapraszamy na magiczny piątkowy wieczór przy koktajlu i bluesie.Można trochę potańczyć\, można się pobujać\, można po prostu posłuchać.Nasze drzwi otwieramy dla Państwa o 18:00. Start koncertu planujemy na godzinę 20:00.Zagrają: Qbek i Chypis\nPoczujcie wyjątkowy klimat\, bawcie się z nami!Pamiętajcie\, jeśli pogoda zawiedzie\, wydarzenie przenosimy do środka lokalu i gramy od 21:00\nMiejsce: KIJ\, ul. Jaracza 45 (wejście od P.O.W.)90-249 ŁódźData: 19/06/2026Godzina: :Cena: FREE
+URL:https://plasterlodzki.pl/wydarzenia/zatanczysz-ze-mna-jeszcze-raz-7-urodziny-kija-6/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260620T110000
+DTEND;TZID=Europe/Warsaw:20260620T210000
+DTSTAMP:20260613T071704
+CREATED:20260612T101718Z
+LAST-MODIFIED:20260612T101718Z
+UID:10049410-1781953200-1781989200@plasterlodzki.pl
+SUMMARY:Motoserce 2026
+DESCRIPTION:MOTOSERCE ŁÓDŹ 2026 XVIII edycja- wchodzimy w pełnoletność! \nJuż 20 czerwca widzimy się na Rynku Manufaktury podczas 18 edycji Motoserca Łódź To wyjątkowe wydarzenie charytatywne\, którego głównym celem jest zbiórka krwi.Wspólnie z Centrum Krwiodawstwa RCKiK w Łodzi zapraszamy wszystkich krwiodawców do udziału w akcji!\n Zbiórka krwi startuje od godziny 11:00 Część muzyczna rusza od 13:00\nNa scenie zagrają:– ESTE– Wydział Diagnostyki\n Gwiazdy wieczoru:– 5 Rano– Red Lips\nTo jednak nie wszystko! Czeka na Was masa atrakcji:\n Strażacy i pokazy sprzętu Stoisko Fundacji Krwinka Fundacja Słonie na Balkonie – specjalna strefa wsparcia\, gdzie każdy będzie mógł porozmawiać ze specjalistą fundacji i uzyskać informacje o dostępnych formach pomocy i wsparcia psychologicznego. HE 3 Tatuażyk przygotował wyjątkową akcję! Na miejscu będzie można zrobić sobie tatuaż z przygotowanych wzorów\, a cały dochód trafi na konto Fundacji Słonie na Balkonie  A ponieważ Motoserce Łódź wchodzi w pełnoletność… nie może zabraknąć urodzinowego tortu! Podczas wydarzenia będzie tort i słodki poczęstunek dla uczestników \nPrzewidziane są konkursy z nagrodami\, podarunki dla krwiodawców oraz losowanie nagród.\nMotocykle. Muzyka. Pomoc. Emocje.Jedno miejsce. Jeden cel. Tysiące serc \nNie zastanawiajcie się dłużej\, przybywajcie! Rynek Manufaktury – Łódź 20.06.2026\nOrganizatorami wydarzenia są łódzkie kluby motocyklowe zrzeszone w Kongresie Polskich Klubów Motocyklowych :\nBorn To Ride MC Poland chapter ŁódźBrotherhood MC Poland Chapter ŁódźBerserkers FGProspect Chapter VC 19-78 FG ŁódźGroup of Franc\nNasi SPONSORZY :\n4RideAflofarmApisArprofAuto Serwis OponyBMW Łódź BednarekB&B HotelBMCCentrum OpalaniaCzas na Herbatę ManufakturaDywilanGrupa CSVHashtag SushiHe3 TatuażykJazda!ParkLaVendeLola Studio ClinicMooraOwocowy RajPani PolisaPinky CakePizza Hut ManufakturaRezalRif Raf StylSFD ManufakturaStrefa SupliStudio NeliToyota Łódź\, Brzezińska 24ATransfigielUltra PVWhiskey In The JarW Szczerym Polu – Stodoła Restauracja Pensjonat\nFundacje i organizacje partnerskie :\nFundacja KrwinkaFundacja Słonie na balkonie
+URL:https://plasterlodzki.pl/wydarzenia/motoserce-2026/
+LOCATION:Manufaktura\, Drewnowska 58\, Łódź\, łódzkie\, 91-002\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260620T180000
+DTEND;TZID=Europe/Warsaw:20260620T210000
+DTSTAMP:20260613T071704
+CREATED:20251010T101717Z
+LAST-MODIFIED:20260612T074723Z
+UID:10042066-1781978400-1781989200@plasterlodzki.pl
+SUMMARY:Curious Collections - Smooth Jazz Night
+DESCRIPTION:Curious Collections zaprasza na Smooth Jazz Night w Klubokawiarni Podróżniczej Tubylec.Gramy jazzowe i bluesowe klasyki\, re-interpretujemy rockowe szlagiery i składamy z nich kolekcje. Jeśli w serduszku grają ci winyle i nadal pamiętasz jak przewijać kasetę ołówkiem\, to mamy dla ciebie doskonały plan na sobotni wieczór.\nKto: Anna Redlin (wokal)\, Piotrek Szeligowski (gitara)\, Daniel Piotrowski (perkusja)Gdzie: Tubylec – Klubokawiarnia Podróżnicza\, ul. Retkińska 70\, ŁódźWstęp: wolny. Jeśli spodoba Wam się nasza praca kolekcjonerska\, możecie ją wesprzeć wrzutką do kapelusza.\nPróbka naszych dźwięków tutaj:https://www.facebook.com/curious.collections.band/reels/\nTubylec: https://www.facebook.com/tubylec.cafe
+URL:https://plasterlodzki.pl/wydarzenia/nepal-solisci-roadshow-2024-prelekcje-podroznicze-2/
+LOCATION:Tubylec\, Retkińska 70\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260620T190000
+DTEND;TZID=Europe/Warsaw:20260620T230000
+DTSTAMP:20260613T071704
+CREATED:20221202T211310Z
+LAST-MODIFIED:20260612T093359Z
+UID:10029265-1781982000-1781996400@plasterlodzki.pl
+SUMMARY:Korniszony
+DESCRIPTION:KONCERT: Gramy w mieście Łodzi.ul. Wólczańska 40/42\, ŁódźBILETY: 50 zł do nabycia przed koncertem.\n20 lat temu wszystko się zaczęło w Łodzi.Pierwszy koncert\, pierwsze emocje\, pierwsza scena.W tym roku wracamy tam\, gdzie narodziła się ta historia.Ten sam skład.Nowe numery.Ta sama pasja.Nie może Was zabraknąć !!! Do zobaczenia pod sceną!
+URL:https://plasterlodzki.pl/wydarzenia/gooral/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260620T200000
+DTEND;TZID=Europe/Warsaw:20260620T210000
+DTSTAMP:20260613T071704
+CREATED:20221118T125211Z
+LAST-MODIFIED:20260612T093123Z
+UID:10028906-1781985600-1781989200@plasterlodzki.pl
+SUMMARY:Guitar Heroes Night (JOE SATRIANI / STEVE VAI) by Stanley
+DESCRIPTION:„Guitar Heroes Night by Stanley” – wieczór z muzyką Joe Satrianiego\, Steve Vai-a i nie tylko…\nZapraszamy na wyjątkowy koncert gitarowy Stanleya. Tego wieczoru przeniesiemy się w świat niesamowitych gitarowych przebojów mistrzów Joe Satrianiego i Steve Vai-a oraz autorskich kompozycji gitarowych Stanisława Fabera.\nCzeka Was piękna melodyka utworów\, energia i rockowe emocje w czystej postaci! Będą piękne ballady ale także mocne i ostre rockowe uderzenie….\nZamknijcie oczy… i dajcie się porwać w gitarową podróż z muzyką graną przez Stanleya \nWidzimy się 20-go czerwca o 20.00\nWSTĘP: 20 PLN
+URL:https://plasterlodzki.pl/wydarzenia/sdge-synth-dark-goth-electro-vol-132/
+LOCATION:Przechowalnia\, 6-tego sierpnia 6\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260620T200000
+DTEND;TZID=Europe/Warsaw:20260620T233000
+DTSTAMP:20260613T071704
+CREATED:20250718T100524Z
+LAST-MODIFIED:20260612T093842Z
+UID:10039128-1781985600-1781998200@plasterlodzki.pl
+SUMMARY:Jazz na leżakach w sobotę
+DESCRIPTION:Jazz na leżakach czyli letnia odsłona\, jazzowych jam session w KIJu. Tym raz w sobotę zapraszamy na JAZZ NA LEŻAKACH.\nJak zawsze gościmy Was od 18:00\, muzyka na żywo startuje od 20:00. Większe grupy zachęcamy do wcześniejszych rezerwacji!!!\nZagra:Kamil Guźniczak Quartet\nMiejsce: KIJ\, ul. Jaracza 45 (wejście od P.O.W.)90-249 ŁódźData: 20/06/2026Cena: FREE\nPoczujcie wyjątkowy klimat\, bawcie się i grajcie razem z nami!Pamiętajcie\, jeśli pogoda zawiedzie\, wydarzenie przenosimy do środka lokalu i startuje o 21:00.
+URL:https://plasterlodzki.pl/wydarzenia/zatanczysz-ze-mna-jeszcze-raz-7-urodziny-kija-2-4/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260621T150000
 DTEND;TZID=Europe/Warsaw:20260621T170000
-DTSTAMP:20260612T071704
+DTSTAMP:20260613T071704
 CREATED:20260426T111645Z
 LAST-MODIFIED:20260426T111645Z
 UID:10048239-1782054000-1782061200@plasterlodzki.pl
@@ -456,7 +638,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260702T190000
 DTEND;TZID=Europe/Warsaw:20260702T210000
-DTSTAMP:20260612T071705
+DTSTAMP:20260613T071705
 CREATED:20260321T101953Z
 LAST-MODIFIED:20260321T101953Z
 UID:10047536-1783018800-1783026000@plasterlodzki.pl
@@ -467,9 +649,22 @@ LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
 CATEGORIES:Festiwal,Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260703T190000
+DTEND;TZID=Europe/Warsaw:20260703T203000
+DTSTAMP:20260613T071705
+CREATED:20250718T102734Z
+LAST-MODIFIED:20260612T073159Z
+UID:10039524-1783105200-1783110600@plasterlodzki.pl
+SUMMARY:NEXT STOPS
+DESCRIPTION:Co by było\, gdyby jeden wieczór mógł zabrać Cię z Liverpoolu do Sztokholmu\, z Helsinek do Berlina\, a stamtąd na rozgrzane słońcem ulice Ameryki Łacińskiej?\nZapraszamy na wyjątkowy koncert duetu Next Stops — wieczór pełen znanych przebojów rocka i pop-rocka w akustycznych aranżacjach\, wzbogacony o spektakularny 3D mapping.\n Svetlana Butouska – wokal Sergei Butouski – gitara\, wokal Gość specjalny: Ignacy Baumberg – cajón\nDwa głosy\, gitara\, perkusyjne rytmy i obrazy\, które przeniosą Was w kolejne muzyczne światy. Każda piosenka to nowa historia\, każdy utwór to kolejny przystanek na wspólnej trasie.\n Muzyka\, którą znacie. Podróż\, której nie zapomnicie.\n Klub Jesteśmy\, Łódź\, ul. Jaracza 13 03.07.2026 (piątek) 19:00 Bilety: 40 zł Rezerwacja miejsc: 531 511 500\nNext Stops — wsiądźcie do tej podróży.
+URL:https://plasterlodzki.pl/wydarzenia/koncert-saksofonowy-jazz-swing-z-lat-20-30-2-4/
+LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260704T190000
 DTEND;TZID=Europe/Warsaw:20260704T223000
-DTSTAMP:20260612T071705
+DTSTAMP:20260613T071705
 CREATED:20221202T211245Z
 LAST-MODIFIED:20260417T100554Z
 UID:10029264-1783191600-1783204200@plasterlodzki.pl
@@ -480,9 +675,48 @@ LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260704T190000
+DTEND;TZID=Europe/Warsaw:20260704T220000
+DTSTAMP:20260613T071705
+CREATED:20231013T110028Z
+LAST-MODIFIED:20260612T095320Z
+UID:10031951-1783191600-1783202400@plasterlodzki.pl
+SUMMARY:LOUD SLAVE / INVOIDED / KOMONITER
+DESCRIPTION:LOUD SLAVE / INVOIDED / KOMONITER – Agrafka Zgierz 04.07.2026WJAZD 30 ZŁ\nLOUD SLAVENasza muzyka to fuzja mocnych riffów gitarowych oraz zmieniających się w czasie schematów rytmicznych i harmonii. Znajdujemy też przestrzeń dla głębszych\, nastrojowych dźwięków\, które poruszają serce i duszę.Adam Zalewski – wokalJakub Śmiałek – perkusjaKamil Terela – gitaraArtur Nierodka – gitaraRafał Ruta – bas\nINVOIDEDInvoided to Trójmiejski miks sludge’u i stoner metalu z alternatywnym\, surowym zacięciem. Powstali w 2023 roku\, stawiając na bezkompromisowe\, brudne brzmienie i wyraźny ładunek emocjonalny\, co pokazali na debiutanckiej EP-ce „Waves of Delusion” (2025).Zespół stale rośnie w siłę na koncertowych scenach\, a już 26 czerwca 2026 roku powróci z nowym uderzeniem\, wypuszczając pierwszy singiel zwiastujący ich drugą EP-kę „Descending Hope”.\nKOMONITERKomoniter – zespół\, który utworzyli w lipcu 2024 r. dwaj fanatycy mocnych dźwięków: Andrzej Frydrysiak /Komora\, Desolate Empyrean/ i Robert Zawiślak /Ammonitter/\, stworzony dla tęgich\, stalowych gitarowych riffów. Gramy ciężkiego hard rocka w tempie doom metalu. Czyżby nowy styl ??? Utwory Komonitera są porównywane do doom metalu z lat 80\, np. do Candlemass. Gramy mocno\, ciężko\, głośno i delektujemy się tym dla własnej przyjemności. Sami możecie ocenić. Od momentu powstania kapela nie uniknęła wielu zmian personalnych\, aż do skompletowania obecnego stabilnego składu:\n\n\nŁukasz Domagalski – wokal\nAndrzej Frydrysiak – gitara\nTomasz Renkowski – gitara\nMarcin Gondek – gitara basowa\nRobert Zawiślak – perkusja\n\n\nfacebook: https://www.facebook.com/profile.php?id=61571444832150
+URL:https://plasterlodzki.pl/wydarzenia/the-part-2/
+LOCATION:Agrafka – Zgierz\, Dąbrowskiego 6\, Zgierz\, łódzkie
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260705T180000
+DTEND;TZID=Europe/Warsaw:20260705T210000
+DTSTAMP:20260613T071705
+CREATED:20251114T110057Z
+LAST-MODIFIED:20260612T091049Z
+UID:10037166-1783274400-1783285200@plasterlodzki.pl
+SUMMARY:Teściowa Śpiewa
+DESCRIPTION:TEŚCIOWA ŚPIEWA\n12 lat temu zetknęły się dwie mocne artystyczne energie Teściowej ( Beata Łubczonek ) i Zięcia ( Marcin Milanowicz ) co dało początek duetowi Teściowa Śpiewa. Po wrzuceniu do sieci kilku piosenek z tekstami Teściowej i muzyką Zięcia zostali zauważeni\, docenieni przez młodych odbiorców i zaproszeni do zagrania pierwszego koncertu. Ogromne zainteresowanie „artystyczno-rodzinnym” fenomenem zespołu zaowocowało wieloma koncertami\, występami na różnorakich festiwalach takich jak Festiwal Grzesiuka\, Kazimiernikejszyn\, Festiwal Dwa Brzegi czy też kultowe Zacieralia.\nMuzyka zespołu ewoluuje od folku miejskiego w niespodziewane rewiry rapu\, rocka i Bóg wie czego…. bo trudno muzyce tworzonej przez Zięcia nadać etykietę ona po prostu wspaniale niesie przewrotne i dowcipne teksty Teściowej.\nZespół wydał płytę Pozytywne myślenie\, koncertuje na wielu scenach całej Polski\, w planach ma zagraniczne koncerty. Wciąż cieszą się tym co robią i nie mogą się nadziwić jak ze spotkania dwojga pracowników nauki powstało „dzieło” czyli Teściowa Śpiewa\nPodczas koncertu towarzyszyć im będzie multinstrumentalista – Michał ” Mrufka ” Jędras.Teściowa jest zwycięzcą plebiscytu – Warszawski Artysta Roku 2025r. organizowanym przez Warsaw Tribute.\nUwaga Teściowa nadchodzi jak huragan !!!
+URL:https://plasterlodzki.pl/wydarzenia/trzy-majtki-3/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260711T190000
+DTEND;TZID=Europe/Warsaw:20260711T223000
+DTSTAMP:20260613T071705
+CREATED:20221118T092939Z
+LAST-MODIFIED:20260612T093334Z
+UID:10028784-1783796400-1783809000@plasterlodzki.pl
+SUMMARY:BlitzDay'26-DEATĦ B¥ LØVE / MECHU /Shagreen
+DESCRIPTION:BlitzDay to wyjątkowy wieczór poświęcony polskiej scenie niezależnej i jej niezwykłemu dziedzictwu. Już 11 lipca 2026 roku klub Wooltura stanie się miejscem spotkania artystów\, których muzyczne korzenie sięgają legendarnej grupy Blitzkrieg\, jednej z najbardziej pionierskich formacji darkwave i goth w historii polskiej muzyki alternatywnej. Na scenie wystąpi transatlantycki projekt DEATĦ B¥ LØVE\, łączący mroczny klimat gothu\, industrialu i trip hopu z hipnotyczną elektroniką oraz żywymi gitarami. Grupę tworzą charyzmatyczna wokalistka Inga Habiba oraz Peter Guellard\, dawny członek Blitzkrieg\, który po latach powraca do Łodzi z projektem zbierającym znakomite recenzje w Europie i Stanach Zjednoczonych. Muzyka zespołu splata eteryczne melodie inspirowane kulturą Bliskiego Wschodu z industrialną intensywnością i gotycką atmosferą\, tworząc sugestywny\, emocjonalny świat pełen duchowości\, pasji i dźwiękowej głębi. Drugim headlinerem wieczoru będzie MECHU\, projekt Tomasza „Mechu” Wojciechowskiego\, współtwórcy Blitzkrieg\, Jezabel Jazz i muzyka związanego również z Hedone\, Closterkeller oraz Moskwą\, w której gra do dziś. Towarzyszyć mu będzie Tomasz „Tuba” Tybulczuk\, były klawiszowiec Blitzkrieg. Koncert MECHU będzie podróżą przez elektroniczne pulsacje\, gitarową energię i alternatywne brzmienia\, które od dekad definiują charakter polskiej sceny niezależnej. Na koncercie zaprezentowany będzie materiał z płyty MECHU 001\, wydanej w zeszłym roku przez GAD Records. Płyta zebrała bardzo dobre recenzje.Gościem specjalnym wydarzenia będzie Shagreen\, mroczny postindustrialny projekt Natalii Gadziny\, artystki samodzielnie tworzącej\, produkującej i miksującej własną muzykę. Jej twórczość\, porównywana momentami do późniejszego okresu działalności Nine Inch Nails\, łączy industrial\, synth-pop\, trip-hop i dark wave\, tworząc hipnotyczne kompozycje pełne emocjonalnego napięcia i surowej elektroniki. Shagreen występowała między innymi u boku Covenant\, Tempers i Bleib Modern.BlitzDay będzie czymś więcej niż zwykłym koncertem. To spotkanie historii z teraźniejszością\, hołd dla łódzkiego undergroundu oraz rzadka okazja\, by zobaczyć w jednym miejscu muzyków współtworzących fundamenty polskiej sceny darkwave i goth. Wieczór wzbogacą projekcje video\, wystawa fotograficzna oraz wyjątkowa atmosfera\, która połączy nostalgię dawnych lat z nowoczesnym podejściem do muzyki alternatywnej. Organizatorzy nie wykluczają również niespodziewanych muzycznych kolaboracji na scenie\, a być może nawet wspólnego wykonania utworów Blitzkrieg przez muzyków obu projektów. Bilety do nabycia przy wejściu. Z ostatniej chwili: Swoją obecność zapowiedział Maciek Werk z grupy Hedone\, który też pojawi się na scenie
+URL:https://plasterlodzki.pl/wydarzenia/synapsa-from-today-krain/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260711T203000
 DTEND;TZID=Europe/Warsaw:20260711T220000
-DTSTAMP:20260612T071705
+DTSTAMP:20260613T071705
 CREATED:20230512T142415Z
 LAST-MODIFIED:20260425T103920Z
 UID:10030969-1783801800-1783807200@plasterlodzki.pl
@@ -495,7 +729,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260718T180000
 DTEND;TZID=Europe/Warsaw:20260718T220000
-DTSTAMP:20260612T071705
+DTSTAMP:20260613T071705
 CREATED:20251220T215058Z
 LAST-MODIFIED:20251220T215058Z
 UID:10045902-1784397600-1784412000@plasterlodzki.pl
@@ -508,7 +742,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260718T180000
 DTEND;TZID=Europe/Warsaw:20260718T235900
-DTSTAMP:20260612T071705
+DTSTAMP:20260613T071705
 CREATED:20230127T110959Z
 LAST-MODIFIED:20260426T104440Z
 UID:10029963-1784397600-1784419140@plasterlodzki.pl
@@ -521,7 +755,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260719T190000
 DTEND;TZID=Europe/Warsaw:20260719T223000
-DTSTAMP:20260612T071705
+DTSTAMP:20260613T071705
 CREATED:20221118T093029Z
 LAST-MODIFIED:20260116T132505Z
 UID:10028786-1784487600-1784500200@plasterlodzki.pl
@@ -534,7 +768,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260720T200000
 DTEND;TZID=Europe/Warsaw:20260720T220000
-DTSTAMP:20260612T071705
+DTSTAMP:20260613T071705
 CREATED:20241223T125003Z
 LAST-MODIFIED:20260515T102233Z
 UID:10038738-1784577600-1784584800@plasterlodzki.pl
@@ -547,7 +781,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260721T200000
 DTEND;TZID=Europe/Warsaw:20260721T233000
-DTSTAMP:20260612T071705
+DTSTAMP:20260613T071705
 CREATED:20250530T082328Z
 LAST-MODIFIED:20260515T102257Z
 UID:10040975-1784664000-1784676600@plasterlodzki.pl
@@ -560,7 +794,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260722T200000
 DTEND;TZID=Europe/Warsaw:20260722T220000
-DTSTAMP:20260612T071705
+DTSTAMP:20260613T071705
 CREATED:20250629T080837Z
 LAST-MODIFIED:20260515T102322Z
 UID:10041672-1784750400-1784757600@plasterlodzki.pl
@@ -573,7 +807,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260723T190000
 DTEND;TZID=Europe/Warsaw:20260723T210000
-DTSTAMP:20260612T071705
+DTSTAMP:20260613T071705
 CREATED:20250530T082353Z
 LAST-MODIFIED:20260603T100535Z
 UID:10040976-1784833200-1784840400@plasterlodzki.pl
@@ -586,7 +820,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260727
-DTSTAMP:20260612T071705
+DTSTAMP:20260613T071705
 CREATED:20260315T110429Z
 LAST-MODIFIED:20260315T110429Z
 UID:10047466-1784851200-1785110399@plasterlodzki.pl
@@ -597,9 +831,22 @@ LOCATION:Błonie Łódzkie\, Konstantynowska 96\, Łódź\, łódzkie\, Polska
 CATEGORIES:Festiwal,Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260724T180000
+DTEND;TZID=Europe/Warsaw:20260724T230000
+DTSTAMP:20260613T071706
+CREATED:20221202T211432Z
+LAST-MODIFIED:20260612T093421Z
+UID:10029268-1784916000-1784934000@plasterlodzki.pl
+SUMMARY:Created to... DEVOUR - Fantom // Herzoga
+DESCRIPTION:Created to… DEVOUR!Jedno miasto\, cztery hordy rodem z koszmaru! 24.07 w łódzkiej Woolturze!\nZagrają dla was:———————————————————————CIROGRAPH – Wrocławska thrashowa załoga nielicząca się z nikim i niczym. Bezkompromisowa thrashowa miazga z EP-ką „Sign The Pact” i z singlem „Better Dead Than Red” na koncie.FB:https://www.facebook.com/share/17PqzPMjir/IG:https://www.instagram.com/cirograph.official?igsh=MTNrdjdsNDZkeTAyOA==———————————————————————HERZOGA – zespół z Krakowa powstały w 2022. Obecnie promują świeżo wydany w czerwcu 2025 pełny album „Evil Waits For Its Messiah” wydany pod banderą Virulent Records. Poza tym na koncie mają wydaną w 2023 roku demówkę „Crawling from the Dark”. Głównymi inspiracjami zespołu jest niemiecka oraz brazylijska scena thrashu z lat 80. Szybka perkusja\, techniczne riffy\, agresywny wokal i chuj. THRASH TILL DEATH MOTHERFUCKERS!\nEvil Waits For Its Messiah:https://www.youtube.com/watch?v=Vy2B7qPRE9w&t=1351sFB: https://www.facebook.com/HerzogaBandIG: https://www.instagram.com/herzoga_———————————————————————FANTOM – Toroonyan Styled Thrash Metal. Siekać będzie materiałem z ich nowego długograja „Breathtaking…”\, usłyszycie też trochę epki Regime of chaos. Granie metalu to przede wszystkim dobra zabawa\, więc zapraszamy do tańca.\nhttps://linktr.ee/FantomThrash———————————————————————STACJA XI – plugastwo\, smród i jałowa ziemia\, to wszystko zostawia po sobie Stacja XI. Brudne chugi połączone z mrocznymi melodiami i piekielnymi interlude’ami walczą w kakofonicznej batalii z niskimi guturalami i high screamami wokalisty.FB: https://www.facebook.com/profile.php?id=61557332499106IG: https://www.instagram.com/stacja.11/———————————————————————Wlota: 40 PLNCzasówka: TBA
+URL:https://plasterlodzki.pl/wydarzenia/kashell/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260724T190000
 DTEND;TZID=Europe/Warsaw:20260724T203000
-DTSTAMP:20260612T071706
+DTSTAMP:20260613T071706
 CREATED:20221202T185418Z
 LAST-MODIFIED:20260515T092627Z
 UID:10029165-1784919600-1784925000@plasterlodzki.pl
@@ -612,7 +859,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-DTSTAMP:20260612T071706
+DTSTAMP:20260613T071706
 CREATED:20260327T104705Z
 LAST-MODIFIED:20260327T104705Z
 UID:10047643-1784937600-1785023999@plasterlodzki.pl
@@ -625,7 +872,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260726T160000
 DTEND;TZID=Europe/Warsaw:20260726T170000
-DTSTAMP:20260612T071706
+DTSTAMP:20260613T071706
 CREATED:20260410T102148Z
 LAST-MODIFIED:20260410T102148Z
 UID:10048080-1785081600-1785085200@plasterlodzki.pl
@@ -638,7 +885,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260727T190000
 DTEND;TZID=Europe/Warsaw:20260727T235900
-DTSTAMP:20260612T071706
+DTSTAMP:20260613T071706
 CREATED:20231103T131936Z
 LAST-MODIFIED:20260515T100800Z
 UID:10032054-1785178800-1785196740@plasterlodzki.pl
@@ -651,7 +898,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260730T190000
 DTEND;TZID=Europe/Warsaw:20260730T213000
-DTSTAMP:20260612T071706
+DTSTAMP:20260613T071706
 CREATED:20250908T124734Z
 LAST-MODIFIED:20260425T110639Z
 UID:10043088-1785438000-1785447000@plasterlodzki.pl
@@ -659,6 +906,19 @@ SUMMARY:19. Letnia Akademia Jazzu: XAVI TORRES BARENCIA I ANNA COLOM ŚWIATOWY G
 DESCRIPTION:CZĘŚĆ I: XAVI TORRES BARENCIA \nXAVI TORRES BARENCIA to projekt współczesnego jazzu prowadzony przez hiszpańskiego pianistę\, kompozytora i lidera zespołu Xaviego Torresa – jednego z najbardziej rozpoznawalnych młodych muzyków europejskiej sceny jazzowej. Torres łączy swoje śródziemnomorskie dziedzictwo muzyczne z wykształceniem jazzowym i klasycznym zdobytym w Barcelonie i Amsterdamie\, tworząc charakterystyczny język artystyczny oparty na energii rytmicznej\, wyobraźni melodycznej i dużej ekspresji. \nKoncepcja Barencii odnosi się do wyobrażonego miasta położonego między Barceloną a Florencją i symbolizuje podejście zespołu polegające na łączeniu tradycji muzycznych oraz różnych dyscyplin artystycznych. Projekt łączy jazzową improwizację z wpływami flamenco\, rytmami śródziemnomorskimi i współczesną kompozycją\, tworząc dynamiczne i żywe doświadczenie koncertowe. \nIstotnym elementem projektu jest obecność tancerki Mariny Paje\, której występ przekształca rytm i improwizację w ruch. Jej twórczość zakorzeniona jest we flamenco i tańcu współczesnym\, a ścisła współpraca z muzykami rozszerza narrację muzyczną w multidyscyplinarne widowisko\, w którym dźwięk\, ciało i przestrzeń wzajemnie na siebie oddziałują. \nSKŁAD: \n\nXAVI TORRES – FORTEPIAN\nBERNARDO GUERRA – PERKUSJA\nMICHELANGELO SCANDROGLIO – KONTRABAS\nMARINA PAJE – TANIEC\n\nCZĘŚĆ II: ANNA COLOM – ŚWIATOWY GŁOS FLAMENCO \nANNA COLOM – „CAYANA” \nUrodzona w Barcelonie Anna Colom jest wokalistką\, kompozytorką i aranżerką. Ukończyła śpiew flamenco w Escola Superior de Música de Catalunya (ESMUC). Kształciła się również w Fundación Cristina Heeren de Arte Flamenco w Sewilli. W trakcie swojej kariery występowała w teatrach i tablaos w całej Hiszpanii\, m.in. w Palau de la Música Catalana w Barcelonie\, Tarantos Barcelona\, Casa Patas i Café de Chinitas w Madrycie oraz na Bienal de Flamenco de Sevilla. Koncertowała także międzynarodowo – w Nowej Zelandii\, Stanach Zjednoczonych\, Chinach\, Meksyku i Szwajcarii. \nW Polsce Anna Colom zaprezentuje projekt Cayana. Program stanowi muzyczną podróż przez tradycje ludowe i rytmy\, które na przestrzeni historii wpływały na flamenco. Repertuar czerpie inspiracje z różnych źródeł\, m.in. brazylijskiej samby\, urugwajskiego candombe\, fandango z Veracruz i Huelvy\, a także argentyńskiej zamby\, guajiry i soleá. Projekt oddaje również hołd Kadyksowi oraz zawiera tradycyjne utwory swingowe i dawne pieśni pracy z hiszpańskiej wsi. Cayana odzwierciedla ideę muzycznego „mestizaje” – flamenco jako miejsca spotkania kultur i tradycji. \nSKŁAD: \n\nANNA COLOM TADEO – WOKAL\nEXEQUIEL GUSTAVO CORIA – GITARA\nPABLO GÓMEZ MOLINA – PERKUSJA\nKAREN VANESSA RUBIO LUGO – TANIEC\n\nLetnia Akademia Jazzu jest realizowana dzięki dofinansowaniu z budżetu Miasta Łodzi\n19. Letnią Akademię Jazzu dofinansowano ze środków Ministra Kultury i Dziedzictwa Narodowego pochodzących z Funduszu Promocji Kultury w ramach programu „Muzyka” realizowanego przez Narodowy Instytut Muzyki i Tańca\nProjekt został zrealizowany dzięki wsparciu Acción Cultural Española (AC/E)\nPatronat honorowy: Prezydent Miasta Łodzi Hanna Zdanowska\nPatronat honorowy: Marszałek Województwa Łódzkiego Joanna Skrzydlewska\nPartnerem 19. Letniej Akademii Jazzu jest województwo łódzkie – Urząd Marszałkowski\nPartnerzy: Instytut Francuski w Polsce\, DoubleTree by Hilton Łódź\, PlakatowanieLodzi.pl\nPatroni medialni: TVP Kultura\, Polskie Radio Dwójka\, TV TOYA\, Radio Łódź\, JazzPRESS\, Jazz Forum\, LODZ.pl
 URL:https://plasterlodzki.pl/wydarzenia/ich-troje/
 LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260731T200000
+DTEND;TZID=Europe/Warsaw:20260731T210000
+DTSTAMP:20260613T071706
+CREATED:20230120T095505Z
+LAST-MODIFIED:20260612T091203Z
+UID:10029919-1785528000-1785531600@plasterlodzki.pl
+SUMMARY:Łódzka Orkiestra Retro
+DESCRIPTION:Łódzka Orkiestra Retro po raz pierwszy przybije do Tawerny Keja. W jej wykonaniu zabrzmią perły przedwojennej piosenki w autorskich aranżacjach członków zespołu. Sentymentalne tanga i swingujące rytmy przeniosą nas w czasy świetności orkiestr rozrywkowych oraz przypomną historie autorów dwudziestolecia\, których życiowe drogi nieraz prowadziły przez nasze miasto.\nKiedy? 31 lipca 2026O której? 20:00Bilety: 50 zł internetowo /link wkrótce/\, 60 zł na miejscu w dniu koncertu\nWystąpią:\nWeronika Kulak – śpiew\nKrzysztof Marczak – śpiew\nAdrianna Zając – I skrzypce\nMałgorzata Hejduk – II skrzypce/altówka\nSławomir Wojtecki – trąbka\nJan Kornacki – saksofony\, aranżacje\nJózef Kaczorowski – puzon\, aranżacje\nJakub Sofiński – akordeon\, aranżacje\nMichał Marchlewski – gitara\, aranżacje\nLidia Tomaszewska – kontrabas
+URL:https://plasterlodzki.pl/wydarzenia/taneczne-walentynki-z-czarna-plyta/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 END:VCALENDAR
