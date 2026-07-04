@@ -77,9 +77,22 @@ LOCATION:Centralne Muzeum Włókiennictwa w Łodzi\, Piotrkowska 282\, Łódź\,
 CATEGORIES:Festiwal,Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260704T180000
+DTEND;TZID=Europe/Warsaw:20260704T200000
+DTSTAMP:20260704T071704
+CREATED:20241018T145855Z
+LAST-MODIFIED:20260703T090047Z
+UID:10037661-1783188000-1783195200@plasterlodzki.pl
+SUMMARY:Otwarta Scena Fermentu
+DESCRIPTION:Otwarta Scena Fermentu to formuła spotkań organizowanych przez Szkołę Muzyki Rozrywkowej FERMENT.Regularnie prezentują się na niej uczniowie i zespoły związane z placówką. Obycie ze sceną jest jedną z najważniejszych umiejętności\, które powinien zdobyć muzyk. Dlatego właśnie stworzyliśmy przyjazne miejsce\, w którym każdy może zaprezentować to\, co robi\, a przede wszystkim spotkać się i poznać z innymi instrumentalistami oraz wokalistami.\nBilety – 10zł na wsparcie klubu.\nChciałbyś wystąpić? Daj nam znać.Szukasz kogoś do składu? Pomożemy.Chcesz zobaczyć\, co robią inni? Zapraszamy.
+URL:https://plasterlodzki.pl/wydarzenia/matt-campbell/
+LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260704T190000
 DTEND;TZID=Europe/Warsaw:20260704T223000
-DTSTAMP:20260703T071704
+DTSTAMP:20260704T071704
 CREATED:20221202T211245Z
 LAST-MODIFIED:20260417T100554Z
 UID:10029264-1783191600-1783204200@plasterlodzki.pl
@@ -92,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260704T190000
 DTEND;TZID=Europe/Warsaw:20260704T220000
-DTSTAMP:20260703T071704
+DTSTAMP:20260704T071704
 CREATED:20231013T110028Z
 LAST-MODIFIED:20260612T095320Z
 UID:10031951-1783191600-1783202400@plasterlodzki.pl
@@ -105,20 +118,71 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260704T190000
 DTEND;TZID=Europe/Warsaw:20260704T203000
-DTSTAMP:20260703T071704
+DTSTAMP:20260704T071704
 CREATED:20260629T111216Z
 LAST-MODIFIED:20260629T111216Z
 UID:10049481-1783191600-1783197000@plasterlodzki.pl
 SUMMARY:Zuzanna zagra w Łodzi! Koncert w... mieszkaniu
 DESCRIPTION:Jeśli chcesz poznać dokładny adres koncertu\, skontaktuj się z gospodarzem mieszkania lub wyślij e-mail na adres borowkamusic.promocja@gmail.com i zrób sobie rezerwację. To proste. W temacie maila napisz „Zuzanna – Łódź” a w treści podaj swoje imię i nazwisko\, numer telefonu oraz informację\, dla ilu osób chcesz zrobić rezerwację.\n\nWydarzenie na Facebooku: www.facebook.com/events/1661700604864312\n\nKilka zasad akcji House Gig:1. Limit osób na koncercie – 30.2. „Wejściówka” na koncert kosztuje „co łaska” – w trakcie koncertu „puszczony” będzie kapelusz – wrzucisz\, ile będziesz chciał(a). Sugerowana kwota – 50 zł (nie wypada wrzucić mniej; wypada wrzucić więcej).3. Koncert będzie absolutnie akustyczny\, dlatego prosimy o wyciszenie wszystkich telefonów i urządzeń elektrycznych.4. Prosimy o nie nagrywanie koncertu.5. Na koncert można przynieść swój alkohol\, jedzenie i inne takie (tak – mamy lodówkę)…6. Do mieszkania zapraszamy na godz. 19:00. Koncert rozpocznie się o 19:15 i wtedy nie będziemy już wpuszczać publiczności.7. Sugerujemy zabrać ze sobą kapcie/łapcie/laćki/sandały/klapki – będzie Wam cieplej w stopy. Warto mieć też jakąś poduszkę lub koc – przyjemniej jest siedzieć na kocu niż na podłodze.8. W razie jakichkolwiek problemów\, proszę dzwonić: 605 926 808 – Borówka\n\nZuzannaCzasami lirycznie\, czasami z przytupem\, ale zawsze prosto z serca! Jest wokalistką\, multiinstrumentalistką i tekściarką. Tutaj liczy się każde słowo – jej autorska twórczość to piosenka z ambitnym tekstem najwyższej próby\, doprawiona odrobiną folkowych brzmień.\nŚpiewa\, akompaniując sobie na pianinie\, gitarze i akordeonie. Ze względu na barwę głosu i instrumentarium\, przez niektórych kojarzona jest z Renatą Przemyk oraz Zaz\, inni zaś odnajdują w jej twórczości klimat i przestrzeń muzyczną rodem z soundtracku do filmu „Amelia”.\nOd kilku lat regularnie koncertuje po całej Polsce – występowała między innymi podczas Spring Break w Poznaniu\, Songwriter Łódź Festiwal\, toruńskiego LULU festiwal\, czy FRU (Festiwal Raciborskiej Ulicy). Jej muzykę docenili między innymi Czesław Mozil (wydali wspólny singiel) i zespół Raz Dwa Trzy\, zapraszając ją do gościnnego supportu.\nNa koncie ma świetnie przyjęty\, debiutancki album „Dzień dobry” (maj 2020).Latem 2024 roku ukazał się drugi album Zuzanny „Poziomkowa” z gościnnym udziałem m.in. Artura Andrusa.\n„Ma zjawiskowy głos\, piosenki\, które pisze\, to czysta poezja.” – Maciej Szajkowski\, Kapela ze wsi Warszawa\nPosłuchaj: www.youtube.com/user/zuzannamoczek\n\nZuzannasobota\, 4 lipca 2026\, godz. 19Łódź\, ul. Wojskowa – koncert w mieszkaniu
 URL:https://plasterlodzki.pl/wydarzenia/zuzanna-zagra-w-lodzi-koncert-w-mieszkaniu/
-LOCATION:łódzkie
 CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260704T200000
+DTEND;TZID=Europe/Warsaw:20260704T213000
+DTSTAMP:20260704T071704
+CREATED:20260703T121118Z
+LAST-MODIFIED:20260703T121118Z
+UID:10050145-1783195200-1783200600@plasterlodzki.pl
+SUMMARY:Heima
+DESCRIPTION:Zespół Heima zaprasza na jedyny w swoim rodzaju koncert HEIMA GRA WSZYSTKO! Tego wieczoru usłyszycie na żywo dosłownie wszystko\, co do tej pory wydaliśmy. Zagramy w całości nasz debiutancki album „W domu”\, EP-ki „Świat z tektury” i„Koniec Świata”. Będzie to nasz najdłuższy koncert w historii. Przyjdź\, posłuchaj\, porozmawiaj z nami i wpisz się do koncertowej księgi gości.\nPrzygotowaliśmy nowy merch – świetne plakaty\, stworzone specjalnie z myślą o tym wydarzeniu\, które swoim projektem nawiązują do wszystkich etapów naszej muzycznej drogi.\nTo jednak nie koniec atrakcji! Koncertem tym rozpoczynamy „Weekend z Heimą”. Zróbcie sobie wycieczkę do Łodzi\, bo dzień po koncercie (5 lipca) organizujemy wspólnego grill/ognisko z słuchaczami! (Więcej informacji już wkrótce).\nINFORMACJE KONCERTOWE\nKiedy: 4 lipca 2026Gdzie: Łódź – Coffee Onboard (ul. Targowa 1/3)Start: 20:00 (bramki: 19:30)Bilety: WSTĘP WOLNY!Typ: Plenerowy (na tarasach)\nHEIMA: to łódzki zespół działający od 2017 roku\, który wyróżnia się na scenie muzycznej dojrzałym i zarazem słodko-gorzkim spojrzeniem na świat. Ich twórczość to gitarowe granie połączone z polskimi\, autorskimi tekstami wokalistki Olgi Stolarek\, w których poruszane są ważne społecznie tematy. To poszukiwanie siebie pośród wszystkiego i niczego. To muzyka dla tych\, którzy chcą poszukiwać razem z nimi. Tych\, którzy próbują odnaleźć siebie pierwszy i każdy kolejny raz.\nPo ciepło przyjętym debiutanckim albumie „W domu” (2022) oraz EP-ce „Świat z tektury” (2024)\, Heima zaprezentowali swoje najnowsze dzieło\, EP-kę „Koniec Świata” (2025). To wydawnictwo jest symbolicznie pomyślane jako zamknięcie pewnego etapu w historii zespołu\, otwierając drogę do kolejnych muzycznych poszukiwań. Lipcowy koncert HEIMA GRA WSZYSTKO to idealna okazja\, by wspólnie podsumować tę drogę!
+URL:https://plasterlodzki.pl/wydarzenia/heima/
+LOCATION:Coffee OnBoard EC1\, Targowa 1/3\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260704T200000
+DTEND;TZID=Europe/Warsaw:20260704T220000
+DTSTAMP:20260704T071704
+CREATED:20221202T161122Z
+LAST-MODIFIED:20260703T094511Z
+UID:10029103-1783195200-1783202400@plasterlodzki.pl
+SUMMARY:Jazz na leżakach w sobotę
+DESCRIPTION:Jazz na leżakach czyli letnia odsłona\, jazzowych jam session w KIJu. Tym raz w sobotę zapraszamy na JAZZ NA LEŻAKACH.\nJak zawsze gościmy Was od 18:00\, muzyka na żywo startuje od 20:00. Większe grupy zachęcamy do wcześniejszych rezerwacji!!!\nZagra:Zagrają:Witold Janiak – organy Hammonda\,Tomasz Lepczak- gitara\,Kacper Kaźmierski – perkusja.\nMiejsce: KIJ\, ul. Jaracza 45 (wejście od P.O.W.)90-249 ŁódźData: 4/07/2026Cena: FREE\nPoczujcie wyjątkowy klimat\, bawcie się i grajcie razem z nami!Pamiętajcie\, jeśli pogoda zawiedzie\, wydarzenie przenosimy do środka lokalu i startuje o 21:00.
+URL:https://plasterlodzki.pl/wydarzenia/ladies-of-soul-jam/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260704T200000
+DTEND;TZID=Europe/Warsaw:20260704T213000
+DTSTAMP:20260704T071704
+CREATED:20260612T101818Z
+LAST-MODIFIED:20260703T085904Z
+UID:10049412-1783195200-1783200600@plasterlodzki.pl
+SUMMARY:Maciej "Święty" Jankowski
+DESCRIPTION:Serdecznie zapraszam na premierę mojej drugiej solowej płyty\, która nosi tytuł: DDA\, MIŁOŚĆ I INNE DEMONY.Podczasz tego wydarzenia odbędzie się koncert\, podczas którego wybrzmią utwory z premierowego krążka\, jak również kilka piosenek z pierwszej płyty.Oczywiście będzie możliwość nabycia nowego wydawnictwa i mam nadzieję spędzenia wspólnie fajnego czasu w urokliwych warunkach Bohoart cafe.Zapraszam gorąco!!!Maciej „Święty”Jankowski\nBohoart cafe Łódź ul. Rewolucji 2Start godzina 20:00
+URL:https://plasterlodzki.pl/wydarzenia/rafal-zieba-i-maxi-milian-szelest/
+LOCATION:BohoArt Cafe\, Rewolucji 1905 r 2\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260704T220000
+DTEND;TZID=Europe/Warsaw:20260704T235900
+DTSTAMP:20260704T071704
+CREATED:20221202T173232Z
+LAST-MODIFIED:20260703T092809Z
+UID:10029130-1783202400-1783209540@plasterlodzki.pl
+SUMMARY:Narra Party
+DESCRIPTION:**NARRA PARTY – SOBOTA PEŁNA KLUBOWYCH EMOCJI!**\n **04.07 | Narraganset Łódź** \nNajlepsze klubowe brzmienia\, świetna atmosfera i parkiet\, który nie zwalnia tempa aż do rana!\n Za konsoletą:DJ.Piter**\nPrzygotuj się na noc pełną największych hitów\, muzyki dance\, house\, pop i klubowych klasyków. Zabierz znajomych i rozpocznij wakacyjny weekend w najlepszym klubie LGBTQ+ w Łodzi!\n Czeka na Was: dobry vibe i noc pełna dobrej muzyki Świetna atmosfera Największa impreza sobotniej nocy Taras letni\n **Narraganset Łódź** **Sobota | 04.07** **Start: 22:00**\n **Wstęp:**• Do **24:00** – **20 zł**• Po **24:00** – **30 zł**• **Studenci – FREE**• **Bilet za Bilet – FREE**• **VIP – FREE**\nDo zobaczenia na parkiecie!
+URL:https://plasterlodzki.pl/wydarzenia/sylwester-2022-2023-2/
+LOCATION:Narraganset\, Plac Komuny Paryskiej 5A\, Łódź\, łódzkie
+CATEGORIES:Clubbing,Koncert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260705T170000
 DTEND;TZID=Europe/Warsaw:20260705T183000
-DTSTAMP:20260703T071704
+DTSTAMP:20260704T071704
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049736-1783270800-1783276200@plasterlodzki.pl
@@ -131,7 +195,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260705T180000
 DTEND;TZID=Europe/Warsaw:20260705T210000
-DTSTAMP:20260703T071704
+DTSTAMP:20260704T071704
 CREATED:20251114T110057Z
 LAST-MODIFIED:20260612T091049Z
 UID:10037166-1783274400-1783285200@plasterlodzki.pl
@@ -142,9 +206,22 @@ LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260705T180000
+DTEND;TZID=Europe/Warsaw:20260705T203000
+DTSTAMP:20260704T071704
+CREATED:20250221T140454Z
+LAST-MODIFIED:20260703T085818Z
+UID:10039541-1783274400-1783283400@plasterlodzki.pl
+SUMMARY:Zula i Hanka - spotkanie z piosenką międzywojennej Warszawy / Weronika Kulak i Karolina Szeleś
+DESCRIPTION:„Zula i Hanka – spotkanie z piosenką międzywojennej Warszawy” to koncertowa odsłona spektaklu muzycznego. W kameralnej atmosferze kawiarnii BohoArt Cafe usłyszycie pełen repertuar przedstawienia\, wykonywany na żywo przez Weronikę Kulak i Karolinę Szeleś w towarzystwie muzyków. Szlagiery takie jak “Ja się boję sama spać”\, “ Na pierwszy znak” czy “Bubliczki” przeplatane będą fragmentami dialogów i opowieści\, które pozwolą zajrzeć za kulisy życia Zuli Pogorzelskiej i Hanki Ordonówny\, ale także zanurzyć się w świat międzywojennej stolicy. To propozycja zarówno dla miłośników przedwojennego repertuaru\, jak i dla tych\, którzy chcą spędzić letni wieczór przy muzyce opowiadającej historie pełne humoru\, wzruszeń i warszawskiego temperamentu.\n\nWystąpią:Weronika Kulak- wokalKarolina Szeleś – wokal\nJan Kornacki – saksofon\, aranżeJakub Sofiński – akordeonBartosz Paczkowski – skrzypce\n\nNiedziela\, 5 lipca godz. 18:00BohoArt Cafe\, Rewolucji 1905r. 2\, Łódź\nwstęp za dobrowolną cegiełkę – sugerowana kwota 50zł
+URL:https://plasterlodzki.pl/wydarzenia/zarty-w-produkcji-stand-up-open-mic/
+LOCATION:BohoArt Cafe\, Rewolucji 1905 r 2\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260707T190000
 DTEND;TZID=Europe/Warsaw:20260707T203000
-DTSTAMP:20260703T071704
+DTSTAMP:20260704T071704
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049710-1783450800-1783456200@plasterlodzki.pl
@@ -157,7 +234,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260708T200000
 DTEND;TZID=Europe/Warsaw:20260708T213000
-DTSTAMP:20260703T071704
+DTSTAMP:20260704T071704
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049719-1783540800-1783546200@plasterlodzki.pl
@@ -168,9 +245,48 @@ LOCATION:Pasaż Rubinsteina\, Pasaż Rubinsteina\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260709T200000
+DTEND;TZID=Europe/Warsaw:20260709T223000
+DTSTAMP:20260704T071704
+CREATED:20230310T160938Z
+LAST-MODIFIED:20260703T094504Z
+UID:10030430-1783627200-1783636200@plasterlodzki.pl
+SUMMARY:Jazz na leżakach w sobotę
+DESCRIPTION:Jazz na leżakach czyli letnia odsłona czwartkowych\, jazzowych jam session w KIJuZapraszamy do naszego magicznego ogrodu na JAZZ NA LEŻAKACH.\nZagra:Błażej Kozłowski Quartet\nJak zawsze gościmy Was od 18:00\, muzyka na żywo startuje od 20:00. Większe grupy zachęcamy do wcześniejszych rezerwacji!!!\nMiejsce: KIJ\, ul. Jaracza 45 (wejście od P.O.W.)90-249 ŁódźData: 9/07/2026Cena: FREE\nPoczujcie wyjątkowy klimat\, bawcie się i grajcie razem z nami!Przypominamy: jazzowe jam session odbywa się u nas co czwartek! W razie złej pogody\, koncert zostaje przeniesiony do lokalu i staruje o 21:00
+URL:https://plasterlodzki.pl/wydarzenia/stand-up-comedy-in-english-vibe-check-with-ravi/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260710T190000
+DTEND;TZID=Europe/Warsaw:20260710T203000
+DTSTAMP:20260704T071704
+CREATED:20250718T102734Z
+LAST-MODIFIED:20260703T090009Z
+UID:10039524-1783710000-1783715400@plasterlodzki.pl
+SUMMARY:NEXT STOPS
+DESCRIPTION:Co by było\, gdyby jeden wieczór mógł zabrać Cię z Liverpoolu do Sztokholmu\, z Helsinek do Berlina\, a stamtąd na rozgrzane słońcem ulice Ameryki Łacińskiej?\nZapraszamy na wyjątkowy koncert duetu Next Stops — wieczór pełen znanych przebojów rocka i pop-rocka w akustycznych aranżacjach\, wzbogacony o spektakularny 3D mapping.\n Svetlana Butouska – wokal Sergei Butouski – gitara\, wokal Gość specjalny: Ignacy Baumberg – cajón\nDwa głosy\, gitara\, perkusyjne rytmy i obrazy\, które przeniosą Was w kolejne muzyczne światy. Każda piosenka to nowa historia\, każdy utwór to kolejny przystanek na wspólnej trasie.\n Muzyka\, którą znacie. Podróż\, której nie zapomnicie.\n Klub Jesteśmy\, Łódź\, ul. Jaracza 13 10.07.2026 (piątek) 19:00 Bilety: 40 zł Rezerwacja miejsc: 531 511 500\nNext Stops — wsiądźcie do tej podróży.
+URL:https://plasterlodzki.pl/wydarzenia/koncert-saksofonowy-jazz-swing-z-lat-20-30-2-4/
+LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260710T200000
+DTEND;TZID=Europe/Warsaw:20260710T220000
+DTSTAMP:20260704T071704
+CREATED:20230310T160818Z
+LAST-MODIFIED:20260703T094330Z
+UID:10030427-1783713600-1783720800@plasterlodzki.pl
+SUMMARY:Blues na leżakach - Haze Acoustic Trio
+DESCRIPTION:Zapraszamy na magiczny sobotni wieczór przy koktajlu i bluesie na leżakch.Można trochę potańczyć\, można się pobujać\, można po prostu posłuchać.Będzie pięknie!\nJak zawsze gościmy Was od 18:00\, muzyka na żywo startuje od 20:00. Większe grupy zachęcamy do wcześniejszych rezerwacji!!!\nZagrają: H.A.T – Haze Acoustic Trio\nPoczujcie wyjątkowy klimat\, bawcie się z nami!Pamiętajcie\, jeśli pogoda zawiedzie\, wyjątkowo wydarzenie zostaje odwołane!!!\nMiejsce: KIJ\, ul. Jaracza 45 (wejście od P.O.W.)90-249 ŁódźData: 10/07/2026Godzina: :Cena: FREE
+URL:https://plasterlodzki.pl/wydarzenia/haze-acoustic-trio-3/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260710T200000
 DTEND;TZID=Europe/Warsaw:20260710T210000
-DTSTAMP:20260703T071704
+DTSTAMP:20260704T071704
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049664-1783713600-1783717200@plasterlodzki.pl
@@ -183,7 +299,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260710T210000
 DTEND;TZID=Europe/Warsaw:20260710T223000
-DTSTAMP:20260703T071704
+DTSTAMP:20260704T071704
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049665-1783717200-1783722600@plasterlodzki.pl
@@ -196,7 +312,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260711T190000
 DTEND;TZID=Europe/Warsaw:20260711T223000
-DTSTAMP:20260703T071704
+DTSTAMP:20260704T071705
 CREATED:20221118T092939Z
 LAST-MODIFIED:20260612T093334Z
 UID:10028784-1783796400-1783809000@plasterlodzki.pl
@@ -207,9 +323,22 @@ LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260711T200000
+DTEND;TZID=Europe/Warsaw:20260711T210000
+DTSTAMP:20260704T071705
+CREATED:20260116T115849Z
+LAST-MODIFIED:20260703T094351Z
+UID:10043520-1783800000-1783803600@plasterlodzki.pl
+SUMMARY:Jazz na leżakach w sobotę
+DESCRIPTION:Jazz na leżakach czyli letnia odsłona\, jazzowych jam session w KIJu. Tym raz w sobotę zapraszamy na JAZZ NA LEŻAKACH.\nJak zawsze gościmy Was od 18:00\, muzyka na żywo startuje od 20:00. Większe grupy zachęcamy do wcześniejszych rezerwacji!!!\nZagrają:Igor Wasiński – trąbka\,Błażej Szyzdek – gitara\,Hubert Grygiel – bas\,Piotr Wierzchowski – perkusja.\nMiejsce: KIJ\, ul. Jaracza 45 (wejście od P.O.W.)90-249 ŁódźData: 11/07/2026Cena: FREE\nPoczujcie wyjątkowy klimat\, bawcie się i grajcie razem z nami!Pamiętajcie\, jeśli pogoda zawiedzie\, wydarzenie przenosimy do środka lokalu i startuje o 21:00.
+URL:https://plasterlodzki.pl/wydarzenia/zatanczysz-ze-mna-jeszcze-raz-7-urodziny-kija-2-2-3-3/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260711T203000
 DTEND;TZID=Europe/Warsaw:20260711T220000
-DTSTAMP:20260703T071704
+DTSTAMP:20260704T071705
 CREATED:20230512T142415Z
 LAST-MODIFIED:20260425T103920Z
 UID:10030969-1783801800-1783807200@plasterlodzki.pl
@@ -221,8 +350,21 @@ CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260712T170000
+DTEND;TZID=Europe/Warsaw:20260712T190000
+DTSTAMP:20260704T071705
+CREATED:20260410T092421Z
+LAST-MODIFIED:20260703T085850Z
+UID:10048062-1783875600-1783882800@plasterlodzki.pl
+SUMMARY:Koncert Grunwaldzki (II edycja)
+DESCRIPTION:​Zwycięstwo\, które zapisało się w historii – i w nutach! \n​Wielkimi krokami zbliża się rocznica jednej z najważniejszych bitew w dziejach polskiego oręża. Aby godnie i z radością uczcić ten historyczny triumf\, Fundacja Koronna ma zaszczyt zaprosić Państwa na II edycję Koncertu Grunwaldzkiego!\n​W tę niezwykłą\, muzyczną podróż do epoki jagiellońskiej po raz kolejny zabierze nas Marcin Mróz. Jego talent\, wokal i pasję mieli Państwo okazję docenić już podczas wielu naszych dotychczasowych inicjatyw.\n​Co przygotowaliśmy na ten wieczór?​ Pieśni staropolskie – usłyszymy tradycyjne utwory\, które towarzyszyły naszym przodkom i kształtowały ducha polskiego rycerstwa.\n​Twórczość własną – Marcin zaprezentuje również swoje autorskie kompozycje w tematyce okołogrunwaldzkiej\, łącząc historię ze świeżym\, artystycznym spojrzeniem.\n​Będzie to doskonała okazja\, aby w przeddzień rocznicy bitwy poczuć dumę z polskiego dziedzictwa w przyjaznej\, kulturalnej atmosferze. \n​ Kiedy: 12 lipca\, godz. 17:00\n Gdzie: Bohoart Cafe\, ul. Rewolucji 1905 r.\, Łódź\n​Serdecznie zapraszamy wszystkich pasjonatów historii\, muzyki dawnej oraz dobrego towarzystwa.\n​Do zobaczenia na miejscu!
+URL:https://plasterlodzki.pl/wydarzenia/stand-up-lodz-michal-palubski-w-programie-drugiego-terminu-nie-bedzie/
+LOCATION:BohoArt Cafe\, Rewolucji 1905 r 2\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260712T170000
 DTEND;TZID=Europe/Warsaw:20260712T183000
-DTSTAMP:20260703T071704
+DTSTAMP:20260704T071705
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049737-1783875600-1783881000@plasterlodzki.pl
@@ -235,7 +377,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260714T190000
 DTEND;TZID=Europe/Warsaw:20260714T203000
-DTSTAMP:20260703T071704
+DTSTAMP:20260704T071705
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049711-1784055600-1784061000@plasterlodzki.pl
@@ -248,7 +390,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260715T200000
 DTEND;TZID=Europe/Warsaw:20260715T213000
-DTSTAMP:20260703T071704
+DTSTAMP:20260704T071705
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049720-1784145600-1784151000@plasterlodzki.pl
@@ -261,7 +403,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260716T210000
 DTEND;TZID=Europe/Warsaw:20260716T220000
-DTSTAMP:20260703T071704
+DTSTAMP:20260704T071705
 CREATED:20260630T140243Z
 LAST-MODIFIED:20260630T140243Z
 UID:10049501-1784235600-1784239200@plasterlodzki.pl
@@ -273,8 +415,21 @@ CATEGORIES:Festiwal,Koncert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260717T200000
+DTEND;TZID=Europe/Warsaw:20260717T220000
+DTSTAMP:20260704T071705
+CREATED:20251221T121706Z
+LAST-MODIFIED:20260703T094407Z
+UID:10042600-1784318400-1784325600@plasterlodzki.pl
+SUMMARY:Blues na leżakach - Qbek i Chypis
+DESCRIPTION:Zapraszamy na magiczny piątkowy wieczór przy koktajlu i bluesie.Można trochę potańczyć\, można się pobujać\, można po prostu posłuchać.Nasze drzwi otwieramy dla Państwa o 18:00. Start koncertu planujemy na godzinę 20:00.Zagrają: Qbek i Chypis\nPoczujcie wyjątkowy klimat\, bawcie się z nami!Pamiętajcie\, jeśli pogoda zawiedzie\, wydarzenie przenosimy do środka lokalu i gramy od 21:00\nMiejsce: KIJ\, ul. Jaracza 45 (wejście od P.O.W.)90-249 ŁódźData: 17/07/2026Godzina: :Cena: FREE
+URL:https://plasterlodzki.pl/wydarzenia/zatanczysz-ze-mna-jeszcze-raz-7-urodziny-kija-2-5/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260717T200000
 DTEND;TZID=Europe/Warsaw:20260717T210000
-DTSTAMP:20260703T071704
+DTSTAMP:20260704T071705
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049666-1784318400-1784322000@plasterlodzki.pl
@@ -285,9 +440,22 @@ LOCATION:Centralne Muzeum Włókiennictwa w Łodzi\, Piotrkowska 282\, Łódź\,
 CATEGORIES:Festiwal,Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260717T200000
+DTEND;TZID=Europe/Warsaw:20260717T220000
+DTSTAMP:20260704T071705
+CREATED:20230120T095557Z
+LAST-MODIFIED:20260703T094838Z
+UID:10029921-1784318400-1784325600@plasterlodzki.pl
+SUMMARY:Janusz Nastarowicz i Wiktor Bartczak
+DESCRIPTION:Szanty i folk irlandzki\nDwóch doskonałych muzyków – Janusz Nastarowicz ( Colorado Band ) oraz Wiktor Bartczak ( Cztery Refy )\nwe wspaniałym projekcie folkowo szantowym\nZapraszamy serdecznie\nBilety 35/40 zł\nKupbilecik.pl\nBiletyna.pl\nTawerna Keja\nInfo i rezerwacje 609 152 420
+URL:https://plasterlodzki.pl/wydarzenia/ekt-gdynia-2/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260717T210000
 DTEND;TZID=Europe/Warsaw:20260717T230000
-DTSTAMP:20260703T071704
+DTSTAMP:20260704T071705
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049667-1784322000-1784329200@plasterlodzki.pl
@@ -560,7 +728,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260802T170000
 DTEND;TZID=Europe/Warsaw:20260802T183000
-DTSTAMP:20260703T071705
+DTSTAMP:20260704T071706
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049740-1785690000-1785695400@plasterlodzki.pl
@@ -573,7 +741,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260804T190000
 DTEND;TZID=Europe/Warsaw:20260804T203000
-DTSTAMP:20260703T071705
+DTSTAMP:20260704T071706
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049714-1785870000-1785875400@plasterlodzki.pl
@@ -586,7 +754,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260805T200000
 DTEND;TZID=Europe/Warsaw:20260805T213000
-DTSTAMP:20260703T071705
+DTSTAMP:20260704T071706
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049723-1785960000-1785965400@plasterlodzki.pl
@@ -599,7 +767,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260806T190000
 DTEND;TZID=Europe/Warsaw:20260806T210000
-DTSTAMP:20260703T071705
+DTSTAMP:20260704T071706
 CREATED:20260410T102222Z
 LAST-MODIFIED:20260410T102222Z
 UID:10048081-1786042800-1786050000@plasterlodzki.pl
@@ -612,7 +780,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260806T190000
 DTEND;TZID=Europe/Warsaw:20260806T210000
-DTSTAMP:20260703T071705
+DTSTAMP:20260704T071706
 CREATED:20260702T114633Z
 LAST-MODIFIED:20260702T114706Z
 UID:10049786-1786042800-1786050000@plasterlodzki.pl
@@ -625,7 +793,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260806T210000
 DTEND;TZID=Europe/Warsaw:20260806T220000
-DTSTAMP:20260703T071705
+DTSTAMP:20260704T071707
 CREATED:20260630T140243Z
 LAST-MODIFIED:20260630T140243Z
 UID:10049504-1786050000-1786053600@plasterlodzki.pl
@@ -638,7 +806,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260807T210000
 DTEND;TZID=Europe/Warsaw:20260807T223000
-DTSTAMP:20260703T071705
+DTSTAMP:20260704T071707
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049670-1786136400-1786141800@plasterlodzki.pl
@@ -651,7 +819,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260808T130000
 DTEND;TZID=Europe/Warsaw:20260808T150000
-DTSTAMP:20260703T071705
+DTSTAMP:20260704T071707
 CREATED:20260702T114633Z
 LAST-MODIFIED:20260702T114706Z
 UID:10049787-1786194000-1786201200@plasterlodzki.pl
@@ -664,7 +832,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260808T190000
 DTEND;TZID=Europe/Warsaw:20260808T233000
-DTSTAMP:20260703T071705
+DTSTAMP:20260704T071707
 CREATED:20221202T211155Z
 LAST-MODIFIED:20260508T090319Z
 UID:10029262-1786215600-1786231800@plasterlodzki.pl
@@ -677,7 +845,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260809T170000
 DTEND;TZID=Europe/Warsaw:20260809T183000
-DTSTAMP:20260703T071705
+DTSTAMP:20260704T071707
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049741-1786294800-1786300200@plasterlodzki.pl
@@ -690,7 +858,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260811T190000
 DTEND;TZID=Europe/Warsaw:20260811T203000
-DTSTAMP:20260703T071705
+DTSTAMP:20260704T071707
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049715-1786474800-1786480200@plasterlodzki.pl
@@ -703,7 +871,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260812T200000
 DTEND;TZID=Europe/Warsaw:20260812T213000
-DTSTAMP:20260703T071705
+DTSTAMP:20260704T071707
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049724-1786564800-1786570200@plasterlodzki.pl
@@ -716,7 +884,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260814T190000
 DTEND;TZID=Europe/Warsaw:20260814T230000
-DTSTAMP:20260703T071705
+DTSTAMP:20260704T071707
 CREATED:20250908T124832Z
 LAST-MODIFIED:20260515T102204Z
 UID:10043090-1786734000-1786748400@plasterlodzki.pl
@@ -729,7 +897,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260814T210000
 DTEND;TZID=Europe/Warsaw:20260814T223000
-DTSTAMP:20260703T071705
+DTSTAMP:20260704T071707
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049671-1786741200-1786746600@plasterlodzki.pl
@@ -742,7 +910,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260816T170000
 DTEND;TZID=Europe/Warsaw:20260816T183000
-DTSTAMP:20260703T071705
+DTSTAMP:20260704T071707
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049742-1786899600-1786905000@plasterlodzki.pl
@@ -755,7 +923,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260818T190000
 DTEND;TZID=Europe/Warsaw:20260818T203000
-DTSTAMP:20260703T071705
+DTSTAMP:20260704T071707
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049716-1787079600-1787085000@plasterlodzki.pl
@@ -768,7 +936,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260819T200000
 DTEND;TZID=Europe/Warsaw:20260819T213000
-DTSTAMP:20260703T071706
+DTSTAMP:20260704T071707
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049725-1787169600-1787175000@plasterlodzki.pl
@@ -781,7 +949,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260820T190000
 DTEND;TZID=Europe/Warsaw:20260820T213000
-DTSTAMP:20260703T071706
+DTSTAMP:20260704T071707
 CREATED:20250629T081017Z
 LAST-MODIFIED:20260630T135504Z
 UID:10041675-1787252400-1787261400@plasterlodzki.pl
@@ -794,7 +962,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T170000
 DTEND;TZID=Europe/Warsaw:20260823T183000
-DTSTAMP:20260703T071706
+DTSTAMP:20260704T071707
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049743-1787504400-1787509800@plasterlodzki.pl
@@ -807,7 +975,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260825T190000
 DTEND;TZID=Europe/Warsaw:20260825T203000
-DTSTAMP:20260703T071706
+DTSTAMP:20260704T071707
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049717-1787684400-1787689800@plasterlodzki.pl
@@ -820,7 +988,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260826T200000
 DTEND;TZID=Europe/Warsaw:20260826T213000
-DTSTAMP:20260703T071706
+DTSTAMP:20260704T071707
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049726-1787774400-1787779800@plasterlodzki.pl
@@ -833,7 +1001,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260827T190000
 DTEND;TZID=Europe/Warsaw:20260827T210000
-DTSTAMP:20260703T071706
+DTSTAMP:20260704T071707
 CREATED:20251220T220055Z
 LAST-MODIFIED:20260425T110707Z
 UID:10045915-1787857200-1787864400@plasterlodzki.pl
@@ -842,5 +1010,18 @@ DESCRIPTION:Marcin Masecki zaprezentuje program „Boleros y Masecki”\, dalszy
 URL:https://plasterlodzki.pl/wydarzenia/tribute-to-whitney-houston-symfonicznie/
 LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
 CATEGORIES:Festiwal,Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260828T200000
+DTEND;TZID=Europe/Warsaw:20260828T223000
+DTSTAMP:20260704T071707
+CREATED:20230120T095341Z
+LAST-MODIFIED:20260703T094813Z
+UID:10029916-1787947200-1787956200@plasterlodzki.pl
+SUMMARY:Bergia
+DESCRIPTION:Jeseśmy z Łodzi i gramy szanty z lekkim zadziorem rock’owym Na naszych koncertach jest lirycznie ale też energetycznie. Największą radochę mamy ze wspólnego śpiewania z ludźmi\, bo kochamy piosenkę żeglarską\, a Ci którzy są z nami mają podobnieJesteśmy osobami grającymi od lat różne klimaty muzyczne\, ale od końca roku 2023 przyszedł czas na realizowanie naszych pasji\, a one są nieodłączne z wodą\, z wiatrem w żaglach\, sympatycznymi okrzykami: „Ahoj!!!” i oczywiście z radosnym śpiewem szant Zapraszamy!!! OJ się będzie działo\nBilety 40 złKupbilecik.pl\nBiletyna.plTawerna KejaInfo i rezerwacje 609 152 420
+URL:https://plasterlodzki.pl/wydarzenia/holy-snakes/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
 END:VEVENT
 END:VCALENDAR
