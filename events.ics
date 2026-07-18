@@ -531,9 +531,22 @@ LOCATION:Centralne Muzeum Włókiennictwa w Łodzi\, Piotrkowska 282\, Łódź\,
 CATEGORIES:Festiwal,Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260718T170000
+DTEND;TZID=Europe/Warsaw:20260718T190000
+DTSTAMP:20260718T071704
+CREATED:20240522T161907Z
+LAST-MODIFIED:20260717T122150Z
+UID:10050355-1784394000-1784401200@plasterlodzki.pl
+SUMMARY:Włókiennicza Unplugged
+DESCRIPTION:Włókiennicza Unplugged\n\nul. Włókiennicza 7 \n\nW letnie wieczory Włókiennicza 6 rozbrzmiewa dźwiękami muzyki. „Włókiennicza Unplugged” to niezwykła seria bezpłatnych koncertów na świeżym powietrzu\, które od czerwca do września co tydzień zamieniają tę symboliczną ulicę Łodzi w tętniącą życiem przestrzeń kulturalną. \n godz. 17:00 – 19:00  \n\n\n\nOrganizator: Łódzkie Centrum Wydarzeń
+URL:https://plasterlodzki.pl/wydarzenia/letnie-koncerty-na-wlokienniczej-4/2026-07-18/
+LOCATION:Ulica Włókiennicza\, Włókiennicza\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260718T180000
 DTEND;TZID=Europe/Warsaw:20260718T220000
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20251220T215058Z
 LAST-MODIFIED:20251220T215058Z
 UID:10045902-1784397600-1784412000@plasterlodzki.pl
@@ -546,7 +559,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260718T180000
 DTEND;TZID=Europe/Warsaw:20260718T235900
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20230127T110959Z
 LAST-MODIFIED:20260426T104440Z
 UID:10029963-1784397600-1784419140@plasterlodzki.pl
@@ -559,7 +572,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260718T200000
 DTEND;TZID=Europe/Warsaw:20260718T210000
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20230120T095314Z
 LAST-MODIFIED:20260703T094848Z
 UID:10029915-1784404800-1784408400@plasterlodzki.pl
@@ -572,7 +585,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260718T200000
 DTEND;TZID=Europe/Warsaw:20260718T220000
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20260305T175641Z
 LAST-MODIFIED:20260710T085903Z
 UID:10042467-1784404800-1784412000@plasterlodzki.pl
@@ -585,7 +598,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260718T210000
 DTEND;TZID=Europe/Warsaw:20260718T220000
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20260405T090115Z
 LAST-MODIFIED:20260710T093008Z
 UID:10047856-1784408400-1784412000@plasterlodzki.pl
@@ -598,7 +611,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260719T170000
 DTEND;TZID=Europe/Warsaw:20260719T183000
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049738-1784480400-1784485800@plasterlodzki.pl
@@ -611,7 +624,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260719T170000
 DTEND;TZID=Europe/Warsaw:20260719T180000
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20230210T112747Z
 LAST-MODIFIED:20260703T101112Z
 UID:10030195-1784480400-1784484000@plasterlodzki.pl
@@ -624,7 +637,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260719T190000
 DTEND;TZID=Europe/Warsaw:20260719T223000
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20221118T093029Z
 LAST-MODIFIED:20260116T132505Z
 UID:10028786-1784487600-1784500200@plasterlodzki.pl
@@ -637,7 +650,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260720T190000
 DTEND;TZID=Europe/Warsaw:20260720T210000
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20260501T192116Z
 LAST-MODIFIED:20260709T080355Z
 UID:10050206-1784574000-1784581200@plasterlodzki.pl
@@ -650,7 +663,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260720T200000
 DTEND;TZID=Europe/Warsaw:20260720T220000
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20241223T125003Z
 LAST-MODIFIED:20260515T102233Z
 UID:10038738-1784577600-1784584800@plasterlodzki.pl
@@ -663,7 +676,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260721T190000
 DTEND;TZID=Europe/Warsaw:20260721T203000
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049712-1784660400-1784665800@plasterlodzki.pl
@@ -676,7 +689,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260721T200000
 DTEND;TZID=Europe/Warsaw:20260721T233000
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20250530T082328Z
 LAST-MODIFIED:20260515T102257Z
 UID:10040975-1784664000-1784676600@plasterlodzki.pl
@@ -689,7 +702,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260722T200000
 DTEND;TZID=Europe/Warsaw:20260722T220000
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20250629T080837Z
 LAST-MODIFIED:20260515T102322Z
 UID:10041672-1784750400-1784757600@plasterlodzki.pl
@@ -702,7 +715,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260722T200000
 DTEND;TZID=Europe/Warsaw:20260722T213000
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049721-1784750400-1784755800@plasterlodzki.pl
@@ -715,7 +728,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260723T180000
 DTEND;TZID=Europe/Warsaw:20260723T220000
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20260702T113455Z
 LAST-MODIFIED:20260702T113705Z
 UID:10048469-1784829600-1784844000@plasterlodzki.pl
@@ -728,7 +741,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260723T190000
 DTEND;TZID=Europe/Warsaw:20260723T210000
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20250530T082353Z
 LAST-MODIFIED:20260603T100535Z
 UID:10040976-1784833200-1784840400@plasterlodzki.pl
@@ -741,7 +754,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260723T210000
 DTEND;TZID=Europe/Warsaw:20260723T220000
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20260630T140243Z
 LAST-MODIFIED:20260630T140243Z
 UID:10049502-1784840400-1784844000@plasterlodzki.pl
@@ -767,7 +780,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260724T180000
 DTEND;TZID=Europe/Warsaw:20260724T230000
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20221202T211432Z
 LAST-MODIFIED:20260612T093421Z
 UID:10029268-1784916000-1784934000@plasterlodzki.pl
@@ -780,7 +793,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260724T180000
 DTEND;TZID=Europe/Warsaw:20260724T235900
-DTSTAMP:20260717T071704
+DTSTAMP:20260718T071704
 CREATED:20260315T110429Z
 LAST-MODIFIED:20260630T135720Z
 UID:10049492-1784916000-1784937540@plasterlodzki.pl
@@ -793,7 +806,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260724T190000
 DTEND;TZID=Europe/Warsaw:20260724T203000
-DTSTAMP:20260717T071705
+DTSTAMP:20260718T071704
 CREATED:20221202T185418Z
 LAST-MODIFIED:20260515T092627Z
 UID:10029165-1784919600-1784925000@plasterlodzki.pl
@@ -806,7 +819,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260724T203000
 DTEND;TZID=Europe/Warsaw:20260724T213000
-DTSTAMP:20260717T071705
+DTSTAMP:20260718T071704
 CREATED:20221118T123847Z
 LAST-MODIFIED:20260703T094315Z
 UID:10028884-1784925000-1784928600@plasterlodzki.pl
@@ -830,9 +843,22 @@ LOCATION:Atlas Arena\, Bandurskiego 7\, Łódź\, łódzkie\, 94-020\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260725T170000
+DTEND;TZID=Europe/Warsaw:20260725T190000
+DTSTAMP:20260718T071704
+CREATED:20240522T161907Z
+LAST-MODIFIED:20260717T122150Z
+UID:10050356-1784998800-1785006000@plasterlodzki.pl
+SUMMARY:Włókiennicza Unplugged
+DESCRIPTION:Włókiennicza Unplugged\n\nul. Włókiennicza 7 \n\nW letnie wieczory Włókiennicza 6 rozbrzmiewa dźwiękami muzyki. „Włókiennicza Unplugged” to niezwykła seria bezpłatnych koncertów na świeżym powietrzu\, które od czerwca do września co tydzień zamieniają tę symboliczną ulicę Łodzi w tętniącą życiem przestrzeń kulturalną. \n godz. 17:00 – 19:00  \n\n\n\nOrganizator: Łódzkie Centrum Wydarzeń
+URL:https://plasterlodzki.pl/wydarzenia/letnie-koncerty-na-wlokienniczej-4/2026-07-25/
+LOCATION:Ulica Włókiennicza\, Włókiennicza\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260725T180000
 DTEND;TZID=Europe/Warsaw:20260725T233000
-DTSTAMP:20260717T071705
+DTSTAMP:20260718T071704
 CREATED:20260315T110429Z
 LAST-MODIFIED:20260630T135720Z
 UID:10049493-1785002400-1785022200@plasterlodzki.pl
@@ -844,8 +870,21 @@ CATEGORIES:Festiwal,Koncert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260725T190000
+DTEND;TZID=Europe/Warsaw:20260725T210000
+DTSTAMP:20260718T071704
+CREATED:20230217T121357Z
+LAST-MODIFIED:20260717T131005Z
+UID:10030212-1785006000-1785013200@plasterlodzki.pl
+SUMMARY:NØSTREZ - PREMIERA vol. 1
+DESCRIPTION:TO SIĘ ZACZYNA! \nJuż wkrótce premierowy koncert zespołu NØSTREZ – nowego pop-rockowego projektu\, w którym energia spotyka emocje\, a muzyka niesie coś więcej niż tylko dźwięki.\n Gramy autorskie utwory i własne teksty. Tworzymy muzykę\, która daje nadzieję\, inspiruje do bycia sobą i pozwala choć na chwilę złapać oddech od codzienności. Bez stresu. Bez masek. Tylko prawda\, emocje i brzmienie\, które zostaje z Tobą na długo.\n NØSTREZ to zespół\, który łączy ludzi. Integrujemy muzyków z muzykami z niepełnosprawnościami\, udowadniając\, że pasja\, talent i muzyka nie znają żadnych barier. Działamy w ramach Fundacji „Piotrkowska 17”.\n Tego wieczoru odbędzie się także premiera teledysku do utworu „Piotrkowska nocą” – wyjątkowej muzycznej opowieści o Łodzi\, zrealizowanej dzięki wsparciu Samorządu Województwa Łódzkiego.\nPartnerem Działania jest Województwo Łódzkie – Urząd Marszałkowski. Zadanie zrealizowano w ramach Grantu Marszałka na promocję Województwa Łódzkiego w związku z realizacją działań o charakterze twórczym i artystycznym w 2026 roku.\n Nie przegap chwili\, od której wszystko się zaczyna.Przyjdź\, poczuj tę energię i stań się częścią pierwszego rozdziału historii NØSTREZ.\nWejście tylko na zaproszenia  Dostępne w Kawiarni \n Widzimy się na premierowym koncercie!
+URL:https://plasterlodzki.pl/wydarzenia/wieczor-taneczny-ostatki-w-kawiarni-piotrkowska-17/
+LOCATION:Piotrkowska 17\, Piotrkowska 17\, Łódź\, łódzkie\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260725T190000
 DTEND;TZID=Europe/Warsaw:20260725T213000
-DTSTAMP:20260717T071705
+DTSTAMP:20260718T071704
 CREATED:20221118T131452Z
 LAST-MODIFIED:20260703T094825Z
 UID:10028923-1785006000-1785015000@plasterlodzki.pl
@@ -858,7 +897,20 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260725T200000
 DTEND;TZID=Europe/Warsaw:20260725T220000
-DTSTAMP:20260717T071705
+DTSTAMP:20260718T071704
+CREATED:20221202T161412Z
+LAST-MODIFIED:20260717T121553Z
+UID:10029110-1785009600-1785016800@plasterlodzki.pl
+SUMMARY:Jazz na leżakach w sobotę
+DESCRIPTION:Jazz na leżakach czyli letnia odsłona\, jazzowych jam session w KIJu. Tym raz w sobotę zapraszamy na JAZZ NA LEŻAKACH.\nJak zawsze gościmy Was od 18:00\, muzyka na żywo startuje od 20:00. Większe grupy zachęcamy do wcześniejszych rezerwacji!!!\nZagrają:Piotr Grąbkowski – saksofon\,Błażej Ludwiczuk – gitara\,Kamil Guźniczak – kontrabas\,Błażej Kozłowski – perkusja.\nMiejsce: KIJ\, ul. Jaracza 45 (wejście od P.O.W.)90-249 ŁódźData: 26/07/2026Cena: FREE\nPoczujcie wyjątkowy klimat\, bawcie się i grajcie razem z nami!Pamiętajcie\, jeśli pogoda zawiedzie\, wydarzenie przenosimy do środka lokalu i startuje o 21:00.
+URL:https://plasterlodzki.pl/wydarzenia/cuda-na-kiju-magiczny-wieczor-w-kiju/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260725T200000
+DTEND;TZID=Europe/Warsaw:20260725T220000
+DTSTAMP:20260718T071704
 CREATED:20260327T104705Z
 LAST-MODIFIED:20260710T111953Z
 UID:10047643-1785009600-1785016800@plasterlodzki.pl
@@ -871,7 +923,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260726T160000
 DTEND;TZID=Europe/Warsaw:20260726T170000
-DTSTAMP:20260717T071705
+DTSTAMP:20260718T071704
 CREATED:20260410T102148Z
 LAST-MODIFIED:20260410T102148Z
 UID:10048080-1785081600-1785085200@plasterlodzki.pl
@@ -884,7 +936,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260726T170000
 DTEND;TZID=Europe/Warsaw:20260726T183000
-DTSTAMP:20260717T071705
+DTSTAMP:20260718T071704
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049739-1785085200-1785090600@plasterlodzki.pl
@@ -934,9 +986,22 @@ LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260801T170000
+DTEND;TZID=Europe/Warsaw:20260801T190000
+DTSTAMP:20260718T071705
+CREATED:20240522T161907Z
+LAST-MODIFIED:20260717T122150Z
+UID:10050357-1785603600-1785610800@plasterlodzki.pl
+SUMMARY:Włókiennicza Unplugged
+DESCRIPTION:Włókiennicza Unplugged\n\nul. Włókiennicza 7 \n\nW letnie wieczory Włókiennicza 6 rozbrzmiewa dźwiękami muzyki. „Włókiennicza Unplugged” to niezwykła seria bezpłatnych koncertów na świeżym powietrzu\, które od czerwca do września co tydzień zamieniają tę symboliczną ulicę Łodzi w tętniącą życiem przestrzeń kulturalną. \n godz. 17:00 – 19:00  \n\n\n\nOrganizator: Łódzkie Centrum Wydarzeń
+URL:https://plasterlodzki.pl/wydarzenia/letnie-koncerty-na-wlokienniczej-4/2026-08-01/
+LOCATION:Ulica Włókiennicza\, Włókiennicza\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260802T170000
 DTEND;TZID=Europe/Warsaw:20260802T183000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049740-1785690000-1785695400@plasterlodzki.pl
@@ -949,7 +1014,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260804T190000
 DTEND;TZID=Europe/Warsaw:20260804T203000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049714-1785870000-1785875400@plasterlodzki.pl
@@ -962,7 +1027,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260805T200000
 DTEND;TZID=Europe/Warsaw:20260805T213000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049723-1785960000-1785965400@plasterlodzki.pl
@@ -975,7 +1040,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260806T190000
 DTEND;TZID=Europe/Warsaw:20260806T210000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20260410T102222Z
 LAST-MODIFIED:20260410T102222Z
 UID:10048081-1786042800-1786050000@plasterlodzki.pl
@@ -988,7 +1053,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260806T190000
 DTEND;TZID=Europe/Warsaw:20260806T210000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20260702T114633Z
 LAST-MODIFIED:20260702T114706Z
 UID:10049786-1786042800-1786050000@plasterlodzki.pl
@@ -1001,7 +1066,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260806T210000
 DTEND;TZID=Europe/Warsaw:20260806T220000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20260630T140243Z
 LAST-MODIFIED:20260630T140243Z
 UID:10049504-1786050000-1786053600@plasterlodzki.pl
@@ -1014,7 +1079,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260807T210000
 DTEND;TZID=Europe/Warsaw:20260807T223000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049670-1786136400-1786141800@plasterlodzki.pl
@@ -1027,7 +1092,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260808T130000
 DTEND;TZID=Europe/Warsaw:20260808T150000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20260702T114633Z
 LAST-MODIFIED:20260702T114706Z
 UID:10049787-1786194000-1786201200@plasterlodzki.pl
@@ -1038,9 +1103,22 @@ LOCATION:Multikino\, Piłsudskiego 5\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260808T170000
+DTEND;TZID=Europe/Warsaw:20260808T190000
+DTSTAMP:20260718T071705
+CREATED:20240522T161907Z
+LAST-MODIFIED:20260717T122150Z
+UID:10050358-1786208400-1786215600@plasterlodzki.pl
+SUMMARY:Włókiennicza Unplugged
+DESCRIPTION:Włókiennicza Unplugged\n\nul. Włókiennicza 7 \n\nW letnie wieczory Włókiennicza 6 rozbrzmiewa dźwiękami muzyki. „Włókiennicza Unplugged” to niezwykła seria bezpłatnych koncertów na świeżym powietrzu\, które od czerwca do września co tydzień zamieniają tę symboliczną ulicę Łodzi w tętniącą życiem przestrzeń kulturalną. \n godz. 17:00 – 19:00  \n\n\n\nOrganizator: Łódzkie Centrum Wydarzeń
+URL:https://plasterlodzki.pl/wydarzenia/letnie-koncerty-na-wlokienniczej-4/2026-08-08/
+LOCATION:Ulica Włókiennicza\, Włókiennicza\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260808T190000
 DTEND;TZID=Europe/Warsaw:20260808T233000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20221202T211155Z
 LAST-MODIFIED:20260508T090319Z
 UID:10029262-1786215600-1786231800@plasterlodzki.pl
@@ -1053,7 +1131,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260809T170000
 DTEND;TZID=Europe/Warsaw:20260809T183000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049741-1786294800-1786300200@plasterlodzki.pl
@@ -1066,7 +1144,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260810T190000
 DTEND;TZID=Europe/Warsaw:20260810T210000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20260501T192116Z
 LAST-MODIFIED:20260709T080355Z
 UID:10050208-1786388400-1786395600@plasterlodzki.pl
@@ -1079,7 +1157,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260811T190000
 DTEND;TZID=Europe/Warsaw:20260811T203000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049715-1786474800-1786480200@plasterlodzki.pl
@@ -1092,7 +1170,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260812T200000
 DTEND;TZID=Europe/Warsaw:20260812T213000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049724-1786564800-1786570200@plasterlodzki.pl
@@ -1105,7 +1183,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260814T190000
 DTEND;TZID=Europe/Warsaw:20260814T230000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20250908T124832Z
 LAST-MODIFIED:20260515T102204Z
 UID:10043090-1786734000-1786748400@plasterlodzki.pl
@@ -1118,7 +1196,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260814T210000
 DTEND;TZID=Europe/Warsaw:20260814T223000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049671-1786741200-1786746600@plasterlodzki.pl
@@ -1129,9 +1207,22 @@ LOCATION:Centralne Muzeum Włókiennictwa w Łodzi\, Piotrkowska 282\, Łódź\,
 CATEGORIES:Festiwal,Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260815T170000
+DTEND;TZID=Europe/Warsaw:20260815T190000
+DTSTAMP:20260718T071705
+CREATED:20240522T161907Z
+LAST-MODIFIED:20260717T122150Z
+UID:10050359-1786813200-1786820400@plasterlodzki.pl
+SUMMARY:Włókiennicza Unplugged
+DESCRIPTION:Włókiennicza Unplugged\n\nul. Włókiennicza 7 \n\nW letnie wieczory Włókiennicza 6 rozbrzmiewa dźwiękami muzyki. „Włókiennicza Unplugged” to niezwykła seria bezpłatnych koncertów na świeżym powietrzu\, które od czerwca do września co tydzień zamieniają tę symboliczną ulicę Łodzi w tętniącą życiem przestrzeń kulturalną. \n godz. 17:00 – 19:00  \n\n\n\nOrganizator: Łódzkie Centrum Wydarzeń
+URL:https://plasterlodzki.pl/wydarzenia/letnie-koncerty-na-wlokienniczej-4/2026-08-15/
+LOCATION:Ulica Włókiennicza\, Włókiennicza\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260816T170000
 DTEND;TZID=Europe/Warsaw:20260816T183000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049742-1786899600-1786905000@plasterlodzki.pl
@@ -1144,7 +1235,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260818T190000
 DTEND;TZID=Europe/Warsaw:20260818T203000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049716-1787079600-1787085000@plasterlodzki.pl
@@ -1157,7 +1248,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260819T200000
 DTEND;TZID=Europe/Warsaw:20260819T213000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071705
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049725-1787169600-1787175000@plasterlodzki.pl
@@ -1170,7 +1261,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260820T190000
 DTEND;TZID=Europe/Warsaw:20260820T213000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071706
 CREATED:20250629T081017Z
 LAST-MODIFIED:20260630T135504Z
 UID:10041675-1787252400-1787261400@plasterlodzki.pl
@@ -1181,9 +1272,22 @@ LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
 CATEGORIES:Festiwal,Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260822T170000
+DTEND;TZID=Europe/Warsaw:20260822T190000
+DTSTAMP:20260718T071706
+CREATED:20240522T161907Z
+LAST-MODIFIED:20260717T122150Z
+UID:10050360-1787418000-1787425200@plasterlodzki.pl
+SUMMARY:Włókiennicza Unplugged
+DESCRIPTION:Włókiennicza Unplugged\n\nul. Włókiennicza 7 \n\nW letnie wieczory Włókiennicza 6 rozbrzmiewa dźwiękami muzyki. „Włókiennicza Unplugged” to niezwykła seria bezpłatnych koncertów na świeżym powietrzu\, które od czerwca do września co tydzień zamieniają tę symboliczną ulicę Łodzi w tętniącą życiem przestrzeń kulturalną. \n godz. 17:00 – 19:00  \n\n\n\nOrganizator: Łódzkie Centrum Wydarzeń
+URL:https://plasterlodzki.pl/wydarzenia/letnie-koncerty-na-wlokienniczej-4/2026-08-22/
+LOCATION:Ulica Włókiennicza\, Włókiennicza\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T170000
 DTEND;TZID=Europe/Warsaw:20260823T183000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071706
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049743-1787504400-1787509800@plasterlodzki.pl
@@ -1196,7 +1300,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260824T190000
 DTEND;TZID=Europe/Warsaw:20260824T210000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071706
 CREATED:20260501T192116Z
 LAST-MODIFIED:20260709T080355Z
 UID:10050209-1787598000-1787605200@plasterlodzki.pl
@@ -1209,7 +1313,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260825T190000
 DTEND;TZID=Europe/Warsaw:20260825T203000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071706
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049717-1787684400-1787689800@plasterlodzki.pl
@@ -1222,7 +1326,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260826T200000
 DTEND;TZID=Europe/Warsaw:20260826T213000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071706
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049726-1787774400-1787779800@plasterlodzki.pl
@@ -1235,7 +1339,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260827T190000
 DTEND;TZID=Europe/Warsaw:20260827T210000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071706
 CREATED:20251220T220055Z
 LAST-MODIFIED:20260425T110707Z
 UID:10045915-1787857200-1787864400@plasterlodzki.pl
@@ -1248,7 +1352,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260828T200000
 DTEND;TZID=Europe/Warsaw:20260828T223000
-DTSTAMP:20260717T071706
+DTSTAMP:20260718T071706
 CREATED:20230120T095341Z
 LAST-MODIFIED:20260703T094813Z
 UID:10029916-1787947200-1787956200@plasterlodzki.pl
@@ -1259,29 +1363,16 @@ LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20260829T200000
-DTEND;TZID=Europe/Warsaw:20260829T210000
-DTSTAMP:20260717T071706
-CREATED:20230810T121912Z
-LAST-MODIFIED:20260710T090403Z
-UID:10031592-1788033600-1788037200@plasterlodzki.pl
-SUMMARY:Grzmiąca Półlitrówa
-DESCRIPTION:Legendarna formacja związana od 40 lat z klimatem piosenki studenckiej oraz z łódzkim festiwalem Yapa\nAutorzy niezliczonej ilości przebojów takich jak „Barman”\, „33 zawody”\, „Studia” i wiele innych\nBilety 50 zł\nKupbilecik.pl\nBiletyna.pl\nTawerna Keja\nInfo i rezerwacje 609 152 420
-URL:https://plasterlodzki.pl/wydarzenia/blues-noise/
-LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20260831T190000
-DTEND;TZID=Europe/Warsaw:20260831T210000
-DTSTAMP:20260717T071706
-CREATED:20260501T192116Z
-LAST-MODIFIED:20260709T080355Z
-UID:10050210-1788202800-1788210000@plasterlodzki.pl
-SUMMARY:Letnie Koncerty Jazzowe
-DESCRIPTION:Patio – w każdy poniedziałek o godz. 19.00\nZapraszamy na wyjątkowy cykl letnich wieczorów z muzyką jazzową\, który połączy wirtuozerię uznanych mistrzów z powiewem świeżości młodej sceny improwizowanej. Przed nami seria spotkań z artystami\, którzy kształtują oblicze współczesnego polskiego jazzu\, od klasycznych brzmień organów Hammonda\, przez progresywny jazz-rock\, aż po nastrojowe wokalizy i post-jazzowe eksperymenty. \nLipiec: od innowacji do rockowej energii\nInauguracja cyklu Open Stage – Eter Jazzu nastąpi w poniedziałek\, 6 lipca. \nW Patio Portu Łódź wystąpią dwie wyjątkowe łodzianki – Marta Wilk\, jedna z najbardziej cenionych polskich wokalistek musicalowych i swingowych\, oraz błyskotliwa pianistka Marta Sobczak\, które zaprezentują specjalnie przygotowany projekt muzyczny pełen emocji\, improwizacji i jazzowych brzmień. \n13 lipca Marek Kądziela – wybitny gitarzysta\, kompozytor i innowator\, a zarazem kierownik Instytutu Instrumentalistyki Jazzowej łódzkiej Akademii Muzycznej. Jego występy to gwarancja poszukiwania nowych brzmień i muzycznych wyzwań\, poparta ogromnym doświadczeniem zdobytym w projektach z takimi gwiazdami jak Leszek Możdżer czy Michał Urbaniak. \n20 lipca scenę przejmie Janiak Trio z programem „Trzej Królowie”. To muzyczna petarda inspirowana złotą erą rocka lat 60.\, przefiltrowana przez jazzową swobodę. Klasyczny skład – organy Hammonda (Witold Janiak)\, saksofon (Szymon Bońkowski) i perkusja (Kacper Kaźmierski) – zapewni świeże\, tętniące życiem brzmienie balansujące między ekspresją a rockowym pazurem. \nMiesiąc zamkniemy 27 lipca wieczorem z Late Night Poems oraz duetem Twoosty Mayonez. Ci drudzy\, czyli Bartosz Wolert i Kornel Karolak\, zaprezentują muzykę post-jazzową z elementami elektroniki i ambientu\, stawiając na oryginalne brzmienie i niekonwencjonalne kompozycje. \nSierpień: mistrzowskie dialogi i jazz-rockowe opowieści\n10 sierpnia czeka nas spotkanie z duetem Krzemiński/Janiak. Piotr Krzemiński (trąbka) oraz Witold Janiak (organy Hammonda) to artyści doskonale znani łódzkiej publiczności\, których muzyczny dialog obiecuje mnóstwo emocji i mistrzowskich improwizacji opartych na autorskich kompozycjach. \n24 sierpnia będzie dniem dwóch wyjątkowych odsłon jazzu. Najpierw wystąpi grupa Muzozoic – łódzkie trio grające nowoczesny\, rześki jazz-rock z wykorzystaniem rzadkiego\, dziesięciostrunowego instrumentu Warr guitar. Następnie usłyszymy Irka Głyka w solowym recitalu „The Best Of”. Ten ceniony wibrafonista i perkusista\, współpracujący z czołówką polskiej sceny (m.in. SBB\, Stanisławem Sojką)\, zaprezentuje najpiękniejsze utwory ze swoich pięciu autorskich płyt\, w kameralnej i intymnej atmosferze. \nFinał cyklu\, 31 sierpnia\, należeć będzie do Patrycji Zarychty – wokalistki i kompozytorki związanej z nurtem jazzu i soulu. Artystka\, mająca na koncie współpracę z Michałem Urbaniakiem czy Kubą Badachem\, zaprezentuje materiał ze swoich albumów\, w tym najnowszego krążka „Kristel”. \nWszystkie koncerty startują o 19:00. Dołącz do nas i poczuj rytm letniego jazzu w Łodzi! Wydarzenie organizowane wspólnie z Radiem Łódź.
-URL:https://plasterlodzki.pl/wydarzenia/majowka-z-radiem-lodz-2/2026-08-31/
-LOCATION:Port Łódź\, Pabianicka 245\, Łódź\, łódzkie\, Polska
+DTSTART;TZID=Europe/Warsaw:20260829T170000
+DTEND;TZID=Europe/Warsaw:20260829T190000
+DTSTAMP:20260718T071706
+CREATED:20240522T161907Z
+LAST-MODIFIED:20260717T122150Z
+UID:10050361-1788022800-1788030000@plasterlodzki.pl
+SUMMARY:Włókiennicza Unplugged
+DESCRIPTION:Włókiennicza Unplugged\n\nul. Włókiennicza 7 \n\nW letnie wieczory Włókiennicza 6 rozbrzmiewa dźwiękami muzyki. „Włókiennicza Unplugged” to niezwykła seria bezpłatnych koncertów na świeżym powietrzu\, które od czerwca do września co tydzień zamieniają tę symboliczną ulicę Łodzi w tętniącą życiem przestrzeń kulturalną. \n godz. 17:00 – 19:00  \n\n\n\nOrganizator: Łódzkie Centrum Wydarzeń
+URL:https://plasterlodzki.pl/wydarzenia/letnie-koncerty-na-wlokienniczej-4/2026-08-29/
+LOCATION:Ulica Włókiennicza\, Włókiennicza\, Łódź\, Poland
 CATEGORIES:Koncert
 END:VEVENT
 END:VCALENDAR
