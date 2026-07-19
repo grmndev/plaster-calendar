@@ -611,7 +611,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260719T170000
 DTEND;TZID=Europe/Warsaw:20260719T183000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049738-1784480400-1784485800@plasterlodzki.pl
@@ -624,7 +624,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260719T170000
 DTEND;TZID=Europe/Warsaw:20260719T180000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20230210T112747Z
 LAST-MODIFIED:20260703T101112Z
 UID:10030195-1784480400-1784484000@plasterlodzki.pl
@@ -637,7 +637,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260719T190000
 DTEND;TZID=Europe/Warsaw:20260719T223000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20221118T093029Z
 LAST-MODIFIED:20260116T132505Z
 UID:10028786-1784487600-1784500200@plasterlodzki.pl
@@ -650,7 +650,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260720T190000
 DTEND;TZID=Europe/Warsaw:20260720T210000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20260501T192116Z
 LAST-MODIFIED:20260709T080355Z
 UID:10050206-1784574000-1784581200@plasterlodzki.pl
@@ -663,7 +663,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260720T200000
 DTEND;TZID=Europe/Warsaw:20260720T220000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20241223T125003Z
 LAST-MODIFIED:20260515T102233Z
 UID:10038738-1784577600-1784584800@plasterlodzki.pl
@@ -676,7 +676,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260721T190000
 DTEND;TZID=Europe/Warsaw:20260721T203000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049712-1784660400-1784665800@plasterlodzki.pl
@@ -689,7 +689,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260721T200000
 DTEND;TZID=Europe/Warsaw:20260721T233000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20250530T082328Z
 LAST-MODIFIED:20260515T102257Z
 UID:10040975-1784664000-1784676600@plasterlodzki.pl
@@ -702,7 +702,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260722T200000
 DTEND;TZID=Europe/Warsaw:20260722T220000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20250629T080837Z
 LAST-MODIFIED:20260515T102322Z
 UID:10041672-1784750400-1784757600@plasterlodzki.pl
@@ -715,7 +715,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260722T200000
 DTEND;TZID=Europe/Warsaw:20260722T213000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049721-1784750400-1784755800@plasterlodzki.pl
@@ -728,7 +728,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260723T180000
 DTEND;TZID=Europe/Warsaw:20260723T220000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20260702T113455Z
 LAST-MODIFIED:20260702T113705Z
 UID:10048469-1784829600-1784844000@plasterlodzki.pl
@@ -741,7 +741,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260723T190000
 DTEND;TZID=Europe/Warsaw:20260723T210000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20250530T082353Z
 LAST-MODIFIED:20260603T100535Z
 UID:10040976-1784833200-1784840400@plasterlodzki.pl
@@ -754,7 +754,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260723T210000
 DTEND;TZID=Europe/Warsaw:20260723T220000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20260630T140243Z
 LAST-MODIFIED:20260630T140243Z
 UID:10049502-1784840400-1784844000@plasterlodzki.pl
@@ -780,7 +780,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260724T180000
 DTEND;TZID=Europe/Warsaw:20260724T230000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20221202T211432Z
 LAST-MODIFIED:20260612T093421Z
 UID:10029268-1784916000-1784934000@plasterlodzki.pl
@@ -793,7 +793,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260724T180000
 DTEND;TZID=Europe/Warsaw:20260724T235900
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20260315T110429Z
 LAST-MODIFIED:20260630T135720Z
 UID:10049492-1784916000-1784937540@plasterlodzki.pl
@@ -806,7 +806,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260724T190000
 DTEND;TZID=Europe/Warsaw:20260724T203000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20221202T185418Z
 LAST-MODIFIED:20260515T092627Z
 UID:10029165-1784919600-1784925000@plasterlodzki.pl
@@ -819,7 +819,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260724T203000
 DTEND;TZID=Europe/Warsaw:20260724T213000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20221118T123847Z
 LAST-MODIFIED:20260703T094315Z
 UID:10028884-1784925000-1784928600@plasterlodzki.pl
@@ -845,7 +845,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260725T170000
 DTEND;TZID=Europe/Warsaw:20260725T190000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050356-1784998800-1785006000@plasterlodzki.pl
@@ -858,7 +858,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260725T180000
 DTEND;TZID=Europe/Warsaw:20260725T233000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20260315T110429Z
 LAST-MODIFIED:20260630T135720Z
 UID:10049493-1785002400-1785022200@plasterlodzki.pl
@@ -871,7 +871,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260725T190000
 DTEND;TZID=Europe/Warsaw:20260725T210000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20230217T121357Z
 LAST-MODIFIED:20260717T131005Z
 UID:10030212-1785006000-1785013200@plasterlodzki.pl
@@ -884,7 +884,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260725T190000
 DTEND;TZID=Europe/Warsaw:20260725T213000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20221118T131452Z
 LAST-MODIFIED:20260703T094825Z
 UID:10028923-1785006000-1785015000@plasterlodzki.pl
@@ -897,7 +897,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260725T200000
 DTEND;TZID=Europe/Warsaw:20260725T220000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20221202T161412Z
 LAST-MODIFIED:20260717T121553Z
 UID:10029110-1785009600-1785016800@plasterlodzki.pl
@@ -910,7 +910,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260725T200000
 DTEND;TZID=Europe/Warsaw:20260725T220000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20260327T104705Z
 LAST-MODIFIED:20260710T111953Z
 UID:10047643-1785009600-1785016800@plasterlodzki.pl
@@ -923,7 +923,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260726T160000
 DTEND;TZID=Europe/Warsaw:20260726T170000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20260410T102148Z
 LAST-MODIFIED:20260410T102148Z
 UID:10048080-1785081600-1785085200@plasterlodzki.pl
@@ -936,7 +936,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260726T170000
 DTEND;TZID=Europe/Warsaw:20260726T183000
-DTSTAMP:20260718T071704
+DTSTAMP:20260719T071704
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049739-1785085200-1785090600@plasterlodzki.pl
@@ -944,6 +944,44 @@ SUMMARY:Letnie Koncerty w Altanie
 DESCRIPTION:Zapraszamy na XIV edycję Letnich Koncertów w Altanie Parku Źródliska. \n \nTen sposób na połączenie wytchnienia w otoczeniu przyrody z przyjemnością słuchania muzyki na żywo Łodzianie znają od lat. \n  \nNiedzielne popołudnia w Parku Źródliska to powrót do pięknej tradycji plenerowego muzykowania\, zapoczątkowanej pod koniec XIX wieku. W letnie dni w parkowej altanie występowała orkiestra działająca wówczas przy fabrykach Karola Scheiblera. \n  \nW programie tegorocznego cyklu Letnich Koncertów w Altanie organizowanych wspólnie z Akademią Muzyczną w Łodzi usłyszymy między innymi: arie operowe\ni operetkowe\, muzykę filmową i musicalową\, piosenki z dwudziestolecia międzywojennego\, evergreeny muzyki klasycznej oraz muzykę klezmerską. Wśród wykonawców znajdą się: kwartety skrzypcowy i klarnetowy\, orkiestra retro\, zespół dęty\, duet skrzypce-fortepian oraz wokaliści klasyczni i rozrywkowi. \n  \nInformacje dodatkowe \n  \n8 koncertów. Niedziele od 5 lipca do 23 sierpnia\, godz. 17:00\, wstęp wolny \n  \nORGANIZATORZY:\nZarząd Zieleni Miejskiej\, Zielona Łódź\nAkademia Muzyczna im. G. i K. Bacewiczów w Łodzi \n  \nRamowy program koncertów: \n  \n5 lipca 2026 | Viva l’Opera!\nMaria Hubluk – sopran\nPaweł Piotrowski – baryton\nTomasz Kaszuba – piano \n  \n12 lipca 2026 | TO WSZYSTKO Z NUDÓW\nMaja Majewska – wokal\nGabriela Woźniak – wokal\nPaweł Urbanek – piano \n  \n19 lipca 2026 | ON I ONA – HISTORIA NIE (JEDNEJ) MIŁOŚCI\nMałgorzata Nojek-Miszkiewicz – sopran\nZiemowit Wojtczak – baryton\nAleksandra Nawe – piano \n  \n26 lipca 2026 | URODZINOWA NIESPODZIANKA\nMarta Tryzna – skrzypce I\nMałgorzata Pasierbska – skrzypce II\nJulia Loska – skrzypce III\nNatalia Wojciechowska – skrzypce IV \n  \n2 sierpnia 2026 | EPOKA FOGGA\nORKIESTRA RETRO\nWeronika Kulak – śpiew\nAntoni Bradé – śpiew\nAdrianna Zając – skrzypce\nMałgorzata Hejduk – altówka\nSławomir Wojtecki – trąbka\nJan Kornacki – saksofon\, aranżacje\nJózef Kaczorowski – puzon\nJakub Sofiński – akordeon\, aranżacje\nMichał Marchlewski – gitara\nLidia Tomaszewska – kontrabas \n  \n9 sierpnia 2026 | KLARNETOWY ZAWRÓT GŁOWY\nRobert Stefański – klarnet\nAdrianna Szymczyk – klarnet\nOtylia Polewska – klarnet\nIzabela Żuber – klarnet \n  \n16 sierpnia 2026 | NASZE ULUBIONE MELODIE\nMałgorzata Pasierbska skrzypce\nMaciej Wiśniewski – piano \n  \n23 sierpnia 2026 | ELEKTRYZUJĄCY FINAŁ\nzespół Urwani z Wesela \n 
 URL:https://plasterlodzki.pl/wydarzenia/letnie-koncerty-w-altanie-11/2026-07-26/
 LOCATION:Park Źródliska\, Park Źródliska I\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260726T180000
+DTEND;TZID=Europe/Warsaw:20260726T233000
+DTSTAMP:20260719T071704
+CREATED:20260315T110429Z
+LAST-MODIFIED:20260630T135720Z
+UID:10049494-1785088800-1785108600@plasterlodzki.pl
+SUMMARY:Łódź Summer Festival 2026
+DESCRIPTION:Łódź Summer Festival \n \n24.07 \nBastille \nNatalia Imbruglia\nHappysad\nDre$$code\nWhite 2115\nŻabson\nKuqe 2115\nDawid Kwiatkowski\nZalia\nRudimental DJ Set \n25.07\nTimbaland\nJustyna Steczkowska\nNocny Kochanek\nPro8l3m\nHubert.\nBedoes 2115 \n26.07 \nMata \nSean Paul\nJet\nChivas\nKacperczyk\nTede
+URL:https://plasterlodzki.pl/wydarzenia/lodz-summer-festival-2026/2026-07-26/
+LOCATION:Błonie Łódzkie\, Konstantynowska 96\, Łódź\, łódzkie\, Polska
+CATEGORIES:Festiwal,Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260726T190000
+DTEND;TZID=Europe/Warsaw:20260726T210000
+DTSTAMP:20260719T071704
+CREATED:20250221T140533Z
+LAST-MODIFIED:20260717T115057Z
+UID:10047238-1785092400-1785099600@plasterlodzki.pl
+SUMMARY:Planety
+DESCRIPTION:Serdecznie zapraszamy na koncert zespołu Planety.
+URL:https://plasterlodzki.pl/wydarzenia/revision/
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260727T190000
+DTEND;TZID=Europe/Warsaw:20260727T210000
+DTSTAMP:20260719T071704
+CREATED:20260501T192116Z
+LAST-MODIFIED:20260709T080355Z
+UID:10050207-1785178800-1785186000@plasterlodzki.pl
+SUMMARY:Letnie Koncerty Jazzowe
+DESCRIPTION:Patio – w każdy poniedziałek o godz. 19.00\nZapraszamy na wyjątkowy cykl letnich wieczorów z muzyką jazzową\, który połączy wirtuozerię uznanych mistrzów z powiewem świeżości młodej sceny improwizowanej. Przed nami seria spotkań z artystami\, którzy kształtują oblicze współczesnego polskiego jazzu\, od klasycznych brzmień organów Hammonda\, przez progresywny jazz-rock\, aż po nastrojowe wokalizy i post-jazzowe eksperymenty. \nLipiec: od innowacji do rockowej energii\nInauguracja cyklu Open Stage – Eter Jazzu nastąpi w poniedziałek\, 6 lipca. \nW Patio Portu Łódź wystąpią dwie wyjątkowe łodzianki – Marta Wilk\, jedna z najbardziej cenionych polskich wokalistek musicalowych i swingowych\, oraz błyskotliwa pianistka Marta Sobczak\, które zaprezentują specjalnie przygotowany projekt muzyczny pełen emocji\, improwizacji i jazzowych brzmień. \n13 lipca Marek Kądziela – wybitny gitarzysta\, kompozytor i innowator\, a zarazem kierownik Instytutu Instrumentalistyki Jazzowej łódzkiej Akademii Muzycznej. Jego występy to gwarancja poszukiwania nowych brzmień i muzycznych wyzwań\, poparta ogromnym doświadczeniem zdobytym w projektach z takimi gwiazdami jak Leszek Możdżer czy Michał Urbaniak. \n20 lipca scenę przejmie Janiak Trio z programem „Trzej Królowie”. To muzyczna petarda inspirowana złotą erą rocka lat 60.\, przefiltrowana przez jazzową swobodę. Klasyczny skład – organy Hammonda (Witold Janiak)\, saksofon (Szymon Bońkowski) i perkusja (Kacper Kaźmierski) – zapewni świeże\, tętniące życiem brzmienie balansujące między ekspresją a rockowym pazurem. \nMiesiąc zamkniemy 27 lipca wieczorem z Late Night Poems oraz duetem Twoosty Mayonez. Ci drudzy\, czyli Bartosz Wolert i Kornel Karolak\, zaprezentują muzykę post-jazzową z elementami elektroniki i ambientu\, stawiając na oryginalne brzmienie i niekonwencjonalne kompozycje. \nSierpień: mistrzowskie dialogi i jazz-rockowe opowieści\n10 sierpnia czeka nas spotkanie z duetem Krzemiński/Janiak. Piotr Krzemiński (trąbka) oraz Witold Janiak (organy Hammonda) to artyści doskonale znani łódzkiej publiczności\, których muzyczny dialog obiecuje mnóstwo emocji i mistrzowskich improwizacji opartych na autorskich kompozycjach. \n24 sierpnia będzie dniem dwóch wyjątkowych odsłon jazzu. Najpierw wystąpi grupa Muzozoic – łódzkie trio grające nowoczesny\, rześki jazz-rock z wykorzystaniem rzadkiego\, dziesięciostrunowego instrumentu Warr guitar. Następnie usłyszymy Irka Głyka w solowym recitalu „The Best Of”. Ten ceniony wibrafonista i perkusista\, współpracujący z czołówką polskiej sceny (m.in. SBB\, Stanisławem Sojką)\, zaprezentuje najpiękniejsze utwory ze swoich pięciu autorskich płyt\, w kameralnej i intymnej atmosferze. \nFinał cyklu\, 31 sierpnia\, należeć będzie do Patrycji Zarychty – wokalistki i kompozytorki związanej z nurtem jazzu i soulu. Artystka\, mająca na koncie współpracę z Michałem Urbaniakiem czy Kubą Badachem\, zaprezentuje materiał ze swoich albumów\, w tym najnowszego krążka „Kristel”. \nWszystkie koncerty startują o 19:00. Dołącz do nas i poczuj rytm letniego jazzu w Łodzi! Wydarzenie organizowane wspólnie z Radiem Łódź.
+URL:https://plasterlodzki.pl/wydarzenia/majowka-z-radiem-lodz-2/2026-07-27/
+LOCATION:Port Łódź\, Pabianicka 245\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
@@ -957,6 +995,45 @@ SUMMARY:PHIL CAMPBELL'S BASTARD SONS
 DESCRIPTION:Napędzani misją wykraczającą poza muzykę synowie Phila Campbella wyruszają w trasę ku czci swojego zmarłego niedawno ojca Phil Campbell’s Bastard Sons zagrają u nas latem dwa koncerty: 27 lipca w łódzkiej Scenografii oraz 30 lipca w klubie Zgrzyt w Lublinie.\nTo\, co zaczęło się jako surowy\, pełen energii rodzinny projekt Phila\, wieloletniego gitarzysty Motörhead\, i jego synów – Todda\, Dane’a i Tyli – z czasem przerodziło się w coś znacznie większego niż tylko muzyczne przedsięwzięcie. Dziś zespół stanowi symbol hołdu i kontynuacji\, oparty na silnej więzi oraz wieloletnim oddaniu rockowej tradycji.\nPo stracie Phila projekt zyskał wyjątkowy wymiar\, a środowisko rockowe odpowiedziało na niego ogromnym wsparciem. Zaproszenia od największych festiwali i legend sceny\, w tym Judas Priest\, tylko potwierdzają\, jak silną pozycję ma dziedzictwo Campbella w świecie muzyki. Na koncertach nie ma miejsca na kompromisy – to szczery\, głośny i bezpośredni rock’n’roll\, dokładnie taki\, jakiego zawsze wymagał Phil.\nPHIL CAMPBELL’S BASTARD SONS 27.07.2026 / Łódź\, Scenografia30.07.2026 / Lublin\, Zgrzyt\nBILETY: https://bit.ly/PCBS_ŁDŹ\nPunkty sprzedaży: www.winiarybookings.pl\, Going\, Empik Bilety\, Eventim\, Ebilet\, Ticketmaster\nSzanowni Państwo. Prosimy o kupowanie biletów wyłącznie w autoryzowanych punktach sprzedaży. Poprzez kupno wejściówek od osób trzecich możecie zostać Państwo oszukani.\nWstęp na koncert 13+ za pisemną zgodą rodzica. Poniżej 13 lat\, wymagana obecność pełnoprawnego opiekuna.Wzór zgody: https://bit.ly/pisemna_zgoda_rodzica_wb\nRegulamin wydarzenia: https://bit.ly/regulamin_wydarzenia_wb\nW trosce o środowisko zachęcamy Was do pokazywania biletów na telefonie zamiast ich drukowania.\n PHIL CAMPBELL’S BASTARD SONS (Walia) – hard rock\nhttps://www.facebook.com/PhilCampbellATBS/https://www.instagram.com/phil_campbell_and_the_bs/\n”Strike the Match”: https://youtu.be/PAiL9xxDcQs?si=rQNsoSyZkY-qwEUo”Ace of Spades”: https://youtu.be/8IMDVlOIRBo?si=zrL-7ctnz_CVhp_N”Silver Machine”: https://youtu.be/kGX_819vPSA?si=gUnaafwJpsbC05CE —————————————Wpadaj na Instagramhttp://bit.ly/Nasz-instagramPolub nasz profilhttp://bit.ly/Nasz–Facebook
 URL:https://plasterlodzki.pl/wydarzenia/normalsi-2/
 LOCATION:Klub Scenografia\, Zachodnia 81/83\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260728T180000
+DTEND;TZID=Europe/Warsaw:20260728T190000
+DTSTAMP:20260719T071704
+CREATED:20240904T094420Z
+LAST-MODIFIED:20260702T113131Z
+UID:10036159-1785261600-1785265200@plasterlodzki.pl
+SUMMARY:WHAM! 10 Days In China
+DESCRIPTION:W 1985 roku zespół Wham! jako pierwsza zachodnia grupa popowa wystąpił w komunistycznych Chinach. Koncerty George’a Michaela i Andrew Ridgeleya w Pekinie i Kantonie były kulturowym kamieniem milowym łączącym wschód z zachodem oraz świat muzyki z polityką. Świeżo odrestaurowany materiał ukazuje nieopowiedzianą dotąd historię legendarnej trasy\, która przyczyniła się do uzyskania przez Wham! statusu światowego fenomenu.
+URL:https://plasterlodzki.pl/wydarzenia/unlimited-show-nie-obiecujcie-sobie-zbyt-wiele-po-koncu-swiata/
+LOCATION:Cinema City\, Drewnowska 58\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260728T180000
+DTEND;TZID=Europe/Warsaw:20260728T200000
+DTSTAMP:20260719T071704
+CREATED:20260702T113731Z
+LAST-MODIFIED:20260702T113758Z
+UID:10047744-1785261600-1785268800@plasterlodzki.pl
+SUMMARY:Wham! 10 Days In China
+DESCRIPTION:W 1985 roku zespół Wham! jako pierwsza zachodnia grupa popowa wystąpił w komunistycznych Chinach. Koncerty George’a Michaela i Andrew Ridgeleya w Pekinie i Kantonie były kulturowym kamieniem milowym łączącym wschód z zachodem oraz świat muzyki z polityką. \nŚwieżo odrestaurowany materiał ukazuje nieopowiedzianą dotąd historię legendarnej trasy\, która przyczyniła się do uzyskania przez Wham! statusu światowego fenomenu. \n#WHAMInChina \n  \nCzas trwania: 90 minut
+URL:https://plasterlodzki.pl/wydarzenia/kultura-dostepna-5-3/
+LOCATION:Kino Helios Sukcesja\, Al. Politechniki 1\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260728T190000
+DTEND;TZID=Europe/Warsaw:20260728T203000
+DTSTAMP:20260719T071704
+CREATED:20260630T142619Z
+LAST-MODIFIED:20260630T142619Z
+UID:10049713-1785265200-1785270600@plasterlodzki.pl
+SUMMARY:Jazzowe wtorki
+DESCRIPTION:Jazzowe wtorki\n\n\n\n\n\n\n\n\n\nData: Zgodnie z harmonogramem (wtorek) \nGodzina: 19:00 \nLokalizacja: Piotrkowska 3 \nWstęp: Bezpłatny \nJazzowe Wtorki to spotkania z artystami reprezentującymi różne nurty współczesnego jazzu. W programie znalazły się koncerty m.in. Macieja Tubisa Trio\, Marka Kądzieli z projektem „Artificial Intuition” oraz Patrycji Zarychty. Obok uznanych nazwisk publiczność będzie mogła poznać również najciekawsze projekty związane z łódzką sceną jazzową. Każdy koncert prezentuje inne brzmienie i spojrzenie na ten gatunek muzyki. \nPROGRAM: \n30.06.2026\, 19:00   Ilona Damięcka Trio \n07.07.2026\, 19:00   Maciej Tubis Trio \n14.07.2026\, 19:00    Marek Kądziela Trio „Artificial Intuition” \n21.07.2026\, 19:00   Patrycja Zarychta \n28.07.2026\, 19:00   Błażej Ludwiczuk Contraphonic \n04.08.2026\, 19:00   Mikołaj Kaniewski Solar Wind \n11.08.2026\, 19:00   Janiak „Trzej Królowie” \n18.08.2026\, 19:00   Stanisław Szmigiero Quartet \n25.08.2026\, 19:00   Jan Kępiński
+URL:https://plasterlodzki.pl/wydarzenia/jazzowe-wtorki-2/2026-07-28/
+LOCATION:Piotrkowska\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
@@ -988,7 +1065,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260801T170000
 DTEND;TZID=Europe/Warsaw:20260801T190000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050357-1785603600-1785610800@plasterlodzki.pl
@@ -1001,7 +1078,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260802T170000
 DTEND;TZID=Europe/Warsaw:20260802T183000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049740-1785690000-1785695400@plasterlodzki.pl
@@ -1014,7 +1091,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260804T190000
 DTEND;TZID=Europe/Warsaw:20260804T203000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049714-1785870000-1785875400@plasterlodzki.pl
@@ -1027,7 +1104,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260805T200000
 DTEND;TZID=Europe/Warsaw:20260805T213000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049723-1785960000-1785965400@plasterlodzki.pl
@@ -1040,7 +1117,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260806T190000
 DTEND;TZID=Europe/Warsaw:20260806T210000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20260410T102222Z
 LAST-MODIFIED:20260410T102222Z
 UID:10048081-1786042800-1786050000@plasterlodzki.pl
@@ -1053,7 +1130,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260806T190000
 DTEND;TZID=Europe/Warsaw:20260806T210000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20260702T114633Z
 LAST-MODIFIED:20260702T114706Z
 UID:10049786-1786042800-1786050000@plasterlodzki.pl
@@ -1066,7 +1143,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260806T210000
 DTEND;TZID=Europe/Warsaw:20260806T220000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20260630T140243Z
 LAST-MODIFIED:20260630T140243Z
 UID:10049504-1786050000-1786053600@plasterlodzki.pl
@@ -1079,7 +1156,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260807T210000
 DTEND;TZID=Europe/Warsaw:20260807T223000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049670-1786136400-1786141800@plasterlodzki.pl
@@ -1092,7 +1169,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260808T130000
 DTEND;TZID=Europe/Warsaw:20260808T150000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20260702T114633Z
 LAST-MODIFIED:20260702T114706Z
 UID:10049787-1786194000-1786201200@plasterlodzki.pl
@@ -1105,7 +1182,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260808T170000
 DTEND;TZID=Europe/Warsaw:20260808T190000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050358-1786208400-1786215600@plasterlodzki.pl
@@ -1118,7 +1195,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260808T190000
 DTEND;TZID=Europe/Warsaw:20260808T233000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20221202T211155Z
 LAST-MODIFIED:20260508T090319Z
 UID:10029262-1786215600-1786231800@plasterlodzki.pl
@@ -1131,7 +1208,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260809T170000
 DTEND;TZID=Europe/Warsaw:20260809T183000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049741-1786294800-1786300200@plasterlodzki.pl
@@ -1144,7 +1221,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260810T190000
 DTEND;TZID=Europe/Warsaw:20260810T210000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20260501T192116Z
 LAST-MODIFIED:20260709T080355Z
 UID:10050208-1786388400-1786395600@plasterlodzki.pl
@@ -1157,7 +1234,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260811T190000
 DTEND;TZID=Europe/Warsaw:20260811T203000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049715-1786474800-1786480200@plasterlodzki.pl
@@ -1170,7 +1247,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260812T200000
 DTEND;TZID=Europe/Warsaw:20260812T213000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049724-1786564800-1786570200@plasterlodzki.pl
@@ -1183,7 +1260,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260814T190000
 DTEND;TZID=Europe/Warsaw:20260814T230000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20250908T124832Z
 LAST-MODIFIED:20260515T102204Z
 UID:10043090-1786734000-1786748400@plasterlodzki.pl
@@ -1196,7 +1273,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260814T210000
 DTEND;TZID=Europe/Warsaw:20260814T223000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049671-1786741200-1786746600@plasterlodzki.pl
@@ -1209,7 +1286,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260815T170000
 DTEND;TZID=Europe/Warsaw:20260815T190000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050359-1786813200-1786820400@plasterlodzki.pl
@@ -1222,7 +1299,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260816T170000
 DTEND;TZID=Europe/Warsaw:20260816T183000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049742-1786899600-1786905000@plasterlodzki.pl
@@ -1235,7 +1312,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260818T190000
 DTEND;TZID=Europe/Warsaw:20260818T203000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049716-1787079600-1787085000@plasterlodzki.pl
@@ -1248,7 +1325,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260819T200000
 DTEND;TZID=Europe/Warsaw:20260819T213000
-DTSTAMP:20260718T071705
+DTSTAMP:20260719T071705
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049725-1787169600-1787175000@plasterlodzki.pl
@@ -1261,7 +1338,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260820T190000
 DTEND;TZID=Europe/Warsaw:20260820T213000
-DTSTAMP:20260718T071706
+DTSTAMP:20260719T071706
 CREATED:20250629T081017Z
 LAST-MODIFIED:20260630T135504Z
 UID:10041675-1787252400-1787261400@plasterlodzki.pl
@@ -1274,7 +1351,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260822T170000
 DTEND;TZID=Europe/Warsaw:20260822T190000
-DTSTAMP:20260718T071706
+DTSTAMP:20260719T071706
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050360-1787418000-1787425200@plasterlodzki.pl
@@ -1287,7 +1364,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T170000
 DTEND;TZID=Europe/Warsaw:20260823T183000
-DTSTAMP:20260718T071706
+DTSTAMP:20260719T071706
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049743-1787504400-1787509800@plasterlodzki.pl
@@ -1300,7 +1377,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260824T190000
 DTEND;TZID=Europe/Warsaw:20260824T210000
-DTSTAMP:20260718T071706
+DTSTAMP:20260719T071706
 CREATED:20260501T192116Z
 LAST-MODIFIED:20260709T080355Z
 UID:10050209-1787598000-1787605200@plasterlodzki.pl
@@ -1313,7 +1390,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260825T190000
 DTEND;TZID=Europe/Warsaw:20260825T203000
-DTSTAMP:20260718T071706
+DTSTAMP:20260719T071706
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049717-1787684400-1787689800@plasterlodzki.pl
@@ -1326,7 +1403,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260826T200000
 DTEND;TZID=Europe/Warsaw:20260826T213000
-DTSTAMP:20260718T071706
+DTSTAMP:20260719T071706
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049726-1787774400-1787779800@plasterlodzki.pl
@@ -1339,7 +1416,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260827T190000
 DTEND;TZID=Europe/Warsaw:20260827T210000
-DTSTAMP:20260718T071706
+DTSTAMP:20260719T071706
 CREATED:20251220T220055Z
 LAST-MODIFIED:20260425T110707Z
 UID:10045915-1787857200-1787864400@plasterlodzki.pl
@@ -1352,7 +1429,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260828T200000
 DTEND;TZID=Europe/Warsaw:20260828T223000
-DTSTAMP:20260718T071706
+DTSTAMP:20260719T071706
 CREATED:20230120T095341Z
 LAST-MODIFIED:20260703T094813Z
 UID:10029916-1787947200-1787956200@plasterlodzki.pl
@@ -1365,7 +1442,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260829T170000
 DTEND;TZID=Europe/Warsaw:20260829T190000
-DTSTAMP:20260718T071706
+DTSTAMP:20260719T071706
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050361-1788022800-1788030000@plasterlodzki.pl
