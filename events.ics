@@ -676,7 +676,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260721T190000
 DTEND;TZID=Europe/Warsaw:20260721T203000
-DTSTAMP:20260720T071703
+DTSTAMP:20260721T071703
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049712-1784660400-1784665800@plasterlodzki.pl
@@ -689,7 +689,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260721T200000
 DTEND;TZID=Europe/Warsaw:20260721T233000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071703
 CREATED:20250530T082328Z
 LAST-MODIFIED:20260515T102257Z
 UID:10040975-1784664000-1784676600@plasterlodzki.pl
@@ -702,7 +702,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260722T200000
 DTEND;TZID=Europe/Warsaw:20260722T220000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071703
 CREATED:20250629T080837Z
 LAST-MODIFIED:20260515T102322Z
 UID:10041672-1784750400-1784757600@plasterlodzki.pl
@@ -715,7 +715,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260722T200000
 DTEND;TZID=Europe/Warsaw:20260722T213000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071703
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049721-1784750400-1784755800@plasterlodzki.pl
@@ -728,7 +728,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260723T180000
 DTEND;TZID=Europe/Warsaw:20260723T220000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071703
 CREATED:20260702T113455Z
 LAST-MODIFIED:20260702T113705Z
 UID:10048469-1784829600-1784844000@plasterlodzki.pl
@@ -741,7 +741,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260723T190000
 DTEND;TZID=Europe/Warsaw:20260723T210000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071703
 CREATED:20250530T082353Z
 LAST-MODIFIED:20260603T100535Z
 UID:10040976-1784833200-1784840400@plasterlodzki.pl
@@ -754,7 +754,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260723T210000
 DTEND;TZID=Europe/Warsaw:20260723T220000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071703
 CREATED:20260630T140243Z
 LAST-MODIFIED:20260630T140243Z
 UID:10049502-1784840400-1784844000@plasterlodzki.pl
@@ -780,7 +780,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260724T180000
 DTEND;TZID=Europe/Warsaw:20260724T230000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071703
 CREATED:20221202T211432Z
 LAST-MODIFIED:20260612T093421Z
 UID:10029268-1784916000-1784934000@plasterlodzki.pl
@@ -793,7 +793,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260724T180000
 DTEND;TZID=Europe/Warsaw:20260724T235900
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071703
 CREATED:20260315T110429Z
 LAST-MODIFIED:20260630T135720Z
 UID:10049492-1784916000-1784937540@plasterlodzki.pl
@@ -806,7 +806,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260724T190000
 DTEND;TZID=Europe/Warsaw:20260724T203000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20221202T185418Z
 LAST-MODIFIED:20260515T092627Z
 UID:10029165-1784919600-1784925000@plasterlodzki.pl
@@ -819,7 +819,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260724T203000
 DTEND;TZID=Europe/Warsaw:20260724T213000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20221118T123847Z
 LAST-MODIFIED:20260703T094315Z
 UID:10028884-1784925000-1784928600@plasterlodzki.pl
@@ -845,7 +845,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260725T170000
 DTEND;TZID=Europe/Warsaw:20260725T190000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050356-1784998800-1785006000@plasterlodzki.pl
@@ -858,7 +858,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260725T180000
 DTEND;TZID=Europe/Warsaw:20260725T233000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20260315T110429Z
 LAST-MODIFIED:20260630T135720Z
 UID:10049493-1785002400-1785022200@plasterlodzki.pl
@@ -871,7 +871,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260725T190000
 DTEND;TZID=Europe/Warsaw:20260725T210000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20230217T121357Z
 LAST-MODIFIED:20260717T131005Z
 UID:10030212-1785006000-1785013200@plasterlodzki.pl
@@ -884,7 +884,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260725T190000
 DTEND;TZID=Europe/Warsaw:20260725T213000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20221118T131452Z
 LAST-MODIFIED:20260703T094825Z
 UID:10028923-1785006000-1785015000@plasterlodzki.pl
@@ -897,7 +897,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260725T200000
 DTEND;TZID=Europe/Warsaw:20260725T220000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20221202T161412Z
 LAST-MODIFIED:20260717T121553Z
 UID:10029110-1785009600-1785016800@plasterlodzki.pl
@@ -910,7 +910,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260725T200000
 DTEND;TZID=Europe/Warsaw:20260725T220000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20260327T104705Z
 LAST-MODIFIED:20260710T111953Z
 UID:10047643-1785009600-1785016800@plasterlodzki.pl
@@ -923,7 +923,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260726T160000
 DTEND;TZID=Europe/Warsaw:20260726T170000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20260410T102148Z
 LAST-MODIFIED:20260410T102148Z
 UID:10048080-1785081600-1785085200@plasterlodzki.pl
@@ -936,7 +936,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260726T170000
 DTEND;TZID=Europe/Warsaw:20260726T183000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049739-1785085200-1785090600@plasterlodzki.pl
@@ -949,7 +949,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260726T180000
 DTEND;TZID=Europe/Warsaw:20260726T233000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20260315T110429Z
 LAST-MODIFIED:20260630T135720Z
 UID:10049494-1785088800-1785108600@plasterlodzki.pl
@@ -962,7 +962,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260726T190000
 DTEND;TZID=Europe/Warsaw:20260726T210000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20250221T140533Z
 LAST-MODIFIED:20260717T115057Z
 UID:10047238-1785092400-1785099600@plasterlodzki.pl
@@ -974,7 +974,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260727T190000
 DTEND;TZID=Europe/Warsaw:20260727T210000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20260501T192116Z
 LAST-MODIFIED:20260709T080355Z
 UID:10050207-1785178800-1785186000@plasterlodzki.pl
@@ -1000,7 +1000,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260728T180000
 DTEND;TZID=Europe/Warsaw:20260728T190000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20240904T094420Z
 LAST-MODIFIED:20260702T113131Z
 UID:10036159-1785261600-1785265200@plasterlodzki.pl
@@ -1013,7 +1013,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260728T180000
 DTEND;TZID=Europe/Warsaw:20260728T200000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20260702T113731Z
 LAST-MODIFIED:20260702T113758Z
 UID:10047744-1785261600-1785268800@plasterlodzki.pl
@@ -1026,7 +1026,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260728T190000
 DTEND;TZID=Europe/Warsaw:20260728T203000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049713-1785265200-1785270600@plasterlodzki.pl
@@ -1039,7 +1039,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260728T201000
 DTEND;TZID=Europe/Warsaw:20260728T220000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20260702T114502Z
 LAST-MODIFIED:20260702T114613Z
 UID:10046843-1785269400-1785276000@plasterlodzki.pl
@@ -1052,7 +1052,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260729T200000
 DTEND;TZID=Europe/Warsaw:20260729T213000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049722-1785355200-1785360600@plasterlodzki.pl
@@ -1065,7 +1065,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260730T190000
 DTEND;TZID=Europe/Warsaw:20260730T213000
-DTSTAMP:20260720T071704
+DTSTAMP:20260721T071704
 CREATED:20250908T124734Z
 LAST-MODIFIED:20260425T110639Z
 UID:10043088-1785438000-1785447000@plasterlodzki.pl
@@ -1076,9 +1076,22 @@ LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260730T210000
+DTEND;TZID=Europe/Warsaw:20260730T220000
+DTSTAMP:20260721T071704
+CREATED:20260630T140243Z
+LAST-MODIFIED:20260630T140243Z
+UID:10049503-1785445200-1785448800@plasterlodzki.pl
+SUMMARY:LDZ Alternatywa 2026
+DESCRIPTION:Koncerty w ramach LDZ Alternatywa 2026:16.07 ||ALA|MEDA|| & Noums Dembele23.07 Niebiescy & Kutman30.07 sneaky jesus6.08 RÓZGA\n\n\nmiejsce: Fabryka Sztuki\, ul. Tymienieckiego 3wejście na teren: od godz. 20:00\, początek koncertu godz. 21:00wstęp wolny | koncert w plenerze\n\n\n16 lipca\n||ALA|MEDA|| (Alameda Organisation) i Noums Dembele – projekt koncertowy\, który miał premierę w lutym 2026\, dzięki specjalnemu programowi rezydencyjnemu Miasta Muzyki UNESCO Bydgoszcz. Niezwykłe spotkanie zespołu ||ALA|MEDA||\, prezentującego jedyną w swoim rodzaju tropikalno-industrialną mieszankę\, w której zaawansowana muzyka elektroniczna sprzęgnięta jest z frenetyczną grą żywej sekcji rytmicznej oraz Noumsa Dembele\, wybitnego muzyka i multiinstrumentalisty z Burkina Faso\, mieszkającego od kilku lat w Polsce\, grającego głównie na korze – harfie z Afryki Zachodniej. Projekt opiera się na partnerskiej współpracy\, jej efektem jest oryginalny język muzyczny\, w którym technologia spotyka się z pierwotnym rytmem i melodyką\, a wymiana międzykulturowa staje się rzeczywistym doświadczeniem artystycznym\, nie tylko formalnym spotkaniem kultur. Projekt tworzy przestrzeń autentycznego dialogu międzykulturowego\, wykraczającego poza konwencję world music. To spotkanie\, w którym tradycja i nowoczesność stają się równorzędnymi siłami twórczymi.\nSkład grupy: Noums Dembele – kora\, głosJacek Buhl – perkusja\, instrumenty perkusyjne Rafał Iwański – bębny afrykańskie\, instrumenty perkusyjneŁukasz Jędrzejczak – elektronika\, instrumenty perkusyjnePiotr Michalski – gitara basowaJakub Ziołek – gitara akustyczna\, elektronikaSzymon Szwarc – realizacja dźwięku\nＮｏｕｍｓ Ｄｅｍｂｅｌｅ – muzyk\, wokalista i mistrz kory\, multiinstrumentalista\, przedstawiciel muzyki Mandingue z Afryki Zachodniej. Urodził się w Djibasso na północnym zachodzie Burkina Faso\, a od 2018 roku mieszka w Warszawie. Pochodzi z rodziny griotów – strażników i przekazicieli ustnej tradycji\, których zadaniem jest przenoszenie historii\, poezji i muzyki z pokolenia na pokolenie. Kora\, 21-strunowa harfa\, jest jego głównym instrumentem\, ale gra także na n’goni i balafonie. Jest samoukiem\, który doskonalił swoją grę i kompozycje\, czerpiąc z bogactwa tradycyjnych instrumentów i śpiewu. Noums rozwija współpracę na różnych płaszczyznach muzycznych\, grając z kilkoma zespołami wykonującymi muzykę afrykańską (Faso Tamala\, Moribaya)\, ale miał też do czynienia z grupami z nurtu eksperymentalnego rocka (m.in. z grupą Hizbut Jamm prowadzoną przez Raphaela Rogińskiego).https://noumsdembele.com\nGrupa ||ＡＬＡ|ＭＥＤＡ|| od 2022 r. realizuje przedsięwzięcie pt. „Spectra”\, stanowiące oryginalną reinterpretację tradycyjnych i nowoczesnych rytmów charakterystycznych dla Afryki i Ameryki Południowej. Zaowocowało to nowym kierunkiem artystycznym\, który jest „spektralny” w wielu znaczeniach: tworzy kontinuum rozmaitych muzycznych tropów\, łącząc tak odmienne gatunki jak gqom\, free jazz\, UK bass\, krautrock\, IDM\, post-industrial\, batida w jedną różnicującą się całość. Ideą\, która przyświeca nowej twórczości grupy ||ALA|MEDA||\, także w ramach współpracy z artystami z innych kontynentów\, jest totalna integracja elektroniki z żywym graniem oraz zamazanie wszelkich podziałów między sztuką wysoką i niską\, twórczością wysublimowaną i wulgarną\, awangardą i rozrywką\, muzyką „dla duszy” i muzyką „dla ciała”. Nie jest to jednak postmodernistyczna uczta dla zmęczonych duchów\, ani wyraz nostalgicznej tęsknoty za dawno utraconą jednością z Naturą\, lecz nowy realizm w ciągle zmieniającym się świecie. Zespół ||ALA|MEDA|| słynie z niezwykle intensywnych i euforycznych koncertów\, które zapewniły mu występy na takich festiwalach jak: OFF Festival w Katowicach\, Bedem Fest w Czarnogórze\, Square – Mapping the Atlantic w Portugalii\, Colours of Ostrava\, Positive Futures w Innsbrucku\, Wine Nat White Heat w Nantes i Paryżu\, Jaiyede Jazz w Odense\, Sharpe w Bratysławie\, Avant Art w Warszawie i Wrocławiu.\nFB: https://www.facebook.com/alamedaquintethttp://brutalitygarden.com https://brutalitygarden.bandcamp.com/album/spectra-selection\n–\n\n23 lipca\n\nmiejsce: Fabryka Sztuki\, ul. Tymienieckiego 3wejście na teren: od godz. 20:00\, początek koncertu godz. 21:00wstęp wolny | koncert w plenerze\nPo kilku latach przerwy powracają Niebiescy i Kutman. W maju 2025 roku ukazała się ich nowa płyta\, maksisingiel pt. Industria. Teraz nadszedł czas na występ publiczny\, podczas którego Niebiescy i Kutman wystąpią w nowym składzie. Oprócz Marcina Pryta – głos\, teksty i Franka Niebieskiego – gitara\, muzyka\, czyli obu twórców tego projektu\, wystąpią Piotr Połoz – bas i Paweł Sokołowski – saksofony. Na koncercie będzie można usłyszeć utwory z pierwszej płyty zespołu pt.”Skrzydło Motyle”\, z maksisingla „Industria” jak i zupełnie nowe piosenki. Wszystkie oficjalnie opublikowane nagrania dostępne są na stronie Bandcamp (Niebiescy i Kutman).\nFB: https://www.facebook.com/niebiescyikutmanBC: https://niebiescyikutman.bandcamp.com/\n\n\n—\n30 lipca\n\nWrocławski kwartet balansujący na granicy eksperymentu i jazzu. W swojej muzyce skupiają się na sile kolektywnej improwizacji\, która daje przestrzeń do nieustannych poszukiwań\, a wszystko\, co tworzą\, ma w sobie element zaskoczenia\, autentyczność\, a czasem filmowy rozmach. Na żywo bawią się dźwiękami\, ekscytują niewiadomą\, spontanicznie zderzają pomysłami\, więc każdy koncert to dla odbiorcy zupełnie inna przygoda.\nPrzyjaźnią się również poza sceną\, cechuje ich abstrakcyjne poczucie humoru\, które przenoszą do swojej muzyki. Największy komplement to dla nich pokoncertowa opinia w stylu: nie lubię jazzu\, ale w waszym wydaniu chcę więcej!\nZespół powstał wczesną wiosną 2019 roku i ma na koncie dwa albumy studyjne: „For Joseph Riddle” (2021) oraz „For Chaching Taphed” (2023). W maju 2026 roku wydali trzeci krążek — „for better future”. Dotychczasowe wydawnictwa trafiły do rotacji m.in. BBC\, Polskiego Radia\, RTE i Worldwide FM\, a także spotkały się z bardzo dobrym przyjęciem krytyki na łamach Jazz Forum\, JazzPRESS\, Music Is My Sanctuary czy Bandcamp Daily.\nW 2025 roku zespół opublikował również album „outta space”\, będący zapisem w pełni improwizowanego koncertu zarejestrowanego w Klubie Szalonych we Wrocławiu. Wydawnictwo to pokazało\, że grupa równie swobodnie porusza się w strukturach kompozycyjnych\, co w otwartej improwizacji. Album został pozytywnie oceniony m.in. przez serwisy Nowamuzyka oraz Dwutygodnik.\nW maju 2026 przyszła kolej na album „for better future”\, po”For Joseph Riddle” oraz „For Chaching Taphed”\, zamykający trylogię płyt z dedykacją w tytule. Frazę „lepsza przyszłość” (a tej wszyscy chyba sobie życzymy) można tu odnieść wprost do całkiem niedawnych wydarzeń w życiu zespołu. Jak przekonują muzycy: „Dla nas ten lepszy czas nastąpił wraz z otrzymaniem telefonu z propozycją zagrania koncertu na festiwalu w Bośni. Pod wpływem upojenia wizją bałkańskiej trasy oraz dołączenia nowego kompana podróży\, świetnego perkusisty i super zioma – Michała Wdowikowskiego\, zaczęliśmy komponować świeże rzeczy\, aby po prostu mieć co zagrać na festiwalu. Kompozycje\, tematy\, które były zbyt abstrakcyjne\, aby zmieścić się na poprzednią płytę\, złączyły się w całość i wylądowały na tym krążku.”\nsneaky jesus wielokrotnie występowali na prestiżowych scenach w Polsce i za granicą m.in.: Jassmine (Warszawa)\, NOSPR (Katowice)\, Opus Jazz Club (Budapeszt)\, Jazz Club Tonne (Drezno)\, Kino Siska (Ljubljana)\, Mocvara (Zagrzeb). Są laureatami drugiego miejsca w międzynarodowym konkursie zespołów jazzowych Mladi Ladi Jazz (Praga 2022)\, otrzymali również nominację w plebiscycie Sanki redakcji „Wyborczej” (2022) oraz nominację do Wrocławskiej Nagrody Artystycznej (2023).\nZespół wystąpi w składzie:Matylda Gerber – saksofon tenorowy i altowy Maciej Forreiter – gitara elektryczna\, fx\, syntezator Beniamin Łasiewicki – gitara basowa\, fx\, syntezatorMichał Wdowikowski – perkusja i instrumenty perkusyjne\, fx\nFB: https://www.facebook.com/sneakyjesusbandBC: https://sneakyjesus.bandcamp.com/music\n—6 sierpnia\n\nRÓZGA to electro-synthpopwy duet z Łodzi. Ich debiutancki album „Punk girls changed to electro” wydany pod koniec września 2025 w Requiem Records przedstawia 10 coverów starych brytyjskich I amerykańskich punk kapel z lat 70tych takich jak X-ray Spex .Penetration czy Avengers przetworzonych na muzykę electro clash / electro punk.\nDruga płyta ukaże się w 2026 – to już utwory autorskie zachowane w stylistyce electroclash/synthpoppunk. Jest to debiut sceniczny Katarzyany Rózgi która charakteruzje się pięknym niskim melodyjnym głosem porównywanym np. do Amandy Lear\, oraz pięknie gra na skrzypcach. Grzegorz Fajngold (Fagot) natomiast na scenie punk i electro ma już znaczący dorobek jako kompozytor\, multiinstrumentalista i współzałożyciel takich zespołów jak: 19 Wiosen (aeropunk) / Już Nie Żyjesz (cold wave) / Salvezza (Barok avantpop) / Demolka (electro punk)Maszynowa (industrial electro) / Savage Fucks (dragqeunnrock and roll) / Lord (Trash metal) Występuje też solo jako Procesor Plus a czasami w nocnych klubach jako Dj Fagot.\nZespół wystąpi w składzie:Katarzyna RózgaGrzegorz FajngoldSzymon Adamiak – perkusja elektroniczna\n—\n\nZadanie współfinansowane ze środków Miasta Łodzi.
+URL:https://plasterlodzki.pl/wydarzenia/ldz-alternatywa-2026/2026-07-30/
+LOCATION:Fabryka Sztuki w Łodzi (Art_Inkubator)\, bp. Wincentego Tymienieckiego 3\, Łódź\, łózkie\, Polska
+CATEGORIES:Festiwal,Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260731T200000
 DTEND;TZID=Europe/Warsaw:20260731T210000
-DTSTAMP:20260628T071704
+DTSTAMP:20260721T071704
 CREATED:20230120T095505Z
 LAST-MODIFIED:20260612T091203Z
 UID:10029919-1785528000-1785531600@plasterlodzki.pl
@@ -1091,7 +1104,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260801T170000
 DTEND;TZID=Europe/Warsaw:20260801T190000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050357-1785603600-1785610800@plasterlodzki.pl
@@ -1104,7 +1117,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260802T170000
 DTEND;TZID=Europe/Warsaw:20260802T183000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049740-1785690000-1785695400@plasterlodzki.pl
@@ -1117,7 +1130,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260804T190000
 DTEND;TZID=Europe/Warsaw:20260804T203000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049714-1785870000-1785875400@plasterlodzki.pl
@@ -1130,7 +1143,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260805T200000
 DTEND;TZID=Europe/Warsaw:20260805T213000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049723-1785960000-1785965400@plasterlodzki.pl
@@ -1143,7 +1156,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260806T190000
 DTEND;TZID=Europe/Warsaw:20260806T210000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260410T102222Z
 LAST-MODIFIED:20260410T102222Z
 UID:10048081-1786042800-1786050000@plasterlodzki.pl
@@ -1156,7 +1169,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260806T190000
 DTEND;TZID=Europe/Warsaw:20260806T210000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260702T114633Z
 LAST-MODIFIED:20260702T114706Z
 UID:10049786-1786042800-1786050000@plasterlodzki.pl
@@ -1169,7 +1182,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260806T210000
 DTEND;TZID=Europe/Warsaw:20260806T220000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260630T140243Z
 LAST-MODIFIED:20260630T140243Z
 UID:10049504-1786050000-1786053600@plasterlodzki.pl
@@ -1182,7 +1195,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260807T210000
 DTEND;TZID=Europe/Warsaw:20260807T223000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049670-1786136400-1786141800@plasterlodzki.pl
@@ -1195,7 +1208,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260808T130000
 DTEND;TZID=Europe/Warsaw:20260808T150000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260702T114633Z
 LAST-MODIFIED:20260702T114706Z
 UID:10049787-1786194000-1786201200@plasterlodzki.pl
@@ -1208,7 +1221,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260808T170000
 DTEND;TZID=Europe/Warsaw:20260808T190000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050358-1786208400-1786215600@plasterlodzki.pl
@@ -1221,7 +1234,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260808T190000
 DTEND;TZID=Europe/Warsaw:20260808T233000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20221202T211155Z
 LAST-MODIFIED:20260508T090319Z
 UID:10029262-1786215600-1786231800@plasterlodzki.pl
@@ -1234,7 +1247,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260809T170000
 DTEND;TZID=Europe/Warsaw:20260809T183000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049741-1786294800-1786300200@plasterlodzki.pl
@@ -1247,7 +1260,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260810T190000
 DTEND;TZID=Europe/Warsaw:20260810T210000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260501T192116Z
 LAST-MODIFIED:20260709T080355Z
 UID:10050208-1786388400-1786395600@plasterlodzki.pl
@@ -1260,7 +1273,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260811T190000
 DTEND;TZID=Europe/Warsaw:20260811T203000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049715-1786474800-1786480200@plasterlodzki.pl
@@ -1273,7 +1286,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260812T200000
 DTEND;TZID=Europe/Warsaw:20260812T213000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049724-1786564800-1786570200@plasterlodzki.pl
@@ -1286,7 +1299,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260814T190000
 DTEND;TZID=Europe/Warsaw:20260814T230000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20250908T124832Z
 LAST-MODIFIED:20260515T102204Z
 UID:10043090-1786734000-1786748400@plasterlodzki.pl
@@ -1299,7 +1312,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260814T210000
 DTEND;TZID=Europe/Warsaw:20260814T223000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049671-1786741200-1786746600@plasterlodzki.pl
@@ -1312,7 +1325,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260815T170000
 DTEND;TZID=Europe/Warsaw:20260815T190000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050359-1786813200-1786820400@plasterlodzki.pl
@@ -1325,7 +1338,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260816T170000
 DTEND;TZID=Europe/Warsaw:20260816T183000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049742-1786899600-1786905000@plasterlodzki.pl
@@ -1338,7 +1351,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260818T190000
 DTEND;TZID=Europe/Warsaw:20260818T203000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049716-1787079600-1787085000@plasterlodzki.pl
@@ -1351,7 +1364,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260819T200000
 DTEND;TZID=Europe/Warsaw:20260819T213000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049725-1787169600-1787175000@plasterlodzki.pl
@@ -1364,7 +1377,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260820T190000
 DTEND;TZID=Europe/Warsaw:20260820T213000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20250629T081017Z
 LAST-MODIFIED:20260630T135504Z
 UID:10041675-1787252400-1787261400@plasterlodzki.pl
@@ -1377,7 +1390,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260822T170000
 DTEND;TZID=Europe/Warsaw:20260822T190000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050360-1787418000-1787425200@plasterlodzki.pl
@@ -1390,7 +1403,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T170000
 DTEND;TZID=Europe/Warsaw:20260823T183000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049743-1787504400-1787509800@plasterlodzki.pl
@@ -1403,7 +1416,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260824T190000
 DTEND;TZID=Europe/Warsaw:20260824T210000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260501T192116Z
 LAST-MODIFIED:20260709T080355Z
 UID:10050209-1787598000-1787605200@plasterlodzki.pl
@@ -1416,7 +1429,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260825T190000
 DTEND;TZID=Europe/Warsaw:20260825T203000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049717-1787684400-1787689800@plasterlodzki.pl
@@ -1429,7 +1442,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260826T200000
 DTEND;TZID=Europe/Warsaw:20260826T213000
-DTSTAMP:20260720T071705
+DTSTAMP:20260721T071706
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049726-1787774400-1787779800@plasterlodzki.pl
@@ -1442,7 +1455,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260827T190000
 DTEND;TZID=Europe/Warsaw:20260827T210000
-DTSTAMP:20260720T071706
+DTSTAMP:20260721T071706
 CREATED:20251220T220055Z
 LAST-MODIFIED:20260425T110707Z
 UID:10045915-1787857200-1787864400@plasterlodzki.pl
@@ -1455,7 +1468,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260828T200000
 DTEND;TZID=Europe/Warsaw:20260828T223000
-DTSTAMP:20260720T071706
+DTSTAMP:20260721T071706
 CREATED:20230120T095341Z
 LAST-MODIFIED:20260703T094813Z
 UID:10029916-1787947200-1787956200@plasterlodzki.pl
@@ -1468,7 +1481,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260829T170000
 DTEND;TZID=Europe/Warsaw:20260829T190000
-DTSTAMP:20260720T071706
+DTSTAMP:20260721T071706
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050361-1788022800-1788030000@plasterlodzki.pl
