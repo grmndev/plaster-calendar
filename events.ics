@@ -1078,7 +1078,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260729T200000
 DTEND;TZID=Europe/Warsaw:20260729T213000
-DTSTAMP:20260728T071704
+DTSTAMP:20260729T071704
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049722-1785355200-1785360600@plasterlodzki.pl
@@ -1091,7 +1091,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260730T190000
 DTEND;TZID=Europe/Warsaw:20260730T213000
-DTSTAMP:20260728T071704
+DTSTAMP:20260729T071704
 CREATED:20250908T124734Z
 LAST-MODIFIED:20260425T110639Z
 UID:10043088-1785438000-1785447000@plasterlodzki.pl
@@ -1104,7 +1104,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260730T200000
 DTEND;TZID=Europe/Warsaw:20260730T220000
-DTSTAMP:20260728T071704
+DTSTAMP:20260729T071704
 CREATED:20260724T105441Z
 LAST-MODIFIED:20260724T105442Z
 UID:10048377-1785441600-1785448800@plasterlodzki.pl
@@ -1117,7 +1117,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260730T210000
 DTEND;TZID=Europe/Warsaw:20260730T220000
-DTSTAMP:20260728T071704
+DTSTAMP:20260729T071704
 CREATED:20260630T140243Z
 LAST-MODIFIED:20260630T140243Z
 UID:10049503-1785445200-1785448800@plasterlodzki.pl
@@ -1130,7 +1130,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260731T200000
 DTEND;TZID=Europe/Warsaw:20260731T210000
-DTSTAMP:20260728T071704
+DTSTAMP:20260729T071704
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049668-1785528000-1785531600@plasterlodzki.pl
@@ -1143,7 +1143,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260731T200000
 DTEND;TZID=Europe/Warsaw:20260731T213000
-DTSTAMP:20260728T071704
+DTSTAMP:20260729T071704
 CREATED:20260724T105458Z
 LAST-MODIFIED:20260724T105458Z
 UID:10048077-1785528000-1785533400@plasterlodzki.pl
@@ -1156,7 +1156,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260731T200000
 DTEND;TZID=Europe/Warsaw:20260731T210000
-DTSTAMP:20260728T071704
+DTSTAMP:20260729T071704
 CREATED:20230120T095505Z
 LAST-MODIFIED:20260612T091203Z
 UID:10029919-1785528000-1785531600@plasterlodzki.pl
@@ -1169,7 +1169,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260731T210000
 DTEND;TZID=Europe/Warsaw:20260731T223000
-DTSTAMP:20260728T071704
+DTSTAMP:20260729T071704
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049669-1785531600-1785537000@plasterlodzki.pl
@@ -1182,7 +1182,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260801T170000
 DTEND;TZID=Europe/Warsaw:20260801T190000
-DTSTAMP:20260728T071705
+DTSTAMP:20260729T071705
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050357-1785603600-1785610800@plasterlodzki.pl
@@ -1195,7 +1195,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260801T200000
 DTEND;TZID=Europe/Warsaw:20260801T220000
-DTSTAMP:20260728T071705
+DTSTAMP:20260729T071705
 CREATED:20221118T124001Z
 LAST-MODIFIED:20260724T105513Z
 UID:10028887-1785614400-1785621600@plasterlodzki.pl
@@ -1208,7 +1208,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260802T170000
 DTEND;TZID=Europe/Warsaw:20260802T183000
-DTSTAMP:20260728T071705
+DTSTAMP:20260729T071705
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049740-1785690000-1785695400@plasterlodzki.pl
@@ -1219,9 +1219,22 @@ LOCATION:Park Źródliska\, Park Źródliska I\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260802T170000
+DTEND;TZID=Europe/Warsaw:20260802T183000
+DTSTAMP:20260729T071705
+CREATED:20260728T163721Z
+LAST-MODIFIED:20260728T163721Z
+UID:10050448-1785690000-1785695400@plasterlodzki.pl
+SUMMARY:Manu Summer Jazz Sundays
+DESCRIPTION:Jazz w wykonaniu najciekawszych przedstawicieli młodego pokolenia zabrzmi w tym roku na Małym Rynku Jazzowym w Manufakturze. Tegoroczna odsłona cyklu Manu Summer Jazz Sundays odbędzie się pod hasłem „Young Polish Jazz”. W cztery sierpniowe niedziele publiczność usłyszy artystów\, którzy zdobywają najważniejsze nagrody\, koncertują na europejskich festiwalach i należą do najbardziej obiecujących twórców współczesnej polskiej sceny jazzowej. \nManu Summer Jazz Sundays   \n2\, 9\, 16\, 23 sierpnia\, godz. 17.00 \nMały Rynek Jazzowy w Manufakturze \nTegoroczna edycja Manu Summer Jazz Sundays to spotkanie z nowoczesnym obliczem polskiego jazzu. Publiczność usłyszy artystów\, którzy mimo młodego wieku mają na swoim koncie najważniejsze nagrody branżowe\, koncerty na prestiżowych festiwalach i uznanie krytyków. Każdy z sierpniowych koncertów pokaże inne oblicze jazzu – od inspiracji muzyką ludową i elektroniką\, przez subtelne jazzowe ballady i improwizację\, po energetyczny modern jazz oraz premierowy materiał jednego z najbardziej obiecujących zespołów młodego pokolenia. \nCykl otworzy 2 sierpnia kwintet Blu/Bry\, który z powodzeniem łączy nowoczesny jazz z elementami muzyki ludowej\, klasycznej i elektronicznej. Laureaci najważniejszych konkursów jazzowych w Polsce zaprezentują autorskie kompozycje z albumów „Blubry” i „Ejber”\, wyróżniające się świeżym\, spójnym brzmieniem. \n9 sierpnia na scenie pojawi się duet Damian Kostka & Judyta Pisarczyk z projektem „Just Let Me Fly”. Spotkanie kontrabasu\, gitary basowej i głosu zaowocuje wyjątkową muzyczną opowieścią\, w której autorskie kompozycje przeplatają się z najpiękniejszymi standardami jazzowymi – od lirycznych ballad po pełną swobody improwizację. \nTydzień później\, 16 sierpnia\, publiczność usłyszy Paweł Krawiec Quartet – katowicką formację modern jazzową\, która z energią czerpie z brzmień lat 50.\, 60. i 70.\, łącząc je ze współczesną jazzową wrażliwością. Zespół tworzą muzycy należący do czołówki młodej polskiej sceny jazzowej\, wielokrotnie nagradzani na krajowych konkursach. \nFinał tegorocznej edycji\, 23 sierpnia\, należeć będzie do zespołu Horntet – jednego z najbardziej obiecujących kolektywów jazzowych młodego pokolenia. Nominowani do Fryderyków i laureaci najważniejszych konkursów jazzowych wykonają premierowo utwory z nadchodzącego albumu „Direct Message”\, którego premiera zaplanowana jest na wrzesień. \nScena Manu Summer Jazz Sundays tradycyjnie stanie na Małym Rynku Jazzowym\, pomiędzy Starbucksem a Whiskey in the Jar. Udział we wszystkich koncertach jest bezpłatny. Liczba miejsc siedzących jest ograniczona\, dlatego warto skorzystać z oferty pobliskich ogródków gastronomicznych\, z których również doskonale słychać koncerty. W razie deszczu wydarzenia zostaną przeniesione do galerii handlowej – przy głównym wejściu od strony rynku.
+URL:https://plasterlodzki.pl/wydarzenia/manu-summer-jazz-sundays-6/2026-08-02/
+LOCATION:Manufaktura\, Drewnowska 58\, Łódź\, łódzkie\, 91-002\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260804T190000
 DTEND;TZID=Europe/Warsaw:20260804T203000
-DTSTAMP:20260728T071705
+DTSTAMP:20260729T071705
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049714-1785870000-1785875400@plasterlodzki.pl
@@ -1234,7 +1247,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260805T200000
 DTEND;TZID=Europe/Warsaw:20260805T213000
-DTSTAMP:20260728T071705
+DTSTAMP:20260729T071705
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049723-1785960000-1785965400@plasterlodzki.pl
@@ -1247,7 +1260,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260806T190000
 DTEND;TZID=Europe/Warsaw:20260806T210000
-DTSTAMP:20260728T071705
+DTSTAMP:20260729T071705
 CREATED:20260410T102222Z
 LAST-MODIFIED:20260410T102222Z
 UID:10048081-1786042800-1786050000@plasterlodzki.pl
@@ -1260,7 +1273,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260806T190000
 DTEND;TZID=Europe/Warsaw:20260806T210000
-DTSTAMP:20260728T071705
+DTSTAMP:20260729T071705
 CREATED:20260702T114633Z
 LAST-MODIFIED:20260702T114706Z
 UID:10049786-1786042800-1786050000@plasterlodzki.pl
@@ -1273,7 +1286,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260806T210000
 DTEND;TZID=Europe/Warsaw:20260806T220000
-DTSTAMP:20260728T071705
+DTSTAMP:20260729T071705
 CREATED:20260630T140243Z
 LAST-MODIFIED:20260630T140243Z
 UID:10049504-1786050000-1786053600@plasterlodzki.pl
@@ -1286,7 +1299,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260807T210000
 DTEND;TZID=Europe/Warsaw:20260807T223000
-DTSTAMP:20260728T071705
+DTSTAMP:20260729T071705
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049670-1786136400-1786141800@plasterlodzki.pl
@@ -1299,7 +1312,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260808T130000
 DTEND;TZID=Europe/Warsaw:20260808T150000
-DTSTAMP:20260728T071705
+DTSTAMP:20260729T071705
 CREATED:20260702T114633Z
 LAST-MODIFIED:20260702T114706Z
 UID:10049787-1786194000-1786201200@plasterlodzki.pl
@@ -1312,7 +1325,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260808T170000
 DTEND;TZID=Europe/Warsaw:20260808T190000
-DTSTAMP:20260728T071705
+DTSTAMP:20260729T071705
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050358-1786208400-1786215600@plasterlodzki.pl
@@ -1325,7 +1338,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260808T180000
 DTEND;TZID=Europe/Warsaw:20260808T210000
-DTSTAMP:20260728T071705
+DTSTAMP:20260729T071705
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260724T100919Z
 UID:10050385-1786212000-1786222800@plasterlodzki.pl
@@ -1338,7 +1351,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260808T190000
 DTEND;TZID=Europe/Warsaw:20260808T233000
-DTSTAMP:20260728T071706
+DTSTAMP:20260729T071705
 CREATED:20221202T211155Z
 LAST-MODIFIED:20260508T090319Z
 UID:10029262-1786215600-1786231800@plasterlodzki.pl
@@ -1351,7 +1364,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260809T170000
 DTEND;TZID=Europe/Warsaw:20260809T183000
-DTSTAMP:20260728T071706
+DTSTAMP:20260729T071705
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049741-1786294800-1786300200@plasterlodzki.pl
@@ -1362,9 +1375,22 @@ LOCATION:Park Źródliska\, Park Źródliska I\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260809T170000
+DTEND;TZID=Europe/Warsaw:20260809T183000
+DTSTAMP:20260729T071705
+CREATED:20260728T163721Z
+LAST-MODIFIED:20260728T163721Z
+UID:10050449-1786294800-1786300200@plasterlodzki.pl
+SUMMARY:Manu Summer Jazz Sundays
+DESCRIPTION:Jazz w wykonaniu najciekawszych przedstawicieli młodego pokolenia zabrzmi w tym roku na Małym Rynku Jazzowym w Manufakturze. Tegoroczna odsłona cyklu Manu Summer Jazz Sundays odbędzie się pod hasłem „Young Polish Jazz”. W cztery sierpniowe niedziele publiczność usłyszy artystów\, którzy zdobywają najważniejsze nagrody\, koncertują na europejskich festiwalach i należą do najbardziej obiecujących twórców współczesnej polskiej sceny jazzowej. \nManu Summer Jazz Sundays   \n2\, 9\, 16\, 23 sierpnia\, godz. 17.00 \nMały Rynek Jazzowy w Manufakturze \nTegoroczna edycja Manu Summer Jazz Sundays to spotkanie z nowoczesnym obliczem polskiego jazzu. Publiczność usłyszy artystów\, którzy mimo młodego wieku mają na swoim koncie najważniejsze nagrody branżowe\, koncerty na prestiżowych festiwalach i uznanie krytyków. Każdy z sierpniowych koncertów pokaże inne oblicze jazzu – od inspiracji muzyką ludową i elektroniką\, przez subtelne jazzowe ballady i improwizację\, po energetyczny modern jazz oraz premierowy materiał jednego z najbardziej obiecujących zespołów młodego pokolenia. \nCykl otworzy 2 sierpnia kwintet Blu/Bry\, który z powodzeniem łączy nowoczesny jazz z elementami muzyki ludowej\, klasycznej i elektronicznej. Laureaci najważniejszych konkursów jazzowych w Polsce zaprezentują autorskie kompozycje z albumów „Blubry” i „Ejber”\, wyróżniające się świeżym\, spójnym brzmieniem. \n9 sierpnia na scenie pojawi się duet Damian Kostka & Judyta Pisarczyk z projektem „Just Let Me Fly”. Spotkanie kontrabasu\, gitary basowej i głosu zaowocuje wyjątkową muzyczną opowieścią\, w której autorskie kompozycje przeplatają się z najpiękniejszymi standardami jazzowymi – od lirycznych ballad po pełną swobody improwizację. \nTydzień później\, 16 sierpnia\, publiczność usłyszy Paweł Krawiec Quartet – katowicką formację modern jazzową\, która z energią czerpie z brzmień lat 50.\, 60. i 70.\, łącząc je ze współczesną jazzową wrażliwością. Zespół tworzą muzycy należący do czołówki młodej polskiej sceny jazzowej\, wielokrotnie nagradzani na krajowych konkursach. \nFinał tegorocznej edycji\, 23 sierpnia\, należeć będzie do zespołu Horntet – jednego z najbardziej obiecujących kolektywów jazzowych młodego pokolenia. Nominowani do Fryderyków i laureaci najważniejszych konkursów jazzowych wykonają premierowo utwory z nadchodzącego albumu „Direct Message”\, którego premiera zaplanowana jest na wrzesień. \nScena Manu Summer Jazz Sundays tradycyjnie stanie na Małym Rynku Jazzowym\, pomiędzy Starbucksem a Whiskey in the Jar. Udział we wszystkich koncertach jest bezpłatny. Liczba miejsc siedzących jest ograniczona\, dlatego warto skorzystać z oferty pobliskich ogródków gastronomicznych\, z których również doskonale słychać koncerty. W razie deszczu wydarzenia zostaną przeniesione do galerii handlowej – przy głównym wejściu od strony rynku.
+URL:https://plasterlodzki.pl/wydarzenia/manu-summer-jazz-sundays-6/2026-08-09/
+LOCATION:Manufaktura\, Drewnowska 58\, Łódź\, łódzkie\, 91-002\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260810T190000
 DTEND;TZID=Europe/Warsaw:20260810T210000
-DTSTAMP:20260728T071706
+DTSTAMP:20260729T071705
 CREATED:20260501T192116Z
 LAST-MODIFIED:20260709T080355Z
 UID:10050208-1786388400-1786395600@plasterlodzki.pl
@@ -1377,7 +1403,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260811T190000
 DTEND;TZID=Europe/Warsaw:20260811T203000
-DTSTAMP:20260728T071706
+DTSTAMP:20260729T071705
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049715-1786474800-1786480200@plasterlodzki.pl
@@ -1388,9 +1414,35 @@ LOCATION:Piotrkowska\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260812T190000
+DTEND;TZID=Europe/Warsaw:20260812T203000
+DTSTAMP:20260729T071705
+CREATED:20250816T110629Z
+LAST-MODIFIED:20260728T100634Z
+UID:10050428-1786561200-1786566600@plasterlodzki.pl
+SUMMARY:KATSEYE: WILD HEARTS
+DESCRIPTION:KATSEYE: WILD HEARTS\, zrealizowany pod nadzorem reżyserki Nadii Hallgren oraz twórców hitu Netflixa „Pop Star Academy”. To znacznie więcej niż tradycyjna produkcja muzyczna – to porywająca\, intymna podróż dokumentująca wejście nominowanego do nagrody GRAMMY® zespołu w zupełnie nową erę globalnego popu. \n\n\n\nProdukcja przywołuje drogę formacji od rygorystycznych przygotowań w Dream Academy aż po wiralowy sukces na szczytach list przebojów przy użyciu ekskluzywnych materiałów\, przenosząc widzów w samo serce unikalnej więzi grupy z fanami dzięki nagraniom od społeczności Eyekons oraz szczerym wywiadom. Historia tego wyjątkowego fenomenu\, ukazana poprzez pryzmat wyrzeczeń\, przełomowych momentów i zapowiedzi trzeciej EP-ki „WILD”\, rzuca nowe światło na korzenie oraz dziedzictwo jednej z najgłośniejszych\, międzynarodowych grup kobiecych współczesnej sceny muzycznej\, w której na ekranie obok zakulisowych ujęć królują nagrodzone statuetkami American Music Awards hity\, takie jak „Gnarly” czy zaprezentowany na Coachella singiel „PINKY UP”. \nKATSEYE: WILD HEARTS to definitywna\, napędzana popową energią gratka dla fanów oraz pierwsze w historii kinowe wydarzenie zespołu\, dostępne na wielkim ekranie wyłącznie 12 i 15 sierpnia.
+URL:https://plasterlodzki.pl/wydarzenia/mini-festiwal-filmow-outdoorowych-w-lodzi-2/2026-08-12/
+LOCATION:Multikino\, Piłsudskiego 5\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260812T193000
+DTEND;TZID=Europe/Warsaw:20260812T203000
+DTSTAMP:20260729T071705
+CREATED:20240229T194214Z
+LAST-MODIFIED:20260728T094718Z
+UID:10047731-1786563000-1786566600@plasterlodzki.pl
+SUMMARY:KATSEYE: WILD HEARTS
+DESCRIPTION:Dwukrotnie nominowany do nagrody GRAMMY® globalny girlsband KATSEYE trafia na wielki ekran z wyjątkowym filmowym wydarzeniem poprzedzającym premierę ich trzeciej EP-ki WILD.KATSEYE: WILD HEARTS to fascynująca podróż do nowego\, odważnego rozdziału w historii zespołu\, a zarazem hołd dla fanów\, którzy pomogli go stworzyć. Film zawiera nigdy wcześniej niepublikowane materiały\, nagrania od fanów – EYEKONS – oraz szczere rozmowy z członkiniami grupy\, ukazując niezwykłą więź łączącą KATSEYE z ich globalnym fandomem. To pełen emocji list miłosny do społeczności EYEKONS\, dzięki której ten fenomen stał się rzeczywistością\, i opowieść pokazująca\, że historia KATSEYE dopiero się rozpoczyna.
+URL:https://plasterlodzki.pl/wydarzenia/turandot-2/
+LOCATION:Cinema City\, Drewnowska 58\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260812T200000
 DTEND;TZID=Europe/Warsaw:20260812T213000
-DTSTAMP:20260728T071706
+DTSTAMP:20260729T071705
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049724-1786564800-1786570200@plasterlodzki.pl
@@ -1403,7 +1455,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260814T190000
 DTEND;TZID=Europe/Warsaw:20260814T230000
-DTSTAMP:20260728T071706
+DTSTAMP:20260729T071705
 CREATED:20250908T124832Z
 LAST-MODIFIED:20260515T102204Z
 UID:10043090-1786734000-1786748400@plasterlodzki.pl
@@ -1416,7 +1468,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260814T210000
 DTEND;TZID=Europe/Warsaw:20260814T223000
-DTSTAMP:20260728T071706
+DTSTAMP:20260729T071705
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049671-1786741200-1786746600@plasterlodzki.pl
@@ -1427,9 +1479,22 @@ LOCATION:Centralne Muzeum Włókiennictwa w Łodzi\, Piotrkowska 282\, Łódź\,
 CATEGORIES:Festiwal,Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260815T130000
+DTEND;TZID=Europe/Warsaw:20260815T150000
+DTSTAMP:20260729T071705
+CREATED:20250816T110629Z
+LAST-MODIFIED:20260728T100634Z
+UID:10050429-1786798800-1786806000@plasterlodzki.pl
+SUMMARY:KATSEYE: WILD HEARTS
+DESCRIPTION:KATSEYE: WILD HEARTS\, zrealizowany pod nadzorem reżyserki Nadii Hallgren oraz twórców hitu Netflixa „Pop Star Academy”. To znacznie więcej niż tradycyjna produkcja muzyczna – to porywająca\, intymna podróż dokumentująca wejście nominowanego do nagrody GRAMMY® zespołu w zupełnie nową erę globalnego popu. \n\n\n\nProdukcja przywołuje drogę formacji od rygorystycznych przygotowań w Dream Academy aż po wiralowy sukces na szczytach list przebojów przy użyciu ekskluzywnych materiałów\, przenosząc widzów w samo serce unikalnej więzi grupy z fanami dzięki nagraniom od społeczności Eyekons oraz szczerym wywiadom. Historia tego wyjątkowego fenomenu\, ukazana poprzez pryzmat wyrzeczeń\, przełomowych momentów i zapowiedzi trzeciej EP-ki „WILD”\, rzuca nowe światło na korzenie oraz dziedzictwo jednej z najgłośniejszych\, międzynarodowych grup kobiecych współczesnej sceny muzycznej\, w której na ekranie obok zakulisowych ujęć królują nagrodzone statuetkami American Music Awards hity\, takie jak „Gnarly” czy zaprezentowany na Coachella singiel „PINKY UP”. \nKATSEYE: WILD HEARTS to definitywna\, napędzana popową energią gratka dla fanów oraz pierwsze w historii kinowe wydarzenie zespołu\, dostępne na wielkim ekranie wyłącznie 12 i 15 sierpnia.
+URL:https://plasterlodzki.pl/wydarzenia/mini-festiwal-filmow-outdoorowych-w-lodzi-2/2026-08-15/
+LOCATION:Multikino\, Piłsudskiego 5\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260815T170000
 DTEND;TZID=Europe/Warsaw:20260815T190000
-DTSTAMP:20260728T071706
+DTSTAMP:20260729T071705
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050359-1786813200-1786820400@plasterlodzki.pl
@@ -1442,7 +1507,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260816T170000
 DTEND;TZID=Europe/Warsaw:20260816T183000
-DTSTAMP:20260728T071706
+DTSTAMP:20260729T071705
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049742-1786899600-1786905000@plasterlodzki.pl
@@ -1453,9 +1518,22 @@ LOCATION:Park Źródliska\, Park Źródliska I\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260816T170000
+DTEND;TZID=Europe/Warsaw:20260816T183000
+DTSTAMP:20260729T071705
+CREATED:20260728T163721Z
+LAST-MODIFIED:20260728T163721Z
+UID:10050450-1786899600-1786905000@plasterlodzki.pl
+SUMMARY:Manu Summer Jazz Sundays
+DESCRIPTION:Jazz w wykonaniu najciekawszych przedstawicieli młodego pokolenia zabrzmi w tym roku na Małym Rynku Jazzowym w Manufakturze. Tegoroczna odsłona cyklu Manu Summer Jazz Sundays odbędzie się pod hasłem „Young Polish Jazz”. W cztery sierpniowe niedziele publiczność usłyszy artystów\, którzy zdobywają najważniejsze nagrody\, koncertują na europejskich festiwalach i należą do najbardziej obiecujących twórców współczesnej polskiej sceny jazzowej. \nManu Summer Jazz Sundays   \n2\, 9\, 16\, 23 sierpnia\, godz. 17.00 \nMały Rynek Jazzowy w Manufakturze \nTegoroczna edycja Manu Summer Jazz Sundays to spotkanie z nowoczesnym obliczem polskiego jazzu. Publiczność usłyszy artystów\, którzy mimo młodego wieku mają na swoim koncie najważniejsze nagrody branżowe\, koncerty na prestiżowych festiwalach i uznanie krytyków. Każdy z sierpniowych koncertów pokaże inne oblicze jazzu – od inspiracji muzyką ludową i elektroniką\, przez subtelne jazzowe ballady i improwizację\, po energetyczny modern jazz oraz premierowy materiał jednego z najbardziej obiecujących zespołów młodego pokolenia. \nCykl otworzy 2 sierpnia kwintet Blu/Bry\, który z powodzeniem łączy nowoczesny jazz z elementami muzyki ludowej\, klasycznej i elektronicznej. Laureaci najważniejszych konkursów jazzowych w Polsce zaprezentują autorskie kompozycje z albumów „Blubry” i „Ejber”\, wyróżniające się świeżym\, spójnym brzmieniem. \n9 sierpnia na scenie pojawi się duet Damian Kostka & Judyta Pisarczyk z projektem „Just Let Me Fly”. Spotkanie kontrabasu\, gitary basowej i głosu zaowocuje wyjątkową muzyczną opowieścią\, w której autorskie kompozycje przeplatają się z najpiękniejszymi standardami jazzowymi – od lirycznych ballad po pełną swobody improwizację. \nTydzień później\, 16 sierpnia\, publiczność usłyszy Paweł Krawiec Quartet – katowicką formację modern jazzową\, która z energią czerpie z brzmień lat 50.\, 60. i 70.\, łącząc je ze współczesną jazzową wrażliwością. Zespół tworzą muzycy należący do czołówki młodej polskiej sceny jazzowej\, wielokrotnie nagradzani na krajowych konkursach. \nFinał tegorocznej edycji\, 23 sierpnia\, należeć będzie do zespołu Horntet – jednego z najbardziej obiecujących kolektywów jazzowych młodego pokolenia. Nominowani do Fryderyków i laureaci najważniejszych konkursów jazzowych wykonają premierowo utwory z nadchodzącego albumu „Direct Message”\, którego premiera zaplanowana jest na wrzesień. \nScena Manu Summer Jazz Sundays tradycyjnie stanie na Małym Rynku Jazzowym\, pomiędzy Starbucksem a Whiskey in the Jar. Udział we wszystkich koncertach jest bezpłatny. Liczba miejsc siedzących jest ograniczona\, dlatego warto skorzystać z oferty pobliskich ogródków gastronomicznych\, z których również doskonale słychać koncerty. W razie deszczu wydarzenia zostaną przeniesione do galerii handlowej – przy głównym wejściu od strony rynku.
+URL:https://plasterlodzki.pl/wydarzenia/manu-summer-jazz-sundays-6/2026-08-16/
+LOCATION:Manufaktura\, Drewnowska 58\, Łódź\, łódzkie\, 91-002\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260818T190000
 DTEND;TZID=Europe/Warsaw:20260818T203000
-DTSTAMP:20260728T071706
+DTSTAMP:20260729T071705
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049716-1787079600-1787085000@plasterlodzki.pl
@@ -1468,7 +1546,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260819T200000
 DTEND;TZID=Europe/Warsaw:20260819T213000
-DTSTAMP:20260728T071706
+DTSTAMP:20260729T071705
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049725-1787169600-1787175000@plasterlodzki.pl
@@ -1481,7 +1559,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260820T190000
 DTEND;TZID=Europe/Warsaw:20260820T213000
-DTSTAMP:20260728T071706
+DTSTAMP:20260729T071705
 CREATED:20250629T081017Z
 LAST-MODIFIED:20260630T135504Z
 UID:10041675-1787252400-1787261400@plasterlodzki.pl
@@ -1490,83 +1568,5 @@ DESCRIPTION:MŁODA SCENA KOMPOZYTORSKA\nHADRYCH\, HIDANE\, KAPOŁKA\, ZIABLIUK \
 URL:https://plasterlodzki.pl/wydarzenia/marcel-balinski-trio-matter-100-kleive-aarset-storlokken/
 LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
 CATEGORIES:Festiwal,Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20260822T170000
-DTEND;TZID=Europe/Warsaw:20260822T190000
-DTSTAMP:20260728T071706
-CREATED:20240522T161907Z
-LAST-MODIFIED:20260717T122150Z
-UID:10050360-1787418000-1787425200@plasterlodzki.pl
-SUMMARY:Włókiennicza Unplugged
-DESCRIPTION:Włókiennicza Unplugged\n\nul. Włókiennicza 7 \n\nW letnie wieczory Włókiennicza 6 rozbrzmiewa dźwiękami muzyki. „Włókiennicza Unplugged” to niezwykła seria bezpłatnych koncertów na świeżym powietrzu\, które od czerwca do września co tydzień zamieniają tę symboliczną ulicę Łodzi w tętniącą życiem przestrzeń kulturalną. \n godz. 17:00 – 19:00  \n\n\n\nOrganizator: Łódzkie Centrum Wydarzeń
-URL:https://plasterlodzki.pl/wydarzenia/letnie-koncerty-na-wlokienniczej-4/2026-08-22/
-LOCATION:Ulica Włókiennicza\, Włókiennicza\, Łódź\, Poland
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20260823T150000
-DTEND;TZID=Europe/Warsaw:20260823T210000
-DTSTAMP:20260728T071706
-CREATED:20241018T145825Z
-LAST-MODIFIED:20260724T100802Z
-UID:10037660-1787497200-1787518800@plasterlodzki.pl
-SUMMARY:Echo Jedwabnego Szlaku\, Koncert i warsztaty muzyki Indii i świata arabskiego
-DESCRIPTION:Echo Jedwabnego SzlakuTam\, gdzie od wieków spotykały się kultury\, dziś spotykają się dźwięki.\nByły czasy\, gdy Jedwabny Szlak nie służył jedynie kupcom.\nPodróżowały nim również opowieści\, idee\, religie\, instrumenty i melodie. Każde spotkanie pozostawiało po sobie ślad – czasem w architekturze\, czasem w języku\, a bardzo często… w muzyce.\n23 sierpnia w Klubie Jesteśmy zapraszamy na niezwykłe wydarzenie\, które przypomina\, że muzyka od zawsze była najpiękniejszym językiem porozumienia.\nTego dnia spotkają się dwie wielkie tradycje muzyczne – Indie i świat arabski. Dwa odmienne brzmienia\, dwie historie i dwa instrumenty\, które od wieków poruszają ludzkie serca.\nNa scenie wystąpią wyjątkowi artyści.\n Lucyan (Lucjan Wesołowski) – pionier muzyki indyjskiej w Polsce\, mistrz gry na sitarze i fletach bansuri. Od ponad pięćdziesięciu lat koncertuje w całej Europie\, nagrał 36 albumów i od dziesięcioleci przybliża słuchaczom piękno indyjskiej tradycji muzycznej.\n Bahaa Belkhaima – marokański wirtuoz oudu\, kompozytor i pedagog mieszkający w Hiszpanii. W swojej twórczości splata tradycje arabskie\, andaluzyjskie\, marokańskie\, sefardyjskie i flamenco\, pokazując\, że muzyka potrafi zachować pamięć miejsc\, ludzi i wspólnej historii.\nTo jednak będzie coś więcej niż koncert. Warsztaty – dotknij muzyki od środka\nZanim zabrzmi pierwszy koncertowy utwór\, artyści zaproszą uczestników do świata orientalnych skal\, rytmów i instrumentów.\nPoznasz historię sitaru\, bansuri i oudu\, usłyszysz ich wyjątkowe brzmienie z bliska i odkryjesz\, dlaczego w muzyce Wschodu równie ważna jak dźwięk jest cisza.\nNie trzeba być muzykiem. Wystarczy ciekawość świata. Koncert – muzyczna podróż Jedwabnym Szlakiem\nWieczorem scena Klubu Jesteśmy zamieni się w przestrzeń spotkania kultur.\nUsłyszymy tradycyjne melodie Indii i krajów arabskich oraz autorskie kompozycje Lucjana Wesołowskiego inspirowane Orientem. Będzie miejsce na subtelność\, improwizację i emocje\, których nie da się zamknąć w słowach.\nTo koncert dla tych\, którzy lubią podróżować nie tylko po mapie\, ale również wyobraźnią.\nJeżeli choć na chwilę chcesz zwolnić\, odłożyć telefon i zanurzyć się w świecie pięknych dźwięków – to wydarzenie jest właśnie dla Ciebie.\n Program\n Warsztaty15:00–16:30 40 zł\n Koncert17:30–19:00 50 zł\n Bilet łączony (warsztaty + koncert): 80 zł\nLiczba miejsc na warsztaty jest ograniczona. Rezerwacja: 531 511 500.\nZapraszamy miłośników muzyki świata\, podróżników\, muzyków\, osoby praktykujące jogę i medytację\, a także wszystkich\, którzy wierzą\, że najciekawsze podróże zaczynają się od jednego dźwięku.\nEcho Jedwabnego Szlaku nie jest tylko wydarzeniem muzycznym.\nTo zaproszenie do spotkania z kulturą\, która od wieków przypomina\, że choć różnimy się językiem\, religią czy tradycją\, wszyscy potrafimy rozpoznać piękno\, gdy naprawdę go usłyszymy.
-URL:https://plasterlodzki.pl/wydarzenia/artur-szczawinski/
-LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
-CATEGORIES:Koncert,Warsztaty
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20260823T170000
-DTEND;TZID=Europe/Warsaw:20260823T183000
-DTSTAMP:20260728T071706
-CREATED:20260701T132023Z
-LAST-MODIFIED:20260701T132023Z
-UID:10049743-1787504400-1787509800@plasterlodzki.pl
-SUMMARY:Letnie Koncerty w Altanie
-DESCRIPTION:Zapraszamy na XIV edycję Letnich Koncertów w Altanie Parku Źródliska. \n \nTen sposób na połączenie wytchnienia w otoczeniu przyrody z przyjemnością słuchania muzyki na żywo Łodzianie znają od lat. \n  \nNiedzielne popołudnia w Parku Źródliska to powrót do pięknej tradycji plenerowego muzykowania\, zapoczątkowanej pod koniec XIX wieku. W letnie dni w parkowej altanie występowała orkiestra działająca wówczas przy fabrykach Karola Scheiblera. \n  \nW programie tegorocznego cyklu Letnich Koncertów w Altanie organizowanych wspólnie z Akademią Muzyczną w Łodzi usłyszymy między innymi: arie operowe\ni operetkowe\, muzykę filmową i musicalową\, piosenki z dwudziestolecia międzywojennego\, evergreeny muzyki klasycznej oraz muzykę klezmerską. Wśród wykonawców znajdą się: kwartety skrzypcowy i klarnetowy\, orkiestra retro\, zespół dęty\, duet skrzypce-fortepian oraz wokaliści klasyczni i rozrywkowi. \n  \nInformacje dodatkowe \n  \n8 koncertów. Niedziele od 5 lipca do 23 sierpnia\, godz. 17:00\, wstęp wolny \n  \nORGANIZATORZY:\nZarząd Zieleni Miejskiej\, Zielona Łódź\nAkademia Muzyczna im. G. i K. Bacewiczów w Łodzi \n  \nRamowy program koncertów: \n  \n5 lipca 2026 | Viva l’Opera!\nMaria Hubluk – sopran\nPaweł Piotrowski – baryton\nTomasz Kaszuba – piano \n  \n12 lipca 2026 | TO WSZYSTKO Z NUDÓW\nMaja Majewska – wokal\nGabriela Woźniak – wokal\nPaweł Urbanek – piano \n  \n19 lipca 2026 | ON I ONA – HISTORIA NIE (JEDNEJ) MIŁOŚCI\nMałgorzata Nojek-Miszkiewicz – sopran\nZiemowit Wojtczak – baryton\nAleksandra Nawe – piano \n  \n26 lipca 2026 | URODZINOWA NIESPODZIANKA\nMarta Tryzna – skrzypce I\nMałgorzata Pasierbska – skrzypce II\nJulia Loska – skrzypce III\nNatalia Wojciechowska – skrzypce IV \n  \n2 sierpnia 2026 | EPOKA FOGGA\nORKIESTRA RETRO\nWeronika Kulak – śpiew\nAntoni Bradé – śpiew\nAdrianna Zając – skrzypce\nMałgorzata Hejduk – altówka\nSławomir Wojtecki – trąbka\nJan Kornacki – saksofon\, aranżacje\nJózef Kaczorowski – puzon\nJakub Sofiński – akordeon\, aranżacje\nMichał Marchlewski – gitara\nLidia Tomaszewska – kontrabas \n  \n9 sierpnia 2026 | KLARNETOWY ZAWRÓT GŁOWY\nRobert Stefański – klarnet\nAdrianna Szymczyk – klarnet\nOtylia Polewska – klarnet\nIzabela Żuber – klarnet \n  \n16 sierpnia 2026 | NASZE ULUBIONE MELODIE\nMałgorzata Pasierbska skrzypce\nMaciej Wiśniewski – piano \n  \n23 sierpnia 2026 | ELEKTRYZUJĄCY FINAŁ\nzespół Urwani z Wesela \n 
-URL:https://plasterlodzki.pl/wydarzenia/letnie-koncerty-w-altanie-11/2026-08-23/
-LOCATION:Park Źródliska\, Park Źródliska I\, Łódź\, łódzkie\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20260824T190000
-DTEND;TZID=Europe/Warsaw:20260824T210000
-DTSTAMP:20260728T071706
-CREATED:20260501T192116Z
-LAST-MODIFIED:20260709T080355Z
-UID:10050209-1787598000-1787605200@plasterlodzki.pl
-SUMMARY:Letnie Koncerty Jazzowe
-DESCRIPTION:Patio – w każdy poniedziałek o godz. 19.00\nZapraszamy na wyjątkowy cykl letnich wieczorów z muzyką jazzową\, który połączy wirtuozerię uznanych mistrzów z powiewem świeżości młodej sceny improwizowanej. Przed nami seria spotkań z artystami\, którzy kształtują oblicze współczesnego polskiego jazzu\, od klasycznych brzmień organów Hammonda\, przez progresywny jazz-rock\, aż po nastrojowe wokalizy i post-jazzowe eksperymenty. \nLipiec: od innowacji do rockowej energii\nInauguracja cyklu Open Stage – Eter Jazzu nastąpi w poniedziałek\, 6 lipca. \nW Patio Portu Łódź wystąpią dwie wyjątkowe łodzianki – Marta Wilk\, jedna z najbardziej cenionych polskich wokalistek musicalowych i swingowych\, oraz błyskotliwa pianistka Marta Sobczak\, które zaprezentują specjalnie przygotowany projekt muzyczny pełen emocji\, improwizacji i jazzowych brzmień. \n13 lipca Marek Kądziela – wybitny gitarzysta\, kompozytor i innowator\, a zarazem kierownik Instytutu Instrumentalistyki Jazzowej łódzkiej Akademii Muzycznej. Jego występy to gwarancja poszukiwania nowych brzmień i muzycznych wyzwań\, poparta ogromnym doświadczeniem zdobytym w projektach z takimi gwiazdami jak Leszek Możdżer czy Michał Urbaniak. \n20 lipca scenę przejmie Janiak Trio z programem „Trzej Królowie”. To muzyczna petarda inspirowana złotą erą rocka lat 60.\, przefiltrowana przez jazzową swobodę. Klasyczny skład – organy Hammonda (Witold Janiak)\, saksofon (Szymon Bońkowski) i perkusja (Kacper Kaźmierski) – zapewni świeże\, tętniące życiem brzmienie balansujące między ekspresją a rockowym pazurem. \nMiesiąc zamkniemy 27 lipca wieczorem z Late Night Poems oraz duetem Twoosty Mayonez. Ci drudzy\, czyli Bartosz Wolert i Kornel Karolak\, zaprezentują muzykę post-jazzową z elementami elektroniki i ambientu\, stawiając na oryginalne brzmienie i niekonwencjonalne kompozycje. \nSierpień: mistrzowskie dialogi i jazz-rockowe opowieści\n10 sierpnia czeka nas spotkanie z duetem Krzemiński/Janiak. Piotr Krzemiński (trąbka) oraz Witold Janiak (organy Hammonda) to artyści doskonale znani łódzkiej publiczności\, których muzyczny dialog obiecuje mnóstwo emocji i mistrzowskich improwizacji opartych na autorskich kompozycjach. \n24 sierpnia będzie dniem dwóch wyjątkowych odsłon jazzu. Najpierw wystąpi grupa Muzozoic – łódzkie trio grające nowoczesny\, rześki jazz-rock z wykorzystaniem rzadkiego\, dziesięciostrunowego instrumentu Warr guitar. Następnie usłyszymy Irka Głyka w solowym recitalu „The Best Of”. Ten ceniony wibrafonista i perkusista\, współpracujący z czołówką polskiej sceny (m.in. SBB\, Stanisławem Sojką)\, zaprezentuje najpiękniejsze utwory ze swoich pięciu autorskich płyt\, w kameralnej i intymnej atmosferze. \nFinał cyklu\, 31 sierpnia\, należeć będzie do Patrycji Zarychty – wokalistki i kompozytorki związanej z nurtem jazzu i soulu. Artystka\, mająca na koncie współpracę z Michałem Urbaniakiem czy Kubą Badachem\, zaprezentuje materiał ze swoich albumów\, w tym najnowszego krążka „Kristel”. \nWszystkie koncerty startują o 19:00. Dołącz do nas i poczuj rytm letniego jazzu w Łodzi! Wydarzenie organizowane wspólnie z Radiem Łódź.
-URL:https://plasterlodzki.pl/wydarzenia/majowka-z-radiem-lodz-2/2026-08-24/
-LOCATION:Port Łódź\, Pabianicka 245\, Łódź\, łódzkie\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20260825T190000
-DTEND;TZID=Europe/Warsaw:20260825T203000
-DTSTAMP:20260728T071706
-CREATED:20260630T142619Z
-LAST-MODIFIED:20260630T142619Z
-UID:10049717-1787684400-1787689800@plasterlodzki.pl
-SUMMARY:Jazzowe wtorki
-DESCRIPTION:Jazzowe wtorki\n\n\n\n\n\n\n\n\n\nData: Zgodnie z harmonogramem (wtorek) \nGodzina: 19:00 \nLokalizacja: Piotrkowska 3 \nWstęp: Bezpłatny \nJazzowe Wtorki to spotkania z artystami reprezentującymi różne nurty współczesnego jazzu. W programie znalazły się koncerty m.in. Macieja Tubisa Trio\, Marka Kądzieli z projektem „Artificial Intuition” oraz Patrycji Zarychty. Obok uznanych nazwisk publiczność będzie mogła poznać również najciekawsze projekty związane z łódzką sceną jazzową. Każdy koncert prezentuje inne brzmienie i spojrzenie na ten gatunek muzyki. \nPROGRAM: \n30.06.2026\, 19:00   Ilona Damięcka Trio \n07.07.2026\, 19:00   Maciej Tubis Trio \n14.07.2026\, 19:00    Marek Kądziela Trio „Artificial Intuition” \n21.07.2026\, 19:00   Patrycja Zarychta \n28.07.2026\, 19:00   Błażej Ludwiczuk Contraphonic \n04.08.2026\, 19:00   Mikołaj Kaniewski Solar Wind \n11.08.2026\, 19:00   Janiak „Trzej Królowie” \n18.08.2026\, 19:00   Stanisław Szmigiero Quartet \n25.08.2026\, 19:00   Jan Kępiński
-URL:https://plasterlodzki.pl/wydarzenia/jazzowe-wtorki-2/2026-08-25/
-LOCATION:Piotrkowska\, Łódź\, łódzkie\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20260826T200000
-DTEND;TZID=Europe/Warsaw:20260826T213000
-DTSTAMP:20260728T071706
-CREATED:20260630T142710Z
-LAST-MODIFIED:20260630T142710Z
-UID:10049726-1787774400-1787779800@plasterlodzki.pl
-SUMMARY:Piotrkowska Kameralnie
-DESCRIPTION:Piotrkowska Kameralnie\n\n\n\n\n\n\n\n\n\n\n\nData: zgodnie z harmonogramem (środa) \nGodzina: 20:00 \nLokalizacja: Pasaż Rubinsteina \nWstęp: wolny \n  \nW środowe wieczory w Pasażu Rubinsteina wystąpią artyści prezentujący szerokie spektrum repertuaru – od jazzu i swingu\, przez muzykę klasyczną\, aż po poezję śpiewaną. Na scenie pojawią się m.in. Wojtek Stanisz Quartet\, Lucjan Wesołowski Trio\, Hot & Sweet Jazz Band oraz Maek & Jacek Crazy Rhythm feat. Jakub Mietła. Różnorodny repertuar sprawia\, że każdy wieczór ma własny charakter i muzyczną tożsamość. Cykl odbywa się od 2017 roku. \n  \nPROGRAM:  \n01.07.2026\, 20:00   Szymon Jędruch \n08.07.2026\, 20:00   Melodie Bliskości \n15.07.2026\, 20:00   Wojtek Stanisz Quartet \n22.07.2026 \,20:00   Marek & Jacek Crazy Rhythm feat. Jakub Mietła \n29.07.2026\, 20:00   Muzozoik \n05.08.2026\, 20:00   Lucjan Wesołowski Trio \n12.08.2026\, 20:00   Duet Wrong \n19.08.2026\, 20:00   Skrzypcowe Granie \n26.08.2026\, 20:00   Hot & Sweet Jazz Band
-URL:https://plasterlodzki.pl/wydarzenia/piotrkowska-kameralnie-3/2026-08-26/
-LOCATION:Pasaż Rubinsteina\, Pasaż Rubinsteina\, Łódź\, łódzkie\, Polska
-CATEGORIES:Koncert
 END:VEVENT
 END:VCALENDAR
