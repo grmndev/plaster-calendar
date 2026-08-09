@@ -209,7 +209,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260809T170000
 DTEND;TZID=Europe/Warsaw:20260809T183000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071704
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049741-1786294800-1786300200@plasterlodzki.pl
@@ -222,7 +222,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260809T170000
 DTEND;TZID=Europe/Warsaw:20260809T183000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071704
 CREATED:20260728T163721Z
 LAST-MODIFIED:20260728T163721Z
 UID:10050449-1786294800-1786300200@plasterlodzki.pl
@@ -233,9 +233,22 @@ LOCATION:Manufaktura\, Drewnowska 58\, Łódź\, łódzkie\, 91-002\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260809T190000
+DTEND;TZID=Europe/Warsaw:20260809T200000
+DTSTAMP:20260809T071704
+CREATED:20250326T132536Z
+LAST-MODIFIED:20260808T093658Z
+UID:10047344-1786302000-1786305600@plasterlodzki.pl
+SUMMARY:The right kind of trouble!- koncert muzyki autorskiej M.B. Doughty
+DESCRIPTION:\,\,The right kind of trouble! Serdecznie zapraszamy Państwa na koncert muzyki autorskiej młodego\, amerykańskiego kompozytora prosto z Bostonu. Będzie trochę folku\, poezji śpiewanej\, w tematyce nie zabraknie miłości i przemyśleń o życiu\, a to wszystko przy akompaniamencie wokalu Michaela\, skrzypiec i gitary. W programie znajdą się utwory z najnowszego albumu M. B. Doughty- „Fools” oraz takie\, które dopiero podczas naszego występu będą miały swoją premierę sceniczną. Zagrają dla Państwa absolwenci Akademii Muzycznej w Łodzi i Berklee College of Music w Bostonie\, których połączył… Budapeszt. Michael Doughty- tekst\, muzyka\, wokal\, gitara Julia Wach- skrzypce Start: 9 sierpnia 2026\, godzina 19 wstęp wolny- możliwość wpłacenia dobrowolnej cegiełki na koniec koncertu See you there„
+URL:https://plasterlodzki.pl/wydarzenia/stand-up-bartek-toczek/
+LOCATION:BohoArt Cafe\, Rewolucji 1905 r 2\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260810T190000
 DTEND;TZID=Europe/Warsaw:20260810T210000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071704
 CREATED:20260501T192116Z
 LAST-MODIFIED:20260709T080355Z
 UID:10050208-1786388400-1786395600@plasterlodzki.pl
@@ -248,7 +261,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260811T190000
 DTEND;TZID=Europe/Warsaw:20260811T203000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071704
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049715-1786474800-1786480200@plasterlodzki.pl
@@ -259,9 +272,21 @@ LOCATION:Piotrkowska\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260811T190000
+DTEND;TZID=Europe/Warsaw:20260811T203000
+DTSTAMP:20260809T071704
+CREATED:20260808T110632Z
+LAST-MODIFIED:20260808T110632Z
+UID:10050557-1786474800-1786480200@plasterlodzki.pl
+SUMMARY:RESPIRO MUSICA - Muzyka oddechu... 
+DESCRIPTION:Zapraszamy do udziału w cyklu 6 plenerowych koncertów muzycznych na terenie Tężni Botanik przy ul. Hufcowej 24 w Łodzi. „RESPIRO MUSICA – spotkania z muzyką przy tężniach” jest realizowane dzięki dofinansowaniu z budżetu Miasta Łodzi. Każde wydarzenie stanowi odrębną odsłonę artystyczną\, eksplorując różne nurty muzyczne – od ambientu i muzyki eksperymentalnej\, przez folk i jazz\, aż po formy rytmiczne i transowy performance. Osią cyklu RESPIRO MUSICA jest relacja między dźwiękiem\, a przestrzenią tężni solankowych – muzyka podyktowana rytmem natury\, zaprojektowana jako doświadczenie wspierające regenerację\, wyciszenie i uważność odbiorców. Koncerty mają charakter dostępny i otwarty\, skierowany do szerokiej grupy okolicznych mieszkańców (tężnie znajdują się pomiędzy blokami)\, w tym osób poszukujących spokojnych form uczestnictwa w kulturze. Każdy koncert posiada indywidualną koncepcję dramaturgiczną\, co zapewnia różnorodność programu przy zachowaniu spójności artystycznej całego cyklu.\n\nLudzki czynnik artystyczny cyklu to:\n–  Natalia Anna Kalisz-Odorowicz – wielokrotnie nagradzana absolwentka łódzkiej ASP – graficzka\, ilustratorka\, pisarka\, performerka\, edukatorka. Pomysłodawczyni cyklu RESPIRO MUSICA. Kobieta wszechstronna\, energetyczna\, otwarta na ludzi i nowe wyzwania. W projekcie wykona malarski performance\, będzie grała na Shruti box oraz zaprojektowała identyfikację wizualną RESPIRO MUSICA.\n– Bartosz Gułaj – bębniarz\, multiinstrumentalista\, współzałożyciel zespołów City Bum Bum i Dzikie Jabłka. Uczy grać na bębnach w swojej szkole o subtelnej i wdzięcznej nazwie masaHUKU.\n– Sławek Ostrowski – jego ulubione instrumenty to puzon\, tuba\, sakshorn barytonowy\, akordeon i na nich wszystkich gra aż miło. W latach 1982 -1996 muzyk Orkiestry Wojskowej w Łodzi\, obecnie gra z zespołami: Big Band Fabryka\, Dixie Friends – Medicus Band (zespół jazzu tradycyjnego)\, Dixie z Piotrkowskiej. Akompaniuje solistom takim jak: Rebecca Lowe (USA)\, Krystyna Prońko\, Dorota Miśkiewicz\, Kuba Badach\, Łukasz Karauda\, Henryk Miśkiewicz. Współpracuje też z Teatrem Jaracza\, Teatrem Wielkim\, Teatrem Powszechnym\, Teatrem Fabrycznym\, Akademickim Ośrodkiem Inicjatyw Artystycznych oraz Łódzkim Towarzystwem Muzycznym.\n– Przemek Pogocki – multiinstrumentalista\, kompozytor i pedagog; absolwent Wydziału Jazzu w AM w Katowicach oraz AM w Łodzi w dziedzinie muzyki dawnej. Za swoją działalność artystyczną i pedagogiczną odznaczony medalem „Zasłużony dla kultury polskiej”. Współpracował z wieloma artystami w Polsce i na świecie.\n-Mateusz Tranda – gitarzysta akustyczny\, pianista\, kompozytor i nauczyciel tworzący muzykę z poziomu serca i intuicji. Jego twórczość to ucieczka od zgiełku i pędu współczesnego świata ku czystemu\, organicznemu brzmieniu. Kluczowe miejsce w jego pracy zajmuje improwizacja\, traktowana jako unikalny zapis obecności\, emocji i niepowtarzalnej chwili. Artysta przywiązuje ogromną wagę do naturalnego rezonansu i wibracji\, nagrywając swoje kompozycje w stroju A = 432 Hz.\n– Samuel Szatkowski – etnograf z wykształcenia\, dokumentalista\, pieśniarz\, bajarz\, multiinstrumentalista. Obdarzony wielką charyzmą\, równie wielkim uśmiechem i poczuciem humoru. Podczas koncertu zabierze nas w podróż po łódzkich podwórkach i na łódzkie pola.\n– Paweł Odorowicz – absolwent krakowskiej Akademii Muzycznej\, altowiolista\, sideman\, performer\, kompozytor\, aranżer\, producent muzyczny i reżyser nagrań. Komponuje i nagrywa muzykę ilustracyjną\, filmową\, teatralną. Wielokrotny stypendysta MKiDN i Prezydenta rodzimego miasta Lublin. Pomysłodawca i kurator cyklu RESPIRO MUSICA.\n\nLista koncertów RESPIRO MUSICA:\nKoncert I – 06.08 – RESPIRO MUSICA – muzyka oddechu – to koncert muzyki relaksacyjnej\, spokojnej\, rozlanej jak polodowcowe jezioro. Dźwięki natury skomponowane z instrumentami akustycznymi\, altówką i Shruti box. To podróż do spokoju\, zanurzenie się w otulającą mgłę relaksu.\nWykonawcy: Natalia Anna Kalisz-Odorowicz\, Paweł Odorowicz.\n\nKoncert II – 11.08 – RESPIRO MUSICA – koncert folkowy – zapraszamy na podróż w czasie\, na łódzkie podwórka z okresu międzywojnia\, na wsie\, pola i opowieści prosto z zapiecka. Coś dla duszy i dla ciała\, coś pod nóżkę\, i do śpiewania. Muzyka podwórkowa i ludowa z rejonu łódzkiego\, ubarwiona opowieścią\, i wspominkami.\nWykonawcy: Samuel Szatkowski\, Paweł Odorowicz.\n\nKoncert III – 13.08 – RESPIRO MUSICA – koncert jazzowy –  popłyńmy w Łodzi deltą Missisipi! Standardy jazzowe w rewelacyjnym wykonaniu łódzkich muzyków wywołają falę wspomnień i poruszą serca. Nie tylko śpiewem człowiek żyje – tańczyć też trzeba!\nWykonawcy: Sławek Ostrowski\, Przemysław Pogocki.\n\nKoncert IV – 18.08 – RESPIRO MUSICA – muzyka kameralna i filmowe brzmienia – odróż do świata wyobraźni\, w słonych oparach tężniowpych oddechów. Podróż do świata obrazów\, które oglądamy od dzieciństwa\, przez wszystkie etapy swojego życia. Barwy klasycznych instrumentów oddychających pełnią otwartej przestrzeni.\nWykonawca: Paweł Odorowicz.\n\nKoncert V – 25.08 – RESPIRO MUSICA – gitarowy flow – gitarowy flow to zanurzenie się w rezonujący ocean dźwięków gitary strojonej do A=432 Hz\, otulający jak mech i wysokie trawy…\nWykonawca: Mateusz Tranda.\n\nKoncert VI – 27.08 – RESPIRO MUSICA – medytacyjny trans – performatywny rytuał współbrzmienia muzyki i obrazu. Do spotkania z naturą – najbliższą… Pod stopami\, w oddechu\, w pulsie serca. Podczas koncertów zespołu Taitu Tree nie ma podziału na scenę i publiczność. Jest wspólne doświadczanie. Świadome zakorzenienie się – tu i teraz. Jest muzyka do tańca\, jeśli ciało chce tańczyć. Do ciszy\, jeśli potrzebujesz zatrzymać się w sobie. Do zamknięcia oczu. Albo do otwarcia ich szerzej niż zwykle.\nWykonawcy: Natalia Anna Kalisz-Odorowicz\, Bartosz Gułaj\, Paweł Odorowicz.\n\nWszystkie koncerty odbywają się o godz. 19:00 w Tężniach BOTANIK\, ul. Hufcowa 24 Łódź.\n\nDodatkowo w załączniku znajduje się plakat.
+URL:https://plasterlodzki.pl/wydarzenia/respiro-musica-muzyka-oddechu/2026-08-11/
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260812T190000
 DTEND;TZID=Europe/Warsaw:20260812T203000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071704
 CREATED:20250816T110629Z
 LAST-MODIFIED:20260728T100634Z
 UID:10050428-1786561200-1786566600@plasterlodzki.pl
@@ -274,7 +299,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260812T193000
 DTEND;TZID=Europe/Warsaw:20260812T203000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071704
 CREATED:20240229T194214Z
 LAST-MODIFIED:20260728T094718Z
 UID:10047731-1786563000-1786566600@plasterlodzki.pl
@@ -287,7 +312,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260812T200000
 DTEND;TZID=Europe/Warsaw:20260812T213000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071704
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049724-1786564800-1786570200@plasterlodzki.pl
@@ -298,9 +323,34 @@ LOCATION:Pasaż Rubinsteina\, Pasaż Rubinsteina\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260813T190000
+DTEND;TZID=Europe/Warsaw:20260813T203000
+DTSTAMP:20260809T071704
+CREATED:20260808T110632Z
+LAST-MODIFIED:20260808T110632Z
+UID:10050558-1786647600-1786653000@plasterlodzki.pl
+SUMMARY:RESPIRO MUSICA - Muzyka oddechu... 
+DESCRIPTION:Zapraszamy do udziału w cyklu 6 plenerowych koncertów muzycznych na terenie Tężni Botanik przy ul. Hufcowej 24 w Łodzi. „RESPIRO MUSICA – spotkania z muzyką przy tężniach” jest realizowane dzięki dofinansowaniu z budżetu Miasta Łodzi. Każde wydarzenie stanowi odrębną odsłonę artystyczną\, eksplorując różne nurty muzyczne – od ambientu i muzyki eksperymentalnej\, przez folk i jazz\, aż po formy rytmiczne i transowy performance. Osią cyklu RESPIRO MUSICA jest relacja między dźwiękiem\, a przestrzenią tężni solankowych – muzyka podyktowana rytmem natury\, zaprojektowana jako doświadczenie wspierające regenerację\, wyciszenie i uważność odbiorców. Koncerty mają charakter dostępny i otwarty\, skierowany do szerokiej grupy okolicznych mieszkańców (tężnie znajdują się pomiędzy blokami)\, w tym osób poszukujących spokojnych form uczestnictwa w kulturze. Każdy koncert posiada indywidualną koncepcję dramaturgiczną\, co zapewnia różnorodność programu przy zachowaniu spójności artystycznej całego cyklu.\n\nLudzki czynnik artystyczny cyklu to:\n–  Natalia Anna Kalisz-Odorowicz – wielokrotnie nagradzana absolwentka łódzkiej ASP – graficzka\, ilustratorka\, pisarka\, performerka\, edukatorka. Pomysłodawczyni cyklu RESPIRO MUSICA. Kobieta wszechstronna\, energetyczna\, otwarta na ludzi i nowe wyzwania. W projekcie wykona malarski performance\, będzie grała na Shruti box oraz zaprojektowała identyfikację wizualną RESPIRO MUSICA.\n– Bartosz Gułaj – bębniarz\, multiinstrumentalista\, współzałożyciel zespołów City Bum Bum i Dzikie Jabłka. Uczy grać na bębnach w swojej szkole o subtelnej i wdzięcznej nazwie masaHUKU.\n– Sławek Ostrowski – jego ulubione instrumenty to puzon\, tuba\, sakshorn barytonowy\, akordeon i na nich wszystkich gra aż miło. W latach 1982 -1996 muzyk Orkiestry Wojskowej w Łodzi\, obecnie gra z zespołami: Big Band Fabryka\, Dixie Friends – Medicus Band (zespół jazzu tradycyjnego)\, Dixie z Piotrkowskiej. Akompaniuje solistom takim jak: Rebecca Lowe (USA)\, Krystyna Prońko\, Dorota Miśkiewicz\, Kuba Badach\, Łukasz Karauda\, Henryk Miśkiewicz. Współpracuje też z Teatrem Jaracza\, Teatrem Wielkim\, Teatrem Powszechnym\, Teatrem Fabrycznym\, Akademickim Ośrodkiem Inicjatyw Artystycznych oraz Łódzkim Towarzystwem Muzycznym.\n– Przemek Pogocki – multiinstrumentalista\, kompozytor i pedagog; absolwent Wydziału Jazzu w AM w Katowicach oraz AM w Łodzi w dziedzinie muzyki dawnej. Za swoją działalność artystyczną i pedagogiczną odznaczony medalem „Zasłużony dla kultury polskiej”. Współpracował z wieloma artystami w Polsce i na świecie.\n-Mateusz Tranda – gitarzysta akustyczny\, pianista\, kompozytor i nauczyciel tworzący muzykę z poziomu serca i intuicji. Jego twórczość to ucieczka od zgiełku i pędu współczesnego świata ku czystemu\, organicznemu brzmieniu. Kluczowe miejsce w jego pracy zajmuje improwizacja\, traktowana jako unikalny zapis obecności\, emocji i niepowtarzalnej chwili. Artysta przywiązuje ogromną wagę do naturalnego rezonansu i wibracji\, nagrywając swoje kompozycje w stroju A = 432 Hz.\n– Samuel Szatkowski – etnograf z wykształcenia\, dokumentalista\, pieśniarz\, bajarz\, multiinstrumentalista. Obdarzony wielką charyzmą\, równie wielkim uśmiechem i poczuciem humoru. Podczas koncertu zabierze nas w podróż po łódzkich podwórkach i na łódzkie pola.\n– Paweł Odorowicz – absolwent krakowskiej Akademii Muzycznej\, altowiolista\, sideman\, performer\, kompozytor\, aranżer\, producent muzyczny i reżyser nagrań. Komponuje i nagrywa muzykę ilustracyjną\, filmową\, teatralną. Wielokrotny stypendysta MKiDN i Prezydenta rodzimego miasta Lublin. Pomysłodawca i kurator cyklu RESPIRO MUSICA.\n\nLista koncertów RESPIRO MUSICA:\nKoncert I – 06.08 – RESPIRO MUSICA – muzyka oddechu – to koncert muzyki relaksacyjnej\, spokojnej\, rozlanej jak polodowcowe jezioro. Dźwięki natury skomponowane z instrumentami akustycznymi\, altówką i Shruti box. To podróż do spokoju\, zanurzenie się w otulającą mgłę relaksu.\nWykonawcy: Natalia Anna Kalisz-Odorowicz\, Paweł Odorowicz.\n\nKoncert II – 11.08 – RESPIRO MUSICA – koncert folkowy – zapraszamy na podróż w czasie\, na łódzkie podwórka z okresu międzywojnia\, na wsie\, pola i opowieści prosto z zapiecka. Coś dla duszy i dla ciała\, coś pod nóżkę\, i do śpiewania. Muzyka podwórkowa i ludowa z rejonu łódzkiego\, ubarwiona opowieścią\, i wspominkami.\nWykonawcy: Samuel Szatkowski\, Paweł Odorowicz.\n\nKoncert III – 13.08 – RESPIRO MUSICA – koncert jazzowy –  popłyńmy w Łodzi deltą Missisipi! Standardy jazzowe w rewelacyjnym wykonaniu łódzkich muzyków wywołają falę wspomnień i poruszą serca. Nie tylko śpiewem człowiek żyje – tańczyć też trzeba!\nWykonawcy: Sławek Ostrowski\, Przemysław Pogocki.\n\nKoncert IV – 18.08 – RESPIRO MUSICA – muzyka kameralna i filmowe brzmienia – odróż do świata wyobraźni\, w słonych oparach tężniowpych oddechów. Podróż do świata obrazów\, które oglądamy od dzieciństwa\, przez wszystkie etapy swojego życia. Barwy klasycznych instrumentów oddychających pełnią otwartej przestrzeni.\nWykonawca: Paweł Odorowicz.\n\nKoncert V – 25.08 – RESPIRO MUSICA – gitarowy flow – gitarowy flow to zanurzenie się w rezonujący ocean dźwięków gitary strojonej do A=432 Hz\, otulający jak mech i wysokie trawy…\nWykonawca: Mateusz Tranda.\n\nKoncert VI – 27.08 – RESPIRO MUSICA – medytacyjny trans – performatywny rytuał współbrzmienia muzyki i obrazu. Do spotkania z naturą – najbliższą… Pod stopami\, w oddechu\, w pulsie serca. Podczas koncertów zespołu Taitu Tree nie ma podziału na scenę i publiczność. Jest wspólne doświadczanie. Świadome zakorzenienie się – tu i teraz. Jest muzyka do tańca\, jeśli ciało chce tańczyć. Do ciszy\, jeśli potrzebujesz zatrzymać się w sobie. Do zamknięcia oczu. Albo do otwarcia ich szerzej niż zwykle.\nWykonawcy: Natalia Anna Kalisz-Odorowicz\, Bartosz Gułaj\, Paweł Odorowicz.\n\nWszystkie koncerty odbywają się o godz. 19:00 w Tężniach BOTANIK\, ul. Hufcowa 24 Łódź.\n\nDodatkowo w załączniku znajduje się plakat.
+URL:https://plasterlodzki.pl/wydarzenia/respiro-musica-muzyka-oddechu/2026-08-13/
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260813T200000
+DTEND;TZID=Europe/Warsaw:20260813T210000
+DTSTAMP:20260809T071704
+CREATED:20221202T161347Z
+LAST-MODIFIED:20260808T102737Z
+UID:10029109-1786651200-1786654800@plasterlodzki.pl
+SUMMARY:Jazz na leżakach
+DESCRIPTION:Jazz na leżakach czyli letnia odsłona czwartkowych\, jazzowych jam session w KIJuZapraszamy do naszego magicznego ogrodu na JAZZ NA LEŻAKACH.\nZagraja:Jan Ostalski – trąbka\, Błażej Szyzdek – gitara\, Hubert Grygiel – bas\, Piotr Wierzchowski – perkusja.\nJak zawsze gościmy Was od 18:00\, muzyka na żywo startuje od 20:00. Większe grupy zachęcamy do wcześniejszych rezerwacji!!!\nMiejsce: KIJ\, ul. Jaracza 45 (wejście od P.O.W.)90-249 ŁódźData: 13/08/2026Cena: FREE\nPoczujcie wyjątkowy klimat\, bawcie się i grajcie razem z nami!Zapraszamy Wszystkich muzyków do wspólnego jazzowania w radosnej atmosferze.WażneLokal przeznaczony jest dla osób powyżej 18 roku życia. Osoby niepełnoletnie nie zostaną wpuszczone na wydarzeniePrzypominamy: jazzowe jam session odbywa się u nas co czwartek! W razie złej pogody\, koncert zostaje przeniesiony do lokalu i staruje o 21:00
+URL:https://plasterlodzki.pl/wydarzenia/bandaz-elastyczny/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260814T190000
 DTEND;TZID=Europe/Warsaw:20260814T230000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071704
 CREATED:20250908T124832Z
 LAST-MODIFIED:20260515T102204Z
 UID:10043090-1786734000-1786748400@plasterlodzki.pl
@@ -313,7 +363,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260814T210000
 DTEND;TZID=Europe/Warsaw:20260814T223000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071704
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049671-1786741200-1786746600@plasterlodzki.pl
@@ -326,7 +376,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260815T130000
 DTEND;TZID=Europe/Warsaw:20260815T150000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071704
 CREATED:20250816T110629Z
 LAST-MODIFIED:20260728T100634Z
 UID:10050429-1786798800-1786806000@plasterlodzki.pl
@@ -339,7 +389,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260815T170000
 DTEND;TZID=Europe/Warsaw:20260815T190000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071704
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050359-1786813200-1786820400@plasterlodzki.pl
@@ -350,9 +400,22 @@ LOCATION:Ulica Włókiennicza\, Włókiennicza\, Łódź\, Poland
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260815T200000
+DTEND;TZID=Europe/Warsaw:20260815T210000
+DTSTAMP:20260809T071704
+CREATED:20230120T093905Z
+LAST-MODIFIED:20260808T102710Z
+UID:10029909-1786824000-1786827600@plasterlodzki.pl
+SUMMARY:Midnight Express na leżakach
+DESCRIPTION:Gotowi na muzyczny\, energetyczny wieczór? Zapraszamy na wyjątkowy koncert zespołu Midnight Express!Nasze drzwi otwieramy dla Państwa o 18:00. Start koncertu planujemy na godzinę 20:00\nTo będzie eksplozja tanecznych brzmień – pop w połączeniu z soulem\, funkiem i bluesem w ponadczasowych hitach\, które porwą Was na parkiet od pierwszych dźwięków! \nW składzie: Basia Wagner – wokal pełen emocji Piotr Szeligowski – gitara\, która nadaje rytm serca Paweł Pira – cajon i perkusja\, które nie pozwolą usiedzieć w miejscu Darek Dutkiewicz – klawisze.To doskonała okazja do tańca i muzycznej zabawy – nie przegap i dodaj wydarzenie do swojego kalendarza!\n\nPrzypominamy:W razie złej pogody\, koncert zostaje przeniesiony do lokalu i staruje o 21:00.\nWażneLokal przeznaczony jest dla osób powyżej 18 roku życia. Osoby niepełnoletnie nie zostaną wpuszczone na wydarzenie\n\nMiejsce: KIJ\, ul. Jaracza 4590-249 ŁódźData: 15/08/202620:00cena: FREE
+URL:https://plasterlodzki.pl/wydarzenia/live-jazz-szyszka-rutkowski-szkudlarek/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260816T170000
 DTEND;TZID=Europe/Warsaw:20260816T183000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071704
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049742-1786899600-1786905000@plasterlodzki.pl
@@ -365,7 +428,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260816T170000
 DTEND;TZID=Europe/Warsaw:20260816T183000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071704
 CREATED:20260728T163721Z
 LAST-MODIFIED:20260728T163721Z
 UID:10050450-1786899600-1786905000@plasterlodzki.pl
@@ -378,7 +441,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260818T190000
 DTEND;TZID=Europe/Warsaw:20260818T203000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071705
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049716-1787079600-1787085000@plasterlodzki.pl
@@ -389,9 +452,21 @@ LOCATION:Piotrkowska\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260818T190000
+DTEND;TZID=Europe/Warsaw:20260818T203000
+DTSTAMP:20260809T071705
+CREATED:20260808T110632Z
+LAST-MODIFIED:20260808T110632Z
+UID:10050559-1787079600-1787085000@plasterlodzki.pl
+SUMMARY:RESPIRO MUSICA - Muzyka oddechu... 
+DESCRIPTION:Zapraszamy do udziału w cyklu 6 plenerowych koncertów muzycznych na terenie Tężni Botanik przy ul. Hufcowej 24 w Łodzi. „RESPIRO MUSICA – spotkania z muzyką przy tężniach” jest realizowane dzięki dofinansowaniu z budżetu Miasta Łodzi. Każde wydarzenie stanowi odrębną odsłonę artystyczną\, eksplorując różne nurty muzyczne – od ambientu i muzyki eksperymentalnej\, przez folk i jazz\, aż po formy rytmiczne i transowy performance. Osią cyklu RESPIRO MUSICA jest relacja między dźwiękiem\, a przestrzenią tężni solankowych – muzyka podyktowana rytmem natury\, zaprojektowana jako doświadczenie wspierające regenerację\, wyciszenie i uważność odbiorców. Koncerty mają charakter dostępny i otwarty\, skierowany do szerokiej grupy okolicznych mieszkańców (tężnie znajdują się pomiędzy blokami)\, w tym osób poszukujących spokojnych form uczestnictwa w kulturze. Każdy koncert posiada indywidualną koncepcję dramaturgiczną\, co zapewnia różnorodność programu przy zachowaniu spójności artystycznej całego cyklu.\n\nLudzki czynnik artystyczny cyklu to:\n–  Natalia Anna Kalisz-Odorowicz – wielokrotnie nagradzana absolwentka łódzkiej ASP – graficzka\, ilustratorka\, pisarka\, performerka\, edukatorka. Pomysłodawczyni cyklu RESPIRO MUSICA. Kobieta wszechstronna\, energetyczna\, otwarta na ludzi i nowe wyzwania. W projekcie wykona malarski performance\, będzie grała na Shruti box oraz zaprojektowała identyfikację wizualną RESPIRO MUSICA.\n– Bartosz Gułaj – bębniarz\, multiinstrumentalista\, współzałożyciel zespołów City Bum Bum i Dzikie Jabłka. Uczy grać na bębnach w swojej szkole o subtelnej i wdzięcznej nazwie masaHUKU.\n– Sławek Ostrowski – jego ulubione instrumenty to puzon\, tuba\, sakshorn barytonowy\, akordeon i na nich wszystkich gra aż miło. W latach 1982 -1996 muzyk Orkiestry Wojskowej w Łodzi\, obecnie gra z zespołami: Big Band Fabryka\, Dixie Friends – Medicus Band (zespół jazzu tradycyjnego)\, Dixie z Piotrkowskiej. Akompaniuje solistom takim jak: Rebecca Lowe (USA)\, Krystyna Prońko\, Dorota Miśkiewicz\, Kuba Badach\, Łukasz Karauda\, Henryk Miśkiewicz. Współpracuje też z Teatrem Jaracza\, Teatrem Wielkim\, Teatrem Powszechnym\, Teatrem Fabrycznym\, Akademickim Ośrodkiem Inicjatyw Artystycznych oraz Łódzkim Towarzystwem Muzycznym.\n– Przemek Pogocki – multiinstrumentalista\, kompozytor i pedagog; absolwent Wydziału Jazzu w AM w Katowicach oraz AM w Łodzi w dziedzinie muzyki dawnej. Za swoją działalność artystyczną i pedagogiczną odznaczony medalem „Zasłużony dla kultury polskiej”. Współpracował z wieloma artystami w Polsce i na świecie.\n-Mateusz Tranda – gitarzysta akustyczny\, pianista\, kompozytor i nauczyciel tworzący muzykę z poziomu serca i intuicji. Jego twórczość to ucieczka od zgiełku i pędu współczesnego świata ku czystemu\, organicznemu brzmieniu. Kluczowe miejsce w jego pracy zajmuje improwizacja\, traktowana jako unikalny zapis obecności\, emocji i niepowtarzalnej chwili. Artysta przywiązuje ogromną wagę do naturalnego rezonansu i wibracji\, nagrywając swoje kompozycje w stroju A = 432 Hz.\n– Samuel Szatkowski – etnograf z wykształcenia\, dokumentalista\, pieśniarz\, bajarz\, multiinstrumentalista. Obdarzony wielką charyzmą\, równie wielkim uśmiechem i poczuciem humoru. Podczas koncertu zabierze nas w podróż po łódzkich podwórkach i na łódzkie pola.\n– Paweł Odorowicz – absolwent krakowskiej Akademii Muzycznej\, altowiolista\, sideman\, performer\, kompozytor\, aranżer\, producent muzyczny i reżyser nagrań. Komponuje i nagrywa muzykę ilustracyjną\, filmową\, teatralną. Wielokrotny stypendysta MKiDN i Prezydenta rodzimego miasta Lublin. Pomysłodawca i kurator cyklu RESPIRO MUSICA.\n\nLista koncertów RESPIRO MUSICA:\nKoncert I – 06.08 – RESPIRO MUSICA – muzyka oddechu – to koncert muzyki relaksacyjnej\, spokojnej\, rozlanej jak polodowcowe jezioro. Dźwięki natury skomponowane z instrumentami akustycznymi\, altówką i Shruti box. To podróż do spokoju\, zanurzenie się w otulającą mgłę relaksu.\nWykonawcy: Natalia Anna Kalisz-Odorowicz\, Paweł Odorowicz.\n\nKoncert II – 11.08 – RESPIRO MUSICA – koncert folkowy – zapraszamy na podróż w czasie\, na łódzkie podwórka z okresu międzywojnia\, na wsie\, pola i opowieści prosto z zapiecka. Coś dla duszy i dla ciała\, coś pod nóżkę\, i do śpiewania. Muzyka podwórkowa i ludowa z rejonu łódzkiego\, ubarwiona opowieścią\, i wspominkami.\nWykonawcy: Samuel Szatkowski\, Paweł Odorowicz.\n\nKoncert III – 13.08 – RESPIRO MUSICA – koncert jazzowy –  popłyńmy w Łodzi deltą Missisipi! Standardy jazzowe w rewelacyjnym wykonaniu łódzkich muzyków wywołają falę wspomnień i poruszą serca. Nie tylko śpiewem człowiek żyje – tańczyć też trzeba!\nWykonawcy: Sławek Ostrowski\, Przemysław Pogocki.\n\nKoncert IV – 18.08 – RESPIRO MUSICA – muzyka kameralna i filmowe brzmienia – odróż do świata wyobraźni\, w słonych oparach tężniowpych oddechów. Podróż do świata obrazów\, które oglądamy od dzieciństwa\, przez wszystkie etapy swojego życia. Barwy klasycznych instrumentów oddychających pełnią otwartej przestrzeni.\nWykonawca: Paweł Odorowicz.\n\nKoncert V – 25.08 – RESPIRO MUSICA – gitarowy flow – gitarowy flow to zanurzenie się w rezonujący ocean dźwięków gitary strojonej do A=432 Hz\, otulający jak mech i wysokie trawy…\nWykonawca: Mateusz Tranda.\n\nKoncert VI – 27.08 – RESPIRO MUSICA – medytacyjny trans – performatywny rytuał współbrzmienia muzyki i obrazu. Do spotkania z naturą – najbliższą… Pod stopami\, w oddechu\, w pulsie serca. Podczas koncertów zespołu Taitu Tree nie ma podziału na scenę i publiczność. Jest wspólne doświadczanie. Świadome zakorzenienie się – tu i teraz. Jest muzyka do tańca\, jeśli ciało chce tańczyć. Do ciszy\, jeśli potrzebujesz zatrzymać się w sobie. Do zamknięcia oczu. Albo do otwarcia ich szerzej niż zwykle.\nWykonawcy: Natalia Anna Kalisz-Odorowicz\, Bartosz Gułaj\, Paweł Odorowicz.\n\nWszystkie koncerty odbywają się o godz. 19:00 w Tężniach BOTANIK\, ul. Hufcowa 24 Łódź.\n\nDodatkowo w załączniku znajduje się plakat.
+URL:https://plasterlodzki.pl/wydarzenia/respiro-musica-muzyka-oddechu/2026-08-18/
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260819T200000
 DTEND;TZID=Europe/Warsaw:20260819T213000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071705
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049725-1787169600-1787175000@plasterlodzki.pl
@@ -404,7 +479,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260820T190000
 DTEND;TZID=Europe/Warsaw:20260820T213000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071705
 CREATED:20250629T081017Z
 LAST-MODIFIED:20260630T135504Z
 UID:10041675-1787252400-1787261400@plasterlodzki.pl
@@ -417,7 +492,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260822T170000
 DTEND;TZID=Europe/Warsaw:20260822T190000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071705
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050360-1787418000-1787425200@plasterlodzki.pl
@@ -428,9 +503,22 @@ LOCATION:Ulica Włókiennicza\, Włókiennicza\, Łódź\, Poland
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260822T190000
+DTEND;TZID=Europe/Warsaw:20260822T233000
+DTSTAMP:20260809T071705
+CREATED:20230127T104019Z
+LAST-MODIFIED:20260808T093958Z
+UID:10029960-1787425200-1787441400@plasterlodzki.pl
+SUMMARY:Konglomerat+Sic Mund+Amore Amaro
+DESCRIPTION:KONCERT WOOLTURA\n\nSobota 22 sierpnia w Woolturze wystąpią 3 zespoły:�Konglomerat\, Sic Mund oraz Amore Amaro!�Energia i kawał dobrej muzyki!Wjazd 19:00Start 19:30Bilet: 30 zł dostępny na wejściu w dniu wydarzenia\n—————————————————————KonglomeratŚwieże spojrzenie na gitarową alternatywę\, pełne gatunkowych kontrastów\,introspektywnych tekstów i wybuchowych emocji. Inspirowani m.in. muzyką filmową\, wzbogacają popową przebojowość o post-rockowe ściany dźwięku i progresywne sekcje instrumentalne.\nhttps://www.instagram.com/kongloomerat/linktr.ee/kongloomerat—————————————————————Sic MundZ zalanej salki\, przez podziemia do grania przy świetle Słońca – Sic Mind to rockowy kwintet\, który wyładowuje energię\, emocje i wszystko to\, co nie może długo pozostawać w ukryciu na długo. Mocne riffy i teksty inspirowane starymi horrorami i książkami Stephena Kinga.\nhttps://www.instagram.com/sic_mund_bandhttps://open.spotify.com/artist/4cS8Fv2NCbB7yTxvMnqB59…—————————————————————Amore AmaroAmore amaro to energia w najczystszej postaci. Jeśli szukacie rocka to tu go znajdziecie. Z resztą\, jeden opis to za mało\, lepiej zobaczcie to sami!\nhttps://www.instagram.com/amore_amarofficial/https://open.spotify.com/artist/4UwR9HcftMOY79hfbC5K9N…—————————————————————Widzimy się w Woolturze!
+URL:https://plasterlodzki.pl/wydarzenia/ruina-bar-x-holly-blue-x-kajoa-x-sunset-bulvar/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260822T200000
 DTEND;TZID=Europe/Warsaw:20260822T220000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071705
 CREATED:20260729T101810Z
 LAST-MODIFIED:20260729T101810Z
 UID:10050455-1787428800-1787436000@plasterlodzki.pl
@@ -443,7 +531,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T150000
 DTEND;TZID=Europe/Warsaw:20260823T210000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071705
 CREATED:20241018T145825Z
 LAST-MODIFIED:20260724T100802Z
 UID:10037660-1787497200-1787518800@plasterlodzki.pl
@@ -456,7 +544,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T170000
 DTEND;TZID=Europe/Warsaw:20260823T183000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071705
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049743-1787504400-1787509800@plasterlodzki.pl
@@ -469,7 +557,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T170000
 DTEND;TZID=Europe/Warsaw:20260823T183000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071705
 CREATED:20260728T163721Z
 LAST-MODIFIED:20260728T163721Z
 UID:10050451-1787504400-1787509800@plasterlodzki.pl
@@ -480,9 +568,22 @@ LOCATION:Manufaktura\, Drewnowska 58\, Łódź\, łódzkie\, 91-002\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260823T180000
+DTEND;TZID=Europe/Warsaw:20260823T210000
+DTSTAMP:20260809T071705
+CREATED:20221202T185324Z
+LAST-MODIFIED:20260808T101736Z
+UID:10029163-1787508000-1787518800@plasterlodzki.pl
+SUMMARY:JANTAR & JAROCKA - MOTYLE POLSKIEJ SCENY
+DESCRIPTION:Zapraszamy Państwa w piękną muzyczną podróż do lat 70. ubiegłego wieku.\n Anna Żebrowska i  Robert Obcowski zaprezentują repertuar dwóch niezapomnianych artystek:  Anny Jantar oraz  Ireny Jarockiej.\nPubliczność usłyszy (a z pewnością również zaśpiewa wspólnie z artystami) między innymi takie przeboje jak: „Motylem jestem” „Gondolierzy znad Wisły” „Tyle słońca w całym mieście” „Staruszek świat” „Odpływają kawiarenki” „Jambalaya” „Wymyśliłam cię”\n Zobacz fragmenty na YouTube:  https://www.youtube.com/watch?v=yxM5yEFK3kU\n BILETY:50 zł (do dnia 10.08.2026)70 zł (od dnia 11.08.2026)\n\n KUPBILECIK:https://www.kupbilecik.pl/…/Jantar+%26+Jarocka…/\n\n BILETYNA:https://biletyna.pl/event/view/id/688122\n\n Tawerna KejaInfo i rezerwacje: 609 152 420\n————-\nO wykonawcach:\n Anna Żebrowska – w 2026 roku obchodzi 35-lecie drogi artystycznej. Urodziła się i wychowała w Dusznikach-Zdroju\, obecnie mieszka we Wrocławiu. Śpiewa od jedenastego roku życia. Pierwsze szlify sceniczne zdobywała dzięki występom we wrocławskim Dziecięcym Zespole Estradowym „Przygoda”.\nW 2000 roku miała przyjemność zaśpiewać w koncercie Violetty Villas w Lewinie Kłodzkim i poznać artystkę osobiście. W późniejszych latach koncertowała z recitalami poświęconymi pamięci Villas\, w których akompaniował jej ostatni długoletni pianista Violetty – Maciej Kieres.\nJako wielbicielka muzyki lat 70. koncertowała z repertuarem m.in. grupy ABBA\, Anny Jantar czy Ireny Jarockiej.\nW 2020 roku zdobyła 1. miejsce głosami internautów oraz 2. miejsce głosami jury w składzie: Stefano Terrazzino\, Marek Kaliszuk\, Adam Strycharczuk i Katarzyna Ptasińska w internetowej odsłonie konkursu programu TV Polsat „Twoja Twarz Brzmi Znajomo” – #Twoja Twarz Challenge. W programie wcieliła się w postać Anny Jantar i jej wykonanie piosenki „Tyle słońca w całym mieście” już w ciągu pierwszego tygodnia zdobyło ponad 300 tysięcy wyświetleń.\nWystępowała na jednej scenie z wieloma uznanymi gwiazdami\, a wśród nich m.in. z:–Gruzińskim Narodowym Chórem „Batumi”–Danutą Błażejczyk–Justyną Steczkowską–Ewą Kuklińską–Hanną Banaszak–Stanem Borysem–Violettą Villas–Izabelą Trojanowskąi in.\nW 2019 roku Anna Żebrowska nagrała płytę: „W szepcie”\, na której znalazły się premierowe piosenki autorstwa m.in. Seweryna Krajewskiego\, Jacka Cygana\, Andrzeja Rutkowskiego\, Krzysztofa Dzikowskiego i innych polskich twórców.\n\n Robert Obcowski – w roku 2026 obchodzi 47-lecie pracy artystycznej. Kompozytor\, aranżer\, pianista\, producent muzyczny\, absolwent Akademii Muzycznej w Katowicach na Wydziale Aranżacji i Kompozycji.\nWiele jego kompozycji wykonywali z wielkim powodzeniem znakomici polscy artyści\, m.in.: Andrzej Zaucha\, Krystyna Prońko\, Felicjan Andrzejczak\, Irena Santor\, Stanisława Celińska\, Irena Jarocka\, Danuta Błażejczyk\, Don Wasyl\, Michał Bajor\, Sławek Wierzcholski\, Ryszard Rynkowski.\nBył członkiem Kwartetu Janusza Muniaka oraz grupy „Extra Ball” Jarosława Śmietany\, biorąc udział w festiwalach jazzowych takich jak „Jazz Jamboree” czy „North Sea Jazz Festival”. Grał z orkiestrą „Alex Band” Aleksandra Maliszewskiego jako pianista i aranżer.\nWażniejsze dokonania artystyczne:1978 – Festiwal „Jazz nad Odrą” we Wrocławiu: II nagroda dla zespołu „Confirmation”\, którego był liderem i pianistą;1987 – Międzynarodowy Festiwal Piosenki w Sopocie: nagroda Bursztynowego Słowika – I miejsce dla Allana Mortensena z piosenką „Szczęśliwej drogi już czas” w aranżacji Roberta Obcowskiego;1988 – Festiwal Polskiej Piosenki w Opolu: Konkurs Premier – I miejsce dla piosenki „Edek” w wykonaniu Majki Jeżowskiej z aranżacją Roberta Obcowskiego; Konkurs Debiutów – II miejsce dla Joanny Starosty z piosenką „Słowa\, które nie bolą”\, skomponowaną i zaaranżowaną przez Roberta Obcowskiego;1990 – „Wiara przenosi góry” – Radiowa Piosenka Roku Programu 1. Polskiego Radia\, w wykonaniu Ireny Santor\, skomponowana\, zaaranżowana i nagrana przez zespół pod kierownictwem Roberta Obcowskiego\, w którym grał on również na fortepianie;1994 – 39. Konkurs Eurowizji w Dublinie: II miejsce dla Edyty Górniak z piosenką „To nie ja” w aranżacji Roberta Obcowskiego;1997 – Festiwal Piosenki Żołnierskiej w Kołobrzegu: Konkurs Debiutów – II miejsce dla Marcina Tomaszewskiego z piosenką „Nadziei wiatr”\, skomponowaną i zaaranżowaną przez Roberta Obcowskiego;2007 – Ogólnopolski Konkurs na Piosenkę Żołnierską i Patriotyczną zorganizowany przez Ministerstwo Obrony Narodowej: Konkurs Premier – II miejsce dla piosenki „Song o pamięci” w wykonaniu Tomasza Stockingera\, skomponowanej i zaaranżowanej przez Roberta Obcowskiego;Od 2019 r. był współtwórcą cyklu comiesięcznych koncertów „Scena Autorów ZAKR – kabaret literacki” w Centrum Promocji Kultury Praga-Południe\, będąc pianistą akompaniatorem oraz Kierownikiem Muzycznym\, gdzie wystąpiła cała plejada znakomitych polskich artystów m.in. Krzysztof Dzikowski\, Stefan Friedmann\, Mieczysław Jurecki\, Stanisław Klawe\, Andrzej Ozga\, Jakub Sienkiewicz\, Danuta Stankiewicz\, Piotr Bakal\, Wojciech Gęsicki\, Jerzy Filar\, Tomasz Kordeusz\, Sławomir Wierzcholski\, Filip Borowski\, Paweł Dłużewski\, Bogusław Nowicki\, Antoni Muracki\, Jan Kondrak.Wraz z Jerzym Mamcarzem współtworzył i brał udział jako pianista w recitalu „MOC słowa i muzyki”\, prezentowanym na wielu polskich scenach.\nWażniejsze produkcje muzyczne:1990 – Irena Santor „Biegnie Czas” Polskie Nagrania1998 – Grażyna Świtała i Dzieci „Ach\, Śpij Kochanie” ZPR Records ZCD-0342005 – Teresa Tutinas „Przeboje z Radiowej Anteny” LUNA Music LUNCD 98-22006 – Felicjan Andrzejczak „Na Prowincji” LUNA Music LUNCD 1222006 – Felicjan Andrzejczask „Zawsze Ten Sam” MediaWay 2-00712008 – „Świat Według Nohavicy” Agencja Warsztat Antoniego (Prod. Wykonawczy\, Aranżer i Pianista)2011 – Andrzej Ozga „Andrzej Ozga z o.o.” Studio Sonata SS0022011 – Don Vasyl „Niech Pędzą Konie” Fonografika 110822017 – Prońko/Wierzcholski „Samotna Kolacja” Polskie Radio S.A. PRCD 20962018 – Andrzej Kuryło „Z Biegiem Lat” Polskie Radio S.A. PRCD 2211-2212\nOdznaczony Brązowym Medalem 'Zasłużony Kulturze Gloria Artis’ oraz Srebrnym Krzyżem Zasługi.Srebrnym Krzyżem Zasługi.
+URL:https://plasterlodzki.pl/wydarzenia/monika-witkowska-k2-szczyt-marzen/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T200000
 DTEND;TZID=Europe/Warsaw:20260823T223000
-DTSTAMP:20260808T071704
+DTSTAMP:20260809T071705
 CREATED:20260729T101810Z
 LAST-MODIFIED:20260729T101810Z
 UID:10050456-1787515200-1787524200@plasterlodzki.pl
@@ -545,9 +646,22 @@ LOCATION:Pasaż Rubinsteina\, Pasaż Rubinsteina\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260905T190000
+DTEND;TZID=Europe/Warsaw:20260905T220000
+DTSTAMP:20260809T071706
+CREATED:20251010T114942Z
+LAST-MODIFIED:20260808T103259Z
+UID:10039504-1788634800-1788645600@plasterlodzki.pl
+SUMMARY:KROMLEH + Rites of Fall x FUGAVIT
+DESCRIPTION:Cyrk Pod Zielonym Xiężycem\, Kromleh\, Rites of Fall i Fugavit zapraszają na koncert.\nRites of Fall to elektroniczny projekt Bartka Kuszewskiego – organiczne brzmienia i dubowa przestrzeń mieszają się z brudnym i ciężkim brzmieniem.\nRites of Fall Bandcamp:https://ritesoffall.bandcamp.com\nRites of Fall Instagram:https://www.instagram.com/ritesoffall\n—\nFUGAVIT to audiowizualne przedsięwzięcie Ernesta Ziemianowicza.Tworzy narracyjne obrazy na styku video mappingu i instalacji artystycznych.\nRazem z Rites of Fall tworzą audiowizualny projekt “Into the Well”.Na tym wydarzeniu również zaświeci do KROMLEH.\nFUGAVIT Instagram:https://www.instagram.com/fugavit_ernest\n„Into the Well”:https://youtu.be/tNtOATDf58Q\n—\nCromlech (słowo pochodzenia celtyckiego\, oznaczające „wygięty kamień”) to megalityczne głazy stawiane w neolicie i epoce brązu na planie okręgu w pozycji pionowej. Taki „kamienny krąg” miał często przeznaczenie kultowe lub był wykorzystywany jako obserwatorium astronomiczne.\nKromleh to również eksperymentalny projekt\, badający praktykę dronomorficznych\, mikrotonowych czy harmonicznych form\, powstających przy użyciu liry korbowej\, którym towarzyszy repetytywna perkusja. Koło raz zatoczone\, w innym miejscu znalezione…\ndrone/folk\, impro jazz?\, noise\, tribal\, kraut\nKROMLEH Bandcamp:https://kromleh.bandcamp.com/album/na-komary\n—\nCyrk Pod Zielonym Xiężycem05.09.2026r.Start: 19:00wstęp wolny (sugerowana wrzutka 30zł)
+URL:https://plasterlodzki.pl/wydarzenia/szkice-w-cyrku-4-3/
+LOCATION:Cyrk Pod Zielonym Xiężycem\, Próchnika 1\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260905T200000
 DTEND;TZID=Europe/Warsaw:20260905T223000
-DTSTAMP:20260808T071706
+DTSTAMP:20260809T071706
 CREATED:20240913T080307Z
 LAST-MODIFIED:20260724T105745Z
 UID:10036976-1788638400-1788647400@plasterlodzki.pl
@@ -560,7 +674,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260906T170000
 DTEND;TZID=Europe/Warsaw:20260906T180000
-DTSTAMP:20260808T071706
+DTSTAMP:20260809T071706
 CREATED:20260426T101748Z
 LAST-MODIFIED:20260426T101748Z
 UID:10048186-1788714000-1788717600@plasterlodzki.pl
@@ -573,7 +687,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260808T071706
+DTSTAMP:20260809T071706
 CREATED:20260501T101121Z
 LAST-MODIFIED:20260501T101121Z
 UID:10048392-1788998400-1789084799@plasterlodzki.pl
@@ -586,7 +700,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260911T200000
 DTEND;TZID=Europe/Warsaw:20260911T210000
-DTSTAMP:20260808T071706
+DTSTAMP:20260809T071706
 CREATED:20230120T095314Z
 LAST-MODIFIED:20260724T105916Z
 UID:10029915-1789156800-1789160400@plasterlodzki.pl
@@ -599,7 +713,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260912T190000
 DTEND;TZID=Europe/Warsaw:20260912T203000
-DTSTAMP:20260808T071706
+DTSTAMP:20260809T071706
 CREATED:20260426T101823Z
 LAST-MODIFIED:20260426T101823Z
 UID:10048187-1789239600-1789245000@plasterlodzki.pl
@@ -612,7 +726,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260808T071706
+DTSTAMP:20260809T071706
 CREATED:20260327T104534Z
 LAST-MODIFIED:20260327T104534Z
 UID:10047641-1789257600-1789343999@plasterlodzki.pl
@@ -625,7 +739,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260918T173000
 DTEND;TZID=Europe/Warsaw:20260918T190000
-DTSTAMP:20260808T071706
+DTSTAMP:20260809T071706
 CREATED:20260426T105402Z
 LAST-MODIFIED:20260426T105402Z
 UID:10048227-1789752600-1789758000@plasterlodzki.pl
@@ -638,7 +752,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260918T190000
 DTEND;TZID=Europe/Warsaw:20260918T210000
-DTSTAMP:20260808T071706
+DTSTAMP:20260809T071706
 CREATED:20260426T105329Z
 LAST-MODIFIED:20260426T105329Z
 UID:10048226-1789758000-1789765200@plasterlodzki.pl
@@ -651,7 +765,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260918T200000
 DTEND;TZID=Europe/Warsaw:20260918T210000
-DTSTAMP:20260808T071706
+DTSTAMP:20260809T071706
 CREATED:20221118T131649Z
 LAST-MODIFIED:20260619T114800Z
 UID:10028928-1789761600-1789765200@plasterlodzki.pl
@@ -664,7 +778,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260919T180000
 DTEND;TZID=Europe/Warsaw:20260919T203000
-DTSTAMP:20260808T071706
+DTSTAMP:20260809T071706
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260724T100919Z
 UID:10050386-1789840800-1789849800@plasterlodzki.pl
@@ -675,9 +789,22 @@ LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260920T190000
+DTEND;TZID=Europe/Warsaw:20260920T233000
+DTSTAMP:20260809T071706
+CREATED:20260305T124604Z
+LAST-MODIFIED:20260808T102343Z
+UID:10047275-1789930800-1789947000@plasterlodzki.pl
+SUMMARY:DOM ZŁY • LOVEWORMS • VIEW OF A BURNING CITY
+DESCRIPTION:Chroma Music z dumą zaprasza na wrześniową trasę koncertową zespołu Dom Zły!W Łódzkim klubie Browar Warkot zagrają:\n\n DOM ZŁY (post metal / blackened crust\, Puławy / Warszawa)www.facebook.com/domzlydomwww.instagram.com/domzly666www.domzly.bandcamp.comDom Zły powstał w 2016 roku w Puławach. To hardcore punkowa machina\, romansująca z melancholijnym post/black metalem\, okraszona surowym screamo i crustem. W lipcu 2021 wypuścili EPkę “Śnisz bory tak gęste”\, która została albumem miesiąca Metal Hammer Polska i często pojawiała się w podsumowaniach dziennikarzy i nie tylko jako album roku 2021. Po latach pracy nad nowym materiałem\, 1 lutego 2024 roku muzycy wydali album „Ku Pogrzebaniu Serc” (Arcadian Industry)\, którego instrumentalny\, jak i liryczny ciężar przyniósł słuchaczom nowe pokłady wyzwalającego smutku oraz rozpaczy. Płyta zebrała bardzo dobre w krajowej prasie i tym samym Dom Zły potwierdził\, że należy do metalowej czołówki w Polsce. “Ku pogrzebaniu serc”https://youtu.be/zyQRS17l47g?si=_GLjSK2o4fPKjgY1 “Nie pamiętam siebie”https://youtu.be/nBzIf13vueU?si=BnigPERy_IBgNrId\n\n LOVEWORMS (post punk / crank wave\, Gdańsk)www.facebook.com/lovewormsbandwww.instagram.com/lovewormsbandwww.loveworms.bandcamp.com/album/lovewormsGdański zespół łączący post-punk i crank wave\, który z energią i ironią opisuje rzeczywistość. Powstali w 2024 roku\, a już w 2025 wydali debiutancki album nakładem Anteny Krzyku i trafili do zestawienia 10 odkryć polskiej muzyki Gazety Wyborczej. Porównywani do Amyl & The Sniffers\, Protomatyr i Dry Cleaning\, szybko budują swoją pozycję na scenie alternatywnej meandrując muzycznie między transem a żywiołem. Ich płyta pojawiła się w wielu podsumowaniach najlepszych polskich albumów roku 2025. „Falling for it”https://youtu.be/1x0kVjUj8T8?si=gIYaBBEcKQsTE8Gt\n\n VIEW OF A BURNING CITY (sludge / experimental / noise\, Gdynia)www.facebook.com/viewofaburningcitywww.instagram.com/viewofaburningcitywww.viewofaburningcitypoland.bandcamp.comProjekt muzyków zespołu Żurawie w wersji powolnej\, melodyjnej oraz wyjątkowo ciężkiej. Zapętlone riffy\, żonglerka dynamiką i napięciem trwająca cały set. Duet na gitarę barytonową\, perkusję i dwa głosy.Sprzężenia\, drony\, muzyka do katalizmów żywiołowych i emocjonalnych. Dla fanów ISIS\, Thou\, BIG|BRAVE\, Great Falls\, GAZA\, The Body i Cult Leader. „Cleanse”https://youtu.be/2n6ogE7tmzo?si=DVHpx4mc-SuYTD0g\n\n Miejsce: Łódź – Browar Warkot Data: 20.09.2026 Godzina: 19:00 Bilety: info wkrótce
+URL:https://plasterlodzki.pl/wydarzenia/varmia-three-eyes-of-the-void-drowned-in-silver/
+LOCATION:Klubopiwiarnia\, Narutowicza 7/9\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260926T190000
 DTEND;TZID=Europe/Warsaw:20260926T213000
-DTSTAMP:20260808T071706
+DTSTAMP:20260809T071706
 CREATED:20251220T215819Z
 LAST-MODIFIED:20260522T124104Z
 UID:10045910-1790449200-1790458200@plasterlodzki.pl
@@ -690,7 +817,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260928T190000
 DTEND;TZID=Europe/Warsaw:20260928T210000
-DTSTAMP:20260808T071706
+DTSTAMP:20260809T071706
 CREATED:20260426T102125Z
 LAST-MODIFIED:20260426T102125Z
 UID:10048193-1790622000-1790629200@plasterlodzki.pl
