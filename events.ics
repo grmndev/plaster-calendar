@@ -248,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260810T190000
 DTEND;TZID=Europe/Warsaw:20260810T210000
-DTSTAMP:20260809T071704
+DTSTAMP:20260810T071703
 CREATED:20260501T192116Z
 LAST-MODIFIED:20260709T080355Z
 UID:10050208-1786388400-1786395600@plasterlodzki.pl
@@ -261,7 +261,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260811T190000
 DTEND;TZID=Europe/Warsaw:20260811T203000
-DTSTAMP:20260809T071704
+DTSTAMP:20260810T071703
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049715-1786474800-1786480200@plasterlodzki.pl
@@ -274,7 +274,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260811T190000
 DTEND;TZID=Europe/Warsaw:20260811T203000
-DTSTAMP:20260809T071704
+DTSTAMP:20260810T071704
 CREATED:20260808T110632Z
 LAST-MODIFIED:20260808T110632Z
 UID:10050557-1786474800-1786480200@plasterlodzki.pl
@@ -286,7 +286,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260812T190000
 DTEND;TZID=Europe/Warsaw:20260812T203000
-DTSTAMP:20260809T071704
+DTSTAMP:20260810T071704
 CREATED:20250816T110629Z
 LAST-MODIFIED:20260728T100634Z
 UID:10050428-1786561200-1786566600@plasterlodzki.pl
@@ -299,7 +299,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260812T193000
 DTEND;TZID=Europe/Warsaw:20260812T203000
-DTSTAMP:20260809T071704
+DTSTAMP:20260810T071704
 CREATED:20240229T194214Z
 LAST-MODIFIED:20260728T094718Z
 UID:10047731-1786563000-1786566600@plasterlodzki.pl
@@ -312,7 +312,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260812T200000
 DTEND;TZID=Europe/Warsaw:20260812T213000
-DTSTAMP:20260809T071704
+DTSTAMP:20260810T071704
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049724-1786564800-1786570200@plasterlodzki.pl
@@ -325,7 +325,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260813T190000
 DTEND;TZID=Europe/Warsaw:20260813T203000
-DTSTAMP:20260809T071704
+DTSTAMP:20260810T071704
 CREATED:20260808T110632Z
 LAST-MODIFIED:20260808T110632Z
 UID:10050558-1786647600-1786653000@plasterlodzki.pl
@@ -337,7 +337,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260813T200000
 DTEND;TZID=Europe/Warsaw:20260813T210000
-DTSTAMP:20260809T071704
+DTSTAMP:20260810T071704
 CREATED:20221202T161347Z
 LAST-MODIFIED:20260808T102737Z
 UID:10029109-1786651200-1786654800@plasterlodzki.pl
@@ -350,7 +350,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260814T190000
 DTEND;TZID=Europe/Warsaw:20260814T230000
-DTSTAMP:20260809T071704
+DTSTAMP:20260810T071704
 CREATED:20250908T124832Z
 LAST-MODIFIED:20260515T102204Z
 UID:10043090-1786734000-1786748400@plasterlodzki.pl
@@ -363,7 +363,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260814T210000
 DTEND;TZID=Europe/Warsaw:20260814T223000
-DTSTAMP:20260809T071704
+DTSTAMP:20260810T071704
 CREATED:20260630T141820Z
 LAST-MODIFIED:20260630T141820Z
 UID:10049671-1786741200-1786746600@plasterlodzki.pl
@@ -376,7 +376,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260815T130000
 DTEND;TZID=Europe/Warsaw:20260815T150000
-DTSTAMP:20260809T071704
+DTSTAMP:20260810T071704
 CREATED:20250816T110629Z
 LAST-MODIFIED:20260728T100634Z
 UID:10050429-1786798800-1786806000@plasterlodzki.pl
@@ -389,7 +389,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260815T170000
 DTEND;TZID=Europe/Warsaw:20260815T190000
-DTSTAMP:20260809T071704
+DTSTAMP:20260810T071704
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050359-1786813200-1786820400@plasterlodzki.pl
@@ -402,7 +402,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260815T200000
 DTEND;TZID=Europe/Warsaw:20260815T210000
-DTSTAMP:20260809T071704
+DTSTAMP:20260810T071704
 CREATED:20230120T093905Z
 LAST-MODIFIED:20260808T102710Z
 UID:10029909-1786824000-1786827600@plasterlodzki.pl
@@ -415,7 +415,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260816T170000
 DTEND;TZID=Europe/Warsaw:20260816T183000
-DTSTAMP:20260809T071704
+DTSTAMP:20260810T071704
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049742-1786899600-1786905000@plasterlodzki.pl
@@ -428,7 +428,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260816T170000
 DTEND;TZID=Europe/Warsaw:20260816T183000
-DTSTAMP:20260809T071704
+DTSTAMP:20260810T071704
 CREATED:20260728T163721Z
 LAST-MODIFIED:20260728T163721Z
 UID:10050450-1786899600-1786905000@plasterlodzki.pl
@@ -441,7 +441,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260818T190000
 DTEND;TZID=Europe/Warsaw:20260818T203000
-DTSTAMP:20260809T071705
+DTSTAMP:20260810T071704
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049716-1787079600-1787085000@plasterlodzki.pl
@@ -454,7 +454,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260818T190000
 DTEND;TZID=Europe/Warsaw:20260818T203000
-DTSTAMP:20260809T071705
+DTSTAMP:20260810T071704
 CREATED:20260808T110632Z
 LAST-MODIFIED:20260808T110632Z
 UID:10050559-1787079600-1787085000@plasterlodzki.pl
@@ -466,7 +466,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260819T200000
 DTEND;TZID=Europe/Warsaw:20260819T213000
-DTSTAMP:20260809T071705
+DTSTAMP:20260810T071704
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049725-1787169600-1787175000@plasterlodzki.pl
@@ -479,7 +479,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260820T190000
 DTEND;TZID=Europe/Warsaw:20260820T213000
-DTSTAMP:20260809T071705
+DTSTAMP:20260810T071704
 CREATED:20250629T081017Z
 LAST-MODIFIED:20260630T135504Z
 UID:10041675-1787252400-1787261400@plasterlodzki.pl
@@ -492,7 +492,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260822T170000
 DTEND;TZID=Europe/Warsaw:20260822T190000
-DTSTAMP:20260809T071705
+DTSTAMP:20260810T071704
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050360-1787418000-1787425200@plasterlodzki.pl
@@ -505,7 +505,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260822T190000
 DTEND;TZID=Europe/Warsaw:20260822T233000
-DTSTAMP:20260809T071705
+DTSTAMP:20260810T071704
 CREATED:20230127T104019Z
 LAST-MODIFIED:20260808T093958Z
 UID:10029960-1787425200-1787441400@plasterlodzki.pl
@@ -518,7 +518,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260822T200000
 DTEND;TZID=Europe/Warsaw:20260822T220000
-DTSTAMP:20260809T071705
+DTSTAMP:20260810T071704
 CREATED:20260729T101810Z
 LAST-MODIFIED:20260729T101810Z
 UID:10050455-1787428800-1787436000@plasterlodzki.pl
@@ -531,7 +531,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T150000
 DTEND;TZID=Europe/Warsaw:20260823T210000
-DTSTAMP:20260809T071705
+DTSTAMP:20260810T071704
 CREATED:20241018T145825Z
 LAST-MODIFIED:20260724T100802Z
 UID:10037660-1787497200-1787518800@plasterlodzki.pl
@@ -544,7 +544,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T170000
 DTEND;TZID=Europe/Warsaw:20260823T183000
-DTSTAMP:20260809T071705
+DTSTAMP:20260810T071704
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049743-1787504400-1787509800@plasterlodzki.pl
@@ -557,7 +557,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T170000
 DTEND;TZID=Europe/Warsaw:20260823T183000
-DTSTAMP:20260809T071705
+DTSTAMP:20260810T071704
 CREATED:20260728T163721Z
 LAST-MODIFIED:20260728T163721Z
 UID:10050451-1787504400-1787509800@plasterlodzki.pl
@@ -570,7 +570,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T180000
 DTEND;TZID=Europe/Warsaw:20260823T210000
-DTSTAMP:20260809T071705
+DTSTAMP:20260810T071704
 CREATED:20221202T185324Z
 LAST-MODIFIED:20260808T101736Z
 UID:10029163-1787508000-1787518800@plasterlodzki.pl
@@ -583,7 +583,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T200000
 DTEND;TZID=Europe/Warsaw:20260823T223000
-DTSTAMP:20260809T071705
+DTSTAMP:20260810T071704
 CREATED:20260729T101810Z
 LAST-MODIFIED:20260729T101810Z
 UID:10050456-1787515200-1787524200@plasterlodzki.pl
@@ -596,7 +596,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260824T190000
 DTEND;TZID=Europe/Warsaw:20260824T210000
-DTSTAMP:20260808T071704
+DTSTAMP:20260810T071704
 CREATED:20260501T192116Z
 LAST-MODIFIED:20260709T080355Z
 UID:10050209-1787598000-1787605200@plasterlodzki.pl
@@ -609,7 +609,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260825T190000
 DTEND;TZID=Europe/Warsaw:20260825T203000
-DTSTAMP:20260808T071704
+DTSTAMP:20260810T071704
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049717-1787684400-1787689800@plasterlodzki.pl
@@ -617,6 +617,18 @@ SUMMARY:Jazzowe wtorki
 DESCRIPTION:Jazzowe wtorki\n\n\n\n\n\n\n\n\n\nData: Zgodnie z harmonogramem (wtorek) \nGodzina: 19:00 \nLokalizacja: Piotrkowska 3 \nWstęp: Bezpłatny \nJazzowe Wtorki to spotkania z artystami reprezentującymi różne nurty współczesnego jazzu. W programie znalazły się koncerty m.in. Macieja Tubisa Trio\, Marka Kądzieli z projektem „Artificial Intuition” oraz Patrycji Zarychty. Obok uznanych nazwisk publiczność będzie mogła poznać również najciekawsze projekty związane z łódzką sceną jazzową. Każdy koncert prezentuje inne brzmienie i spojrzenie na ten gatunek muzyki. \nPROGRAM: \n30.06.2026\, 19:00   Ilona Damięcka Trio \n07.07.2026\, 19:00   Maciej Tubis Trio \n14.07.2026\, 19:00    Marek Kądziela Trio „Artificial Intuition” \n21.07.2026\, 19:00   Patrycja Zarychta \n28.07.2026\, 19:00   Błażej Ludwiczuk Contraphonic \n04.08.2026\, 19:00   Mikołaj Kaniewski Solar Wind \n11.08.2026\, 19:00   Janiak „Trzej Królowie” \n18.08.2026\, 19:00   Stanisław Szmigiero Quartet \n25.08.2026\, 19:00   Jan Kępiński
 URL:https://plasterlodzki.pl/wydarzenia/jazzowe-wtorki-2/2026-08-25/
 LOCATION:Piotrkowska\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260825T190000
+DTEND;TZID=Europe/Warsaw:20260825T203000
+DTSTAMP:20260810T071704
+CREATED:20260808T110632Z
+LAST-MODIFIED:20260808T110632Z
+UID:10050560-1787684400-1787689800@plasterlodzki.pl
+SUMMARY:RESPIRO MUSICA - Muzyka oddechu... 
+DESCRIPTION:Zapraszamy do udziału w cyklu 6 plenerowych koncertów muzycznych na terenie Tężni Botanik przy ul. Hufcowej 24 w Łodzi. „RESPIRO MUSICA – spotkania z muzyką przy tężniach” jest realizowane dzięki dofinansowaniu z budżetu Miasta Łodzi. Każde wydarzenie stanowi odrębną odsłonę artystyczną\, eksplorując różne nurty muzyczne – od ambientu i muzyki eksperymentalnej\, przez folk i jazz\, aż po formy rytmiczne i transowy performance. Osią cyklu RESPIRO MUSICA jest relacja między dźwiękiem\, a przestrzenią tężni solankowych – muzyka podyktowana rytmem natury\, zaprojektowana jako doświadczenie wspierające regenerację\, wyciszenie i uważność odbiorców. Koncerty mają charakter dostępny i otwarty\, skierowany do szerokiej grupy okolicznych mieszkańców (tężnie znajdują się pomiędzy blokami)\, w tym osób poszukujących spokojnych form uczestnictwa w kulturze. Każdy koncert posiada indywidualną koncepcję dramaturgiczną\, co zapewnia różnorodność programu przy zachowaniu spójności artystycznej całego cyklu.\n\nLudzki czynnik artystyczny cyklu to:\n–  Natalia Anna Kalisz-Odorowicz – wielokrotnie nagradzana absolwentka łódzkiej ASP – graficzka\, ilustratorka\, pisarka\, performerka\, edukatorka. Pomysłodawczyni cyklu RESPIRO MUSICA. Kobieta wszechstronna\, energetyczna\, otwarta na ludzi i nowe wyzwania. W projekcie wykona malarski performance\, będzie grała na Shruti box oraz zaprojektowała identyfikację wizualną RESPIRO MUSICA.\n– Bartosz Gułaj – bębniarz\, multiinstrumentalista\, współzałożyciel zespołów City Bum Bum i Dzikie Jabłka. Uczy grać na bębnach w swojej szkole o subtelnej i wdzięcznej nazwie masaHUKU.\n– Sławek Ostrowski – jego ulubione instrumenty to puzon\, tuba\, sakshorn barytonowy\, akordeon i na nich wszystkich gra aż miło. W latach 1982 -1996 muzyk Orkiestry Wojskowej w Łodzi\, obecnie gra z zespołami: Big Band Fabryka\, Dixie Friends – Medicus Band (zespół jazzu tradycyjnego)\, Dixie z Piotrkowskiej. Akompaniuje solistom takim jak: Rebecca Lowe (USA)\, Krystyna Prońko\, Dorota Miśkiewicz\, Kuba Badach\, Łukasz Karauda\, Henryk Miśkiewicz. Współpracuje też z Teatrem Jaracza\, Teatrem Wielkim\, Teatrem Powszechnym\, Teatrem Fabrycznym\, Akademickim Ośrodkiem Inicjatyw Artystycznych oraz Łódzkim Towarzystwem Muzycznym.\n– Przemek Pogocki – multiinstrumentalista\, kompozytor i pedagog; absolwent Wydziału Jazzu w AM w Katowicach oraz AM w Łodzi w dziedzinie muzyki dawnej. Za swoją działalność artystyczną i pedagogiczną odznaczony medalem „Zasłużony dla kultury polskiej”. Współpracował z wieloma artystami w Polsce i na świecie.\n-Mateusz Tranda – gitarzysta akustyczny\, pianista\, kompozytor i nauczyciel tworzący muzykę z poziomu serca i intuicji. Jego twórczość to ucieczka od zgiełku i pędu współczesnego świata ku czystemu\, organicznemu brzmieniu. Kluczowe miejsce w jego pracy zajmuje improwizacja\, traktowana jako unikalny zapis obecności\, emocji i niepowtarzalnej chwili. Artysta przywiązuje ogromną wagę do naturalnego rezonansu i wibracji\, nagrywając swoje kompozycje w stroju A = 432 Hz.\n– Samuel Szatkowski – etnograf z wykształcenia\, dokumentalista\, pieśniarz\, bajarz\, multiinstrumentalista. Obdarzony wielką charyzmą\, równie wielkim uśmiechem i poczuciem humoru. Podczas koncertu zabierze nas w podróż po łódzkich podwórkach i na łódzkie pola.\n– Paweł Odorowicz – absolwent krakowskiej Akademii Muzycznej\, altowiolista\, sideman\, performer\, kompozytor\, aranżer\, producent muzyczny i reżyser nagrań. Komponuje i nagrywa muzykę ilustracyjną\, filmową\, teatralną. Wielokrotny stypendysta MKiDN i Prezydenta rodzimego miasta Lublin. Pomysłodawca i kurator cyklu RESPIRO MUSICA.\n\nLista koncertów RESPIRO MUSICA:\nKoncert I – 06.08 – RESPIRO MUSICA – muzyka oddechu – to koncert muzyki relaksacyjnej\, spokojnej\, rozlanej jak polodowcowe jezioro. Dźwięki natury skomponowane z instrumentami akustycznymi\, altówką i Shruti box. To podróż do spokoju\, zanurzenie się w otulającą mgłę relaksu.\nWykonawcy: Natalia Anna Kalisz-Odorowicz\, Paweł Odorowicz.\n\nKoncert II – 11.08 – RESPIRO MUSICA – koncert folkowy – zapraszamy na podróż w czasie\, na łódzkie podwórka z okresu międzywojnia\, na wsie\, pola i opowieści prosto z zapiecka. Coś dla duszy i dla ciała\, coś pod nóżkę\, i do śpiewania. Muzyka podwórkowa i ludowa z rejonu łódzkiego\, ubarwiona opowieścią\, i wspominkami.\nWykonawcy: Samuel Szatkowski\, Paweł Odorowicz.\n\nKoncert III – 13.08 – RESPIRO MUSICA – koncert jazzowy –  popłyńmy w Łodzi deltą Missisipi! Standardy jazzowe w rewelacyjnym wykonaniu łódzkich muzyków wywołają falę wspomnień i poruszą serca. Nie tylko śpiewem człowiek żyje – tańczyć też trzeba!\nWykonawcy: Sławek Ostrowski\, Przemysław Pogocki.\n\nKoncert IV – 18.08 – RESPIRO MUSICA – muzyka kameralna i filmowe brzmienia – odróż do świata wyobraźni\, w słonych oparach tężniowpych oddechów. Podróż do świata obrazów\, które oglądamy od dzieciństwa\, przez wszystkie etapy swojego życia. Barwy klasycznych instrumentów oddychających pełnią otwartej przestrzeni.\nWykonawca: Paweł Odorowicz.\n\nKoncert V – 25.08 – RESPIRO MUSICA – gitarowy flow – gitarowy flow to zanurzenie się w rezonujący ocean dźwięków gitary strojonej do A=432 Hz\, otulający jak mech i wysokie trawy…\nWykonawca: Mateusz Tranda.\n\nKoncert VI – 27.08 – RESPIRO MUSICA – medytacyjny trans – performatywny rytuał współbrzmienia muzyki i obrazu. Do spotkania z naturą – najbliższą… Pod stopami\, w oddechu\, w pulsie serca. Podczas koncertów zespołu Taitu Tree nie ma podziału na scenę i publiczność. Jest wspólne doświadczanie. Świadome zakorzenienie się – tu i teraz. Jest muzyka do tańca\, jeśli ciało chce tańczyć. Do ciszy\, jeśli potrzebujesz zatrzymać się w sobie. Do zamknięcia oczu. Albo do otwarcia ich szerzej niż zwykle.\nWykonawcy: Natalia Anna Kalisz-Odorowicz\, Bartosz Gułaj\, Paweł Odorowicz.\n\nWszystkie koncerty odbywają się o godz. 19:00 w Tężniach BOTANIK\, ul. Hufcowa 24 Łódź.\n\nDodatkowo w załączniku znajduje się plakat.
+URL:https://plasterlodzki.pl/wydarzenia/respiro-musica-muzyka-oddechu/2026-08-25/
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
@@ -648,7 +660,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260905T190000
 DTEND;TZID=Europe/Warsaw:20260905T220000
-DTSTAMP:20260809T071706
+DTSTAMP:20260810T071705
 CREATED:20251010T114942Z
 LAST-MODIFIED:20260808T103259Z
 UID:10039504-1788634800-1788645600@plasterlodzki.pl
@@ -661,7 +673,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260905T200000
 DTEND;TZID=Europe/Warsaw:20260905T223000
-DTSTAMP:20260809T071706
+DTSTAMP:20260810T071705
 CREATED:20240913T080307Z
 LAST-MODIFIED:20260724T105745Z
 UID:10036976-1788638400-1788647400@plasterlodzki.pl
@@ -674,7 +686,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260906T170000
 DTEND;TZID=Europe/Warsaw:20260906T180000
-DTSTAMP:20260809T071706
+DTSTAMP:20260810T071705
 CREATED:20260426T101748Z
 LAST-MODIFIED:20260426T101748Z
 UID:10048186-1788714000-1788717600@plasterlodzki.pl
@@ -687,7 +699,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260809T071706
+DTSTAMP:20260810T071705
 CREATED:20260501T101121Z
 LAST-MODIFIED:20260501T101121Z
 UID:10048392-1788998400-1789084799@plasterlodzki.pl
@@ -700,7 +712,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260911T200000
 DTEND;TZID=Europe/Warsaw:20260911T210000
-DTSTAMP:20260809T071706
+DTSTAMP:20260810T071705
 CREATED:20230120T095314Z
 LAST-MODIFIED:20260724T105916Z
 UID:10029915-1789156800-1789160400@plasterlodzki.pl
@@ -713,7 +725,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260912T190000
 DTEND;TZID=Europe/Warsaw:20260912T203000
-DTSTAMP:20260809T071706
+DTSTAMP:20260810T071705
 CREATED:20260426T101823Z
 LAST-MODIFIED:20260426T101823Z
 UID:10048187-1789239600-1789245000@plasterlodzki.pl
@@ -726,7 +738,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260809T071706
+DTSTAMP:20260810T071705
 CREATED:20260327T104534Z
 LAST-MODIFIED:20260327T104534Z
 UID:10047641-1789257600-1789343999@plasterlodzki.pl
@@ -739,7 +751,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260918T173000
 DTEND;TZID=Europe/Warsaw:20260918T190000
-DTSTAMP:20260809T071706
+DTSTAMP:20260810T071705
 CREATED:20260426T105402Z
 LAST-MODIFIED:20260426T105402Z
 UID:10048227-1789752600-1789758000@plasterlodzki.pl
@@ -752,7 +764,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260918T190000
 DTEND;TZID=Europe/Warsaw:20260918T210000
-DTSTAMP:20260809T071706
+DTSTAMP:20260810T071705
 CREATED:20260426T105329Z
 LAST-MODIFIED:20260426T105329Z
 UID:10048226-1789758000-1789765200@plasterlodzki.pl
@@ -765,7 +777,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260918T200000
 DTEND;TZID=Europe/Warsaw:20260918T210000
-DTSTAMP:20260809T071706
+DTSTAMP:20260810T071705
 CREATED:20221118T131649Z
 LAST-MODIFIED:20260619T114800Z
 UID:10028928-1789761600-1789765200@plasterlodzki.pl
@@ -778,7 +790,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260919T180000
 DTEND;TZID=Europe/Warsaw:20260919T203000
-DTSTAMP:20260809T071706
+DTSTAMP:20260810T071705
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260724T100919Z
 UID:10050386-1789840800-1789849800@plasterlodzki.pl
@@ -791,7 +803,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260920T190000
 DTEND;TZID=Europe/Warsaw:20260920T233000
-DTSTAMP:20260809T071706
+DTSTAMP:20260810T071705
 CREATED:20260305T124604Z
 LAST-MODIFIED:20260808T102343Z
 UID:10047275-1789930800-1789947000@plasterlodzki.pl
@@ -804,7 +816,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260926T190000
 DTEND;TZID=Europe/Warsaw:20260926T213000
-DTSTAMP:20260809T071706
+DTSTAMP:20260810T071705
 CREATED:20251220T215819Z
 LAST-MODIFIED:20260522T124104Z
 UID:10045910-1790449200-1790458200@plasterlodzki.pl
@@ -817,7 +829,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260928T190000
 DTEND;TZID=Europe/Warsaw:20260928T210000
-DTSTAMP:20260809T071706
+DTSTAMP:20260810T071705
 CREATED:20260426T102125Z
 LAST-MODIFIED:20260426T102125Z
 UID:10048193-1790622000-1790629200@plasterlodzki.pl
