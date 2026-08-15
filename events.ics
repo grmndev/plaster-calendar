@@ -376,7 +376,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260815T130000
 DTEND;TZID=Europe/Warsaw:20260815T150000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071703
 CREATED:20250816T110629Z
 LAST-MODIFIED:20260728T100634Z
 UID:10050429-1786798800-1786806000@plasterlodzki.pl
@@ -389,7 +389,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260815T170000
 DTEND;TZID=Europe/Warsaw:20260815T190000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071703
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050359-1786813200-1786820400@plasterlodzki.pl
@@ -400,9 +400,22 @@ LOCATION:Ulica Włókiennicza\, Włókiennicza\, Łódź\, Poland
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260815T190000
+DTEND;TZID=Europe/Warsaw:20260815T210000
+DTSTAMP:20260815T071703
+CREATED:20260612T101818Z
+LAST-MODIFIED:20260814T114322Z
+UID:10049412-1786820400-1786827600@plasterlodzki.pl
+SUMMARY:Koncert zespołu CZULE
+DESCRIPTION:CZULE to grupa przyjaciół\, których połączyła potrzeba spontanicznego tworzenia muzyki i wspólnego bycia w dźwięku „tu i teraz”. Trzon zespołu tworzą: Artur Urbański\, Michał Czuba\, Marek Kirsz oraz Grzegorz Tokarczyk. Jednym z inicjatorów wspólnego grania był także nieżyjący już Andrzej Rubaj – pasjonat muzyki na żywo\, dla którego improwizacja była naturalnym językiem ekspresji. Najważniejszą ideą grupy jest całkowita improwizacja wykonywana bez wcześniejszych ustaleń i schematów. Każde spotkanie muzyczne staje się dzięki temu jednorazowym i niepowtarzalnym wydarzeniem\, opartym na uważnym słuchaniu siebie nawzajem\, emocjach chwili oraz wzajemnym zaufaniu.Serdecznie zapraszamy.
+URL:https://plasterlodzki.pl/wydarzenia/rafal-zieba-i-maxi-milian-szelest/
+LOCATION:BohoArt Cafe\, Rewolucji 1905 r 2\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260815T200000
 DTEND;TZID=Europe/Warsaw:20260815T210000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071703
 CREATED:20230120T093905Z
 LAST-MODIFIED:20260808T102710Z
 UID:10029909-1786824000-1786827600@plasterlodzki.pl
@@ -413,9 +426,22 @@ LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260815T220000
+DTEND;TZID=Europe/Warsaw:20260815T235900
+DTSTAMP:20260815T071704
+CREATED:20221202T173232Z
+LAST-MODIFIED:20260814T120138Z
+UID:10029130-1786831200-1786838340@plasterlodzki.pl
+SUMMARY:Summer of love
+DESCRIPTION:SUMMER OF LOVE 15.08 | Sobota DJ.SILVO & DJ.GABI\nLato trwa w najlepsze\, a my zapraszamy Was na najbardziej roztańczoną noc tego weekendu! \nSummer of Love to impreza pełna wakacyjnej energii\, uśmiechu i dobrej muzyki. Zapomnij o codzienności i daj się porwać letniemu klimatowi\, gdzie królują największe klubowe hity\, taneczne klasyki i pozytywne emocje. To wieczór nowych znajomości\, świetnej atmosfery i zabawy do białego rana.\nZa muzykę odpowiedzą: DJ.Silvo – najlepsze klubowe brzmienia i taneczna energia. DJ.Gabi – karaoke na dolnym poziomie .\nNa miejscu czekają na Was: 2 parkiety – dwa muzyczne klimaty\, taras letni\, palarnia\, szatnia.Wst\,ep :do 24:00-20 zł po 24:00- 30 zł Ubierz się lekko\, zabierz znajomych i poczuj z nami prawdziwy klimat Summer of Love – pełen muzyki\, tańca\, pozytywnej energii i wakacyjnych wspomnień.\n 15.08 | Sobota Narraganset Klub DJ.SILVO & DJ.GABI Start: 22:00\nSummer of Love – bo najlepsze letnie noce zaczynają się właśnie w Narraganset!
+URL:https://plasterlodzki.pl/wydarzenia/sylwester-2022-2023-2/
+LOCATION:Narraganset\, Plac Komuny Paryskiej 5A\, Łódź\, łódzkie
+CATEGORIES:Clubbing,Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260816T170000
 DTEND;TZID=Europe/Warsaw:20260816T183000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049742-1786899600-1786905000@plasterlodzki.pl
@@ -428,7 +454,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260816T170000
 DTEND;TZID=Europe/Warsaw:20260816T183000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20260728T163721Z
 LAST-MODIFIED:20260728T163721Z
 UID:10050450-1786899600-1786905000@plasterlodzki.pl
@@ -441,7 +467,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260818T190000
 DTEND;TZID=Europe/Warsaw:20260818T203000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049716-1787079600-1787085000@plasterlodzki.pl
@@ -454,7 +480,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260818T190000
 DTEND;TZID=Europe/Warsaw:20260818T203000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20260808T110632Z
 LAST-MODIFIED:20260808T110632Z
 UID:10050559-1787079600-1787085000@plasterlodzki.pl
@@ -466,7 +492,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260819T200000
 DTEND;TZID=Europe/Warsaw:20260819T213000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049725-1787169600-1787175000@plasterlodzki.pl
@@ -479,7 +505,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260820T190000
 DTEND;TZID=Europe/Warsaw:20260820T213000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20250629T081017Z
 LAST-MODIFIED:20260630T135504Z
 UID:10041675-1787252400-1787261400@plasterlodzki.pl
@@ -490,9 +516,35 @@ LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
 CATEGORIES:Festiwal,Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260820T200000
+DTEND;TZID=Europe/Warsaw:20260820T220000
+DTSTAMP:20260815T071704
+CREATED:20230310T160723Z
+LAST-MODIFIED:20260814T120552Z
+UID:10030425-1787256000-1787263200@plasterlodzki.pl
+SUMMARY:Jazz na leżakach
+DESCRIPTION:Jazz na leżakach czyli letnia odsłona czwartkowych\, jazzowych jam session w KIJuZapraszamy do naszego magicznego ogrodu na JAZZ NA LEŻAKACH.\nZagrają:Igor Wasiński – trąbka\,Krystian Kubiak – gitara\, Hubert Grygiel – bas\,Piotr Wierzchowski – perkusja.\nJak zawsze gościmy Was od 18:00\, muzyka na żywo startuje od 20:00. Większe grupy zachęcamy do wcześniejszych rezerwacji!!!\nMiejsce: KIJ\, ul. Jaracza 45 (wejście od P.O.W.)90-249 ŁódźData: 20/08/2026Cena: FREE\nPoczujcie wyjątkowy klimat\, bawcie się i grajcie razem z nami!Zapraszamy Wszystkich muzyków do wspólnego jazzowania w radosnej atmosferze.WażneLokal przeznaczony jest dla osób powyżej 18 roku życia. Osoby niepełnoletnie nie zostaną wpuszczone na wydarzeniePrzypominamy: jazzowe jam session odbywa się u nas co czwartek! W razie złej pogody\, koncert zostaje przeniesiony do lokalu i staruje o 21:00
+URL:https://plasterlodzki.pl/wydarzenia/underground-burlesque-dance-dance-dance/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260821T200000
+DTEND;TZID=Europe/Warsaw:20260821T223000
+DTSTAMP:20260815T071704
+CREATED:20250822T131350Z
+LAST-MODIFIED:20260814T120504Z
+UID:10039124-1787342400-1787351400@plasterlodzki.pl
+SUMMARY:Blues na leżakach - Qbek i Chypis
+DESCRIPTION:Zapraszamy na magiczny piątkowy wieczór przy koktajlu i bluesie.Można trochę potańczyć\, można się pobujać\, można po prostu posłuchać.Nasze drzwi otwieramy dla Państwa o 18:00. Start koncertu planujemy na godzinę 20:00.Zagrają: Qbek i Chypis\nPoczujcie wyjątkowy klimat\, bawcie się z nami!Pamiętajcie\, jeśli pogoda zawiedzie\, wydarzenie przenosimy do środka lokalu i gramy od 21:00\nMiejsce: KIJ\, ul. Jaracza 45 (wejście od P.O.W.)90-249 ŁódźData: 21/08/2026Godzina: 20:00Cena: FREE\nWażneLokal przeznaczony jest dla osób powyżej 18 roku życia. Osoby niepełnoletnie nie zostaną wpuszczone na wydarzenie
+URL:https://plasterlodzki.pl/wydarzenia/zatanczysz-ze-mna-jeszcze-raz-7-urodziny-kija-6/
+LOCATION:KIJ – multitap bar\, Jaracza 45\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260822T170000
 DTEND;TZID=Europe/Warsaw:20260822T190000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050360-1787418000-1787425200@plasterlodzki.pl
@@ -504,8 +556,21 @@ CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260822T190000
+DTEND;TZID=Europe/Warsaw:20260822T200000
+DTSTAMP:20260815T071704
+CREATED:20250221T140554Z
+LAST-MODIFIED:20260814T114354Z
+UID:10039543-1787425200-1787428800@plasterlodzki.pl
+SUMMARY:Koncert zespołu "Renowa" - Spotkanie przy kawie
+DESCRIPTION:W sobotę 22 sierpnia o godz. 19:00 zapraszamy Was na koncert zespołu ReNova\, który tego wieczoru zabierze Was w podróż przez “Muzyczne retro – klisze” – czyli znane\, lecz niekiedy lekko zapomniane utwory z polski i świata w kameralnych aranżacjach\, które – jak mamy nadzieję – przywołają do Was miłe wspomnienia. Sobotni recital odbędzie się pod hasłem „Spotkanie przy kawie” – to zachęta do zwolnienia tempa i wsłuchania się w kojące melodie.\nReNOVA to duet z Łodzi nawiązujący swoim brzmieniem i repertuarem do utworów minionych dekad. Jak sami o sobie mówią – chcą tchnąć w swoje wykonania ducha retro.Projekt muzyczny powstał z inicjatywy wokalistki Agaty Architekt oraz Szymona Gwadery – pianisty\, gitarzysty i wokalisty.
+URL:https://plasterlodzki.pl/wydarzenia/swinquett-emesze-gaspar-anna-celebanska/
+LOCATION:BohoArt Cafe\, Rewolucji 1905 r 2\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260822T190000
 DTEND;TZID=Europe/Warsaw:20260822T233000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20230127T104019Z
 LAST-MODIFIED:20260808T093958Z
 UID:10029960-1787425200-1787441400@plasterlodzki.pl
@@ -518,7 +583,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260822T200000
 DTEND;TZID=Europe/Warsaw:20260822T220000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20260729T101810Z
 LAST-MODIFIED:20260729T101810Z
 UID:10050455-1787428800-1787436000@plasterlodzki.pl
@@ -531,7 +596,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T150000
 DTEND;TZID=Europe/Warsaw:20260823T210000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20241018T145825Z
 LAST-MODIFIED:20260724T100802Z
 UID:10037660-1787497200-1787518800@plasterlodzki.pl
@@ -544,7 +609,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T170000
 DTEND;TZID=Europe/Warsaw:20260823T183000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049743-1787504400-1787509800@plasterlodzki.pl
@@ -557,7 +622,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T170000
 DTEND;TZID=Europe/Warsaw:20260823T183000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20260728T163721Z
 LAST-MODIFIED:20260728T163721Z
 UID:10050451-1787504400-1787509800@plasterlodzki.pl
@@ -570,7 +635,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T180000
 DTEND;TZID=Europe/Warsaw:20260823T210000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20221202T185324Z
 LAST-MODIFIED:20260808T101736Z
 UID:10029163-1787508000-1787518800@plasterlodzki.pl
@@ -583,7 +648,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T200000
 DTEND;TZID=Europe/Warsaw:20260823T223000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20260729T101810Z
 LAST-MODIFIED:20260729T101810Z
 UID:10050456-1787515200-1787524200@plasterlodzki.pl
@@ -596,7 +661,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260824T190000
 DTEND;TZID=Europe/Warsaw:20260824T210000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20260501T192116Z
 LAST-MODIFIED:20260709T080355Z
 UID:10050209-1787598000-1787605200@plasterlodzki.pl
@@ -609,7 +674,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260825T190000
 DTEND;TZID=Europe/Warsaw:20260825T203000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049717-1787684400-1787689800@plasterlodzki.pl
@@ -622,7 +687,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260825T190000
 DTEND;TZID=Europe/Warsaw:20260825T203000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20260808T110632Z
 LAST-MODIFIED:20260808T110632Z
 UID:10050560-1787684400-1787689800@plasterlodzki.pl
@@ -634,7 +699,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260826T180000
 DTEND;TZID=Europe/Warsaw:20260826T200000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20260501T171325Z
 LAST-MODIFIED:20260728T094810Z
 UID:10046830-1787767200-1787774400@plasterlodzki.pl
@@ -647,7 +712,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260826T190000
 DTEND;TZID=Europe/Warsaw:20260826T230000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20221202T185543Z
 LAST-MODIFIED:20260808T101753Z
 UID:10029168-1787770800-1787785200@plasterlodzki.pl
@@ -660,7 +725,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260826T200000
 DTEND;TZID=Europe/Warsaw:20260826T220000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20250816T110145Z
 LAST-MODIFIED:20260728T100556Z
 UID:10050425-1787774400-1787781600@plasterlodzki.pl
@@ -673,7 +738,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260826T200000
 DTEND;TZID=Europe/Warsaw:20260826T213000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049726-1787774400-1787779800@plasterlodzki.pl
@@ -686,7 +751,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260826T210000
 DTEND;TZID=Europe/Warsaw:20260826T223000
-DTSTAMP:20260814T071704
+DTSTAMP:20260815T071704
 CREATED:20260728T095427Z
 LAST-MODIFIED:20260728T095450Z
 UID:10044256-1787778000-1787783400@plasterlodzki.pl
@@ -735,9 +800,22 @@ URL:https://plasterlodzki.pl/wydarzenia/respiro-musica-muzyka-oddechu/2026-08-27
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260904T200000
+DTEND;TZID=Europe/Warsaw:20260904T223000
+DTSTAMP:20260815T071705
+CREATED:20230113T094508Z
+LAST-MODIFIED:20260814T115833Z
+UID:10029842-1788552000-1788561000@plasterlodzki.pl
+SUMMARY:RAU PERFORMANCE
+DESCRIPTION:Po prawie 5 latach wydawniczej ciszy Rau Performance wraca na klubową scenę z nową energią i czwartym oficjalnym wydawnictwem Strefa Dyskomfortu \nKażdy przystanek trasy to solidna dawka energii\, ciężkich brzmień i koncertowej intensywności \nNa miejscu nie zabraknie także stoisk z merchem  — po koncertach będzie można dorwać koszulki\, bluzy i czapki związane z najnowszym wydawnictwem.\nA poza tym… wiadomo.Będzie głośno\, będzie intensywnie i przede wszystkim — nie zabraknie totalnego rozpie*lu** \n Miejsce: Wooltura ul. Wólczańska 40/42\, 90-608 Łódź Otwarcie bramki: 19:00 Start koncertu: 20:00
+URL:https://plasterlodzki.pl/wydarzenia/heresy-denied-synapsa-iamon/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260905T190000
 DTEND;TZID=Europe/Warsaw:20260905T220000
-DTSTAMP:20260814T071706
+DTSTAMP:20260815T071705
 CREATED:20251010T114942Z
 LAST-MODIFIED:20260808T103259Z
 UID:10039504-1788634800-1788645600@plasterlodzki.pl
@@ -750,7 +828,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260905T200000
 DTEND;TZID=Europe/Warsaw:20260905T223000
-DTSTAMP:20260814T071706
+DTSTAMP:20260815T071705
 CREATED:20240913T080307Z
 LAST-MODIFIED:20260724T105745Z
 UID:10036976-1788638400-1788647400@plasterlodzki.pl
@@ -763,7 +841,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260906T170000
 DTEND;TZID=Europe/Warsaw:20260906T180000
-DTSTAMP:20260814T071706
+DTSTAMP:20260815T071705
 CREATED:20260426T101748Z
 LAST-MODIFIED:20260426T101748Z
 UID:10048186-1788714000-1788717600@plasterlodzki.pl
@@ -776,7 +854,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260814T071706
+DTSTAMP:20260815T071705
 CREATED:20260501T101121Z
 LAST-MODIFIED:20260501T101121Z
 UID:10048392-1788998400-1789084799@plasterlodzki.pl
@@ -789,7 +867,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260911T200000
 DTEND;TZID=Europe/Warsaw:20260911T210000
-DTSTAMP:20260814T071706
+DTSTAMP:20260815T071705
 CREATED:20230120T095314Z
 LAST-MODIFIED:20260724T105916Z
 UID:10029915-1789156800-1789160400@plasterlodzki.pl
@@ -802,7 +880,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260912T190000
 DTEND;TZID=Europe/Warsaw:20260912T203000
-DTSTAMP:20260814T071706
+DTSTAMP:20260815T071705
 CREATED:20260426T101823Z
 LAST-MODIFIED:20260426T101823Z
 UID:10048187-1789239600-1789245000@plasterlodzki.pl
@@ -813,9 +891,22 @@ LOCATION:Teatr Muzyczny w Łodzi\, Północna 47/51\, Łódź\, łódzkie\, Pols
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260912T200000
+DTEND;TZID=Europe/Warsaw:20260912T220000
+DTSTAMP:20260815T071705
+CREATED:20221202T185353Z
+LAST-MODIFIED:20260814T121126Z
+UID:10029164-1789243200-1789250400@plasterlodzki.pl
+SUMMARY:Samokhin Band
+DESCRIPTION:Muzyka\, którą wykonuje zespółSAMOKHIN BAND to energetycznamieszanka jazzu\, funky\, ska\, starego\,dobrego rock’n’rollaoraz wschodniego folku wzmocnionamocnym rockowym brzmieniem.Do tego dochodzi rosyjska charyzmai kozacka energia!Zespół wystąpił jako support Joe Cocker’a\,Blues Brothers i zespołu Leningrad.Zwycięzca Festiwalu im. W.Wysockiego.SAMOKHIN BAND ma na swoim koncie ponad 3000 koncertów w kraju i zagranicąoraz wydane 3 albumy. Obecnie nagrywa kolejny krążek.\nRezerwacje tel 609 152 420\nBilety 50/60 złkupbilecik.pl\n\nbiletyna.pl\n\nTawerna Keja
+URL:https://plasterlodzki.pl/wydarzenia/michal-langowski/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260814T071706
+DTSTAMP:20260815T071705
 CREATED:20260327T104534Z
 LAST-MODIFIED:20260327T104534Z
 UID:10047641-1789257600-1789343999@plasterlodzki.pl
@@ -828,7 +919,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260918T173000
 DTEND;TZID=Europe/Warsaw:20260918T190000
-DTSTAMP:20260814T071706
+DTSTAMP:20260815T071705
 CREATED:20260426T105402Z
 LAST-MODIFIED:20260426T105402Z
 UID:10048227-1789752600-1789758000@plasterlodzki.pl
@@ -841,7 +932,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260918T190000
 DTEND;TZID=Europe/Warsaw:20260918T210000
-DTSTAMP:20260814T071706
+DTSTAMP:20260815T071705
 CREATED:20260426T105329Z
 LAST-MODIFIED:20260426T105329Z
 UID:10048226-1789758000-1789765200@plasterlodzki.pl
@@ -852,9 +943,22 @@ LOCATION:Hotel Grand\, Piotrkowska 72\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260918T190000
+DTEND;TZID=Europe/Warsaw:20260918T230000
+DTSTAMP:20260815T071705
+CREATED:20221118T092846Z
+LAST-MODIFIED:20260814T115846Z
+UID:10028782-1789758000-1789772400@plasterlodzki.pl
+SUMMARY:SZNUR / TRUP / KDIS
+DESCRIPTION:grają:SZNUR – cwele\, black metalTRUP – jedno wielkie nic\, black/death metalK.D.I.S. – dzieci chaosu\, sludge/black metal\nBILETY: 70zł na bramcePrzedsprzedaż jest dla tych\, co nie przychodzą więc jej nie będzie
+URL:https://plasterlodzki.pl/wydarzenia/clodie/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260918T200000
 DTEND;TZID=Europe/Warsaw:20260918T210000
-DTSTAMP:20260814T071706
+DTSTAMP:20260815T071705
 CREATED:20221118T131649Z
 LAST-MODIFIED:20260619T114800Z
 UID:10028928-1789761600-1789765200@plasterlodzki.pl
@@ -865,9 +969,22 @@ LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260919T170000
+DTEND;TZID=Europe/Warsaw:20260919T223000
+DTSTAMP:20260815T071705
+CREATED:20230317T142828Z
+LAST-MODIFIED:20260814T115907Z
+UID:10030467-1789837200-1789857000@plasterlodzki.pl
+SUMMARY:TROOPS OF DOOM minitour\, shot 1:THERAPY OF PAIN - DHARMETHIC - ARTGORE - VENESECTION - TAMAS' SHADOW
+DESCRIPTION:TROOPS OF DOOM minitour – shot 1Zapraszamy na pierwszy z 3 koncertów minitraski TROOPS OF DOOM\, który odbędzie się w Łodzi\, w Woolturze\, 19.09.2026\, od godziny 17. Zagra 5 zespołów\, więc będzie się działo.\nZagrają:THERAPY OF PAIN z Poznania. Zespół powstał w 2011 roku z inicjatywy Michała Pohla (gitara basowa). Początkowo pod nazwą „Petarda”. W 2012 roku nastąpiła zmiana nazwy zespołu na obecną. Dawny\, poznański klub „Reset” stał się domem dla Therapy of Pain\, gdzie można było oglądać ekipę na żywo. W 2013 r. ekipa TOP zarejestrowała swój mini album „The experiment”\, który wydany cyfrowo można odsłuchać na portalach internetowych. Po licznych zmianach personalnych\, zespół w nowym składzie nagrywa klip i koncertuje. W roku 2017 Therapy of Pain zawiesza działalność\, a członkowie zespołu obsadzają inne kapele. Podczas działalności Therapy of Pain koncertowo wspierali min: Rychu\, Radomir\, Brodi i Oskar. POWRÓT do aktywności zespołu następuje w roku 2024. Do Michała i Popivka dołącza na gitarze 17-letni Stanisław\, a wokalnie i wizerunkowo Therapy of Pain zasila Aneta „BAST” Zespół nagrywa klip.Skład:Aneta BAST Jakubowska – vocalMichał Pohl – bassStanisław Pohl – guitarMarcin POPIVEK Popiwczuk – drumsprofil FB: https://www.facebook.com/therapyofpainofficial\nDHARMETHIC powstał 2023 roku w Łodzi z inicjatywy Rafała „Premy” Przybylaka. Zespół od samego początku stawia na mieszanie różnych stylów ciężkiego grania. Po licznych zmianach personalnych\, w 2024 roku udało się zarejestrować i wydać pierwszy album pt. „7”. Zespół bardzo szybko zabrał się za pisanie materiału na kolejną płytę\, do którego bębny zarejestrował Dariusz Daray Brzozowski\, a za realizację dźwięku jest odpowiedzialny Filip Heinrich Hałucha\, i który ukaże się już w 2026r. Ciekawostką jest to\, że z uwagi na bardzo trudne partie perkusyjne i deficyt kandydatów do ich odegrania\, Dharmethic zdecydował się na rozwiązanie elektroniczne\, wypracowując swoją\, innowacyjną metodę grania live\, o czym będzie można się przekonać już 19 września\, w łódzkiej Woolturze.Skład:Vesper Locust – vocal (Dammnatorum\, Necrosys)Prema – guitar 1 (ex Toxic Bonkers\, ex Red Forest\, Tamas Shadow)Wookee – guitar 2Slav – guitar 3 (ex Iluzjon\, ex Red Forest\, Krew\, Eteritus)Nazar – bass (Krew)Mr Perfect – Electro drum destroyerprofil FB: https://www.facebook.com/dharmethic\nARTGORE to ukraiński zespół z żeńskim wokalem grający w stylu modern metal/deathcore. Zespół składa się z czterech osób i został założony w 2020 roku w Charkowie\, Ukraina. W 2024 roku wydali pełnometrażowy album oraz teledysk\, a w 2025 roku ukazały się dwa single. Obecnie zespół aktywnie pracuje nad nowym materiałem i przygotowuje się do nagrania oraz wydania kolejnych utworów.Skład:Olha Ishchenko – voxYaroslav Kharchenko – guitarArtem Tarasov – bassVitali Liauchuk – drumsprofil FB: https://www.facebook.com/artgore\nVENESECTION to zespół deathmetalowy\, który powstał w 2024 r. składający się z muzyków Roberta Sikorskiego\, Marcina Zawadzkiego i Rafała Bielińskiego\, wcześniej związanych z deathmetalowym zespołem Likantropia oraz uznaną grindcore’ową formacją Zachlapany Szczypior\, a także perkusisty Rafała Sykuły z Torture of Hypocrisy. Skład uzupełnia wokalista Jacek „V” Wiśniewski\, znany z działalności w warszawskim zespole deathmetalowym Sphere w okresie albumów Blood Era i Inferno.Venesection wykonuje konkretny death metal oparty na precyzji\, szybkości i zdyscyplinowanej ekstremie\, czerpiąc inspiracje z amerykańskiej i europejskiej sceny początku lat 2000. Ich brzmienie łączy bardzo szybkie riffy\, złożone struktury rytmiczne i kontrolowany dysonans w bezlitosny\, chirurgicznie precyzyjny atak. Zespół pracuje nad swoim pierwszym LPSkład:Jacek Wiśniewski – vocalRobert Sikorski – guitarMarcin Zawadzki – guitarRafał Bieliński – bassRafał Sykuła – drums\nTAMAS’ SHADOW powstał w 2025 roku z inicjatywy Lorda Rudry i Lorda Pracchayi. Zespół tworzy w ramach atmosferycznego black metalu. W obecnej chwili Tamas’ Shadow ma materiał na swój pierwszy LP\, który zostanie zrealizowany jeszcze w tym roku.Skład:Lord Pracchaya (Frontchwein) – vocalLord Rudra (ex Toxic Bonkers\, ex Red Forest\, Dharmethic) – guitarLord Agni (Dharmethic) – guitarLord Samhara (ex Whispering\, Elephant) – bassLord Tandava (ex Nemrod\, ex Dharmethic) – drumsprofil FB: https://www.facebook.com/tamasshadowStart o 17\, bilety 50zł\nBĄDZCIE Z NAMI W TEN WIECZÓR
+URL:https://plasterlodzki.pl/wydarzenia/sveta-ben-galya-chikiss/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260919T180000
 DTEND;TZID=Europe/Warsaw:20260919T203000
-DTSTAMP:20260814T071706
+DTSTAMP:20260815T071705
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260724T100919Z
 UID:10050386-1789840800-1789849800@plasterlodzki.pl
@@ -880,7 +997,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260920T190000
 DTEND;TZID=Europe/Warsaw:20260920T233000
-DTSTAMP:20260814T071706
+DTSTAMP:20260815T071705
 CREATED:20260305T124604Z
 LAST-MODIFIED:20260808T102343Z
 UID:10047275-1789930800-1789947000@plasterlodzki.pl
@@ -893,7 +1010,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260926T190000
 DTEND;TZID=Europe/Warsaw:20260926T213000
-DTSTAMP:20260814T071706
+DTSTAMP:20260815T071705
 CREATED:20251220T215819Z
 LAST-MODIFIED:20260522T124104Z
 UID:10045910-1790449200-1790458200@plasterlodzki.pl
@@ -906,7 +1023,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260928T190000
 DTEND;TZID=Europe/Warsaw:20260928T210000
-DTSTAMP:20260814T071706
+DTSTAMP:20260815T071705
 CREATED:20260426T102125Z
 LAST-MODIFIED:20260426T102125Z
 UID:10048193-1790622000-1790629200@plasterlodzki.pl
