@@ -544,7 +544,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260822T170000
 DTEND;TZID=Europe/Warsaw:20260822T190000
-DTSTAMP:20260821T071703
+DTSTAMP:20260822T071704
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050360-1787418000-1787425200@plasterlodzki.pl
@@ -557,7 +557,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260822T190000
 DTEND;TZID=Europe/Warsaw:20260822T200000
-DTSTAMP:20260821T071703
+DTSTAMP:20260822T071704
 CREATED:20250221T140554Z
 LAST-MODIFIED:20260814T114354Z
 UID:10039543-1787425200-1787428800@plasterlodzki.pl
@@ -570,7 +570,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260822T190000
 DTEND;TZID=Europe/Warsaw:20260822T233000
-DTSTAMP:20260821T071703
+DTSTAMP:20260822T071704
 CREATED:20230127T104019Z
 LAST-MODIFIED:20260808T093958Z
 UID:10029960-1787425200-1787441400@plasterlodzki.pl
@@ -583,7 +583,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260822T200000
 DTEND;TZID=Europe/Warsaw:20260822T220000
-DTSTAMP:20260821T071703
+DTSTAMP:20260822T071704
 CREATED:20260729T101810Z
 LAST-MODIFIED:20260729T101810Z
 UID:10050455-1787428800-1787436000@plasterlodzki.pl
@@ -596,7 +596,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T150000
 DTEND;TZID=Europe/Warsaw:20260823T210000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20241018T145825Z
 LAST-MODIFIED:20260724T100802Z
 UID:10037660-1787497200-1787518800@plasterlodzki.pl
@@ -609,7 +609,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T170000
 DTEND;TZID=Europe/Warsaw:20260823T183000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20260701T132023Z
 LAST-MODIFIED:20260701T132023Z
 UID:10049743-1787504400-1787509800@plasterlodzki.pl
@@ -622,7 +622,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T170000
 DTEND;TZID=Europe/Warsaw:20260823T183000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20260728T163721Z
 LAST-MODIFIED:20260728T163721Z
 UID:10050451-1787504400-1787509800@plasterlodzki.pl
@@ -646,9 +646,22 @@ LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260823T180000
+DTEND;TZID=Europe/Warsaw:20260823T200000
+DTSTAMP:20260822T071704
+CREATED:20250221T140425Z
+LAST-MODIFIED:20260821T101447Z
+UID:10039540-1787508000-1787515200@plasterlodzki.pl
+SUMMARY:Koncert gitarowy - Mateusz i Wojtek
+DESCRIPTION:Wojtek od dziecka interesuje się muzyką\, szczególnie rockiem i metalem. Z czasem jego pasja przerodziła się w aktywne muzykowanie – zacząłgrać na gitarze\, zarówno elektrycznej jaki akustycznej.Od około dwóch lat rozwija także swoje umiejętności wokalne. Podczas koncertu zaprezentuje akustyczne wersje klasycznych rockowych utworów oraz polskich muzycznych klasyków\, łącząc grę na gitarze ze śpiewem.\nMateusz gra na gitarze akustycznej i śpiewa piosenki turystyczne\, szantowe oraz ponadczasowe klasyki. Sięga po utwory idealne na ognisko – pełne mądrych słów\, pięknych historii i emocji\, do których warto wracać. W jego wykonaniu usłyszymy unikalny mix piosenek szantowych\, turystycznych oraz ponadczasowych klasyków. Serdecznie zapraszamy na godzinę 18.Wstęp do tzw. kapelusza.
+URL:https://plasterlodzki.pl/wydarzenia/spektakl-ale-chemia-czarow-pogawedka-z-karnawalem/
+LOCATION:BohoArt Cafe\, Rewolucji 1905 r 2\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260823T200000
 DTEND;TZID=Europe/Warsaw:20260823T223000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20260729T101810Z
 LAST-MODIFIED:20260729T101810Z
 UID:10050456-1787515200-1787524200@plasterlodzki.pl
@@ -661,7 +674,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260824T190000
 DTEND;TZID=Europe/Warsaw:20260824T210000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20260501T192116Z
 LAST-MODIFIED:20260709T080355Z
 UID:10050209-1787598000-1787605200@plasterlodzki.pl
@@ -674,7 +687,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260825T190000
 DTEND;TZID=Europe/Warsaw:20260825T203000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20260630T142619Z
 LAST-MODIFIED:20260630T142619Z
 UID:10049717-1787684400-1787689800@plasterlodzki.pl
@@ -687,19 +700,20 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260825T190000
 DTEND;TZID=Europe/Warsaw:20260825T203000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20260808T110632Z
 LAST-MODIFIED:20260808T110632Z
 UID:10050560-1787684400-1787689800@plasterlodzki.pl
 SUMMARY:RESPIRO MUSICA - Muzyka oddechu... 
 DESCRIPTION:Zapraszamy do udziału w cyklu 6 plenerowych koncertów muzycznych na terenie Tężni Botanik przy ul. Hufcowej 24 w Łodzi. „RESPIRO MUSICA – spotkania z muzyką przy tężniach” jest realizowane dzięki dofinansowaniu z budżetu Miasta Łodzi. Każde wydarzenie stanowi odrębną odsłonę artystyczną\, eksplorując różne nurty muzyczne – od ambientu i muzyki eksperymentalnej\, przez folk i jazz\, aż po formy rytmiczne i transowy performance. Osią cyklu RESPIRO MUSICA jest relacja między dźwiękiem\, a przestrzenią tężni solankowych – muzyka podyktowana rytmem natury\, zaprojektowana jako doświadczenie wspierające regenerację\, wyciszenie i uważność odbiorców. Koncerty mają charakter dostępny i otwarty\, skierowany do szerokiej grupy okolicznych mieszkańców (tężnie znajdują się pomiędzy blokami)\, w tym osób poszukujących spokojnych form uczestnictwa w kulturze. Każdy koncert posiada indywidualną koncepcję dramaturgiczną\, co zapewnia różnorodność programu przy zachowaniu spójności artystycznej całego cyklu.\n\nLudzki czynnik artystyczny cyklu to:\n–  Natalia Anna Kalisz-Odorowicz – wielokrotnie nagradzana absolwentka łódzkiej ASP – graficzka\, ilustratorka\, pisarka\, performerka\, edukatorka. Pomysłodawczyni cyklu RESPIRO MUSICA. Kobieta wszechstronna\, energetyczna\, otwarta na ludzi i nowe wyzwania. W projekcie wykona malarski performance\, będzie grała na Shruti box oraz zaprojektowała identyfikację wizualną RESPIRO MUSICA.\n– Bartosz Gułaj – bębniarz\, multiinstrumentalista\, współzałożyciel zespołów City Bum Bum i Dzikie Jabłka. Uczy grać na bębnach w swojej szkole o subtelnej i wdzięcznej nazwie masaHUKU.\n– Sławek Ostrowski – jego ulubione instrumenty to puzon\, tuba\, sakshorn barytonowy\, akordeon i na nich wszystkich gra aż miło. W latach 1982 -1996 muzyk Orkiestry Wojskowej w Łodzi\, obecnie gra z zespołami: Big Band Fabryka\, Dixie Friends – Medicus Band (zespół jazzu tradycyjnego)\, Dixie z Piotrkowskiej. Akompaniuje solistom takim jak: Rebecca Lowe (USA)\, Krystyna Prońko\, Dorota Miśkiewicz\, Kuba Badach\, Łukasz Karauda\, Henryk Miśkiewicz. Współpracuje też z Teatrem Jaracza\, Teatrem Wielkim\, Teatrem Powszechnym\, Teatrem Fabrycznym\, Akademickim Ośrodkiem Inicjatyw Artystycznych oraz Łódzkim Towarzystwem Muzycznym.\n– Przemek Pogocki – multiinstrumentalista\, kompozytor i pedagog; absolwent Wydziału Jazzu w AM w Katowicach oraz AM w Łodzi w dziedzinie muzyki dawnej. Za swoją działalność artystyczną i pedagogiczną odznaczony medalem „Zasłużony dla kultury polskiej”. Współpracował z wieloma artystami w Polsce i na świecie.\n-Mateusz Tranda – gitarzysta akustyczny\, pianista\, kompozytor i nauczyciel tworzący muzykę z poziomu serca i intuicji. Jego twórczość to ucieczka od zgiełku i pędu współczesnego świata ku czystemu\, organicznemu brzmieniu. Kluczowe miejsce w jego pracy zajmuje improwizacja\, traktowana jako unikalny zapis obecności\, emocji i niepowtarzalnej chwili. Artysta przywiązuje ogromną wagę do naturalnego rezonansu i wibracji\, nagrywając swoje kompozycje w stroju A = 432 Hz.\n– Samuel Szatkowski – etnograf z wykształcenia\, dokumentalista\, pieśniarz\, bajarz\, multiinstrumentalista. Obdarzony wielką charyzmą\, równie wielkim uśmiechem i poczuciem humoru. Podczas koncertu zabierze nas w podróż po łódzkich podwórkach i na łódzkie pola.\n– Paweł Odorowicz – absolwent krakowskiej Akademii Muzycznej\, altowiolista\, sideman\, performer\, kompozytor\, aranżer\, producent muzyczny i reżyser nagrań. Komponuje i nagrywa muzykę ilustracyjną\, filmową\, teatralną. Wielokrotny stypendysta MKiDN i Prezydenta rodzimego miasta Lublin. Pomysłodawca i kurator cyklu RESPIRO MUSICA.\n\nLista koncertów RESPIRO MUSICA:\nKoncert I – 06.08 – RESPIRO MUSICA – muzyka oddechu – to koncert muzyki relaksacyjnej\, spokojnej\, rozlanej jak polodowcowe jezioro. Dźwięki natury skomponowane z instrumentami akustycznymi\, altówką i Shruti box. To podróż do spokoju\, zanurzenie się w otulającą mgłę relaksu.\nWykonawcy: Natalia Anna Kalisz-Odorowicz\, Paweł Odorowicz.\n\nKoncert II – 11.08 – RESPIRO MUSICA – koncert folkowy – zapraszamy na podróż w czasie\, na łódzkie podwórka z okresu międzywojnia\, na wsie\, pola i opowieści prosto z zapiecka. Coś dla duszy i dla ciała\, coś pod nóżkę\, i do śpiewania. Muzyka podwórkowa i ludowa z rejonu łódzkiego\, ubarwiona opowieścią\, i wspominkami.\nWykonawcy: Samuel Szatkowski\, Paweł Odorowicz.\n\nKoncert III – 13.08 – RESPIRO MUSICA – koncert jazzowy –  popłyńmy w Łodzi deltą Missisipi! Standardy jazzowe w rewelacyjnym wykonaniu łódzkich muzyków wywołają falę wspomnień i poruszą serca. Nie tylko śpiewem człowiek żyje – tańczyć też trzeba!\nWykonawcy: Sławek Ostrowski\, Przemysław Pogocki.\n\nKoncert IV – 18.08 – RESPIRO MUSICA – muzyka kameralna i filmowe brzmienia – odróż do świata wyobraźni\, w słonych oparach tężniowpych oddechów. Podróż do świata obrazów\, które oglądamy od dzieciństwa\, przez wszystkie etapy swojego życia. Barwy klasycznych instrumentów oddychających pełnią otwartej przestrzeni.\nWykonawca: Paweł Odorowicz.\n\nKoncert V – 25.08 – RESPIRO MUSICA – gitarowy flow – gitarowy flow to zanurzenie się w rezonujący ocean dźwięków gitary strojonej do A=432 Hz\, otulający jak mech i wysokie trawy…\nWykonawca: Mateusz Tranda.\n\nKoncert VI – 27.08 – RESPIRO MUSICA – medytacyjny trans – performatywny rytuał współbrzmienia muzyki i obrazu. Do spotkania z naturą – najbliższą… Pod stopami\, w oddechu\, w pulsie serca. Podczas koncertów zespołu Taitu Tree nie ma podziału na scenę i publiczność. Jest wspólne doświadczanie. Świadome zakorzenienie się – tu i teraz. Jest muzyka do tańca\, jeśli ciało chce tańczyć. Do ciszy\, jeśli potrzebujesz zatrzymać się w sobie. Do zamknięcia oczu. Albo do otwarcia ich szerzej niż zwykle.\nWykonawcy: Natalia Anna Kalisz-Odorowicz\, Bartosz Gułaj\, Paweł Odorowicz.\n\nWszystkie koncerty odbywają się o godz. 19:00 w Tężniach BOTANIK\, ul. Hufcowa 24 Łódź.\n\nDodatkowo w załączniku znajduje się plakat.
 URL:https://plasterlodzki.pl/wydarzenia/respiro-musica-muzyka-oddechu/2026-08-25/
+LOCATION:łódzkie
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260826T180000
 DTEND;TZID=Europe/Warsaw:20260826T200000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20260501T171325Z
 LAST-MODIFIED:20260728T094810Z
 UID:10046830-1787767200-1787774400@plasterlodzki.pl
@@ -712,7 +726,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260826T190000
 DTEND;TZID=Europe/Warsaw:20260826T230000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20221202T185543Z
 LAST-MODIFIED:20260808T101753Z
 UID:10029168-1787770800-1787785200@plasterlodzki.pl
@@ -725,7 +739,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260826T200000
 DTEND;TZID=Europe/Warsaw:20260826T220000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20250816T110145Z
 LAST-MODIFIED:20260728T100556Z
 UID:10050425-1787774400-1787781600@plasterlodzki.pl
@@ -738,7 +752,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260826T200000
 DTEND;TZID=Europe/Warsaw:20260826T213000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20260630T142710Z
 LAST-MODIFIED:20260630T142710Z
 UID:10049726-1787774400-1787779800@plasterlodzki.pl
@@ -751,7 +765,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260826T210000
 DTEND;TZID=Europe/Warsaw:20260826T223000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20260728T095427Z
 LAST-MODIFIED:20260728T095450Z
 UID:10044256-1787778000-1787783400@plasterlodzki.pl
@@ -764,7 +778,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260827T180000
 DTEND;TZID=Europe/Warsaw:20260827T203000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20250816T110145Z
 LAST-MODIFIED:20260728T100556Z
 UID:10050426-1787853600-1787862600@plasterlodzki.pl
@@ -777,7 +791,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260827T190000
 DTEND;TZID=Europe/Warsaw:20260827T210000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20251220T220055Z
 LAST-MODIFIED:20260425T110707Z
 UID:10045915-1787857200-1787864400@plasterlodzki.pl
@@ -790,19 +804,33 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260827T190000
 DTEND;TZID=Europe/Warsaw:20260827T203000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
+CREATED:20260327T084742Z
+LAST-MODIFIED:20260821T101322Z
+UID:10047345-1787857200-1787862600@plasterlodzki.pl
+SUMMARY:Koncert - Z dna szuflady
+DESCRIPTION:Gram szerko rozumianą piosenkę poetycką\, autorską\, akustyczne granieczerpiące z różnych gatunków\, uparcie podążając swoją własną drogą. Kto wie\, co może wyskoczyc z szuflady jeśli się nią potrząśnie.Zapraszamy.Wstep do tzw. kapelusza.
+URL:https://plasterlodzki.pl/wydarzenia/stand-up-bartek-toczek-3/
+LOCATION:BohoArt Cafe\, Rewolucji 1905 r 2\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260827T190000
+DTEND;TZID=Europe/Warsaw:20260827T203000
+DTSTAMP:20260822T071704
 CREATED:20260808T110632Z
 LAST-MODIFIED:20260808T110632Z
 UID:10050561-1787857200-1787862600@plasterlodzki.pl
 SUMMARY:RESPIRO MUSICA - Muzyka oddechu... 
 DESCRIPTION:Zapraszamy do udziału w cyklu 6 plenerowych koncertów muzycznych na terenie Tężni Botanik przy ul. Hufcowej 24 w Łodzi. „RESPIRO MUSICA – spotkania z muzyką przy tężniach” jest realizowane dzięki dofinansowaniu z budżetu Miasta Łodzi. Każde wydarzenie stanowi odrębną odsłonę artystyczną\, eksplorując różne nurty muzyczne – od ambientu i muzyki eksperymentalnej\, przez folk i jazz\, aż po formy rytmiczne i transowy performance. Osią cyklu RESPIRO MUSICA jest relacja między dźwiękiem\, a przestrzenią tężni solankowych – muzyka podyktowana rytmem natury\, zaprojektowana jako doświadczenie wspierające regenerację\, wyciszenie i uważność odbiorców. Koncerty mają charakter dostępny i otwarty\, skierowany do szerokiej grupy okolicznych mieszkańców (tężnie znajdują się pomiędzy blokami)\, w tym osób poszukujących spokojnych form uczestnictwa w kulturze. Każdy koncert posiada indywidualną koncepcję dramaturgiczną\, co zapewnia różnorodność programu przy zachowaniu spójności artystycznej całego cyklu.\n\nLudzki czynnik artystyczny cyklu to:\n–  Natalia Anna Kalisz-Odorowicz – wielokrotnie nagradzana absolwentka łódzkiej ASP – graficzka\, ilustratorka\, pisarka\, performerka\, edukatorka. Pomysłodawczyni cyklu RESPIRO MUSICA. Kobieta wszechstronna\, energetyczna\, otwarta na ludzi i nowe wyzwania. W projekcie wykona malarski performance\, będzie grała na Shruti box oraz zaprojektowała identyfikację wizualną RESPIRO MUSICA.\n– Bartosz Gułaj – bębniarz\, multiinstrumentalista\, współzałożyciel zespołów City Bum Bum i Dzikie Jabłka. Uczy grać na bębnach w swojej szkole o subtelnej i wdzięcznej nazwie masaHUKU.\n– Sławek Ostrowski – jego ulubione instrumenty to puzon\, tuba\, sakshorn barytonowy\, akordeon i na nich wszystkich gra aż miło. W latach 1982 -1996 muzyk Orkiestry Wojskowej w Łodzi\, obecnie gra z zespołami: Big Band Fabryka\, Dixie Friends – Medicus Band (zespół jazzu tradycyjnego)\, Dixie z Piotrkowskiej. Akompaniuje solistom takim jak: Rebecca Lowe (USA)\, Krystyna Prońko\, Dorota Miśkiewicz\, Kuba Badach\, Łukasz Karauda\, Henryk Miśkiewicz. Współpracuje też z Teatrem Jaracza\, Teatrem Wielkim\, Teatrem Powszechnym\, Teatrem Fabrycznym\, Akademickim Ośrodkiem Inicjatyw Artystycznych oraz Łódzkim Towarzystwem Muzycznym.\n– Przemek Pogocki – multiinstrumentalista\, kompozytor i pedagog; absolwent Wydziału Jazzu w AM w Katowicach oraz AM w Łodzi w dziedzinie muzyki dawnej. Za swoją działalność artystyczną i pedagogiczną odznaczony medalem „Zasłużony dla kultury polskiej”. Współpracował z wieloma artystami w Polsce i na świecie.\n-Mateusz Tranda – gitarzysta akustyczny\, pianista\, kompozytor i nauczyciel tworzący muzykę z poziomu serca i intuicji. Jego twórczość to ucieczka od zgiełku i pędu współczesnego świata ku czystemu\, organicznemu brzmieniu. Kluczowe miejsce w jego pracy zajmuje improwizacja\, traktowana jako unikalny zapis obecności\, emocji i niepowtarzalnej chwili. Artysta przywiązuje ogromną wagę do naturalnego rezonansu i wibracji\, nagrywając swoje kompozycje w stroju A = 432 Hz.\n– Samuel Szatkowski – etnograf z wykształcenia\, dokumentalista\, pieśniarz\, bajarz\, multiinstrumentalista. Obdarzony wielką charyzmą\, równie wielkim uśmiechem i poczuciem humoru. Podczas koncertu zabierze nas w podróż po łódzkich podwórkach i na łódzkie pola.\n– Paweł Odorowicz – absolwent krakowskiej Akademii Muzycznej\, altowiolista\, sideman\, performer\, kompozytor\, aranżer\, producent muzyczny i reżyser nagrań. Komponuje i nagrywa muzykę ilustracyjną\, filmową\, teatralną. Wielokrotny stypendysta MKiDN i Prezydenta rodzimego miasta Lublin. Pomysłodawca i kurator cyklu RESPIRO MUSICA.\n\nLista koncertów RESPIRO MUSICA:\nKoncert I – 06.08 – RESPIRO MUSICA – muzyka oddechu – to koncert muzyki relaksacyjnej\, spokojnej\, rozlanej jak polodowcowe jezioro. Dźwięki natury skomponowane z instrumentami akustycznymi\, altówką i Shruti box. To podróż do spokoju\, zanurzenie się w otulającą mgłę relaksu.\nWykonawcy: Natalia Anna Kalisz-Odorowicz\, Paweł Odorowicz.\n\nKoncert II – 11.08 – RESPIRO MUSICA – koncert folkowy – zapraszamy na podróż w czasie\, na łódzkie podwórka z okresu międzywojnia\, na wsie\, pola i opowieści prosto z zapiecka. Coś dla duszy i dla ciała\, coś pod nóżkę\, i do śpiewania. Muzyka podwórkowa i ludowa z rejonu łódzkiego\, ubarwiona opowieścią\, i wspominkami.\nWykonawcy: Samuel Szatkowski\, Paweł Odorowicz.\n\nKoncert III – 13.08 – RESPIRO MUSICA – koncert jazzowy –  popłyńmy w Łodzi deltą Missisipi! Standardy jazzowe w rewelacyjnym wykonaniu łódzkich muzyków wywołają falę wspomnień i poruszą serca. Nie tylko śpiewem człowiek żyje – tańczyć też trzeba!\nWykonawcy: Sławek Ostrowski\, Przemysław Pogocki.\n\nKoncert IV – 18.08 – RESPIRO MUSICA – muzyka kameralna i filmowe brzmienia – odróż do świata wyobraźni\, w słonych oparach tężniowpych oddechów. Podróż do świata obrazów\, które oglądamy od dzieciństwa\, przez wszystkie etapy swojego życia. Barwy klasycznych instrumentów oddychających pełnią otwartej przestrzeni.\nWykonawca: Paweł Odorowicz.\n\nKoncert V – 25.08 – RESPIRO MUSICA – gitarowy flow – gitarowy flow to zanurzenie się w rezonujący ocean dźwięków gitary strojonej do A=432 Hz\, otulający jak mech i wysokie trawy…\nWykonawca: Mateusz Tranda.\n\nKoncert VI – 27.08 – RESPIRO MUSICA – medytacyjny trans – performatywny rytuał współbrzmienia muzyki i obrazu. Do spotkania z naturą – najbliższą… Pod stopami\, w oddechu\, w pulsie serca. Podczas koncertów zespołu Taitu Tree nie ma podziału na scenę i publiczność. Jest wspólne doświadczanie. Świadome zakorzenienie się – tu i teraz. Jest muzyka do tańca\, jeśli ciało chce tańczyć. Do ciszy\, jeśli potrzebujesz zatrzymać się w sobie. Do zamknięcia oczu. Albo do otwarcia ich szerzej niż zwykle.\nWykonawcy: Natalia Anna Kalisz-Odorowicz\, Bartosz Gułaj\, Paweł Odorowicz.\n\nWszystkie koncerty odbywają się o godz. 19:00 w Tężniach BOTANIK\, ul. Hufcowa 24 Łódź.\n\nDodatkowo w załączniku znajduje się plakat.
 URL:https://plasterlodzki.pl/wydarzenia/respiro-musica-muzyka-oddechu/2026-08-27/
+LOCATION:łódzkie
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260828T200000
 DTEND;TZID=Europe/Warsaw:20260828T223000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20230120T095341Z
 LAST-MODIFIED:20260703T094813Z
 UID:10029916-1787947200-1787956200@plasterlodzki.pl
@@ -815,7 +843,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260828T200000
 DTEND;TZID=Europe/Warsaw:20260828T220000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20260109T083258Z
 LAST-MODIFIED:20260814T120434Z
 UID:10046340-1787947200-1787954400@plasterlodzki.pl
@@ -828,7 +856,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260829T170000
 DTEND;TZID=Europe/Warsaw:20260829T190000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20240522T161907Z
 LAST-MODIFIED:20260717T122150Z
 UID:10050361-1788022800-1788030000@plasterlodzki.pl
@@ -839,9 +867,22 @@ LOCATION:Ulica Włókiennicza\, Włókiennicza\, Łódź\, Poland
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260829T190000
+DTEND;TZID=Europe/Warsaw:20260829T223000
+DTSTAMP:20260822T071704
+CREATED:20230217T114354Z
+LAST-MODIFIED:20260821T124824Z
+UID:10030209-1788030000-1788042600@plasterlodzki.pl
+SUMMARY:Cheatz & Buffalo TSNK NIGHT
+DESCRIPTION:Cheatz & Buffalo TSNK NIGHT\nTo jeszcze nie koniec!\nPo świetnie przyjętej trasie koncertowej i niesamowitej energii\, którą stworzyliście na każdym przystanku\, nie mogliśmy zakończyć tego lata bez mocnego finału. Wasz ogromny odzew i pozytywny feedback sprawiły\, że dokładamy jeszcze dwa koncerty.\n28 sierpnia widzimy się w Krakowie\, a 29 sierpnia w Łodzi.\nTo będzie idealne zakończenie wakacji. Jeśli byliście na poprzednich koncertach\, wiecie\, czego się spodziewać. Jeśli nie\, to właśnie teraz macie ostatnią szansę\, żeby dołączyć do tej trasy.\nDrzwi otweiramy o 19:00.\nOsoby poniżej 16. roku życia mogą wejść wyłącznie pod opieką osoby dorosłej.\nOsoby w wieku 16–17 lat mogą uczestniczyć w wydarzeniu za okazaniem pisemnej zgody opiekuna prawnego.\nNie zwlekaj. Zgarnij bilet i do zobaczenia pod sceną!
+URL:https://plasterlodzki.pl/wydarzenia/evil-madness-v-species-night-lord-grimoire-rip/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260829T200000
 DTEND;TZID=Europe/Warsaw:20260829T210000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20230810T121912Z
 LAST-MODIFIED:20260710T090403Z
 UID:10031592-1788033600-1788037200@plasterlodzki.pl
@@ -854,7 +895,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260829T202000
 DTEND;TZID=Europe/Warsaw:20260829T213000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20250816T110145Z
 LAST-MODIFIED:20260728T100556Z
 UID:10050427-1788034800-1788039000@plasterlodzki.pl
@@ -867,7 +908,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260829T203000
 DTEND;TZID=Europe/Warsaw:20260829T220000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20221202T161216Z
 LAST-MODIFIED:20260814T120448Z
 UID:10029105-1788035400-1788040800@plasterlodzki.pl
@@ -880,7 +921,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260829T230000
 DTEND;TZID=Europe/Warsaw:20260829T235900
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20221202T153136Z
 LAST-MODIFIED:20260814T114901Z
 UID:10040086-1788044400-1788047940@plasterlodzki.pl
@@ -893,7 +934,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260831T190000
 DTEND;TZID=Europe/Warsaw:20260831T210000
-DTSTAMP:20260821T071704
+DTSTAMP:20260822T071704
 CREATED:20260501T192116Z
 LAST-MODIFIED:20260709T080355Z
 UID:10050210-1788202800-1788210000@plasterlodzki.pl
@@ -904,9 +945,22 @@ LOCATION:Port Łódź\, Pabianicka 245\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260904T190000
+DTEND;TZID=Europe/Warsaw:20260904T223000
+DTSTAMP:20260822T071705
+CREATED:20221118T130631Z
+LAST-MODIFIED:20260821T120845Z
+UID:10028913-1788548400-1788561000@plasterlodzki.pl
+SUMMARY:Gramy dla Filipka
+DESCRIPTION:NIESTETY Z PRZYCZYN PRYWATNYCH NASTĄPI ZMIANA TERMINU KONCERTU.Jak niewiele potrzeba aby pomóc.Kilka telefonów i lecimy.Już 4 września gramy dla tego małego wojownika-Filipka.Zapraszamy wszystkich od godziny 19:00 do Iron Horse Pub Łódź na nasz koncert.W trakcie koncertu jak również po jego zakończeniu będą prowadzone licytacje – I tu zwracamy się z gorącą prośbą do wszystkich ludzi dobrej woli o przekazywanie wszystkiego co można spieniężyć (vouchery\,karnety lub rzeczy).Nasz zespół wystawia do wygrania gitarę podpisaną przez nas i przez naszego bohatera Filipka.Wszystkich chętnych zapraszam do kontaktu 600918886.Całkowity dochód z koncertu i licytacji zostanie przekazany do fundacji siepomaga.Pokażmy że mamy wielkie serca.Liczymy na waszą obecność i wsparcie . Wielkie dzięki Iron Horse Pub Łódź\nhttps://www.facebook.com/share/r/1EBydJbyV5/
+URL:https://plasterlodzki.pl/wydarzenia/danny-boy-experience-2/
+LOCATION:Iron Horse\, Tuwima 16 / róg Sienkiewicza\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260904T200000
 DTEND;TZID=Europe/Warsaw:20260904T223000
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20230113T094508Z
 LAST-MODIFIED:20260814T115833Z
 UID:10029842-1788552000-1788561000@plasterlodzki.pl
@@ -919,7 +973,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260905T190000
 DTEND;TZID=Europe/Warsaw:20260905T220000
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20251010T114942Z
 LAST-MODIFIED:20260808T103259Z
 UID:10039504-1788634800-1788645600@plasterlodzki.pl
@@ -932,7 +986,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260905T200000
 DTEND;TZID=Europe/Warsaw:20260905T223000
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20240913T080307Z
 LAST-MODIFIED:20260724T105745Z
 UID:10036976-1788638400-1788647400@plasterlodzki.pl
@@ -945,7 +999,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260906T170000
 DTEND;TZID=Europe/Warsaw:20260906T180000
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20260426T101748Z
 LAST-MODIFIED:20260426T101748Z
 UID:10048186-1788714000-1788717600@plasterlodzki.pl
@@ -958,7 +1012,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20260501T101121Z
 LAST-MODIFIED:20260501T101121Z
 UID:10048392-1788998400-1789084799@plasterlodzki.pl
@@ -971,7 +1025,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260911T200000
 DTEND;TZID=Europe/Warsaw:20260911T210000
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20230120T095314Z
 LAST-MODIFIED:20260724T105916Z
 UID:10029915-1789156800-1789160400@plasterlodzki.pl
@@ -984,7 +1038,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260912T190000
 DTEND;TZID=Europe/Warsaw:20260912T203000
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20260426T101823Z
 LAST-MODIFIED:20260426T101823Z
 UID:10048187-1789239600-1789245000@plasterlodzki.pl
@@ -997,7 +1051,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260912T200000
 DTEND;TZID=Europe/Warsaw:20260912T220000
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20221202T185353Z
 LAST-MODIFIED:20260814T121126Z
 UID:10029164-1789243200-1789250400@plasterlodzki.pl
@@ -1010,7 +1064,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20260327T104534Z
 LAST-MODIFIED:20260327T104534Z
 UID:10047641-1789257600-1789343999@plasterlodzki.pl
@@ -1023,7 +1077,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260918T173000
 DTEND;TZID=Europe/Warsaw:20260918T190000
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20260426T105402Z
 LAST-MODIFIED:20260426T105402Z
 UID:10048227-1789752600-1789758000@plasterlodzki.pl
@@ -1036,7 +1090,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260918T190000
 DTEND;TZID=Europe/Warsaw:20260918T210000
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20260426T105329Z
 LAST-MODIFIED:20260426T105329Z
 UID:10048226-1789758000-1789765200@plasterlodzki.pl
@@ -1049,7 +1103,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260918T190000
 DTEND;TZID=Europe/Warsaw:20260918T230000
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20221118T092846Z
 LAST-MODIFIED:20260814T115846Z
 UID:10028782-1789758000-1789772400@plasterlodzki.pl
@@ -1062,7 +1116,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260918T200000
 DTEND;TZID=Europe/Warsaw:20260918T210000
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20221118T131649Z
 LAST-MODIFIED:20260619T114800Z
 UID:10028928-1789761600-1789765200@plasterlodzki.pl
@@ -1075,7 +1129,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260919T170000
 DTEND;TZID=Europe/Warsaw:20260919T223000
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20230317T142828Z
 LAST-MODIFIED:20260814T115907Z
 UID:10030467-1789837200-1789857000@plasterlodzki.pl
@@ -1088,7 +1142,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260919T180000
 DTEND;TZID=Europe/Warsaw:20260919T203000
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260724T100919Z
 UID:10050386-1789840800-1789849800@plasterlodzki.pl
@@ -1099,9 +1153,22 @@ LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20260919T190000
+DTEND;TZID=Europe/Warsaw:20260919T233000
+DTSTAMP:20260822T071705
+CREATED:20221118T095513Z
+LAST-MODIFIED:20260821T123903Z
+UID:10028812-1789844400-1789860600@plasterlodzki.pl
+SUMMARY:przeprosiny + dzenyaa + Tytus Gaming
+DESCRIPTION:ZMIANA LOKALIZACJI \nJuż 19 września widzimy się w Cyrku Pod Zielonym Xiężycem w składzie:\nprzeprosiny (emo/shoegaze) – emocjonalny projekt muzyczny z Katowic wyróżniający się mieszanką delikatnych shoegazeowych wokali z przejmującymi\, głośnymi krzykami. Utwory poszukują głębszego sensu istnienia i refleksji nad duchowością\, czasem wyrażając te idee za pomocą subtelnych metafor. Na koncercie będą promować album „femme”.\nTytus Gaming – muzyka domowej roboty. Podróżujemy między dużym pokojem\, piwnica\, sypialnia. Bedroom pop\, slacker rock itp. Na koncertach bywa różnie.\ndzenyaa – nowy projekt gitarzysty son of deni. Indie z nieparzystymi metrami\, popowe hooki z jazzową sekcją rytmiczną\, estetyka post-emo\, czysty wokal i taneczne bridge’e. Poza muzyką: dobre ubrania i gry komputerowe.\nBilety:Sugerowana kwota: 40 zł
+URL:https://plasterlodzki.pl/wydarzenia/medytacje-w-cyrku/
+LOCATION:Cyrk Pod Zielonym Xiężycem\, Próchnika 1\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260920T190000
 DTEND;TZID=Europe/Warsaw:20260920T233000
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20260305T124604Z
 LAST-MODIFIED:20260808T102343Z
 UID:10047275-1789930800-1789947000@plasterlodzki.pl
@@ -1114,7 +1181,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260926T190000
 DTEND;TZID=Europe/Warsaw:20260926T213000
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20251220T215819Z
 LAST-MODIFIED:20260522T124104Z
 UID:10045910-1790449200-1790458200@plasterlodzki.pl
@@ -1127,7 +1194,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20260928T190000
 DTEND;TZID=Europe/Warsaw:20260928T210000
-DTSTAMP:20260821T071706
+DTSTAMP:20260822T071705
 CREATED:20260426T102125Z
 LAST-MODIFIED:20260426T102125Z
 UID:10048193-1790622000-1790629200@plasterlodzki.pl
