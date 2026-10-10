@@ -209,7 +209,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T150000
 DTEND;TZID=Europe/Warsaw:20261010T170000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20251209T190439Z
 LAST-MODIFIED:20260906T102659Z
 UID:10050796-1791644400-1791651600@plasterlodzki.pl
@@ -221,8 +221,21 @@ CATEGORIES:Koncert,Warsztaty
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T180000
+DTEND;TZID=Europe/Warsaw:20261010T200000
+DTSTAMP:20261010T071704
+CREATED:20250402T124410Z
+LAST-MODIFIED:20261009T085923Z
+UID:10039187-1791655200-1791662400@plasterlodzki.pl
+SUMMARY:PIOTR SAX - WIECZÓR Z SAKSOFONEM || cz. 3 Muzyka filmowa- saksofon na wielkim ekranie
+DESCRIPTION:PIOTR SAX – WIECZÓR Z SAKSOFONEMIII spotkanie: „Muzyka filmowa – saksofon na wielkim ekranie”Są melodie\, przy których wystarczy kilka pierwszych dźwięków\, aby przed oczami pojawiła się scena z filmu…Podczas trzeciego spotkania z cyklu „Piotr Sax – Wieczór z Saksofonem” zapraszam Was w muzyczną podróż przez kino. Tym razem głównym bohaterem wieczoru będzie muzyka filmowa w brzmieniu saksofonu.Usłyszycie melodie znane z wielkiego ekranu — romantyczne\, nostalgiczne\, wzruszające\, ale także pełne energii i filmowego napięcia. Będą utwory\, które przywołują wspomnienia i takie\, które rozpoznajemy już po kilku pierwszych nutach.To nie będzie tylko koncert. Chciałbym\, aby był to wieczór\, podczas którego saksofon opowie historie znane z kina. Sobota\, 10 października 2026 godz. 18:00 Jesteśmy Music Club\, ul. Jaracza 13\, Łódź Bilet: 35 zł Rezerwacje: 535-535-918Kameralny klub\, muzyka na żywo i melodie wielkiego ekranu.Do zobaczenia!Piotr Sax
+URL:https://plasterlodzki.pl/wydarzenia/koncert-saksofonowy-jazz-swing-z-lat-20-30-3/
+LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261010T180000
 DTEND;TZID=Europe/Warsaw:20261010T203000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260724T100919Z
 UID:10050387-1791655200-1791664200@plasterlodzki.pl
@@ -235,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261010T200000
 DTEND;TZID=Europe/Warsaw:20261010T230000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20260522T122329Z
 LAST-MODIFIED:20260903T092345Z
 UID:10041254-1791662400-1791673200@plasterlodzki.pl
@@ -248,7 +261,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20260327T104357Z
 LAST-MODIFIED:20260327T104357Z
 UID:10047638-1791676800-1791763199@plasterlodzki.pl
@@ -261,7 +274,20 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261011T180000
 DTEND;TZID=Europe/Warsaw:20261011T203000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
+CREATED:20260410T092725Z
+LAST-MODIFIED:20261009T085748Z
+UID:10048064-1791741600-1791750600@plasterlodzki.pl
+SUMMARY:Opowiadaj mi tak - Darek Kwiatkowski
+DESCRIPTION:Zapraszamy na koncert pt. tytułem Opowiadaj mi tak\, w wykonaniu Darka Kwiatkowskiego vel Pan Darecki.Zaśpiewamy mniej i bardziej znane piosenki Zbigniewa Wodeckiego.Serdecznie zapraszamy.Wstęp do kapelusza. ( sugerowane 30 zł )
+URL:https://plasterlodzki.pl/wydarzenia/koncert-piotra-cajdlera/
+LOCATION:BohoArt Cafe\, Rewolucji 1905 r 2\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261011T180000
+DTEND;TZID=Europe/Warsaw:20261011T203000
+DTSTAMP:20261010T071704
 CREATED:20250609T081235Z
 LAST-MODIFIED:20260305T174305Z
 UID:10041437-1791741600-1791750600@plasterlodzki.pl
@@ -274,7 +300,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261012T183000
 DTEND;TZID=Europe/Warsaw:20261012T200000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20260426T102336Z
 LAST-MODIFIED:20260426T102336Z
 UID:10048198-1791829800-1791835200@plasterlodzki.pl
@@ -287,7 +313,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261013T190000
 DTEND;TZID=Europe/Warsaw:20261013T210000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20260426T111928Z
 LAST-MODIFIED:20260426T111928Z
 UID:10048244-1791918000-1791925200@plasterlodzki.pl
@@ -300,7 +326,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261014T200000
 DTEND;TZID=Europe/Warsaw:20261014T213000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20221130T151945Z
 LAST-MODIFIED:20260426T104106Z
 UID:10028945-1792008000-1792013400@plasterlodzki.pl
@@ -313,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T190000
 DTEND;TZID=Europe/Warsaw:20261016T210000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20231018T140017Z
 LAST-MODIFIED:20260703T094952Z
 UID:10031978-1792177200-1792184400@plasterlodzki.pl
@@ -325,8 +351,21 @@ CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T190000
+DTEND;TZID=Europe/Warsaw:20261016T210000
+DTSTAMP:20261010T071704
+CREATED:20241018T145825Z
+LAST-MODIFIED:20261009T085948Z
+UID:10037660-1792177200-1792184400@plasterlodzki.pl
+SUMMARY:The Januarys LIVE!
+DESCRIPTION:The Januarys LIVE!\nKlub Muzyczny JesteśmyStefana Jaracza 1390-261Łódź\, Poland16.10.202619:00Donation Entry
+URL:https://plasterlodzki.pl/wydarzenia/artur-szczawinski/
+LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
+CATEGORIES:Koncert,Warsztaty
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261016T190000
 DTEND;TZID=Europe/Warsaw:20261016T223000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20251010T130601Z
 LAST-MODIFIED:20260426T103919Z
 UID:10041360-1792177200-1792189800@plasterlodzki.pl
@@ -339,7 +378,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261016T200000
 DTEND;TZID=Europe/Warsaw:20261016T220000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20251221T123919Z
 LAST-MODIFIED:20260808T101716Z
 UID:10045047-1792180800-1792188000@plasterlodzki.pl
@@ -352,7 +391,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T130000
 DTEND;TZID=Europe/Warsaw:20261017T140000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20251209T190439Z
 LAST-MODIFIED:20260906T102659Z
 UID:10050797-1792242000-1792245600@plasterlodzki.pl
@@ -365,7 +404,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T163000
 DTEND;TZID=Europe/Warsaw:20261017T170000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20251209T190439Z
 LAST-MODIFIED:20260906T102659Z
 UID:10050798-1792254600-1792256400@plasterlodzki.pl
@@ -378,7 +417,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T180000
 DTEND;TZID=Europe/Warsaw:20261017T230000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20221118T094642Z
 LAST-MODIFIED:20260808T102358Z
 UID:10028805-1792260000-1792278000@plasterlodzki.pl
@@ -391,7 +430,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T190000
 DTEND;TZID=Europe/Warsaw:20261017T220000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20250822T141614Z
 LAST-MODIFIED:20260808T103321Z
 UID:10039505-1792263600-1792274400@plasterlodzki.pl
@@ -404,7 +443,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T190000
 DTEND;TZID=Europe/Warsaw:20261017T223000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20241209T133808Z
 LAST-MODIFIED:20260814T115929Z
 UID:10038545-1792263600-1792276200@plasterlodzki.pl
@@ -417,7 +456,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261017T200000
 DTEND;TZID=Europe/Warsaw:20261017T220000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20221202T185658Z
 LAST-MODIFIED:20260710T090351Z
 UID:10029170-1792267200-1792274400@plasterlodzki.pl
@@ -430,7 +469,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T110000
 DTEND;TZID=Europe/Warsaw:20261018T140000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20251209T190439Z
 LAST-MODIFIED:20260906T102659Z
 UID:10050799-1792321200-1792332000@plasterlodzki.pl
@@ -443,7 +482,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T180000
 DTEND;TZID=Europe/Warsaw:20261018T210000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20221118T131624Z
 LAST-MODIFIED:20260417T092913Z
 UID:10028927-1792346400-1792357200@plasterlodzki.pl
@@ -456,7 +495,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T190000
 DTEND;TZID=Europe/Warsaw:20261018T210000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20260426T113924Z
 LAST-MODIFIED:20260426T113924Z
 UID:10048256-1792350000-1792357200@plasterlodzki.pl
@@ -469,7 +508,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261018T190000
 DTEND;TZID=Europe/Warsaw:20261018T203000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20260321T101840Z
 LAST-MODIFIED:20260321T101840Z
 UID:10047535-1792350000-1792355400@plasterlodzki.pl
@@ -482,7 +521,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261021T190000
 DTEND;TZID=Europe/Warsaw:20261021T210000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20251221T123953Z
 LAST-MODIFIED:20260425T114734Z
 UID:10045048-1792609200-1792616400@plasterlodzki.pl
@@ -495,7 +534,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T180000
 DTEND;TZID=Europe/Warsaw:20261023T220000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20241223T124730Z
 LAST-MODIFIED:20260612T092233Z
 UID:10038732-1792778400-1792792800@plasterlodzki.pl
@@ -508,7 +547,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T183000
 DTEND;TZID=Europe/Warsaw:20261023T220000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20221202T211104Z
 LAST-MODIFIED:20260814T115943Z
 UID:10029260-1792780200-1792792800@plasterlodzki.pl
@@ -521,7 +560,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261023T200000
 DTEND;TZID=Europe/Warsaw:20261023T220000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20220609T162832Z
 LAST-MODIFIED:20260426T104337Z
 UID:10027971-1792785600-1792792800@plasterlodzki.pl
@@ -534,7 +573,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T180000
 DTEND;TZID=Europe/Warsaw:20261024T230000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20250717T091235Z
 LAST-MODIFIED:20260515T102128Z
 UID:10042438-1792864800-1792882800@plasterlodzki.pl
@@ -547,7 +586,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261024T190000
 DTEND;TZID=Europe/Warsaw:20261024T210000
-DTSTAMP:20261009T071704
+DTSTAMP:20261010T071704
 CREATED:20260426T111857Z
 LAST-MODIFIED:20260426T111857Z
 UID:10048243-1792868400-1792875600@plasterlodzki.pl
@@ -586,7 +625,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261104T193000
 DTEND;TZID=Europe/Warsaw:20261104T220000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20260501T090739Z
 LAST-MODIFIED:20260508T084725Z
 UID:10048367-1793820600-1793829600@plasterlodzki.pl
@@ -599,7 +638,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T190000
 DTEND;TZID=Europe/Warsaw:20261105T220000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20251017T112052Z
 LAST-MODIFIED:20260417T092533Z
 UID:10045046-1793905200-1793916000@plasterlodzki.pl
@@ -612,7 +651,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T190000
 DTEND;TZID=Europe/Warsaw:20261105T200000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20230810T121935Z
 LAST-MODIFIED:20260327T100818Z
 UID:10031593-1793905200-1793908800@plasterlodzki.pl
@@ -623,9 +662,22 @@ LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261105T200000
+DTEND;TZID=Europe/Warsaw:20261105T235900
+DTSTAMP:20261010T071705
+CREATED:20260717T124657Z
+LAST-MODIFIED:20261009T092953Z
+UID:10050365-1793908800-1793923140@plasterlodzki.pl
+SUMMARY:Nagrobki
+DESCRIPTION:Znany i lubiany zespół Nagrobki z okazji premiery swojej nowej „Zimnej Płyty” zaprasza na koncert. Bądźmy wtedy razem bo lekko nie jest. Bilety: https://biletomat.pl/wydarzenia/nagrobki-33846…
+URL:https://plasterlodzki.pl/wydarzenia/techno-showcase-wejscie-3/
+LOCATION:W3\, Struga 63\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261107T190000
 DTEND;TZID=Europe/Warsaw:20261107T210000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20251220T215953Z
 LAST-MODIFIED:20251220T215953Z
 UID:10045913-1794078000-1794085200@plasterlodzki.pl
@@ -638,7 +690,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261107T190000
 DTEND;TZID=Europe/Warsaw:20261107T235900
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20240530T220037Z
 LAST-MODIFIED:20260808T094016Z
 UID:10033225-1794078000-1794095940@plasterlodzki.pl
@@ -651,7 +703,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261108T180000
 DTEND;TZID=Europe/Warsaw:20261108T203000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20260426T095831Z
 LAST-MODIFIED:20260426T095913Z
 UID:10037465-1794160800-1794169800@plasterlodzki.pl
@@ -664,7 +716,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261108T180000
 DTEND;TZID=Europe/Warsaw:20261108T203000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20260426T113807Z
 LAST-MODIFIED:20260426T113807Z
 UID:10048254-1794160800-1794169800@plasterlodzki.pl
@@ -677,7 +729,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261108T200000
 DTEND;TZID=Europe/Warsaw:20261108T220000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20231218T133520Z
 LAST-MODIFIED:20260515T100659Z
 UID:10032379-1794168000-1794175200@plasterlodzki.pl
@@ -690,7 +742,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261108T203000
 DTEND;TZID=Europe/Warsaw:20261108T220000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20250717T091406Z
 LAST-MODIFIED:20260515T102103Z
 UID:10042441-1794169800-1794175200@plasterlodzki.pl
@@ -703,7 +755,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20260327T103840Z
 LAST-MODIFIED:20260327T103840Z
 UID:10047629-1794268800-1794355199@plasterlodzki.pl
@@ -716,7 +768,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T190000
 DTEND;TZID=Europe/Warsaw:20261112T200000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20251104T111356Z
 LAST-MODIFIED:20260304T205146Z
 UID:10045328-1794510000-1794513600@plasterlodzki.pl
@@ -729,7 +781,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T180000
 DTEND;TZID=Europe/Warsaw:20261114T203000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260724T100919Z
 UID:10050388-1794679200-1794688200@plasterlodzki.pl
@@ -740,9 +792,22 @@ LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T190000
+DTEND;TZID=Europe/Warsaw:20261114T235900
+DTSTAMP:20261010T071705
+CREATED:20250221T133941Z
+LAST-MODIFIED:20261009T090013Z
+UID:10042474-1794682800-1794700740@plasterlodzki.pl
+SUMMARY:Americana Night: Blues for Neighbors + Gypsy Bastard + Tomek Dyniak & All-American Dogs
+DESCRIPTION:Blues for NeighborsWrocławski duet poruszający się po zakurzonych bezdrożach gothic americany i death country. Grają razem w zasadzie od zawsze\, siedzą w kuchni\, palą papierosy i wywołują stare duchy dźwiękami mrocznego folku i bluesa.Lubią naturę\, wolność i chaos – i nie do końca lubią ludzkość. Ich utwory grane były w podcastach i stacjach radiowych w Polsce i za granicą\, choćby w Walii czy Argentynie\, a dotychczasowe albumy doczekały się wielu pozytywnych recenzji na całym świecie\, od Grecji po Nowy Jork.https://bluesfn.bandcamp.com/https://www.facebook.com/BluesFNig: blues.for.neighborshttps://www.youtube.com/watch?v=C44ZTNNK6rM\nGypsy BastardSongwriter przemierzający świat z banjo na plecach.Pochodzi z Będzina\, na wpół wymarłego miasta nad czarną rzeką. W jego żyłach płynie cygańska krew wędrownego muzyka\, a nad twórczością unosi się duch surowego bluesa z delty czy folku z Appalachów.Dark country\, folk noir\, akustyczny blues\, a to wszystko w surowym\, garażowym wydaniu. Tu nie ma miejsca na wypolerowane aranże i popisy wokalne. Jest pot\, kurz i piosenki. Piosenki o miłości i śmierci.https://www.facebook.com/GypsyBastardhttps://www.instagram.com/gypsy__bastardhttps://www.youtube.com/@gypsybastardhttps://open.spotify.com/artist/5vNhCEngxJOZJYRQz4KrLOhttps://gypsybastard.bandcamp.com\nTomek Dyniak & All-American Dogs„Zastanawialiście się jak brzmiałby Bob Dylan\, gdyby zamiast w Minnesocie urodził się w Łodzi? Być może właśnie tak\, jak na swojej debiutanckiej płycie wybrzmiewa Tomek Dyniak”. – Michał Kass\, „Twój Blues”\, nr 104\, wiosna 2026.Tomek Dyniak to gitarzysta\, wokalista i autor piosenek z Łodzi. Jego twórczość nawiązuje do tradycji songwriterskiej lat 60. i 70. XX wieku. Łączą się w niej wpływy bluesa\, folku\, country i rocka.Jego debiutancki album\, „Out of Sight”\, ukazał się 6 lutego 2026 roku nakładem wytwórni Flower Records. Na scenie będzie mu towarzyszył zespół All-American Dogs złożony ze znakomitych łódzkich muzyków.https://www.facebook.com/TomekDyniakmusichttps://www.youtube.com/@tomekdyniak6101https://tomekdyniak.bandcamp.com/album/out-of-sight
+URL:https://plasterlodzki.pl/wydarzenia/koncert-saksofonowy-jazz-swing-z-lat-20-30-2/
+LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T193000
 DTEND;TZID=Europe/Warsaw:20261114T220000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20221118T131025Z
 LAST-MODIFIED:20260821T120712Z
 UID:10028917-1794684600-1794693600@plasterlodzki.pl
@@ -755,7 +820,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T200000
 DTEND;TZID=Europe/Warsaw:20261114T220000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20251220T220026Z
 LAST-MODIFIED:20251220T220026Z
 UID:10045914-1794686400-1794693600@plasterlodzki.pl
@@ -766,9 +831,22 @@ LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261115T180000
+DTEND;TZID=Europe/Warsaw:20261115T210000
+DTSTAMP:20261010T071705
+CREATED:20251010T101717Z
+LAST-MODIFIED:20261009T091107Z
+UID:10042066-1794765600-1794776400@plasterlodzki.pl
+SUMMARY:Jesienny wieczór z gambijskim jazzem w Łodz
+DESCRIPTION:Gambian Acoustic JazzBuba Badjie Kuyateh & Sakung Jobarteh\nJesienny wieczór\, kameralna przestrzeń\, dwóch wybitnych muzyków i dźwięki\, które prowadzą prosto nas od wybrzeży Afryki Zachodniej po wieczorne kluby muzyczne Nowego Orleanu lat 30.\nW łódzkiej kawiarni podróżniczej spotkają się dwaj wirtuozowie swoich instrumentów i kuzyni\, potomkowie słynnego rodu gambijskich griotów – Buba Badjie Kuyateh oraz Sakung Jobarteh. Ich wspólny projekt Gambian Acoustic Jazz wyrasta z wielowiekowej tradycji\, ale pozostawia dużo miejsca na jazzową frazę i improwizację oraz rockowy riff.Buba\, mistrz kory i charyzmatyczny wokalista\, spotka się z Sakungiem\, wybitnym gitarzystą. Ich instrumenty staną się punktem wyjścia do muzycznej rozmowy zachwycającej publiczność szukającą czarujących\, klimatycznych koncertów.To spotkanie nastawione na atmosferę. Bez dużej sceny i dystansu.\nByć może\, jest to jedyna szansa\, by usłyszeć ten duet w tym wydaniu.Liczba miejsc w kawiarni jest ograniczona\, dlatego warto zarezerwować swoje miejsce wcześniej!Kupując swoją wejściówkę wspierasz kulturę i twórców. Bardzo za to dziękujemy! \nGambian Acoustic JazzBuba Badjie Kuyateh – kora\, wokalSakung Jobarteh – gitara semiakustyczna\n Tubylec Café\, Łódź Niedzielny wieczór\, 15 listopada\, 2026 18:00Rezerwacja biletów: https://zrzutka.pl/gacnrs\nSingiel Tungha: https://open.spotify.com/track/3v9IuPVlX57FxpUj3GJDN2…—————————–Buba Badjie Kuyateh\nWirtuoz kory\, kompozytor i charyzmatyczny wokalista. Urodził się w Gambii\, wśród cenionych griotów\, mistrzów muzyki i strażników tradycji Afryki Zachodniej. Pochodzi z rodziny legendarnego mistrza kory Alhagi Bai Konteh\, którego dziedzictwo wpłynęło na kolejne pokolenia muzyków grających na tym instrumencie na całym świecie. W 2012 roku Buba wyjechał do Europy\, gdzie rozpoczął międzynarodową\, solową karierę. Na swój dom wybrał Polskę i ukochał z wzajemnością obecną tu scenę muzyczną. Regularnie współpracuje z wybitnymi muzykami\, takimi jak Maria Pomianowska\, Marcin Masecki czy Włodzimierz Kiniorski. Przez 10 lat tworzył muzyczny duet ze Stanisławem Soyką\, z którym w 2017 roku wydał album Action Direct Tales. Jego koncerty są pokazem kunsztu tradycji i improwizacji jazzowych\, przy jednocześnie niezwykłym kontakcie z publicznością.\nSakung Jobarteh\nMistrz gitary akustycznej. Pochodzi z legendarnej\, muzycznej rodziny gambijskich griotów\, jest bratem Dawdy Jobarteha\, mieszkającego w Danii i wujem Sony Jobarteh – wybitnych korzystów.Muzyka i tradycja griotów są częścią jego rodzinnego dziedzictwa\, które Sakung od dziesięcioleci łączy ze skandynawskim stylem muzycznym.Mieszka w Norwegii ponad 30 lat. Tam rozwija swoją solową karierę muzyczną. Ze swoim zespołem koncertuje w całej Europie.Dziś muzyczna droga ponownie łączy go z kuzynem\, Bubą Badjie Kuyateh. Artyści spotykają się w projekcie Gambian Acoustic Jazz\, w którym wybrzmiewają ujmujące solówki\, ciepły wokal i koktajl jazzowej improwizacji z zachodnioafrykańską tradycją.\nNie przegap tego spotkania! Do zobaczenia w Łodzi
+URL:https://plasterlodzki.pl/wydarzenia/nepal-solisci-roadshow-2024-prelekcje-podroznicze-2/
+LOCATION:Tubylec\, Retkińska 70\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T200000
 DTEND;TZID=Europe/Warsaw:20261115T213000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20260426T100345Z
 LAST-MODIFIED:20260426T100345Z
 UID:10048173-1794772800-1794778200@plasterlodzki.pl
@@ -781,7 +859,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20260327T103907Z
 LAST-MODIFIED:20260327T103907Z
 UID:10047630-1794960000-1795046399@plasterlodzki.pl
@@ -794,7 +872,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T193000
 DTEND;TZID=Europe/Warsaw:20261118T220000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20260501T090739Z
 LAST-MODIFIED:20260508T084725Z
 UID:10048368-1795030200-1795039200@plasterlodzki.pl
@@ -807,7 +885,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T200000
 DTEND;TZID=Europe/Warsaw:20261119T210000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20250717T091034Z
 LAST-MODIFIED:20260717T131546Z
 UID:10042434-1795118400-1795122000@plasterlodzki.pl
@@ -820,7 +898,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T193000
 DTEND;TZID=Europe/Warsaw:20261120T213000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20240411T163851Z
 LAST-MODIFIED:20260821T120824Z
 UID:10032898-1795203000-1795210200@plasterlodzki.pl
@@ -833,7 +911,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T200000
 DTEND;TZID=Europe/Warsaw:20261120T210000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20250908T124803Z
 LAST-MODIFIED:20260603T100452Z
 UID:10043089-1795204800-1795208400@plasterlodzki.pl
@@ -846,7 +924,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T200000
 DTEND;TZID=Europe/Warsaw:20261120T220000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20230317T142655Z
 LAST-MODIFIED:20260814T115821Z
 UID:10030464-1795204800-1795212000@plasterlodzki.pl
@@ -859,7 +937,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T190000
 DTEND;TZID=Europe/Warsaw:20261121T210000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20230929T113730Z
 LAST-MODIFIED:20260612T091725Z
 UID:10031829-1795287600-1795294800@plasterlodzki.pl
@@ -872,7 +950,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T190000
 DTEND;TZID=Europe/Warsaw:20261123T210000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20260426T102721Z
 LAST-MODIFIED:20260426T102721Z
 UID:10048203-1795460400-1795467600@plasterlodzki.pl
@@ -885,7 +963,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T193000
 DTEND;TZID=Europe/Warsaw:20261125T220000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20260501T090739Z
 LAST-MODIFIED:20260508T084725Z
 UID:10048369-1795635000-1795644000@plasterlodzki.pl
@@ -898,7 +976,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T193000
 DTEND;TZID=Europe/Warsaw:20261126T210000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20251220T215855Z
 LAST-MODIFIED:20260821T124303Z
 UID:10045911-1795721400-1795726800@plasterlodzki.pl
@@ -911,7 +989,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20260327T103938Z
 LAST-MODIFIED:20260327T103938Z
 UID:10047631-1795737600-1795823999@plasterlodzki.pl
@@ -924,7 +1002,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261127T190000
 DTEND;TZID=Europe/Warsaw:20261127T230000
-DTSTAMP:20261009T071705
+DTSTAMP:20261010T071705
 CREATED:20260321T110538Z
 LAST-MODIFIED:20260321T110538Z
 UID:10047578-1795806000-1795820400@plasterlodzki.pl
@@ -932,45 +1010,6 @@ SUMMARY:ILLUSION\, HOSTIA\, IRON HEAD
 DESCRIPTION:Ta trasa to spotkanie zespołów\, które łączy jedno: na scenie nie biorą jeńców.\nILLUSION przyjeżdża z repertuarem\, który od lat działa na żywo i sprawia\, że pod sceną zawsze robi się tłoczno.\nHostia wnosi do tego zestawu swój charakterystyczny\, bezlitosny grindcore – szybki\, agresywny\, ale z groove’em\, który potrafi rozbujać cały klub.\nIron Head pokazuje z kolei młodszą twarz ciężkiego grania\, łącząc metalcore z klasycznym hard’n’heavy i bardzo mocnymi wokalami.\nRazem daje to koncertowy wieczór\, w którym ciężkie riffy\, tempo i energia będą się tylko nakręcać z każdym kolejnym utworem.\nŁódź – 27.11.2026 r Klub Scenografia\, ul. Zachodnia 81/83\nOtwarcie wejść: 18:00 Start: 19:00\nBilety przedsprzedaż pierwsza pula 99 zł\, druga pula 120 zł w dniu koncertu 130 zł\nBilety do nabycia:\nOd Organizatora https://www.galicja.net/pl/tickets/646317\nTicketmaster https://www.ticketmaster.pl/artist/illusion-bilety/992767\nEbilet https://www.ebilet.pl/muzyka/hard-heavy/illusion…\nKupBilecik https://www.kupbilecik.pl/…/%C5%81%C3%B3d%C5%BA/Illusion/\nBiletyna https://bilety.io/Da3q9\nwięcej o trasie www.galicja.net
 URL:https://plasterlodzki.pl/wydarzenia/illusion-hostia-iron-head/
 LOCATION:Klub Scenografia\, Zachodnia 81/83\, Łódź\, łódzkie\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261128T180000
-DTEND;TZID=Europe/Warsaw:20261128T230000
-DTSTAMP:20261009T071705
-CREATED:20221202T211348Z
-LAST-MODIFIED:20260808T094035Z
-UID:10029266-1795888800-1795906800@plasterlodzki.pl
-SUMMARY:Ritual of Lament: SYMBOLICAL VOMITVSANCTVS ASHUR HELLROSE
-DESCRIPTION:Symbolical to deathmetalowy zespół wywodzący się z Tomaszowa Mazowieckiego\, powstały z inicjatywy Karola Goździka. Formacja od lat konsekwentnie buduje własne muzyczne uniwersum\, łącząc ciężkie\, bezkompromisowe brzmienie z mroczną\, filozoficzną i apokaliptyczną narracją.\nTwórczość Symbolical opiera się na rozbudowanej koncepcji\, w której kolejne albumy i wydawnictwa tworzą spójną\, wielowymiarową opowieść inspirowaną m.in. mitologią Williama Blake’a\, motywami chaosu\, upadku\, duchowego zniewolenia i walki o resztki człowieczeństwa.\nZespół ma na swoim koncie liczne koncerty zagrane w Polsce oraz kilka wydawnictw studyjnych\, a jego muzyka łączy brutalność death metalu z atmosferą\, teatralnością i wyrazistą warstwą koncepcyjną.\nKoncert w Szczecinie odbędzie się w ramach Lament Tour — trasy promującej nadchodzący album „Lament”\, który ukaże się po wakacjach. Nowy materiał stanowi kolejny rozdział w historii Symbolical i rozwija dotychczasową wizję zespołu w jeszcze bardziej mrocznym\, intensywnym i monumentalnym kierunku.\nSkład Symbolical to:Cymer – Vocal & GuitarLukas – BassHoffman – GuitarDaray – DrumsClawdia – Back vocals & Screams\n\n Sprawdź daty koncertów i bądź częścią tej podróży!FB: https://www.facebook.com/SymbolicalofficialYT: https://www.youtube.com/@symbolicalofficialIN: https://www.instagram.com/symbolicalofficial\nshop: https://www.symbolical-store.pl\nTeledyski SYMBOLICAL:Natura EP: https://www.youtube.com/watch?v=hO59-ub8VnQ…The Universe: https://www.youtube.com/watch?v=10Y5ZsG9mQ0CiA full album: https://www.youtube.com/watch?v=Oj9tDbDl6B0&t=1821sHfA: https://www.youtube.com/watch?v=fmSR2nheVrw…
-URL:https://plasterlodzki.pl/wydarzenia/parahuman-tankograd-frantic-beth/
-LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261128T190000
-DTEND;TZID=Europe/Warsaw:20261128T235900
-DTSTAMP:20261009T071705
-CREATED:20230127T103857Z
-LAST-MODIFIED:20260327T100402Z
-UID:10029959-1795892400-1795910340@plasterlodzki.pl
-SUMMARY:Wojtek Szumański
-DESCRIPTION:Bajki o życiu i śmierci to jesienna trasa koncertowa Wojtka Szumańskiego.\nW programie utwory znane oraz nowe\, które ukażą się w 2026 roku. Piosenki Wojtka opowiadają o sprawach prostych i ostatecznych jednocześnie: o życiu\, śmierci\, bliskości\, pogubieniu i codziennych emocjach. O rzeczach trudnych lekko\, a o lekkich – zaskakująco serio.\nKoncerty Wojtka Szumańskiego słyną z intensywnej atmosfery i bliskiego kontaktu z publicznością – szybko zamieniają się we wspólne przeżycie. Zeszłoroczna „Trasa Jesień ’25” niemal w całości została wyprzedana\, w tym m.in. warszawski Klub Stodoła. Wojtek jest także laureatem nagrody Złotego Bączka\, która umożliwiła mu występ na Dużej Scenie Pol’and’Rock Festival.\n18:00 – otwarcie bram19:00 – start koncertu\nBilety:I pula – 89\,99 złII pula – 99\,99 zł
-URL:https://plasterlodzki.pl/wydarzenia/house-carnival-edition/
-LOCATION:Klub Scenografia\, Zachodnia 81/83\, Łódź\, łódzkie\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261128T200000
-DTEND;TZID=Europe/Warsaw:20261128T210000
-DTSTAMP:20261009T071705
-CREATED:20250717T091107Z
-LAST-MODIFIED:20260522T124128Z
-UID:10042435-1795896000-1795899600@plasterlodzki.pl
-SUMMARY:Zakopower XX MIUOSH trasa 2026
-DESCRIPTION:Dwie muzyczne indywidualności\, jeden wspólny mianownik: fascynacja ludowością. W 2026 roku\, z okazji XX-lecia zespołu Zakopower\, doczekamy się projektu\, który ujmuje dotychczasowe dokonania zespołu w zupełnie nowej perspektywie. Miuosh – wizjoner i mistrz produkcji – wziął na warsztat najważniejsze utwory grupy\, by wyciągnąć z nich to\, co najbardziej pierwotne i ubrać je w kolaż brzmień miasta i naszych korzeni. To nie będzie zwykły jubileusz. To dźwiękowa podróż na skalne Podhale\, odbywająca się w otoczeniu brzmień analogowych syntezatorów\, sampli czy góralski chórów\, przy asyście zaproszonych specjalnie do tego projektu muzyków\, którzy jeszcze z Zakopower nie występowali. \nDla Miuosha to coś nowego – kierunek\, w którym jeszcze nie podążał. Pasjonująca podróż w głąb jednej z najciekawszych tradycji naszego kontynentu\, w asyście najlepszych możliwych przewodników.
-URL:https://plasterlodzki.pl/wydarzenia/paris-the-show/
-LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 END:VCALENDAR
