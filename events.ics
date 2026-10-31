@@ -688,9 +688,22 @@ LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261031T190000
+DTEND;TZID=Europe/Warsaw:20261031T223000
+DTSTAMP:20261031T071704
+CREATED:20221202T211245Z
+LAST-MODIFIED:20261030T144015Z
+UID:10029264-1793473200-1793485800@plasterlodzki.pl
+SUMMARY:Dziwna Wiosna
+DESCRIPTION:Dziwna Wiosna | 31.10.2026 | Łódź | Wooltura\nWejście: 19:00Koncert: 20:00\n Bilety:80 zł – przedsprzedaż90 zł – w dniu koncertu online90 zł – w dniu koncertu na bramce\nDziwna Wiosna – warszawsko-trójmiejskie trio grające brudne i piękne rockowe piosenkiKosmonauci rock and rolla\, nominowani do Fryderyka za wydany w 2021 roku debiutancki album „Dziwna Wiosna”\, jesienią 2023 wrócili z nową\, jeszcze bardziej dziwnowiosenną płytą „DUCHY.DISCO”.\nOkrzyknięte jednym z najlepszych zespołów koncertowych w Polsce kosmiczne trio gra piosenki o miłości i końcu świata\, o nadziei i samotności\, o bliskości i tym\, że czasem chcesz podłożyć bombę pod wszystko i zrobić *^$^&. Dziwna Wiosna jest między ciszą i wrzaskiem\, między pięknem i brudem\, między przebojowymi refrenami i hipnotyzującymi improwizacjami. Dziwna Wiosna śpiewa o duchach i gra z duchami. Myśl: grunge\, rock and roll\, impro\, melodia\, kosmos\, smutek\, duchy\, nadzieja. I Jimi Hendrix.\nBilety w sprzedaży na eBilet:https://sklep.ebilet.pl/523261981705109551
+URL:https://plasterlodzki.pl/wydarzenia/ewelina-flinta/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261031T200000
 DTEND;TZID=Europe/Warsaw:20261031T220000
-DTSTAMP:20261030T071704
+DTSTAMP:20261031T071704
 CREATED:20250606T102805Z
 LAST-MODIFIED:20260515T100823Z
 UID:10041355-1793476800-1793484000@plasterlodzki.pl
@@ -703,7 +716,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261031T200000
 DTEND;TZID=Europe/Warsaw:20261031T210000
-DTSTAMP:20261030T071704
+DTSTAMP:20261031T071704
 CREATED:20250717T090926Z
 LAST-MODIFIED:20260717T131531Z
 UID:10042432-1793476800-1793480400@plasterlodzki.pl
@@ -714,22 +727,113 @@ LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261104T193000
+DTSTART;TZID=Europe/Warsaw:20261031T200000
+DTEND;TZID=Europe/Warsaw:20261031T213000
+DTSTAMP:20261031T071704
+CREATED:20221202T185235Z
+LAST-MODIFIED:20261030T104737Z
+UID:10029161-1793476800-1793482200@plasterlodzki.pl
+SUMMARY:Samhain z Jig Reel Maniacs
+DESCRIPTION:31 października zapraszamy na trzydzieste pierwsze świąteczne spotkanie z 36-letnim zespołem Jig Reel Maniacs!JAKIE TO ŚWIĘTO?Dawny kalendarz celtycki dzieli rok na dwie części zimową (ciemną) i letnią (jasną). W nocy z 31 października na 1 listopada przypada najważniejsze ze świąt: Samhain – Nowy Rok\, Święto Przodków. Nazwa pochodzi z języków staroceltyckich\, w tłumaczeniu: listopad.Powitamy zatem listopad – Samhain (wymowa: sałyn)Według Celtów doba zaczyna się o zmierzchu. Słońce znikając na zachodzie\, rozpoczyna dzień w świecie zmarłych. Wieczór poprzedzający to święto jest ważniejszy od dnia. Świętowanie rozpoczniemy wygaszeniem wszystkich ogni i świateł\, a następnie ich ponownym rozpaleniem\, co w świętych miejscach czynią druidowie (celtyccy kapłani). To z tych miejsc przeciętny człowiek zabiera magiczny ogień i zanosi go do domu. Jego płomień ma mieć oczyszczającą i ochronną moc. Przygotowuje ludzi i zwierzęta na trudny czas roku. Mamy nadzieję\, że uczestnicy koncertu będę pięknie pląsać i zabiorą ze sobą do domów czystą i bezpieczną energię muzyki.Od tego święta wywodzi się Halloween\, słowiańskie Dziady\, a także schrystianizowane Święto Zmarłych. Dlatego celebrujmy Samhain! Ubierzmy się wesoło i magicznie\, z dystansem i dynamicznie. Niech nas ozdobią duchowe stroje oraz kolorowe makijaże!Tytuł koncertu / imprezy:„Halloween Party”W programie:3 sety żywej\, żywotnej i żywiołowej muzyki Restauracja Tawerna Keja w Łodzi przy ul. Kopernika 4631 października 2026\, sobotabrama: 19:00start: 20:00BILETY w cenie 55 złprzedsprzedaż online do 1.10.2026Kupbilecik.pl\nhttps://www.kupbilecik.pl/…/%C5%81%C3…/Jig+Reel+Maniacs/\nBiletyna.pl\nhttps://bilety.io/67Lyd\nbezpośredni link pod przyciskiem ZNAJDŹ BILETYdostępne również w przedsprzedaży stacjonarnie w Tawernie:rezerwacje pod nr tel. +48-609-152-420 i zakup biletów w pubieJig Reel Maniacs to trzydziestosześcioletnia formacja\, inspirująca się muzyką irlandzką i szkocką\, łącząca tradycyjne celtyckie nuty ze zróżnicowanymi aranżacjami\, nawiązującymi do wielu trendów muzycznych; grupa instrumentalistów\, która świadomie i z doświadczeniem\, prezentuje różnorodne i ciekawe brzmienia\, oparte na bogatym instrumentarium.Obok wiodących klimatów irlandzkich i szkockich w repertuarze grupy nie brakuje pierwiastków walijskich i bretońskich oraz muzycznych smaków z tzw. nurtu World Music.Sekstet Jigowo Reelowi Maniacy porusza się swobodnie od tradycyjnych – poprzez popowe\, rockowe\, reggae’owe\, funkowe – do modernistycznych interpretacji standardów celtyckich oraz kompozycji własnych\, które okrasza improwizacjami. W dwóch słowach: Celtic fusion.Skład Jig Reel Maniacs:Michał Mazur– dudy\, flażolety (low/high whistles)\, didgeridooAleksander Brych– celtycki flet drewniany poprzeczny\, hulusiMichał Jankowski– gitara akustycznaFilip Wyrwa– perkusja\, instrumenty perkusyjneWioletta Giedziun– skrzypceMariusz Sprutta– gitary basowe\, śpiew\, lilting\, wokalizy\, świąteczne teksty i toastyVIDEOMuzyka z tańcem ku inspiracji widzów nastawionych na zabawę taneczną – koncertowe brzmienie:https://youtu.be/FAiCwX3Ilv8W klubie – jig z pierwiastkami rocka progresywnego:https://youtu.be/uwUiza5b3h4Nagranie zdalne\, zrealizowane w czasie pandemii – reel z pięknymi solówkami skrzypiec i gitary:https://youtu.be/AQfut32w4aYWięcej o Jig Reel Maniacs:https://jrm-jig-reel-maniacs.plZapraszamy\, do zobaczenia\, usłyszenia i świętowania w łódzkiej przystani artystyczne restauracji Tawerny Keja
+URL:https://plasterlodzki.pl/wydarzenia/szantowo-i-zabawowo-wigilia-z-zespolem-meski-punkt-widzenia/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261031T203000
+DTEND;TZID=Europe/Warsaw:20261031T220000
+DTSTAMP:20261031T071704
+CREATED:20261030T150244Z
+LAST-MODIFIED:20261030T150244Z
+UID:10051196-1793478600-1793484000@plasterlodzki.pl
+SUMMARY:Fontaines D.C.
+DESCRIPTION:Fontaines D.C. na koncercie w Polsce! Irlandzka grupa o mocnych post punkowych korzeniach\, twórcy świetnie przyjętych płyt w tym fenomenalnego „Romance” wystąpią 31 października w łódzkiej Atlas Arenie\, aby promować swój nowy album „Dopamine Chamber”! \n➡️ Limitowana przedsprzedaż Alter Art rozpocznie się 2.09 o 11:00. Chcesz wziąć udział w przedsprzedaży? Zapisz się do newslettera Alter Art do końca 1 września: www.alterart.pl/newsletter. W dniu jej rozpoczęcia wyślemy do Ciebie specjalny dostęp. \n➡️ Otwarta sprzedaż biletów startuje 3 września o 11:00 \nFontaines D.C. ogłosili 28 sierpnia ’26 swoją największą dotychczasową trasę koncertową\, która tej jesieni obejmie dwadzieścia koncertów halowych w całej Europie i Wielkiej Brytanii. Trasa rozpocznie się 21 października w Lizbonie – pięć dni po premierze ich piątego albumu Dopamine Chamber – a zakończy 27 listopada w londyńskiej O2 Arenie. Ogłoszenie to ma miejsce tuż przed serią wystąpień w roli headlinera na festiwalach – Reading Festival\, Leeds Festival i Electric Picnic. \nOgólna sprzedaż biletów rusza w czwartek 3 września o godzinie 10:00 BST / 11:00 CEST na stronie https://fontainesdc.com/pages/live. Przedsprzedaż rozpoczyna się we wtorek 1 września o godzinie 10:00 BST / 11:00 CEST. Fani\, którzy zamówią album Dopamine Chamber w przedsprzedaży w oficjalnym sklepie do poniedziałku 31 sierpnia do godziny 18:00 BST\, otrzymają dostęp do brytyjskiej przedsprzedaży. Aby uzyskać dostęp do przedsprzedaży na koncerty w UE\, należy zarejestrować się tutaj do poniedziałku 31 sierpnia do godziny 18:00 BST. \nFontaines D.C. – tworzony przez Griana Chattena\, Carlosa O’Connella\, Conora Curleya\, Conora Deegana i Toma Colla – wyda 16 października swój piąty album noszący tytuł Dopamine Chamber (nakładem XL Recordings). Za produkcję odpowiada James Ford. \nPłyta jest następcą wydanego w 2024 roku albumu Romance\, który w Wielkiej Brytanii zdobył status platyny. Nowy materiał wyraźnie odcina się od surowego\, gitarowego brzmienia z pierwszych lat kariery zespołu na rzecz najbardziej zmysłowych i wciągających kompozycji\, jakie do tej pory stworzyli. \nPierwszym singlem promującym wydawnictwo jest utwór „Marianne”. Cały album łączy w sobie mocne ballady z wpadającymi w ucho\, podniosłymi melodiami\, które wyłaniają się z mrocznej atmosfery. Płyta porusza temat szukania przyjemności w świecie zmierzającym ku kryzysowi i pyta\, co to poszukiwanie mówi o nas samych. Jak podsumowuje wokalista Grian Chatten: „Ten album działa jak tytułowa komora dopaminowa. Wchodzisz do środka\, a my testujemy na Tobie utwory\, które mają zmieniać Twój nastroj i stan umysłu.” \nFontaines D.C. nigdy nie nagrywają dwa razy tego samego. Przez pięć albumów stale się rozwijali – zaczynając od Dogrel (2019) i A Hero’s Death (2020)\, przez hitowe Skinty Fia (2022)\, które zdobyło 1. miejsce na listach w Wielkiej Brytanii i Irlandii\, aż po szalone\, wielobarwne Romance (2024). \nDopamine Chamber to ich najbardziej odważna i zaskakująca zmiana. Zespół nagrywał płytę z producentem Jamesem Fordem w Londynie\, na angielskiej wsi oraz w Palermo – gdzie wokalista Grian Chatten śpiewał w improwizowanej kabinie zrobionej z poduszek i materacy. \nJak wyjaśnia Chatten: „Mam silne poczucie\, że stoimy na progu zupełnie nowego etapu – nowej formy tego\, co znaczy być człowiekiem.” \nNa swoim piątym albumie Fontaines D.C. stworzyli własną „komorę”. To\, jak wpłynie ona na słuchacza\, będzie głównym eksperymentem. \nFontaines D.C. wspierają organizację War Child UK. 1 € z każdego sprzedanego biletu (po odliczeniu odpowiednich podatków) pomoże organizacji War Child chronić\, edukować i bronić praw dzieci dotkniętych wojną.
+URL:https://plasterlodzki.pl/wydarzenia/fontaines-d-c/
+LOCATION:Atlas Arena\, Bandurskiego 7\, Łódź\, łódzkie\, 94-020\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261031T210000
+DTEND;TZID=Europe/Warsaw:20261031T233000
+DTSTAMP:20261031T071704
+CREATED:20250703T170129Z
+LAST-MODIFIED:20261030T102746Z
+UID:10040646-1793480400-1793489400@plasterlodzki.pl
+SUMMARY:KONCERT BANDAŻ ELASTYCZNY / HALLOWEEN
+DESCRIPTION:Tradycyjnie\, jak co roku!\nBandaż elastyczny zagra na naszej scenie w Halloween!  (31.10.26)\nDrzwi konia standardowo otwarte od godziny 17:00Show rozpocznie się o godzinie 21:00WJAZD – 20zł
+URL:https://plasterlodzki.pl/wydarzenia/danny-boy-experience-2-2/
+LOCATION:Iron Horse\, Tuwima 16 / róg Sienkiewicza\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261102T190000
+DTEND;TZID=Europe/Warsaw:20261102T210000
+DTSTAMP:20261031T071705
+CREATED:20261030T092650Z
+LAST-MODIFIED:20261030T092650Z
+UID:10050983-1793646000-1793653200@plasterlodzki.pl
+SUMMARY:First Hand vol.2-6
+DESCRIPTION:First Hand jest serią koncertów poświęconych głównie muzyce swobodnie improwizowanej. Jest to przestrzeń dla muzyków w trasach koncertowych. Nazwa jest inspirowana miejscem Lumpart\, łódzkim seceondhandem odzieżowym\, który stał się zarzewiem dla pomysłu stworzenia cyklu koncertowego właśnie dla tej przestrzeni. W międzyczasie plan trochę ewoluował i koncerty odbędą się w Lumparcie\, MSK Chojny i Ciągoty i Tęsknoty. First Hand oznacza muzykę „z pierwszej ręki’\, kreowaną w czasie rzeczywistym przez występujących muzyków. Prowadzącym serię jest Paweł Sokołowski z Musica Privata.\n A oto plan ( bardziej szczegółowe informacje o artystach jeszcze niżej):\n 2.11.2026\, First Hand vol.2: TOC & Paulina Owczarek Lumpart\, ul. Kościuszki 36\, godz. 19:00\nPaulina Owczarek: saksofony [PL] / Jérémie Ternoy: Fender Rhodes\, Piano Bass [FR]Ivann Cruz: gitara elektryczna [FR] / Peter Orins: perkusja [FR]\nhttps://tourdebras.bandcamp.com/album/psychedelic-jelly\nwstęp: 40 zł————————————————————– 3.11.2026\, First Hand vol.3 Witold Oleszak [PL] / Ksawery Wójciński / P.o. Jørgensen [DK]Peter Ole Jørgensen – perkusja\, Witold Oleszak – fortepian\, Ksawery Wójciński – kontrabas\n19:00\, MSK Chojny\, ul. Lokatorska 13\nwstęp: 40 zł\n—————————————————————\n 8.11.2026 First Hand vol.4 John Edwards [ENG] / Luís Vicente [PRT] / Vasco Trilla [ESP]John Edwards – kontrabas\, Luis Vincente – trąbka\, Vasco Trilla – perkusja\n19:00\, Ciągoty i Tęsknoty\, Al. Wojska Polskiego 144a\, godz 19:00\nhttps://sluchaj.bandcamp.com/album/choreography-of-fractures\nhttps://www.youtube.com/watch?v=qkJzKVj6sC4…\nwstęp: 50 zł\n—————————————————————-\n18.11.2026\, First Hand vol.5 WCIASLumpart\, ul. Kościuszki 36\, godz. 19:00\nKarol Majerowski [PL]— dudy wielkopolskie\, trąbka\, śpiewFilip Majerowski [PL]— puzon\, tuba\, sakshorn tenorowy\, corno\, trąbka\, śpiew\nhttps://wcias.bandcamp.com/album/wiwatyhttps://youtu.be/Bft65fWoXpc?si=xSL5de8aACvkmjkO\nwstęp: 40 zł\n—————————————————————\n24.11.2026\, First Hand vol.6 Håkon Berre [NOR] / Martin Küchen [SWE] duoLumpart\, ul. Kościuszki 36\, godz. 19:00\nHåkon Berre – perkusja/obiekty\, Martin Küchen – saksofonhttps://barefootrecords.bandcamp.com/album/p-snurr\nwstęp: 40 zł\n—————————————————————-\n TOC to francuskie jazz-core trio powstało w 2008 roku. Grając gęsto i organicznie\, nie stroniąc od transu i radosnych\, wpadających w ucho elementów\, TOC tworzy energiczną muzykę improwizowaną. Trio miesza noise\, post-rock\, psychodeliczny\, eksperymentalny pop\, kraut i jazz hardcore\, wymykając się klasyfikacjom i zabierając słuchaczy w zupełnie nieoczekiwane miejsca.\nTOC uwielbia spotkania. I saksofonistów. Wraz z saksofonistką Pauliną Owczarek trio tworzy muzykę złożoną z desynchronizowanych warstw surowej energii\, w której rytmy są zarówno sugerowane\, jak i sugestywne. Eksplorując autonomiczny puls i struktury czasowe\, muzycy w naturalny sposób zbliżają się do siebie\, a saksofon płynnie odnajduje swoje miejsce w improwizowanym krautrockowym wirze Toc\, w którym można nawet dostrzec kilka psychodelicznych morskich stworów\, naleśnikowe ośmiornice i liriaste gąbki.Często spotykając się między Polską a Francją\, czwórka artystów wykorzystuje każdą okazję\, by pogłębiać swoją muzyczną więź\, tak jak w pewną grudniową sobotę 2023 roku\, kiedy nagrali na żywo przed publicznością pierwszy wspólny album.————————————————————-\n Witold Oleszak – od roku 2003\, jako muzyk-improwizator\, konsekwentnie rozwija własną metodę twórczą „Muzyka Prefabrykowana” (Pre-Fab Music System). Najczęściej gra na fortepianie i fortepianie preparowanym\, instrumentach własnej konstrukcji oraz na dowolnych instrumentach zepsutych i na krawędzi ruiny. Obecnie skupia się na tworzeniu muzyki swobodnie improwizowanej. Zarówno w muzyce\, jak i w życiu\, fascynuje go wszystko\, co jest niejednoznaczne i niedookreślone. Jako wykonawca najbardziej ceni sobie współpracę z improwizującymi perkusistami\, z których – poprzez przyjaźń i wieloletnią kooperację – największy wpływ wywarł na niego Roger Turner\, nestor brytyjskich improwizatorów. Na scenie najlepiej czuje się w duecie\, który uważa za najbardziej wymagającą formę interakcji.\nhttps://adamgolebiewski.bandcamp.com/album/unisex\nPeter Ole Jørgensen – urodzony w 1958 roku w Sorgenfri (Dania) – duński kompozytor i multiperkusjonista\, który samodzielnie buduje swoje instrumenty. W wieku zaledwie 16 lat\, w 1974 roku\, rozpoczął współpracę z Johnem Tchicai. Założył grupę punk-jazzową Cockpit Music w 1978 roku oraz wielokulturowy zespół Global Guaranty Orchestra w 1983 roku. Oba zespoły działają do dziś. Wystąpił na ponad 60 albumach (LP/CD)\, w tym z własnymi zespołami: Kaptajn Ørentvist\, Global Guaranty Orchestra\, Cockpit Music\, The Wild Mans Band (z Peterem Brötzmannem)\, Torden Kvartetten (z Matsem Gustafssonem)\, Sweethearts in a Drugstore\, Volume\, Mokuto (z Herbem Robertsonem)\, Ghost in The Machine (z Evanem Parkerem)\, a także z Davidem Thomasem w projektach David Thomas & Foreigners oraz David Thomas & P.O. Jørgens\, który wydał album Live Free Or Die w 2017 roku. Założył wytwórnię Ninth World Music w 1983 roku i w tym samym roku zbudował pierwsze studio Ninth World Studio w Elsynorze. Studio zostało przeniesione do Humlebæk w 1994 roku\, gdzie nadal działa na starej farmie.\nhttps://pojorgens.comhttps://www.youtube.com/results…\nKSAWERY WÓJCIŃSKIurodził się w 1983 roku i jest jednym z najbardziej rozchwytywanych kontrabasistów jazzowych na polskiej scenie. Prezentuje się słuchaczom w najróżniejszych odsłonach i stylistykach\, począwszy od jazzu w jego przystępnym wydaniu\, poprzez awangardę\, aż po polską muzykę ludową. Dzięki lekkości\, swobodzie i muzycznej erudycji\, za sprawą której odnajduje się w różnych gatunkach\, Wójciński jest kontrabasistą tak interesującym i nietuzinkowym. Wójciński stał się jedną z najlepiej rozpoznawalnych postaci polskiego jazzu m.in. dzięki regularnym koncertom w warszawskim klubie Pardon\, To Tu\, w którym kontrabasista występował z takimi formacjami jak Hera lub Charles Gayle Trio\, w duecie z trębaczem Wojciechem Jachną czy solo. Wójciński współpracował już z takimi twórcami jak m.in. amerykański pianista Uri Caine\, saksofonista Charles Gayle\, a także z Michaelem Zerangiem\, Nicole Mitchell czy Marco Eneidim. Występował i nagrywał również z polskimi twórcami\, takimi jak Mikołaj Trzaska\, Raphael Rogiński\, Wacław Zimpel czy grupy Emergency i Hera. Wraz ze śpiewaczką Maniuchą Bikont kontrabasista tworzy duet Maniucha i Ksawery\, wykonujący muzykę tradycyjną.https://www.youtube.com/watch?v=Gs96CX1B3Echttps://antennanongrata.bandcamp.com/…/ksawery-w-jci…\n—————————————————————\nJohn Edwards\, Luis Vincente\, Vasco Trilla to wybitni przedstawiciele europejskiej sceny muzyki improwizowanej. Połączenie sceny brytyjskiej i iberyjskiej. Każdy z tych muzyków niesie ze sobą potężną historię aktualnej muzyki improwizowanej\, dziesiątki\, a nawet setki nagrań\, tysiące koncertów w przeróżnych konfiguracjach. Dorobek wszystkich członków trio z osobna zasługuje na głębokie badanie z odsłuchami (do czego zachęcamy). Na szczególne wyróżnienie w tym gronie zasługuje weteran świata improwizacji\, londyński kontrabasista John Edwards\, który nie tylko może poszczycić się tym\, że przez dekady grał z wieloma legendarnymi improwizatorami\, co sam do nich należy.\nTrio tworzone przez Luísa Vicente\, Johna Edwardsa i Vasco Trillę łączy twórczą energię free jazzu z dbałością o detal i wrażliwością typową dla wolnej improwizacji. Zespół powstał w wyniku serii koncertów w Portugalii\, stanowiąc kontynuację wcześniejszej współpracy Vicente i Trilli\, udokumentowanej na albumach *A Brighter Side of Darkness* oraz *Made of Mist*. Portugalski trębacz Luís Vicente wnosi do grupy wyrazisty styl kompozytorski i bogate doświadczenie międzynarodowe. Brytyjski kontrabasista John Edwards poszerza możliwości swojego instrumentu dzięki niezwykłej technice i wyobraźni. Vasco Trilla\, jeden z najbardziej aktywnych perkusistów na barcelońskiej scenie muzyki improwizowanej\, swobodnie porusza się między improwizacją\, jazz-rockiem\, muzyką eksperymentalną a ambientem. Każdy koncert staje się unikalną i dynamiczną konstrukcją dźwiękową.\n\nJohn Edwards – kontrabasLuis Vincente – trąbkaVasco Trilla – perkusja—————————————————————-\nZespół WCIAS powstał w roku 2007 w wielkopolskim Wolsztynie\, a od roku 2015 roku funkcjonuje jako duet braci bliźniaków: Karola i Filipa Majerowskich\, znanych również z innych licznych muzycznych aktywności\, szczególnie w obszarze muzyki tradycyjnej. Obecnie koncertują\, grając muzykę inspirowaną tradycyjną muzyką wielkopolską\, którą zarejestrowali na albumie „Wiwaty”.\n\nKarol Majerowski [PL]— dudy wielkopolskie\, trąbka\, śpiewFilip Majerowski [PL]— puzon\, tuba\, sakshorn tenorowy\, corno\, trąbka\, śpiew\nhttps://wcias.bandcamp.com/album/wiwaty\nhttps://youtu.be/Bft65fWoXpc?si=xSL5de8aACvkmjkO\n—————————————————————-\nWspółpraca duetu Küchen/Berre rozpoczęła się w 2016 roku od okazjonalnych sesji improwizacyjnych w sali prób Berrego w Kopenhadze. Nagrali swój pierwszy wspólny album zatytułowany „På Snurr” (co oznacza „krzywy/zniekształcony/pijany” lub „wirujący”)\, dla wytwórni Barefoot Records. Duet zgłębia możliwości brzmieniowe perkusji preparowanej oraz saksofonu sopraninowego w sposób surowy\, nieoszlifowany i intuicyjny.\nOd ponad dwóch dekad szwedzki multiinstrumentalista (grający na różnych instrumentach stroikowych) Martin Küchen ugruntowuje swoją pozycję jako jeden z najbardziej wszechstronnych muzyków sceny improwizowanej i eksperymentalnej\, kierując się wrodzoną ciekawością i podejmując różnorodne działania artystyczne. W zależności od preferencji estetycznych słuchacza\, może on być kojarzony jako żywiołowy twórca freejazzowy (w formacji Threnody z Johanem Berthlingiem i Steve’em Noble’em)\, kompozytor i lider zespołów grających muzykę z pogranicza post-bopu i pełnego szorstkiej emocjonalności soulu (szczególnie jako spiritus movens rozbudowanego skandynawskiego nonetu Angles 9 oraz Trespass Trio) lub też jako bezkompromisowy improwizator. Jest artystą niezwykle otwartym na współpracę; współdziałał z niezliczoną rzeszą postaci świata muzyki improwizowanej\, takimi jak Trondheim Jazz Orchestra\, Fire! Orchestra\, Per Zanussi’s Research Ensemble (PZE)\, Michaela Antalova\, Dirar Kalash\, Roger Turner\, Anders Lindsjö\, Mathias Landæus czy Keith Rowe. We wszystko\, czego się podejmuje\, wnosi połączenie intelektualnej dyscypliny i emocjonalnej czystości\, nadając swojej twórczości autentyczny wymiar – zwłaszcza gdy odnosi się ona do historii jego rodziny.\nHåkon Berre (Norwegia) dał się poznać jako jeden z najciekawszych perkusistów na duńskiej scenie muzyki improwizowanej. Rozbudowując swój zestaw perkusyjny o różnorodne przedmioty codziennego użytku i odpady\, umiejętnie operuje takimi materiałami jak metal\, plastik\, papier\, drewno czy styropian\, okazjonalnie włączając do gry elektronikę przetwarzaną w czasie rzeczywistym. Jego pomysłowa i pełna energii gra na perkusji zaprowadziła go do wielu klubów i na festiwale na całym świecie; można ją usłyszeć na 44 albumach\, z których wiele ukazało się nakładem wytwórni Barefoot Records\, współtworzonej przez Håkona. Håkon współtworzy liczne zespoły\, działając zarówno jako kompozytor\, jak i improwizator. Współpracował z takimi artystami jak Peter Brötzmann\, Phil Minton\, Axel Dörner\, Peter Friis-Nielsen\, John Tchicai\, Jamie Branch\, Liudas Mockunas\, Fred Lonberg-Holm\, Susana Santos Silva\, Peter Evans\, Akira Sakata czy Otomo Yoshihide.\nhttps://barefootrecords.bandcamp.com/album/p-snurr\n————————————————————\n\nInicjatywa First Hand jest wspierana promocyjnie przez:Łódź Art NowImproSpotIndependent.pl
+URL:https://plasterlodzki.pl/wydarzenia/first-hand-vol-2-6/
+LOCATION:Lumpart\, Kościuszki 36\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261103T180000
+DTEND;TZID=Europe/Warsaw:20261103T220000
+DTSTAMP:20261031T071705
+CREATED:20261030T150340Z
+LAST-MODIFIED:20261030T150340Z
+UID:10051197-1793728800-1793743200@plasterlodzki.pl
+SUMMARY:DON TOLIVER: NITROUS – OCTANE WORLD TOUR LEG 2
+DESCRIPTION:DON TOLIVER OGŁASZA NITROUS: NOWE DATY W AMERYCE PÓŁNOCNEJ\, EUROPIE I WIELKIEJ BRYTANII W RAMACH TRASY „OCTANE WORLD TOUR” \n3 LISTOPADA – ATLAS ARENA\, ŁÓDŹ \nPiąty album studyjny „OCTANE” już dostępny!\nJeden z najczęściej streamowanych albumów hip-hopowych na świecie w 2026 roku \nPrzedsprzedaż Artysty: 24 czerwca\, o godzinie 12:00 \nPrzedsprzedaż Mastercard Pekao: 24 czerwca\, o godzinie 12:00 \nPrzedsprzedaż Ticketmaster: 25 czerwca\, o godzinie 12:00 \nSprzedaż ogólna: 26 czerwca\, o godzinie 12:00 \nPo ogromnym zainteresowaniu fanów i wyprzedaniu pierwszej części trasy\, nominowany do nagrody Grammy raper i autor tekstów Don Toliver ogłasza NITROUS – drugi etap swojej spektakularnej trasy OCTANE Tour\, dodając 19 nowych koncertów w halach w Ameryce Północnej oraz przenosząc tę uznaną produkcję za ocean\, gdzie jesienią odbędzie się rozbudowana trasa po Europie i Wielkiej Brytanii. \nNowe północnoamerykańskie koncerty\, organizowane przez Live Nation\, rozpoczną się 4 sierpnia w Sacramento w Kalifornii. Trasa obejmie m.in. Atlantę\, Miami\, Toronto i wiele innych miast\, a zakończy się 6 września w Barclays Center na Brooklynie w Nowym Jorku. Następnie Don Toliver wyruszy do Europy – pierwszy koncert odbędzie się 25 października w Paryżu. Artysta wystąpi również w Szwajcarii\, Włoszech\, Niemczech\, Polsce\, Holandii\, Norwegii\, Szwecji\, Irlandii oraz Wielkiej Brytanii. Europejska część trasy zakończy się 23 listopada w londyńskiej hali The O2. \nPochodzący z Houston\, multiplatynowy i nominowany do nagrody Grammy Don Toliver ugruntował swoją pozycję jako jeden z najbardziej innowacyjnych i przełamujących gatunkowe granice artystów współczesnej muzyki. Umiejętnie łączy hip-hop\, rap\, R&B oraz filmową narrację\, tworząc wyjątkowe\, immersyjne światy dźwiękowe. Po sukcesach albumów Heaven or Hell (2020)\, Life of a DON (2021)\, Love Sick (2023) oraz Hardstone Psycho (2024)\, Toliver wkroczył w 2026 rok z piątym albumem studyjnym – OCTANE\, uznawanym za najważniejsze wydawnictwo w jego karierze. \nAlbum zadebiutował na 1. miejscu listy Billboard 200\, zapewniając Donowi pierwszy solowy numer jeden w karierze i największy debiut albumowy 2026 roku. OCTANE przekroczył już miliard odtworzeń w Spotify\, stając się jednym z najczęściej streamowanych albumów hip-hopowych i rapowych roku. Dodatkowo wszystkie 17 utworów z albumu jednocześnie znalazły się na liście Billboard Hot Rap Songs\, dzięki czemu Toliver został dopiero szóstym artystą w historii\, któremu udało się umieścić 17 lub więcej utworów na tej liście w ciągu jednego tygodnia. Viralowe hity fanów\, takie jak „E85” i „Body”\, nadal dominują na platformach streamingowych i listach przebojów na całym świecie\, umacniając pozycję OCTANE jako jednego z najważniejszych albumów 2026 roku. \nBilety \nFani mogą zarejestrować się na stronie DonToliver.com/tour\, aby uzyskać dostęp do Artist Presale\, która rozpocznie się 24 czerwca o godzinie 12:00 czasu lokalnego we wszystkich krajach objętych trasą. \nDodatkowe przedsprzedaże będą odbywać się przez cały tydzień\, a sprzedaż ogólna ruszy w piątek\, 26 czerwca\, o godzinie 12:00 czasu lokalnego na stronie LiveNation.pl. \nPrzedsprzedaż w Europie \nPosiadacze kart Mastercard Banku Pekao S.A. zyskują wyjątkowy dostęp do biletów w przedsprzedaży Mastercard w Polsce. Przedsprzedaż Mastercard potrwa od środy\, 24 czerwca od godz. 12:00 do piątku\, 26 czerwca do godz. 11:00. Dodatkowo od piątku\, 26 czerwca od godz. 12:00 dostępne będą bilety preferencyjne na jedne z najlepszych miejsc. Więcej informacji na priceless.com/pekao. \nPakiety VIP \nW ramach trasy dostępne będą różnorodne pakiety i doświadczenia VIP\, które pozwolą fanom wynieść udział w koncercie na wyższy poziom. \nZawartość pakietów VIP różni się w zależności od wybranej oferty. Więcej informacji można znaleźć na stronie vipnation.com. \nNITROUS – OCTANE WORLD TOUR LEG 2 \nNORTH AMERICA \nTue Aug 04 – Sacramento\, CA @ Golden 1 Center \nThu Aug 06 – Glendale\, AZ @ Desert Diamond Arena \nSun Aug 09 – Austin\, TX @ Moody Center \nTue Aug 11 – Houston\, TX @ Toyota Center \nThu Aug 13 – Dallas\, TX @ American Airlines Center \nSat Aug 15 – Birmingham\, AL @ Legacy Arena at the BJCC \nTue Aug 18 – Atlanta\, GA @ State Farm Arena \nWed Aug 19 – Nashville\, TN @ Bridgestone Arena \nFri Aug 21 – Orlando\, FL @ Kia Center \nSat Aug 22 – Miami\, FL @ Kaseya Center \nMon Aug 24 – Greensboro\, NC @ First Horizon Coliseum \nWed Aug 26 – Indianapolis\, IN @ Gainbridge Fieldhouse \nFri Aug 28 – Rosemont\, IL @ Allstate Arena \nSat Aug 29 – Cleveland\, OH @ Rocket Arena \nMon Aug 31 – Toronto\, ON @ Scotiabank Arena \nWed Sep 02 – University Park\, PA @ Bryce Jordan Center \nThu Sep 03 – Philadelphia\, PA @ Xfinity Mobile Arena \nSat Sep 05 – Boston\, MA @ TD Garden \nSun Sep 06 – Brooklyn\, NY @ Barclays Center \n  \nEUROPE & UK \nSun Oct 25 – Paris\, FR @ Accor Arena \nMon Oct 26 – Zurich\, CH @ AG Hallenstadion \nTue Oct 27 – Milan\, IT @ Unipol Forum \nThu Oct 29 – Munich\, DE @ Olympiahalle \nFri Oct 30 – Prague\, CZ @ O2 Arena \nSat Oct 31 – Frankfurt\, DE @ Festhalle \nMon Nov 02 – Berlin\, DE @ Uber Arena \nTue Nov 03 – Lodz\, PL @ Atlas Arena \nThu Nov 05 – Amsterdam\, NL @ Ziggo Dome \nFri Nov 06 – Hamburg\, DE @ Barclays Arena \nSun Nov 08 – Oslo\, NO @ Unity Arena \nTue Nov 10 – Stockholm\, SE @ Avicii Arena \nThu Nov 12 – Dusseldorf\, DE @ PSD Bank Dome \nMon Nov 16 – Dublin\, IE @ 3Arena \nWed Nov 18 – Leeds\, UK @ First Direct Arena \nThu Nov 19 – Birmingham\, UK @ Utilita Arena \nSun Nov 22 – Manchester\, UK @ Co-op Live \nMon Nov 23 – London\, UK @ The O2 \n  \nOrganizator: Live Nation Poland
+URL:https://plasterlodzki.pl/wydarzenia/don-toliver-nitrous-octane-world-tour-leg-2/
+LOCATION:Atlas Arena\, Bandurskiego 7\, Łódź\, łódzkie\, 94-020\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261103T190000
+DTEND;TZID=Europe/Warsaw:20261103T210000
+DTSTAMP:20261031T071705
+CREATED:20261030T110917Z
+LAST-MODIFIED:20261030T110917Z
+UID:10051020-1793732400-1793739600@plasterlodzki.pl
+SUMMARY:Witold Oleszak / Ksawery Wójciński / Peter Ole Jørgensen (First Hand vol. 3)
+DESCRIPTION:First Hand vol.3 :\nPeter Ole Jørgensen – perkusja\, Witold Oleszak – fortepian\, Ksawery Wójciński – kontrabas\n(Więcej informacji o muzykach poniżej)\n19:00\, MSK Chojny\, ul. Lokatorska 13\nwstęp 40 zł\n————————————————————- Witold Oleszak – od roku 2003\, jako muzyk-improwizator\, konsekwentnie rozwija własną metodę twórczą „Muzyka Prefabrykowana” (Pre-Fab Music System). Najczęściej gra na fortepianie i fortepianie preparowanym\, instrumentach własnej konstrukcji oraz na dowolnych instrumentach zepsutych i na krawędzi ruiny. Obecnie skupia się na tworzeniu muzyki swobodnie improwizowanej. Zarówno w muzyce\, jak i w życiu\, fascynuje go wszystko\, co jest niejednoznaczne i niedookreślone. Jako wykonawca najbardziej ceni sobie współpracę z improwizującymi perkusistami\, z których – poprzez przyjaźń i wieloletnią kooperację – największy wpływ wywarł na niego Roger Turner\, nestor brytyjskich improwizatorów. Na scenie najlepiej czuje się w duecie\, który uważa za najbardziej wymagającą formę interakcji.https://adamgolebiewski.bandcamp.com/album/unisexPeter Ole Jørgensen – urodzony w 1958 roku w Sorgenfri (Dania) – duński kompozytor i multiperkusjonista\, który samodzielnie buduje swoje instrumenty. W wieku zaledwie 16 lat\, w 1974 roku\, rozpoczął współpracę z Johnem Tchicai. Założył grupę punk-jazzową Cockpit Music w 1978 roku oraz wielokulturowy zespół Global Guaranty Orchestra w 1983 roku. Oba zespoły działają do dziś. Wystąpił na ponad 60 albumach (LP/CD)\, w tym z własnymi zespołami: Kaptajn Ørentvist\, Global Guaranty Orchestra\, Cockpit Music\, The Wild Mans Band (z Peterem Brötzmannem)\, Torden Kvartetten (z Matsem Gustafssonem)\, Sweethearts in a Drugstore\, Volume\, Mokuto (z Herbem Robertsonem)\, Ghost in The Machine (z Evanem Parkerem)\, a także z Davidem Thomasem w projektach David Thomas & Foreigners oraz David Thomas & P.O. Jørgens\, który wydał album Live Free Or Die w 2017 roku. Założył wytwórnię Ninth World Music w 1983 roku i w tym samym roku zbudował pierwsze studio Ninth World Studio w Elsynorze. Studio zostało przeniesione do Humlebæk w 1994 roku\, gdzie nadal działa na starej farmie.https://pojorgens.comhttps://www.youtube.com/results…KSAWERY WÓJCIŃSKIurodził się w 1983 roku i jest jednym z najbardziej rozchwytywanych kontrabasistów jazzowych na polskiej scenie. Prezentuje się słuchaczom w najróżniejszych odsłonach i stylistykach\, począwszy od jazzu w jego przystępnym wydaniu\, poprzez awangardę\, aż po polską muzykę ludową. Dzięki lekkości\, swobodzie i muzycznej erudycji\, za sprawą której odnajduje się w różnych gatunkach\, Wójciński jest kontrabasistą tak interesującym i nietuzinkowym. Wójciński stał się jedną z najlepiej rozpoznawalnych postaci polskiego jazzu m.in. dzięki regularnym koncertom w warszawskim klubie Pardon\, To Tu\, w którym kontrabasista występował z takimi formacjami jak Hera lub Charles Gayle Trio\, w duecie z trębaczem Wojciechem Jachną czy solo. Wójciński współpracował już z takimi twórcami jak m.in. amerykański pianista Uri Caine\, saksofonista Charles Gayle\, a także z Michaelem Zerangiem\, Nicole Mitchell czy Marco Eneidim. Występował i nagrywał również z polskimi twórcami\, takimi jak Mikołaj Trzaska\, Raphael Rogiński\, Wacław Zimpel czy grupy Emergency i Hera. Wraz ze śpiewaczką Maniuchą Bikont kontrabasista tworzy duet Maniucha i Ksawery\, wykonujący muzykę tradycyjną.\nhttps://www.youtube.com/watch?v=Gs96CX1B3Ec\nhttps://antennanongrata.bandcamp.com/…/ksawery-w-jci…\nFirst Hand jest serią koncertów poświęconych głównie muzyce swobodnie improwizowanej. Jest to przestrzeń dla muzyków w trasach koncertowych. Nazwa jest inspirowana miejscem Lumpart\, łódzkim seceondhandem odzieżowym\, który stał się zarzewiem dla pomysłu stworzenia cyklu koncertowego właśnie dla tej przestrzeni. W międzyczasie plan trochę ewoluował i koncerty odbędą się w Lumparcie\, MSK Chojny i Ciągoty i Tęsknoty. First Hand oznacza muzykę „z pierwszej ręki’\, kreowaną w czasie rzeczywistym przez występujących muzyków. Prowadzącym serię jest Paweł Sokołowski z Musica Privata.
+URL:https://plasterlodzki.pl/wydarzenia/witold-oleszak-ksawery-wojcinski-peter-ole-jorgensen-first-hand-vol-3/
+LOCATION:Centrum Kultury Młodych\, Lokatorska 13\, Łódź\, łódzkie\, 93-021\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261104T190000
 DTEND;TZID=Europe/Warsaw:20261104T220000
-DTSTAMP:20261030T071705
+DTSTAMP:20261031T071705
 CREATED:20260501T090739Z
-LAST-MODIFIED:20260508T084725Z
-UID:10048367-1793820600-1793829600@plasterlodzki.pl
+LAST-MODIFIED:20261030T094028Z
+UID:10050988-1793818800-1793829600@plasterlodzki.pl
 SUMMARY:Interferencje
-DESCRIPTION:INTERFERENCJE  Cykl spotkań dźwiękowych organizowanych w Łodzi przez Radio Kapitał.\n wiosenna edycja „Interferencji” odbędzie się w malowniczej scenerii ogrodu pałacu Alfreda Biedermanna \n\n Tak jak w fizyce fale nakładają się\, tworząc nowe struktury\, tak tutaj spotkają się idee\, osobowości i talenty. Z tych przecięć powstanie coś niepowtarzalnego. \nKoncerty i rozmowy z twórczyniami i twórcami\, podczas których:\n słuchamy w bliskości zaglądamy głębiej w praktyki artystyczne łączymy światy muzyki współczesnej\, niezależnej i sound artu\n 10.05 niedziela godzina 16:00  koncert Tymka Papiora Rozmowę po koncercie poprowadzi Bartosz Nowickiogród Pałacu Biedermanna ul. Franciszkańska 1/5 Wstęp wolny!\n Tymek Papior \nMultiinstrumentalista\, kompozytor i producent. Artysta wykorzystuje preparowane instrumenty akustyczne\, znalezione przedmioty oraz nagrania terenowe\, które zestawia z cyfrowym brzmieniem instrumentów midi oraz elektroniki do zniekształcania i tworzenia dźwięku. W 2024 Artysta wydał albumy – LUMBAGO (Tymek Papior\, Wuja HZG) oraz debiutancką solową płytę „Rugs/Carpets”\, która została nominowana do nagrody Fryderyk 2025. W styczniu 2026 ukazał się najnowszy album Tymka – „WSPÓLNA SPRAWA LP” wydanym przez label BZR RECORDS\, który współtworzy.\nhttps://www.instagram.com/tymekpapior/https://culture.pl/pl/tworca/tymek-papior\n—\n Bartosz Nowicki – krytyk muzyczny\, publicysta\, badacz dźwięku i uważny słuchacz. W latach 2012–2018 prowadził blog 1uchem/1okiem\, poświęcony polskiej muzyce niezależnej. Publikował m.in. w „Polityce”\, „Gazecie Magnetofonowej”\, „Kwartalniku Muzycznym M/I” i „Czasie Kultury”. Na co dzień współpracuje z dwutygodnik.com.\nUwielbia dźwięki i nasłuchiwanie\, a jego teksty i wystąpienia łączą refleksję nad muzyką współczesną z czułością wobec codziennego pejzażu akustycznego. Interesuje go to\, jak słuchanie staje się sposobem poznawania świata — i jak muzyka może otwierać nas na inne formy wrażliwości.\n\n\n\n\n\n Tak jak w fizyce fale nakładają się\, tworząc nowe struktury\, tak tutaj spotkają się idee\, osobowości i talenty. Z tych przecięć powstanie coś niepowtarzalnego. \nKoncerty i rozmowy z twórczyniami i twórcami\, podczas których:\n słuchamy w bliskości zaglądamy głębiej w praktyki artystyczne łączymy światy muzyki współczesnej\, niezależnej i sound artu 24.05 niedziela godzina 16:00 koncert Antoniny Nowackiej Rozmowę po koncercie poprowadzi Bartosz Nowickiogród Pałacu Biedermanna ul. Franciszkańska 1/5 Wstęp wolny!\n Antonina Nowacka \npolska wokalistka\, kompozytorka i artystka dźwięku. Głęboko zainteresowana naturą dźwięku – zwłaszcza jego wpływem na układ nerwowy i zdolnością muzyki do wprowadzania wykonawcy i słuchaczy w określone stany umysłu.\nStudiowała na Akademii Sztuk Pięknych w Warszawie w pracowni Mirosława Bałki\, muzykologię w ISI Yogyakarta (dzięki stypendium Ministra Kultury Indonezji)\, a także tradycyjne hindustańskie techniki wokalne pod kierunkiem Shashwati Mandal\, mistrzyni stylu Gwalior.\nCzerpiąc z muzyki tradycyjnej\, zjawisk naturalnych i stanów hipnagogicznych\, tworzy performances łączące dźwięk\, architekturę i wyobraźnię. Jej eksploracje oscylują wokół muzyki dawnej – pieśni religijnych\, antycznych i operowych – oraz eksperymentów z elektroniką i aparatem mowy.\nWspółpracowała m.in. z Sofie Birch (albumy Languoria i Hiraeth). Koncertowała na festiwalach takich jak Unsound\, a jej muzyka zdobywała najwyższe noty m.in. w Pitchforku i The Wire.\n— Bartosz Nowicki – krytyk muzyczny\, publicysta\, badacz dźwięku i uważny słuchacz. W latach 2012–2018 prowadził blog 1uchem/1okiem\, poświęcony polskiej muzyce niezależnej. Publikował m.in. w „Polityce”\, „Gazecie Magnetofonowej”\, „Kwartalniku Muzycznym M/I” i „Czasie Kultury”. Na co dzień współpracuje z dwutygodnik.com.Uwielbia dźwięki i nasłuchiwanie\, a jego teksty i wystąpienia łączą refleksję nad muzyką współczesną z czułością wobec codziennego pejzażu akustycznego. Interesuje go to\, jak słuchanie staje się sposobem poznawania świata — i jak muzyka może otwierać nas na inne formy wrażliwości.\n\n\n\nKoncerty i rozmowy z twórczyniami i twórcami\, podczas których:\n słuchamy w bliskości zaglądamy głębiej w praktyki artystyczne łączymy światy muzyki współczesnej\, niezależnej i sound artu\n 31.05 niedziela godzina 16:00 koncert Katarina Gryvul Rozmowę po koncercie poprowadzi Justyna Anders-Morawskaogród Pałacu Biedermanna ul. Franciszkańska 1/5 Wstęp wolny!\n Katarina Gryvul \nKatarina Gryvul jest klasycznie wykształconą kompozytorką\, skrzypaczką i producentką muzyczną. Po ukończeniu studiów skupiła się na muzyce elektronicznej\, łącząc klasyczne przygotowanie z awangardowymi technikami. W swojej twórczości wykorzystuje live electronics\, analogowe syntezatory oraz dźwięk przestrzenny\, tworząc immersyjne pejzaże dźwiękowe. Występowała m.in. na Lunchmeat Festival\, Ephemerze\, Rewire\, Ars Electronica czy Musikprotokoll.\n„Spomyn (wspomnienie) to eksploracja kruchej\, pofragmentowanej natury pamięci\, ukazująca\, w jaki sposób kształtuje ona sedno naszej tożsamości” – pisze o swoim albumie z 2025 kompozytorka Gryvul łączy tradycyjne motywy muzyczne z eksperymentalnymi technikami. W efekcie powstaje mroczny\, gęsty pejzaż dźwiękowy.\nhttps://www.gryvul.com/\n—\n dr Justyna Anders-Morawska – badaczka dźwięku i adiunktka na Wydziale Studiów Międzynarodowych i Politologicznych UŁ. Zajmuje się politycznością audiosfery – bada\, jak pejzaż dźwiękowy miast ujawnia relacje władzy\, planowania i partycypacji. Prowadziła spacery dźwiękowe w Polsce i za granicą\, m.in. w ramach kongresu AESOP 2023\, współpracowała z Radiem Kapitał\, Teatrem Łaźnia Nowa i Glissando. Obecnie realizuje projekt “Pogłosy miast” (ScienceHub/UNIC)\, poświęcony współsłyszeniu postindustrialnej przeszłości i dźwiękowej przyszłości miast.\n\n\n  \nOsoby potrzebujące tłumaczenia na Polski Język Migowy lub innego rodzaju wsparcia w pokonaniu barier utrudniających uczestnictwo w wydarzeniu prosimy o wcześniejszy kontakt. Dołożymy wszelkich starań\, aby zapewnić dostępność.\n  \n\n\n\n\n\n Co się wydarzy?\n 6 spotkań z wybitnymi postaciami polskiej i ukraińskiej sceny muzyki eksperymentalnej i sztuki dźwięku: Tymek Papior\, Antonina Nowacka\, Katarina Gryvul\, Paweł Kulczyński\, Olga Anna Markowska\, Lutto Lento\nKażde spotkanie = rozmowa „jeden na jeden” z prowadzącymi ekspertami (Bartosz Nowicki\, Daniel Muzyczuk\, Justyna Anders-Morawska).\n Koncert to okazja i możliwość swobodnej dyskusji z twórcami do czego serdecznie zachęcamy.\n Wszystkie wydarzenia są otwarte i bezpłatne \n Zapisz daty!\n10.05 – koncert Tymek Papiorrozmowę poprowadzi Bartosz Nowicki24.05 – koncert Antonina Nowackarozmowę poprowadzi Bartosz Nowicki31.05 – koncert Katarina Gryvulrozmowę poprowadzi Justyna Anders-Morawska\n4.11 – koncert /instalacja dźwiękowaPaweł Kulczyńskirozmowę poprowadzi Daniel Muzyczuk18.11 – koncert Olga Anna Markowskarozmowę poprowadzi Justyna Anders-Morawska25.11 – koncert  Lutto Lento rozmowę poprowadzi: tba\n—\nRealizatorem zadania „Interferencje” jest Stowarzyszenie Radio Kapitał\nZadanie „Interferencje” jest realizowane dzięki dofinansowaniu z budżetu Miasta Łodzi #lodzpelnakultury #lodzkreuje Łódź pełna kultury\nZadanie realizowane jest dzięki wsparciu Uniwersytetu Łódzkiego\nprojekt graficzny: Darek Pietraszewskiprogram i koordynacja: Justyna Banaszczyk\nwsparcie medialne:MIEJ MIEJSCENN6T notes na 6 tygodniGlissando
+DESCRIPTION:INTERFERENCJE  Cykl spotkań dźwiękowych organizowanych w Łodzi przez Radio Kapitał.\n jesienna edycja „Interferencji” odbędzie się w historycznych wnętrzach sali balowej Pałacu Biedermanna \n Tak jak w fizyce fale nakładają się\, tworząc nowe struktury\, tak tutaj spotkają się idee\, osobowości i talenty. Z tych przecięć powstanie coś niepowtarzalnego. \nKoncerty i rozmowy z twórczyniami i twórcami\, podczas których:\n słuchamy w bliskości zaglądamy głębiej w praktyki artystyczne łączymy światy muzyki współczesnej\, niezależnej i sound artu 18.11 środa godzina 19:00 koncert Antoniny Nowackiej Rozmowę po koncercie poprowadzi Bartosz Nowickisala balowa Pałacu Biedermanna ul. Franciszkańska 1/5 Wstęp wolny!\n Antonina Nowacka \npolska wokalistka\, kompozytorka i artystka dźwięku. Głęboko zainteresowana naturą dźwięku – zwłaszcza jego wpływem na układ nerwowy i zdolnością muzyki do wprowadzania wykonawcy i słuchaczy w określone stany umysłu.\nStudiowała na Akademii Sztuk Pięknych w Warszawie w pracowni Mirosława Bałki\, muzykologię w ISI Yogyakarta (dzięki stypendium Ministra Kultury Indonezji)\, a także tradycyjne hindustańskie techniki wokalne pod kierunkiem Shashwati Mandal\, mistrzyni stylu Gwalior.\nCzerpiąc z muzyki tradycyjnej\, zjawisk naturalnych i stanów hipnagogicznych\, tworzy performances łączące dźwięk\, architekturę i wyobraźnię. Jej eksploracje oscylują wokół muzyki dawnej – pieśni religijnych\, antycznych i operowych – oraz eksperymentów z elektroniką i aparatem mowy.\nWspółpracowała m.in. z Sofie Birch (albumy Languoria i Hiraeth). Koncertowała na festiwalach takich jak Unsound\, a jej muzyka zdobywała najwyższe noty m.in. w Pitchforku i The Wire.\n— Bartosz Nowicki – krytyk muzyczny\, publicysta\, badacz dźwięku i uważny słuchacz. W latach 2012–2018 prowadził blog 1uchem/1okiem\, poświęcony polskiej muzyce niezależnej. Publikował m.in. w „Polityce”\, „Gazecie Magnetofonowej”\, „Kwartalniku Muzycznym M/I” i „Czasie Kultury”. Na co dzień współpracuje z dwutygodnik.com.Uwielbia dźwięki i nasłuchiwanie\, a jego teksty i wystąpienia łączą refleksję nad muzyką współczesną z czułością wobec codziennego pejzażu akustycznego. Interesuje go to\, jak słuchanie staje się sposobem poznawania świata — i jak muzyka może otwierać nas na inne formy wrażliwości.\nOsoby potrzebujące tłumaczenia na Polski Język Migowy lub innego rodzaju wsparcia w pokonaniu barier utrudniających uczestnictwo w wydarzeniu prosimy o wcześniejszy kontakt. Dołożymy wszelkich starań\, aby zapewnić dostępność.\n Co się wydarzy?\n 6 spotkań z wybitnymi postaciami polskiej i ukraińskiej sceny muzyki eksperymentalnej i sztuki dźwięku: Tymek Papior\, Antonina Nowacka\, Katarina Gryvul\, Paweł Kulczyński\, Olga Anna Markowska\, Lutto Lento\nKażde spotkanie = rozmowa „jeden na jeden” z prowadzącymi ekspertami (Bartosz Nowicki\, Daniel Muzyczuk\, Justyna Anders-Morawska).\n Koncert to okazja i możliwość swobodnej dyskusji z twórcami do czego serdecznie zachęcamy.\n Wszystkie wydarzenia są otwarte i bezpłatne \n Zapisz daty!\n4.11 – koncert /instalacja dźwiękowaPaweł Kulczyńskirozmowę poprowadzi Daniel Muzyczuk18.11 – koncert Antonina Nowackarozmowę poprowadzi Bartosz Nowicki25.11 – koncert  Lutto Lento rozmowę poprowadzi: Daniel Muzyczuk25.11 – koncert  Lutto Lento rozmowę poprowadzi: Daniel Muzyczuk2.12 – koncert Olga Anna Markowskarozmowę poprowadzi Justyna Anders-Morawska\nwiosną odbyły się koncerty Tymka Papiora i Katariny Gryvul\n—Realizatorem zadania „Interferencje” jest Stowarzyszenie Radio Kapitał\nZadanie „Interferencje” jest realizowane dzięki dofinansowaniu z budżetu Miasta Łodzi #lodzpelnakultury #lodzkreuje Łódź pełna kultury\nZadanie realizowane jest dzięki wsparciu Uniwersytetu Łódzkiego\nprojekt graficzny: Darek Pietraszewskiprogram i koordynacja: Justyna Banaszczyk\nwsparcie medialne:MIEJ MIEJSCENN6T notes na 6 tygodniGlissando
 URL:https://plasterlodzki.pl/wydarzenia/interferencje/2026-11-04/
 LOCATION:Pałac Biedermanna\, Franciszkańska 1/5\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert,Spotkanie
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261104T213000
+DTEND;TZID=Europe/Warsaw:20261104T230000
+DTSTAMP:20261031T071705
+CREATED:20251017T105838Z
+LAST-MODIFIED:20261030T101115Z
+UID:10042469-1793827800-1793833200@plasterlodzki.pl
+SUMMARY:Koncert jazzowy & jam session | III Międzynarodowa Konferencja Trębaczy
+DESCRIPTION:III Międzynarodowa Konferencja TrębaczyKoncert jazzowy & jam session4 listopada 2026\, środa\, godz. 21.30KIJ\, al. Tadeusza Kościuszki 80/82wstęp wolny\nwykonawcy:︙Cyprian Baszyński – trąbka︙Tomasz Glass – gitara︙Kamil Hajduk – kontrabas︙Kacper Kaźmierski – perkusja\ntematy na jam session:︙Autumn Leaves︙Now’s the Time︙Blue Bossa︙Cantaloupe Island︙There Will Never Be Another You︙Oleo︙All Blues︙So What︙Misty︙Recorda-Me︙Take the “A” Train︙Softly\, as in a Morning Sunrise︙Body and Soul︙All the Things You Are︙Tenor Madness︙Mr. P.C.︙Footprints︙On Green Dolphin Street︙Just Friends︙Beautiful Love\n\n_________________________szczegółowe informacje: https://www.amuz.lodz.pl/…/3319-iii-miedzynarodowa…
+URL:https://plasterlodzki.pl/wydarzenia/zatanczysz-ze-mna-jeszcze-raz-7-urodziny-kija-4-2/
+LOCATION:KIJ – multitap bar\, Kościuszki 80/82\, Łódź\, łódzkie\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T190000
 DTEND;TZID=Europe/Warsaw:20261105T220000
-DTSTAMP:20261030T071705
+DTSTAMP:20261031T071705
 CREATED:20251017T112052Z
 LAST-MODIFIED:20260417T092533Z
 UID:10045046-1793905200-1793916000@plasterlodzki.pl
@@ -742,7 +846,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T190000
 DTEND;TZID=Europe/Warsaw:20261105T200000
-DTSTAMP:20261030T071705
+DTSTAMP:20261031T071705
 CREATED:20230810T121935Z
 LAST-MODIFIED:20260327T100818Z
 UID:10031593-1793905200-1793908800@plasterlodzki.pl
@@ -755,7 +859,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261105T200000
 DTEND;TZID=Europe/Warsaw:20261105T235900
-DTSTAMP:20261030T071705
+DTSTAMP:20261031T071705
 CREATED:20260717T124657Z
 LAST-MODIFIED:20261009T092953Z
 UID:10050365-1793908800-1793923140@plasterlodzki.pl
@@ -766,9 +870,61 @@ LOCATION:W3\, Struga 63\, Łódź\, Poland
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261105T210000
+DTEND;TZID=Europe/Warsaw:20261105T220000
+DTSTAMP:20261031T071705
+CREATED:20221202T161122Z
+LAST-MODIFIED:20261030T101025Z
+UID:10050989-1793912400-1793916000@plasterlodzki.pl
+SUMMARY:Czwartkowe\, Jazzowe Jam Session
+DESCRIPTION:Jak co tydzień zapraszamy na czwartkowe\, jazzowe Jam Session w KIJu.Nasze drzwi otwieramy dla Państwa o 18:00. Start koncertu planujemy na godzinę 21:00\n\nZapraszamy WSZYSTKICH muzyków do wspólnego jammowania.\nWażneLokal przeznaczony jest dla osób powyżej 18 roku życia. Osoby niepełnoletnie nie zostaną wpuszczone na wydarzenie\nMiejsce: KIJ\, al. Kościuszki 80/8290-437 ŁódźCena: FREE
+URL:https://plasterlodzki.pl/wydarzenia/ladies-of-soul-jam/2026-11-05/
+LOCATION:KIJ – multitap bar\, Kościuszki 80/82\, Łódź\, łódzkie\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261106T170000
+DTEND;TZID=Europe/Warsaw:20261106T213000
+DTSTAMP:20261031T071705
+CREATED:20230113T102948Z
+LAST-MODIFIED:20261030T104936Z
+UID:10029867-1793984400-1794000600@plasterlodzki.pl
+SUMMARY:Kubryk 2026 tawerna festiwalowa
+DESCRIPTION:Kochani !!!Zapraszamy wszystkich miłośników piosenki żeglarskiej do oficjalnej Tawerny festiwalowej Kubryk 2026Koncerty w Tawernie rozpoczną się ok godz 20 21. Na kejowej scenie zobaczymy wykonawców:\nNagle\, Pablo’s Blend\, Queen Anne’s Revenge\, Formacja\, Sąsiedzi\, a być może to jeszczenie koniec\nNa wszystkich czeka mocno zaopatrzony bar i doskonała kuchnia….a niesamowity klimat Tawerny jaki stworzymy wspólnie pozostanie na długo w Państwa Pamięci\nBiletyDla osób posiadających bilety na koncert przy ul Politechniki wstęp za okazaniem tegoż biletu\nDla osób odwiedzających tylko Tawernę 70 złDostępneKupbilecik.plhttps://kbq.pl/224193Biletyna.plTawerna Keja\nUwaga !!! Konieczne rezerwacje tel 609 152 420
+URL:https://plasterlodzki.pl/wydarzenia/the-part/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Festiwal,Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261106T183000
+DTEND;TZID=Europe/Warsaw:20261106T235900
+DTSTAMP:20261031T071705
+CREATED:20260321T103350Z
+LAST-MODIFIED:20261030T120419Z
+UID:10046487-1793989800-1794009540@plasterlodzki.pl
+SUMMARY:STACJA B. x HAMULEC - PRZEGLĄD KAPEL SZKOLNYCH
+DESCRIPTION:BILETY: https://hamulec.com/pl/i/Bilety/24\nSTACJA I HAMULEC NA PRZEGLĄDZIE KAPEL SZKOLNYCH! \nNA OSTATNIM ZEBRANIU NASZEJ SUPER ZORGANIZOWANEJ RADY PEDAGOGICZNEJ USTALIŚMY WSZYSTKIE SZCZEGÓŁY I Z DUMĄ MOŻEMY POTWIERDZIĆ IŻ ZAŁOGA NOWEGO BRUDU LECI W TRASĘ PO CAŁYM KRAJU \nTO PIERWSZY WSPÓLNY PRZEGLĄD TYCH DWÓCH KAPEL DLATEGO SPODZIEWAJCIE SIĘ ABSOLUTNIE NIESAMOWITEGO PIE*****IĘCIA \nJEŻELI JESTEŚ OBRAŻONY NA JABOLPUNKA ALBO METALOWE KAPELE Z TIKTOKA CIE NIE PRZEKONUJĄ – NIE MARTW SIĘ! JADĄ Z NAMI NASI PRZYJACIELE KTÓRZY NIE LIZNĘLI JESZCZE „WIELKIEGO SWIATA MAINSTREAMU” I NIE MOŻESZ ICH JESZCZE WYZYWAĆ (sytuacja może ulec zmianie po trasie)\nWIDZIMY SIĘ W 16 MIASTACH \nDO ZOBA NA APELU!
+URL:https://plasterlodzki.pl/wydarzenia/cronica-wandal-vanvidd-3/
+LOCATION:Klubopiwiarnia\, Narutowicza 7/9\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261106T190000
+DTEND;TZID=Europe/Warsaw:20261106T220000
+DTSTAMP:20261031T071705
+CREATED:20231214T120401Z
+LAST-MODIFIED:20261030T102330Z
+UID:10032312-1793991600-1794002400@plasterlodzki.pl
+SUMMARY:Happysad
+DESCRIPTION:Wstęp: 18:00\, start: 19:00\nmiejsce koncertu:Klub ScenografiaZachodnia 81/83\, 90-402 Łódźhttps://maps.app.goo.gl/yxt7RJtjkrHGJPMm9\nwstęp: 18:00\, start: 19:00\n25 lat i niezwykłe wyzwanie!Z okazji ćwierćwiecza na scenie (jak to brzmi\, matko kochana!!!) postanowiliśmy zrobić coś szalonego i podczas całej jesiennej trasy zagrać wszystkie utwory jakie kiedykolwiek nagraliśmy i wydaliśmy.Jest tego gruuuubo ponad setka! Uda się na pewno choć dla nas to sporo pracy a dla Państwa ryzykowna niewiadomaKażdy koncert to w pewnym stopniu inna setlista inne utwory inne emocje.My jaramy się jak dzieciaki\, bo zmierzenie się z dawną materią może być świetną zabawą\, którą będziemy chcieli Państwa zarazić. To będzie wspaniała trasa!!!Co jeszcze?Trochę niespodzianek i jeszcze więcej muzyki od zespołów zaproszonych w roli gości grających przed nami.Ich nazwy poznacie niebawem a na razie zapiszcie sobie daty w kalendarzach i… widzimy się!
+URL:https://plasterlodzki.pl/wydarzenia/old-breakout/
+LOCATION:Klub Scenografia\, Zachodnia 81/83\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261106T190000
 DTEND;TZID=Europe/Warsaw:20261106T200000
-DTSTAMP:20261030T071705
+DTSTAMP:20261031T071705
 CREATED:20211204T223232Z
 LAST-MODIFIED:20261026T113749Z
 UID:10027060-1793991600-1793995200@plasterlodzki.pl
@@ -779,9 +935,61 @@ LOCATION:Teatr Szwalnia\, Struga 90\, Łódź\, łódzkie\, 90-252\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261106T200000
+DTEND;TZID=Europe/Warsaw:20261106T220000
+DTSTAMP:20261031T071705
+CREATED:20241018T145855Z
+LAST-MODIFIED:20261030T091531Z
+UID:10037661-1793995200-1794002400@plasterlodzki.pl
+SUMMARY:XOXO
+DESCRIPTION:6 listopada 2026 | godz. 20:00 | Klub Muzyczny Jesteśmy\, Łódź\nSą koncerty\, po których chce się więcej. I właśnie dlatego XOXO wraca na naszą scenę! \n17 października zespół dał w Jesteśmy świetny koncert. Teraz wraca z nową odsłoną i kolejną porcją muzycznych emocji!\nXOXO z Łodzi to spotkanie różnych muzycznych światów: jazzu\, popu\, rocka i muzyki rozrywkowej. Różne inspiracje\, różne brzmienia\, ale jeden wspólny mianownik — muzyka na żywo\, która tworzy atmosferę i sprawia\, że chce się zostać dłużej.\n Lubisz\, kiedy muzyka zaskakuje i nie daje się zamknąć w jednej szufladzie? Ten wieczór jest dla Ciebie!\nNie byłeś na poprzednim koncercie? To dobry moment\, żeby poznać XOXO. A jeśli już ich słyszałeś — wiesz\, dlaczego warto wrócić.\n PIĄTEK\, 6 LISTOPADA START: 20:00 Klub Muzyczny Jesteśmyul. Stefana Jaracza 13\, ŁódźBilety: 30 zł ( płatność na barze \, karta/gotówka)\nZaproś znajomych\, zarezerwujcie sobie wieczór i spotkajmy się pod sceną!\nJesteśmy. Tu muzyka naprawdę łączy ludzi.
+URL:https://plasterlodzki.pl/wydarzenia/matt-campbell/
+LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261106T210000
+DTEND;TZID=Europe/Warsaw:20261106T223000
+DTSTAMP:20261031T071705
+CREATED:20230310T160938Z
+LAST-MODIFIED:20261030T100926Z
+UID:10030430-1793998800-1794004200@plasterlodzki.pl
+SUMMARY:Live Jazz - Janiak/Glass/Janiak/Kaźmierski
+DESCRIPTION:Zapraszamy na magiczną podróż jazzowo – koktajlową.\nNasze drzwi otwieramy dla Państwa o 18:00.Start koncertu planujemy na godzinę 21:00Większe grupy (od 4 osób) zachęcamy do wcześniejszej rezerwacji!!!\nZagrają: Witold Janiak akordeon\, organy Hammonda\,Tomasz Glass – gitara\, Tymon Janiak – kontrabas\, Kacper Kaźmierski – perkusja.\nMiejsce: KIJ\, al. Kościuszki 80/8290-437 ŁódźData: 6/11/2026cena: FREE\nWażneLokal przeznaczony jest dla osób powyżej 18 roku życia. Osoby niepełnoletnie nie zostaną wpuszczone na wydarzenie
+URL:https://plasterlodzki.pl/wydarzenia/stand-up-comedy-in-english-vibe-check-with-ravi/
+LOCATION:KIJ – multitap bar\, Kościuszki 80/82\, Łódź\, łódzkie\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261107T170000
+DTEND;TZID=Europe/Warsaw:20261107T230000
+DTSTAMP:20261031T071705
+CREATED:20230120T095413Z
+LAST-MODIFIED:20261030T104937Z
+UID:10029917-1794070800-1794092400@plasterlodzki.pl
+SUMMARY:Kubryk 2026 tawerna festiwalowa
+DESCRIPTION:Kochani !!!Zapraszamy wszystkich miłośników piosenki żeglarskiej do oficjalnej Tawerny festiwalowej Kubryk 2026\nNa scenie tego wieczoru zobaczymy wykonawców :Paweł Hutny\, Klang\, The Pioruners\, Chris Ricketts …a to jeszcze nie koniec\nNa wszystkich czeka mocno zaopatrzony bar i doskonała kuchnia….a niesamowity klimat Tawerny jaki stworzymy wspólnie pozostanie na długo w Państwa PamięciBiletyDla osób posiadajecych bilety na koncert przy ul Politechniki wstęp za okazaniem tegoż biletuDla osób odwiedzających tylko Tawernę 70 zł\nBilety do nabyciaKupbilecik.plhttps://kbq.pl/224194Biletyna.pl\nTawerna Keja\nUwaga !!!Dla wszystkich konieczne rezerwacje tel 609 152 420
+URL:https://plasterlodzki.pl/wydarzenia/caryna/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Festiwal,Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261107T190000
+DTEND;TZID=Europe/Warsaw:20261107T230000
+DTSTAMP:20261031T071705
+CREATED:20211118T144639Z
+LAST-MODIFIED:20261030T123622Z
+UID:10026985-1794078000-1794092400@plasterlodzki.pl
+SUMMARY:Code Yuki + aabsurd + Fifth Desire
+DESCRIPTION:code yuki / aabsurd / fifth desire | 7.11.2026\n\n\nCODE YUKI– Zespół dobrych znajomych\, których łączy ogromna ekspresyjność na scenie jak i w muzyce. Dążą do tego\, by wprowadzić całkowicie nowe brzmienie połączone z elektroniką oraz pełną emocji wokalu na Łódzkiej scenie. Podchodzą do robienia muzyki i grania koncertów nie tylko „instrumentalnie”\, ale również teatralnie/wizualnie wybijając się stylem jak i innymi dodatkami. Wszystko co robią\, pozwala im na pełną eskpresję na wiele sposobów wykorzystując umiejętności całego zespołu. Dlatego właśnie najbliżej im do gatunku „VISUAL-KEI”(Wywodzący się z Japonii lat 80 ruch muzyczno-wizualny). Najłatwiej jest im się porównywać do openingów anime lub klimatem cybercore i lat dwutysięcznych. https://www.instagram.com/codeyukiband/\nAABSURD – Alternatywa/shoegaze linktr.ee/aaabsurd\nFIFTH DESIRE Charakterny zespół z okolic Łodzi grający alternative rocka/indie z elementami mocniejszego brzmienia. linktr.ee/fifthdesire.contact\n\ngrafika: @mariajedlinska______\nstart: 19:00adres: Rewolucji 1905 roku nr 10sugerowana wrzutka: 30 zł
+URL:https://plasterlodzki.pl/wydarzenia/prekambr8-vasco-trilla-liba-villavecchia-czyli-jazz-w-cyrku/
+LOCATION:Cyrk Pod Zielonym Xiężycem\, Próchnika 1\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261107T190000
 DTEND;TZID=Europe/Warsaw:20261107T210000
-DTSTAMP:20261030T071705
+DTSTAMP:20261031T071705
 CREATED:20251220T215953Z
 LAST-MODIFIED:20251220T215953Z
 UID:10045913-1794078000-1794085200@plasterlodzki.pl
@@ -794,7 +1002,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261107T190000
 DTEND;TZID=Europe/Warsaw:20261107T235900
-DTSTAMP:20261030T071705
+DTSTAMP:20261031T071705
 CREATED:20240530T220037Z
 LAST-MODIFIED:20260808T094016Z
 UID:10033225-1794078000-1794095940@plasterlodzki.pl
@@ -807,7 +1015,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261107T190000
 DTEND;TZID=Europe/Warsaw:20261107T203000
-DTSTAMP:20261030T071705
+DTSTAMP:20261031T071705
 CREATED:20261026T110727Z
 LAST-MODIFIED:20261026T110727Z
 UID:10050927-1794078000-1794083400@plasterlodzki.pl
@@ -818,9 +1026,61 @@ LOCATION:Łódzkie Centrum Wydarzeń / dawnej Akademicki Ośrodek Inicjatyw Arty
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261107T200000
+DTEND;TZID=Europe/Warsaw:20261107T223000
+DTSTAMP:20261031T071705
+CREATED:20250825T092321Z
+LAST-MODIFIED:20261030T120447Z
+UID:10042730-1794081600-1794090600@plasterlodzki.pl
+SUMMARY:Lej Mi Pół w Łodzi + Butelka
+DESCRIPTION:Kiedy: 07.11.26 Gdzie: Browar Warkot Bilety: 70/80/90 PLNKUP BILET:  KUPBILECIK: https://bkb.pl/215002-3ae88 Ticket Master: https://www.ticketmaster.pl/event/874024935MISTRZOSTWA ŚWIATA W BYCIU DEBILEM TOUR 2026Po spektakularnej porażce na festiwalu Pol’and’Rock\, zespół Lej Mi Pół rusza w trasę… Ale tak naprawdę w trasę to se może ruszyć Linkink Park albo Queen\, i to jak jeszcze wszyscy żyli. Więc w sumie to nie będzie trasa tylko Cutas Cup – pierwszy w historii puchar ch***ych zespołów\, w którym sędziowie są naj***ni\, a VAR nie istnieje. Poj***ane? No jasne\, że poj***ane! Tu nie ma grup i liczenia punktów. Kto dostaje plombę ten odpada i być może jest to brutalne\, ale taki właśnie jest cutas-sport! W którym nie liczą się umiejętności\, tylko brak umiejętności. Twój zespół może być przygotowany na wpi***ol a przez przypadek… dostanie wpi***ol. Nie ma zwycięzcy. Są tylko przegrani\, i to nawet nie dumni po porażce\, tylko cieszący się\, że spier***ją do ciepłego alpejskiego domku\, gdzie nad kominkiem wisi zdjęcie… wiadomo kogo. Cutas cup odbędzie się na jesień\, od października do końca grudnia. Jako\, że federacja nie ma pojęcia o organizowaniu Cutas Cup\, bo to pierwsza edycja\, spotkania nie odbędą się na stadionach tylko… w klubach\, i to nie ze striptizem tylko w klubach muzycznych. Ciekawe\, że akurat w klubach muzycznych\, bo bliżej tematyce tych spotkań do męskiego burdelu niż tańcbudy. Ale jak to się mówi w Wejherowie: kto nie ryzykuje\, ten jest super pi***ą! A my jesteśmy super pi***mi! Zapraszamy na Mistrzostwa Świata w Byciu Debilem!============================================LEJ MI PÓŁ to grupa\, której bliżej do stand-upu niż do klasycznego zespołu muzycznego. Tu muzyka\, choć bez dwóch zdań chwytliwa\, stanowi tło dla wszystkiego\, co dzieje się w międzyczasie… a nigdy nie wiadomo\, co tam się wydarzy! Lej Mi Pół już blisko dekadę przyciąga na koncerty tłumy entuzjastów absurdalnego humoru. Ich cięty język\, duży dystans do samych siebie i niepodrabialna chemia między członkami zespołu działają jak samonapędzająca się machina szaleństwa. Nie ma tu mowy o jakimkolwiek dystansie między muzykami i publicznością. Gdziekolwiek się pojawiają\, tam jest impreza\, a na imprezach wspomniani panowie zdecydowanie częściej wychodzą na scenę niż na ludzi. Ostrzegamy – występów tego trio nie da się odzobaczyć!Na koncie zespół ma już cztery płyty:„SKOLIOZA ODBYTU” 2012„FABRYKA MĘSKOŚCI” 2014„WSZYSTKIEGO NAJLEPSZEGO MARIAN” 2017„WĘDROWNY DRUCIARZ” 2022\nButelka – Historia Butelki to opowieść o nieustannej walce o autentyczność i niezależny przekaz. Wszystko zaczęło się w 1996 roku\, kiedy Grzegorz Kopcewicz założył w Toruniu zespół Butelka\, zapraszając do współpracy kolegów z Kobranocki – Kobrę\, Wysola i Szybkiego Kazika. Debiutancka płyta Butelka ukazała się w 1999 roku\, a przez kolejne dwie dekady ukazały się cztery kolejne albumy\, każdy nagrany w innym składzie\, zawsze jednak z tym samym niepokornym duchem. Po zawieszeniu działalności Butelki w 2017 roku\, lider MC Butelka długo milczał – ale tylko po to\, by teraz uderzyć z nową siłą i wrócić z byłymi muzykami zasilającymi różne składy na przypadające w 2026 rok 30-lecie zespołu! Sprawdźcie sami\, że lider zespołu Grzegorz Kopcewicz wciąż ma wiele do powiedzenia i koncertowo nie bierze jeńców: celuje w rzeczywistość z celnością snajpera\, a przy tym nie traci humoru i dystansu. Aktualny skład Butelki: McButelka – voc\, keyb; Jołas – git; Pryl – b; Kviatol – dr.\n19:00 – Bramki20:00 – Butelka21:00 – Lej Mi Pół
+URL:https://plasterlodzki.pl/wydarzenia/obsidian-mantra-halny-agima-sun-sighs-of-death/
+LOCATION:Klubopiwiarnia\, Narutowicza 7/9\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261107T210000
+DTEND;TZID=Europe/Warsaw:20261107T220000
+DTSTAMP:20261031T071705
+CREATED:20230310T160818Z
+LAST-MODIFIED:20261030T100844Z
+UID:10030427-1794085200-1794088800@plasterlodzki.pl
+SUMMARY:Haze Acoustic Trio
+DESCRIPTION:Zapraszamy na magiczny wieczór przy koktajlu i bluesie.Można się pobujać\, można po prostu posłuchać.Będzie pięknie!\nZagra: Haze Acoustic Trio\nNasze drzwi otwieramy dla Państwa o 18:00. Start koncertu planujemy na godzinę 21:00.Większe grupy (od 4 osób) zachęcamy do wcześniejszej rezerwacji!!!\nMiejsce: KIJ\, al. Kościuszki 80/8290-249 ŁódźData: 7/11/2026cena: FREE\nWażneLokal przeznaczony jest dla osób powyżej 18 roku życia. Osoby niepełnoletnie nie zostaną wpuszczone na wydarzenie
+URL:https://plasterlodzki.pl/wydarzenia/haze-acoustic-trio-3/
+LOCATION:KIJ – multitap bar\, Kościuszki 80/82\, Łódź\, łódzkie\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261108T160000
+DTEND;TZID=Europe/Warsaw:20261108T180000
+DTSTAMP:20261031T071705
+CREATED:20250718T102734Z
+LAST-MODIFIED:20261030T091557Z
+UID:10039524-1794153600-1794160800@plasterlodzki.pl
+SUMMARY:Tu się gra
+DESCRIPTION:Młode talenty już tu są. Teraz czas\, żeby usłyszała je Łódź! \nPo pierwszej edycji wiemy jedno: w Łodzi nie brakuje ludzi\, którzy mają coś do powiedzenia muzyką. Na naszej scenie pojawiło się sporo młodych talentów\, świeżej energii i odwagi\, by wyjść przed publiczność.\nDlatego gramy dalej! \nTU SIĘ GRA to otwarta scena dla wokalistów\, instrumentalistów\, zespołów i wszystkich\, którzy chcą pokazać swoją muzykę\, zdobyć doświadczenie i poznać ludzi z podobną pasją.\nNie musisz być gwiazdą. Nie musisz mieć własnego zespołu ani wielkiego doświadczenia. Liczy się muzyka\, ciekawość i chęć\, żeby spróbować.\n Grasz? Przyjdź na scenę. Śpiewasz? Pokaż swój głos. Tworzysz muzykę? Poznaj innych twórców. Kochasz muzykę na żywo? Przyjdź odkrywać nowe talenty!\nChcemy\, żeby TU SIĘ GRA stało się miejscem\, w którym zaczynają się muzyczne przyjaźnie\, współprace i być może wielkie historie.\nBo każdy kiedyś zaczynał. A każda scena potrzebuje nowych ludzi.\n 8 listopada 2026 (niedziela) 16:00–18:00 Klub Jesteśmy\, ul. Jaracza 13\, Łódź\nTU SIĘ GRA. Tu zaczyna się scena. \nPrzyjdź posłuchać. Przyjdź zagrać. Bądź częścią łódzkiej sceny muzycznej!
+URL:https://plasterlodzki.pl/wydarzenia/koncert-saksofonowy-jazz-swing-z-lat-20-30-2-4/
+LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261108T173000
+DTEND;TZID=Europe/Warsaw:20261108T210000
+DTSTAMP:20261031T071705
+CREATED:20221118T131515Z
+LAST-MODIFIED:20261030T105059Z
+UID:10028924-1794159000-1794171600@plasterlodzki.pl
+SUMMARY:Kubryk 2026 Tawerna festiwalowa - śpiewanki z zespołem Packet
+DESCRIPTION:Zapraszamy do niedzielnej Tawerny festiwalowej na wspólne śpiewane i muzykowanie z legendardną grupą Packet!\nNiewykluczone\, że będą także inni wykonawcy grający na festiwalu\nWstęp wolnyRezerwacje tel 609 152 420
+URL:https://plasterlodzki.pl/wydarzenia/oreada/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Festiwal,Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261108T180000
 DTEND;TZID=Europe/Warsaw:20261108T203000
-DTSTAMP:20261030T071705
+DTSTAMP:20261031T071705
 CREATED:20260426T095831Z
 LAST-MODIFIED:20260426T095913Z
 UID:10037465-1794160800-1794169800@plasterlodzki.pl
@@ -833,7 +1093,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261108T180000
 DTEND;TZID=Europe/Warsaw:20261108T203000
-DTSTAMP:20261030T071705
+DTSTAMP:20261031T071705
 CREATED:20260426T113807Z
 LAST-MODIFIED:20260426T113807Z
 UID:10048254-1794160800-1794169800@plasterlodzki.pl
@@ -844,9 +1104,22 @@ LOCATION:Filharmonia Łódzka im. Artura Rubinsteina\, Narutowicza 20/22\, Łód
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261108T190000
+DTEND;TZID=Europe/Warsaw:20261108T203000
+DTSTAMP:20261031T071705
+CREATED:20260903T092227Z
+LAST-MODIFIED:20261030T110828Z
+UID:10050683-1794164400-1794169800@plasterlodzki.pl
+SUMMARY:Luis Vicente / John Edwards / Vasco Trilla (First Hand vol.4)
+DESCRIPTION:8.11.2026 First Hand vol.4 John Edwards [ENG] / Luís\nLuis Vicente [PRT] / Vasco Trilla [ESP]John Edwards – kontrabas\, Luis Vincente – trąbka\, Vasco Trilla – perkusja\nCiągoty i Tęsknoty\, Al. Wojska Polskiego 144a\, godz. 19:00\nhttps://sluchaj.bandcamp.com/album/choreography-of-fractures\nhttps://www.youtube.com/watch?v=qkJzKVj6sC4…\nwstęp: 50 zł\nJohn Edwards\, Luis Vincente\, Vasco Trilla to wybitni przedstawiciele europejskiej sceny muzyki improwizowanej. Połączenie sceny brytyjskiej i iberyjskiej. Każdy z tych muzyków niesie ze sobą ogromny kawał muzycznej historii: są to dziesiątki\, a nawet setki nagrań i tysiące koncertów w przeróżnych konfiguracjach. Dorobek wszystkich członków trio z osobna zasługuje na głębokie badanie z odsłuchami (do czego zachęcamy). Na szczególne wyróżnienie w tym gronie zasługuje weteran świata improwizacji\, londyński kontrabasista John Edwards\, który nie tylko może poszczycić się tym\, że przez dekady grał z wieloma legendarnymi improwizatorami\, co sam do nich należy.\nTrio tworzone przez Luísa Vicente\, Johna Edwardsa i Vasco Trillę łączy twórczą energię free jazzu z dbałością o detal i wrażliwością typową dla wolnej improwizacji. Zespół powstał w wyniku serii koncertów w Portugalii\, stanowiąc kontynuację wcześniejszej współpracy Vicente i Trilli\, udokumentowanej na albumach *A Brighter Side of Darkness* oraz *Made of Mist*. Portugalski trębacz Luís Vicente wnosi do grupy wyrazisty styl kompozytorski i bogate doświadczenie międzynarodowe. Brytyjski kontrabasista John Edwards poszerza możliwości swojego instrumentu dzięki niezwykłej technice i wyobraźni. Vasco Trilla\, jeden z najbardziej aktywnych perkusistów na barcelońskiej scenie muzyki improwizowanej\, swobodnie porusza się między improwizacją\, jazz-rockiem\, muzyką eksperymentalną a ambientem. Każdy koncert staje się unikalną i dynamiczną konstrukcją dźwiękową.\nJohn Edwards – kontrabasLuis Vincente – trąbkaVasco Trilla – perkusja\nFirst Hand jest serią koncertów poświęconych głównie muzyce swobodnie improwizowanej. Jest to przestrzeń dla muzyków w trasach koncertowych. Nazwa jest inspirowana miejscem Lumpart\, łódzkim seceondhandem odzieżowym\, który stał się zarzewiem dla pomysłu stworzenia cyklu koncertowego właśnie dla tej przestrzeni. W międzyczasie plan trochę ewoluował i koncerty odbędą się w Lumparcie\, MSK Chojny i Ciągoty i Tęsknoty. First Hand oznacza muzykę „z pierwszej ręki’\, kreowaną w czasie rzeczywistym przez występujących muzyków. Prowadzącym serię jest Paweł Sokołowski z Musica Privata.
+URL:https://plasterlodzki.pl/wydarzenia/wojciech-jachna-squad/
+LOCATION:Ciągoty i Tęsknoty\, Wojska Polskiego 144a\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261108T200000
 DTEND;TZID=Europe/Warsaw:20261108T220000
-DTSTAMP:20261030T071705
+DTSTAMP:20261031T071705
 CREATED:20231218T133520Z
 LAST-MODIFIED:20260515T100659Z
 UID:10032379-1794168000-1794175200@plasterlodzki.pl
@@ -859,7 +1132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261108T203000
 DTEND;TZID=Europe/Warsaw:20261108T220000
-DTSTAMP:20261030T071705
+DTSTAMP:20261031T071705
 CREATED:20250717T091406Z
 LAST-MODIFIED:20260515T102103Z
 UID:10042441-1794169800-1794175200@plasterlodzki.pl
@@ -872,7 +1145,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261030T071705
+DTSTAMP:20261031T071705
 CREATED:20260327T103840Z
 LAST-MODIFIED:20260327T103840Z
 UID:10047629-1794268800-1794355199@plasterlodzki.pl
@@ -880,227 +1153,6 @@ SUMMARY:Jungle
 DESCRIPTION:Jungle wracają do Polski. 10 listopada zagrają w Atlas Arenie w Łodzi. \nBrytyjski kolektyw Jungle ogłasza powrót do Polski. 10 listopada 2026 roku zespół wystąpi w łódzkiej Atlas Arenie w ramach światowej trasy promującej nowy album „Sunshine”\, którego premiera zaplanowana jest na 14 sierpnia. \nNowe wydawnictwo zapowiada singiel „Carry On”\, wyróżniony jako „Hottest Record” w BBC Radio 1. \nJungle – czyli J Lloyd\, Tom McFarland i Lydia Kitto – w ostatnich latach przeszli drogę od kultowego projektu do globalnego headlinera. Album „Volcano” (2023) przyniósł im nagrodę BRIT Award oraz hit „Back On 74” (platyna w UK i USA)\, a kolejne trasy wyprzedały największe sale koncertowe na świecie. \nNowa trasa potwierdza tę skalę. \nJesienią zespół wyruszy w rozbudowaną trasę po Ameryce Północnej\, obejmującą m.in. Nowy Jork (Barclays Center)\, Chicago (United Center)\, Los Angeles (Crypto.com Arena) oraz Red Rocks Amphitheatre. Następnie Jungle zagra serię koncertów arenowych w Europie – w tym w Paryżu (Accor Arena)\, Amsterdamie (Ziggo Dome)\, Berlinie (Uber Arena)\, Mediolanie (Unipol Forum) oraz londyńskiej The O2. \nJednym z przystanków trasy będzie Polska – koncert w łódzkiej Atlas Arenie odbędzie się 10 listopada. \nWieczór otworzy duet Rio Kosta – jeden z najciekawszych nowych projektów na styku psychodelii\, soulu i world music\, który szybko buduje międzynarodową publiczność. \nPRZEDSPRZEDAŻ I SPRZEDAŻ BILETÓW \nFani\, którzy zamówią album „Sunshine” w przedsprzedaży w oficjalnym sklepie zespołu\, otrzymają dostęp do przedsprzedaży biletów na koncerty. Przedsprzedaż rozpocznie się w czwartek\, 26 marca o godz. 9:00 i potrwa do momentu uruchomienia sprzedaży ogólnej. Sprzedaż ogólna biletów wystartuje w piątek\, 27 marca o godz. 10:00. W 2027 roku trasa zostanie rozszerzona o Australię. \nJUNGLE – ŁÓDŹ (ATLAS ARENA)\n10 listopada 2026 \nO ZESPOLE \nJUNGLE \nJungle powstali w Londynie w 2013 roku i szybko zdobyli rozpoznawalność dzięki charakterystycznemu połączeniu disco\, soulu i hip-hopu oraz dopracowanej warstwie wizualnej. Dziś mają na koncie ponad 3\,4 miliarda odtworzeń i status jednego z najważniejszych zespołów koncertowych swojego pokolenia. \nSUPPORT: RIO KOSTA\nRio Kosta to duet z Los Angeles tworzony przez Mike’a Del Rio i Kostę Galanopoulosa\, którego muzyka łączy psychodeliczne groove’y\, soulowe harmonie wokalne i wpływy world music. Projekt powstał z intuicyjnego\, niemal „przypadkowego” spotkania obu artystów\, które szybko przerodziło się w intensywną współpracę opartą na improwizacji i wspólnym poszukiwaniu brzmienia. \nIch debiutancki album „Unicorn” to hipnotyczna\, płynna narracja dźwiękowa – określana przez samych twórców jako „halucynacyjny letni sen” – która przyciągnęła już miliony odsłuchów i rosnącą globalną publiczność. \nNa żywo Rio Kosta funkcjonują zarówno jako kameralny duet\, jak i rozbudowany skład koncertowy\, budując organiczne\, transowe doświadczenie\, które sytuuje ich wśród najciekawszych nowych projektów alternatywnej sceny.
 URL:https://plasterlodzki.pl/wydarzenia/jungle/
 LOCATION:Atlas Arena\, Bandurskiego 7\, Łódź\, łódzkie\, 94-020\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261112T190000
-DTEND;TZID=Europe/Warsaw:20261112T200000
-DTSTAMP:20261030T071705
-CREATED:20251104T111356Z
-LAST-MODIFIED:20260304T205146Z
-UID:10045328-1794510000-1794513600@plasterlodzki.pl
-SUMMARY:Mariza
-DESCRIPTION:Ikona muzyki świata portugalskojęzycznego XXI stulecia. \nJest najprawdopodobniej jedyną artystką muzyki świata\, o której bez wahania powiemy: diva\, porównując ją do największych postaci sztuki operowej. \nUrodzona w Mozambiku i wychowana w Mouraria\, jednej z najbardziej charakterystycznych i tradycyjnych dzielnic Lizbony\, Mariza dorastała otoczona głosami\, gitarami i wspomnieniami fado. Od najmłodszych lat przejęła to dziedzictwo\, przekształcając je w uniwersalny język i stając się najbardziej cenioną portugalską artystką na świecie. \nZainspirowana wielkimi nazwiskami fado i obdarzona wyjątkowym głosem\, Mariza rozpoczęła karierę od podboju Lizbony\, stając się wkrótce fenomenem ponad granicami. Dziś regularnie występuje w najbardziej prestiżowych miejscach na świecie\, od USA po Azję\, od Europy po Amerykę Łacińską\, zabierając ze sobą duszę i tożsamość Portugalii. \nW ciągu ponad dwudziestoletniej kariery Mariza zgromadziła bogactwo wyróżnień: ponad 50 platynowych płyt\, nominacje do kilku nagród Grammy\, prestiżowe międzynarodowe nagrody i wyróżnienia oraz uznanie krytyków\, które ugruntowało jej pozycję jednego z najwybitniejszych głosów w muzyce świata. \nMariza to ktoś więcej niż artystka\, to symbol: spadkobierczyni portugalskiego stanu umysłu\, ambasadorka kultury i postać\, która odrodziła się na nowo\, nie tracąc przy tym swoich korzeni. Jej muzyka jest pełna emocji\, stanowi pomost między tradycją a nowoczesnością\, pamięcią a przyszłością. \nSprzedaż biletów rozpocznie się 6 marca o g. 10:00
-URL:https://plasterlodzki.pl/wydarzenia/accantus-live-7/
-LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261113T190000
-DTEND;TZID=Europe/Warsaw:20261113T210000
-DTSTAMP:20261030T071705
-CREATED:20250828T080636Z
-LAST-MODIFIED:20261026T111227Z
-UID:10050931-1794596400-1794603600@plasterlodzki.pl
-SUMMARY:Tansman Soundscapes – soniczna architektura Łodzi | instalacja dźwiękowa Macieja Stanieckiego
-DESCRIPTION:Zapraszamy na „Tansman Soundscapes – soniczna architektura Łodzi”\, projekt Macieja Stanieckiego\, w którym twórczość Aleksandra Tansmana spotyka się z dźwiękami miasta\, tworząc przestrzeń do słuchania\, zatrzymania się i odnalezienia ciszy w miejskim zgiełku.\n„Tansman Soundscapes – soniczna architektura Łodzi” to stypendialne przedsięwzięcie Macieja Stanieckiego\, stanowiące nowoczesny dialog z twórczością Aleksandra Tansmana. Projekt jest cyklem utworów na przetwarzaną gitarę elektryczną i sonorystykę Łodzi\, a jego kształt narodził się z potrzeby zatrzymania się w środku miejskiego pędu i odnalezienia wewnętrznej ciszy. \n„Chciałem spojrzeć na Łódź inaczej. Stworzyć dźwiękową przestrzeń\, w której możemy po prostu usiąść i poczuć uwolnienie – np. takie\, jakie towarzyszy tworzeniu muzyki” – mówi Staniecki. \nZamiast tradycyjnej formy i budowania napięć\, artysta stawia na minimalizm i czyste trwanie. Przenosząc na gitarę i elektronikę nastrój oraz harmonie Tansmana\, łączy je z tkanką miejską – przypadkowymi odgłosami\, strzępkami rozmów\, szumem opon i echami architektury. \n \nFinał w postaci immersyjnej instalacji dźwiękowej („kino bez obrazu”) zostanie zaprezentowany w Fabryce Sztuki (Sala A_22 ) w Łodzi. \nData: 13 i 14 listopada o godz. 19.00\nWstęp wolny \nZe względu na ograniczoną liczbę miejsc prosimy o zgłaszanie swojej obecności w formularzu: formularz do zgłoszeń. \nMaciej Staniecki – kompozytor\, gitarzysta i producent od dwóch dekad obecny na polskiej scenie alternatywnej\, filmowej („Vinci”) i teatralnej. Współpracował m.in. z Wacławem Zimplem\, Marcinem Maseckim\, Bastardą i Zalewskim.\nmaciejstaniecki.pl \n***\nProjekt „Tansman Soundscapes – soniczna aritektura Łodzi” realizowany jest dzięki środkom otrzymanym w ramach stypendium artystycznego Miasta Łodzi\, w ramach konkursu organizowanego przez Wydział Kultury.
-URL:https://plasterlodzki.pl/wydarzenia/grudniowe-tworcze-warsztaty-2-2/2026-11-13/
-LOCATION:Fabryka Sztuki w Łodzi (Art_Inkubator)\, bp. Wincentego Tymienieckiego 3\, Łódź\, łózkie\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261114T180000
-DTEND;TZID=Europe/Warsaw:20261114T203000
-DTSTAMP:20261030T071705
-CREATED:20250502T080556Z
-LAST-MODIFIED:20260724T100919Z
-UID:10050388-1794679200-1794688200@plasterlodzki.pl
-SUMMARY:Piotr Sax - Wieczór z saksofonem
-DESCRIPTION:\,\, Najpiękniejsze melodie świata ”\,\, PIOTR SAX – WIECZÓR Z SAKSOFONEM ” Godzina 18:00 Jesteśmy Music Clubul. Jaracza 13\, ŁódźZapraszam na wyjątkowy wieczór z muzyką\, podczas którego zabrzmią najpiękniejsze melodie znane z całego świata.Usłyszycie romantyczne ballady\, ponadczasowe standardy\, utwory filmowe oraz klasyki jazzu i muzyki rozrywkowej w nastrojowych aranżacjach na saksofon.To koncert dla osób\, które cenią piękne melodie\, kameralną atmosferę i muzykę graną z sercem.W programie m.in : Besame Mucho Harlem Nocturne Only You My Way Hallelujah What a Wonderful World… i wiele innych ponadczasowych melodii\, które od lat wzruszają publiczność na całym świecie. Bilety 35 zł Rezerwacja miejsc: 531 511 500Liczba miejsc jest ograniczona
-URL:https://plasterlodzki.pl/wydarzenia/koncert-saksofonowy-jazz-swing-z-lat-20-30-4/2026-11-14/
-LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261114T190000
-DTEND;TZID=Europe/Warsaw:20261114T235900
-DTSTAMP:20261030T071705
-CREATED:20250221T133941Z
-LAST-MODIFIED:20261009T090013Z
-UID:10042474-1794682800-1794700740@plasterlodzki.pl
-SUMMARY:Americana Night: Blues for Neighbors + Gypsy Bastard + Tomek Dyniak & All-American Dogs
-DESCRIPTION:Blues for NeighborsWrocławski duet poruszający się po zakurzonych bezdrożach gothic americany i death country. Grają razem w zasadzie od zawsze\, siedzą w kuchni\, palą papierosy i wywołują stare duchy dźwiękami mrocznego folku i bluesa.Lubią naturę\, wolność i chaos – i nie do końca lubią ludzkość. Ich utwory grane były w podcastach i stacjach radiowych w Polsce i za granicą\, choćby w Walii czy Argentynie\, a dotychczasowe albumy doczekały się wielu pozytywnych recenzji na całym świecie\, od Grecji po Nowy Jork.https://bluesfn.bandcamp.com/https://www.facebook.com/BluesFNig: blues.for.neighborshttps://www.youtube.com/watch?v=C44ZTNNK6rM\nGypsy BastardSongwriter przemierzający świat z banjo na plecach.Pochodzi z Będzina\, na wpół wymarłego miasta nad czarną rzeką. W jego żyłach płynie cygańska krew wędrownego muzyka\, a nad twórczością unosi się duch surowego bluesa z delty czy folku z Appalachów.Dark country\, folk noir\, akustyczny blues\, a to wszystko w surowym\, garażowym wydaniu. Tu nie ma miejsca na wypolerowane aranże i popisy wokalne. Jest pot\, kurz i piosenki. Piosenki o miłości i śmierci.https://www.facebook.com/GypsyBastardhttps://www.instagram.com/gypsy__bastardhttps://www.youtube.com/@gypsybastardhttps://open.spotify.com/artist/5vNhCEngxJOZJYRQz4KrLOhttps://gypsybastard.bandcamp.com\nTomek Dyniak & All-American Dogs„Zastanawialiście się jak brzmiałby Bob Dylan\, gdyby zamiast w Minnesocie urodził się w Łodzi? Być może właśnie tak\, jak na swojej debiutanckiej płycie wybrzmiewa Tomek Dyniak”. – Michał Kass\, „Twój Blues”\, nr 104\, wiosna 2026.Tomek Dyniak to gitarzysta\, wokalista i autor piosenek z Łodzi. Jego twórczość nawiązuje do tradycji songwriterskiej lat 60. i 70. XX wieku. Łączą się w niej wpływy bluesa\, folku\, country i rocka.Jego debiutancki album\, „Out of Sight”\, ukazał się 6 lutego 2026 roku nakładem wytwórni Flower Records. Na scenie będzie mu towarzyszył zespół All-American Dogs złożony ze znakomitych łódzkich muzyków.https://www.facebook.com/TomekDyniakmusichttps://www.youtube.com/@tomekdyniak6101https://tomekdyniak.bandcamp.com/album/out-of-sight
-URL:https://plasterlodzki.pl/wydarzenia/koncert-saksofonowy-jazz-swing-z-lat-20-30-2/
-LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261114T190000
-DTEND;TZID=Europe/Warsaw:20261114T210000
-DTSTAMP:20261030T071705
-CREATED:20261026T110757Z
-LAST-MODIFIED:20261026T110757Z
-UID:10050928-1794682800-1794690000@plasterlodzki.pl
-SUMMARY:Koncert Dobrych Myśli
-DESCRIPTION:Koncert Dobrych Myśli\n\n\n\n\n\n\n\n\nData: 14.11.2026\nGodzina: 19:00\nLokalizacja: Sala Widowiskowa Łódzkiego Centrum Wydarzeń\, Zachodnia 54/56 Łódź\nWstęp: wydarzenie biletowane \n  \nPrzeżyj niesamowitą podróż dzięki koncertowi „DOBRYCH MYŚLI”.\nBędzie to podróż nie tylko muzyczna\, ale i duchowa. \n  \nWyjątkowość tego wydarzenia polega nie tylko na treści samych utworów ale i na całej formie koncertu. Tego wieczoru na naszej sali zagoszczą kwiaty\, ciepłe światła\, a uczestnicy będą mogli oddać się muzycznemu uniesieniu\, relaksując się wygodnie na leżakach\, które zastąpią tym razem standardową widownię. \n  \nWspomniana wcześniej treść koncertu staje się natomiast najbardziej zachęcająca. Artyści zagrają utwory\, które mogą Państwo znać – w aranżacjach\, które wprowadzą w błogi stan. Sami twórcy mówią o nim tak: \n  \n„Koncert Dobrych Myśli to spektakl łączący w sobie utwory muzyczne o subtelnym klimacie. Pojawiające się w nim teksty skłaniają do refleksji na temat życia\, piękna otaczającego nas świata\, jedności człowieka z Naturą\, tego kim naprawdę jesteśmy i jaki mamy wpływ na tworzenie naszej rzeczywistości. To podróż w głąb siebie\, by odnaleźć w sobie ciszę\, a w niej odpowiedzi na nurtujące nas pytania.” \n  \nPomiędzy utworami wykonywanymi przez ośmioosobowy zespół ze Śremu\, usłyszymy tzw. „Dobre Myśli”\, skłaniające nas do zastanowienia się nad tym\, co najistotniejsze. Są to sprawy proste\, jednak pogubione gdzieś pomiędzy obowiązkami\, w pędzie każdego dnia\, w rutynie\, lub w potrzebie ciągłego dążenia do osiągnięcia celów wielkich. W tym pośpiechu zapominamy często o przyziemnych\, lecz wbrew pozorom bardzo ważnych\, dla każdego człowieka\, rzeczach. Koncert Dobrych Myśli jest właśnie po to\, by o nich sobie przypomnieć\, a może wreszcie zdać sobie z nich sprawę \n  \n„Bo wszystko jest w nas\, tylko nas tam często nie ma” \n  \nSkład: \nAnna Laska-Szmyt – śpiew\nAgata Szulczewska\, Małgorzata Ławniczak\, Zofia Dudek – głosy towarzyszące\nTomasz Buchwald – instrumenty perkusyjne\nKrzysztof Dudek – instrumenty klawiszowe\nPaweł Kaczmarek – gitara akustyczna\nWojciech Dudek – gitara basowa \n 
-URL:https://plasterlodzki.pl/wydarzenia/koncert-dobrych-mysli/
-LOCATION:Łódzkie Centrum Wydarzeń / dawnej Akademicki Ośrodek Inicjatyw Artystycznych\, Zachodnia 54/56\, Łódź\, łódzkie
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261114T190000
-DTEND;TZID=Europe/Warsaw:20261114T210000
-DTSTAMP:20261030T071705
-CREATED:20250828T080636Z
-LAST-MODIFIED:20261026T111227Z
-UID:10050932-1794682800-1794690000@plasterlodzki.pl
-SUMMARY:Tansman Soundscapes – soniczna architektura Łodzi | instalacja dźwiękowa Macieja Stanieckiego
-DESCRIPTION:Zapraszamy na „Tansman Soundscapes – soniczna architektura Łodzi”\, projekt Macieja Stanieckiego\, w którym twórczość Aleksandra Tansmana spotyka się z dźwiękami miasta\, tworząc przestrzeń do słuchania\, zatrzymania się i odnalezienia ciszy w miejskim zgiełku.\n„Tansman Soundscapes – soniczna architektura Łodzi” to stypendialne przedsięwzięcie Macieja Stanieckiego\, stanowiące nowoczesny dialog z twórczością Aleksandra Tansmana. Projekt jest cyklem utworów na przetwarzaną gitarę elektryczną i sonorystykę Łodzi\, a jego kształt narodził się z potrzeby zatrzymania się w środku miejskiego pędu i odnalezienia wewnętrznej ciszy. \n„Chciałem spojrzeć na Łódź inaczej. Stworzyć dźwiękową przestrzeń\, w której możemy po prostu usiąść i poczuć uwolnienie – np. takie\, jakie towarzyszy tworzeniu muzyki” – mówi Staniecki. \nZamiast tradycyjnej formy i budowania napięć\, artysta stawia na minimalizm i czyste trwanie. Przenosząc na gitarę i elektronikę nastrój oraz harmonie Tansmana\, łączy je z tkanką miejską – przypadkowymi odgłosami\, strzępkami rozmów\, szumem opon i echami architektury. \n \nFinał w postaci immersyjnej instalacji dźwiękowej („kino bez obrazu”) zostanie zaprezentowany w Fabryce Sztuki (Sala A_22 ) w Łodzi. \nData: 13 i 14 listopada o godz. 19.00\nWstęp wolny \nZe względu na ograniczoną liczbę miejsc prosimy o zgłaszanie swojej obecności w formularzu: formularz do zgłoszeń. \nMaciej Staniecki – kompozytor\, gitarzysta i producent od dwóch dekad obecny na polskiej scenie alternatywnej\, filmowej („Vinci”) i teatralnej. Współpracował m.in. z Wacławem Zimplem\, Marcinem Maseckim\, Bastardą i Zalewskim.\nmaciejstaniecki.pl \n***\nProjekt „Tansman Soundscapes – soniczna aritektura Łodzi” realizowany jest dzięki środkom otrzymanym w ramach stypendium artystycznego Miasta Łodzi\, w ramach konkursu organizowanego przez Wydział Kultury.
-URL:https://plasterlodzki.pl/wydarzenia/grudniowe-tworcze-warsztaty-2-2/2026-11-14/
-LOCATION:Fabryka Sztuki w Łodzi (Art_Inkubator)\, bp. Wincentego Tymienieckiego 3\, Łódź\, łózkie\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261114T193000
-DTEND;TZID=Europe/Warsaw:20261114T220000
-DTSTAMP:20261030T071705
-CREATED:20221118T131025Z
-LAST-MODIFIED:20260821T120712Z
-UID:10028917-1794684600-1794693600@plasterlodzki.pl
-SUMMARY:Skacz jak Kucyk Tour
-DESCRIPTION:Po sukcesie pierwszej odsłony trasy i wyprzedanych spotkaniach w 2025 roku Przemek Kucyk wraca z jeszcze większą energią! Jesienią 2026 roku jeden z najpopularniejszych polskich twórców internetowych ponownie wyruszy w Polskę z trasą „Skacz jak Kucyk Tour”.\nPrzemek Kucyk zdobył ogromną popularność dzięki swoim humorystycznym filmom\, charakterystycznym postaciom i autentycznemu kontaktowi z fanami. Jego materiały regularnie osiągają milionowe zasięgi\, a grono obserwujących stale rośnie.\nDruga edycja trasy to nowe historie\, jeszcze więcej śmiechu\, niespodzianek i wyjątkowych spotkań na żywo. Jesienią 2026 roku jedno jest pewne – cała Polska znów będzie skakać jak Kucyk! \n BILETY: https://www.ticketmaster.pl/…/przemek-kucyk-bilety/1497013\n\n SPOTKANIE MEET&GREET 17:00 OTWARCIE BRAMEK NA KONCERT 18:30 START KONCERTU 19:30\n\n 17 października – Szczecin | Kosmos� 23 października – Wrocław | Zaklęte Rewiry� 28 października – Kraków | Hype Park� 7 listopada – Gdańsk | Echo Sfera� 14 listopada – Łódź | Scenografia� 21 listopada – Poznań | Szum� 26 listopada – Lublin | Zgrzyt\n Osoby poniżej 12 roku życia mogą uczestniczyć w Wydarzeniu wyłącznie pod opieką rodzica\, opiekuna prawnego lub przedstawiciela ustawowego. Jeden dorosły opiekun osoby do ukończenia 12 roku życia ma prawo do bezpłatnego wstępu na Wydarzenie (zarówno na spotkanie meet&greet jak i koncert). Osoby poniżej 16 roku życia zobowiązane są do posiadania pisemnej zgody rodzica lub opiekuna prawnego.
-URL:https://plasterlodzki.pl/wydarzenia/armia/
-LOCATION:Klub Scenografia\, Zachodnia 81/83\, Łódź\, łódzkie\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261114T200000
-DTEND;TZID=Europe/Warsaw:20261114T220000
-DTSTAMP:20261030T071705
-CREATED:20251220T220026Z
-LAST-MODIFIED:20251220T220026Z
-UID:10045914-1794686400-1794693600@plasterlodzki.pl
-SUMMARY:Dawid Kwiatkowski – Proszę Tańcz Tour
-DESCRIPTION:Dawid Kwiatkowski powraca z nową trasą koncertową promującą jego nadchodzący album. Trasa „Proszę Tańcz Tour” to zaproszenie do świata\, w którym muzyka łączy się z niesamowitą energią sceniczną. Artysta i jego zespół przygotowali show\, które zaskoczy nawet najwierniejszych słuchaczy\, nadając również znanym przebojom zupełnie nowy i emocjonalny wymiar. \nDawid Kwiatkowski Proszę Tańcz Tour 2026\nTak o trasie opowiada sam Dawid: \nPamiętam moment\, kiedy przy tworzeniu „Proszę Tańcz” poczułem\, że właśnie ten klimat poprowadzi mnie muzycznie przez kolejne lata. Energia\, która wtedy wybuchła w studiu i przelała się na następne utwory\, sprawiła\, że moja wrażliwość w końcu znalazła idealne ujście. To był ten jeden impuls\, po którym wszystko zaczęło układać się w spójną\, prawdziwą całość. Złożyłem się wtedy i ja. Zaczęła się składać również cała płyta. \nI teraz chcę Was do tego świata zaprosić. Na koncerty\, które będą czymś więcej niż tylko promocją albumu. To będzie przestrzeń dla wrażliwych\, otwartych\, dla tych\, którzy chcą poczuć muzykę inaczej niż dotąd. Dla tych\, którzy chcą poznać zupełnie innego mnie — spokojniejszego\, odważniejszego i bliższego emocjom\, które naprawdę niosą te piosenki. \nNa scenie oddam Wam dokładnie to\, co poczułem w tamtym studiu: prawdę\, żar\, lekkość\, rytmy południa i polską melancholię. Przyjdźcie. \nPoznajmy się jeszcze raz. Chcę przeżyć to z Wami. \nHarmonogram koncertu:\n\nOtwarcie bram M&G: 16:00\nOtwarcie bram bilety early entrance: 17:30\nOtwarcie bram bilety standardowe: 18:30\nStart koncertu: 20:00\n\nUwaga: podane godziny są orientacyjne i mogą ulec zmianie. \nDawid Kwiatkowski bilety\nMeet & Greet (tylko wybrane miasta)\nBilet Meet & Greet zawiera: \n\nspotkanie z Dawidem Kwiatkowskim\nzdjęcie z artystą\nbilet na koncert\nwcześniejsze wejście na koncert\nunikatowy gift\n\nBilet Early Entrance\nTo wcześniejsze wejście na koncert. Uwaga! jeżeli się spóźnisz również będziesz mógł uczestniczyć w koncercie. Nie zwracamy różnicy w cenie bądź całkowitej kwoty za zakupiony bilet \nOgraniczenia wiekowe\nOsoby małoletnie poniżej 16 roku życia muszą być pod opieką osoby pełnoletniej. Opiekun zobowiązany jest również do posiadania biletu w tej samej kategorii cenowej\, co osoba małoletnia.
-URL:https://plasterlodzki.pl/wydarzenia/dawid-kwiatkowski-prosze-tancz-tour/
-LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261115T180000
-DTEND;TZID=Europe/Warsaw:20261115T210000
-DTSTAMP:20261030T071705
-CREATED:20251010T101717Z
-LAST-MODIFIED:20261009T091107Z
-UID:10042066-1794765600-1794776400@plasterlodzki.pl
-SUMMARY:Jesienny wieczór z gambijskim jazzem w Łodz
-DESCRIPTION:Gambian Acoustic JazzBuba Badjie Kuyateh & Sakung Jobarteh\nJesienny wieczór\, kameralna przestrzeń\, dwóch wybitnych muzyków i dźwięki\, które prowadzą prosto nas od wybrzeży Afryki Zachodniej po wieczorne kluby muzyczne Nowego Orleanu lat 30.\nW łódzkiej kawiarni podróżniczej spotkają się dwaj wirtuozowie swoich instrumentów i kuzyni\, potomkowie słynnego rodu gambijskich griotów – Buba Badjie Kuyateh oraz Sakung Jobarteh. Ich wspólny projekt Gambian Acoustic Jazz wyrasta z wielowiekowej tradycji\, ale pozostawia dużo miejsca na jazzową frazę i improwizację oraz rockowy riff.Buba\, mistrz kory i charyzmatyczny wokalista\, spotka się z Sakungiem\, wybitnym gitarzystą. Ich instrumenty staną się punktem wyjścia do muzycznej rozmowy zachwycającej publiczność szukającą czarujących\, klimatycznych koncertów.To spotkanie nastawione na atmosferę. Bez dużej sceny i dystansu.\nByć może\, jest to jedyna szansa\, by usłyszeć ten duet w tym wydaniu.Liczba miejsc w kawiarni jest ograniczona\, dlatego warto zarezerwować swoje miejsce wcześniej!Kupując swoją wejściówkę wspierasz kulturę i twórców. Bardzo za to dziękujemy! \nGambian Acoustic JazzBuba Badjie Kuyateh – kora\, wokalSakung Jobarteh – gitara semiakustyczna\n Tubylec Café\, Łódź Niedzielny wieczór\, 15 listopada\, 2026 18:00Rezerwacja biletów: https://zrzutka.pl/gacnrs\nSingiel Tungha: https://open.spotify.com/track/3v9IuPVlX57FxpUj3GJDN2…—————————–Buba Badjie Kuyateh\nWirtuoz kory\, kompozytor i charyzmatyczny wokalista. Urodził się w Gambii\, wśród cenionych griotów\, mistrzów muzyki i strażników tradycji Afryki Zachodniej. Pochodzi z rodziny legendarnego mistrza kory Alhagi Bai Konteh\, którego dziedzictwo wpłynęło na kolejne pokolenia muzyków grających na tym instrumencie na całym świecie. W 2012 roku Buba wyjechał do Europy\, gdzie rozpoczął międzynarodową\, solową karierę. Na swój dom wybrał Polskę i ukochał z wzajemnością obecną tu scenę muzyczną. Regularnie współpracuje z wybitnymi muzykami\, takimi jak Maria Pomianowska\, Marcin Masecki czy Włodzimierz Kiniorski. Przez 10 lat tworzył muzyczny duet ze Stanisławem Soyką\, z którym w 2017 roku wydał album Action Direct Tales. Jego koncerty są pokazem kunsztu tradycji i improwizacji jazzowych\, przy jednocześnie niezwykłym kontakcie z publicznością.\nSakung Jobarteh\nMistrz gitary akustycznej. Pochodzi z legendarnej\, muzycznej rodziny gambijskich griotów\, jest bratem Dawdy Jobarteha\, mieszkającego w Danii i wujem Sony Jobarteh – wybitnych korzystów.Muzyka i tradycja griotów są częścią jego rodzinnego dziedzictwa\, które Sakung od dziesięcioleci łączy ze skandynawskim stylem muzycznym.Mieszka w Norwegii ponad 30 lat. Tam rozwija swoją solową karierę muzyczną. Ze swoim zespołem koncertuje w całej Europie.Dziś muzyczna droga ponownie łączy go z kuzynem\, Bubą Badjie Kuyateh. Artyści spotykają się w projekcie Gambian Acoustic Jazz\, w którym wybrzmiewają ujmujące solówki\, ciepły wokal i koktajl jazzowej improwizacji z zachodnioafrykańską tradycją.\nNie przegap tego spotkania! Do zobaczenia w Łodzi
-URL:https://plasterlodzki.pl/wydarzenia/nepal-solisci-roadshow-2024-prelekcje-podroznicze-2/
-LOCATION:Tubylec\, Retkińska 70\, Łódź\, Poland
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261115T200000
-DTEND;TZID=Europe/Warsaw:20261115T213000
-DTSTAMP:20261030T071705
-CREATED:20260426T100345Z
-LAST-MODIFIED:20260426T100345Z
-UID:10048173-1794772800-1794778200@plasterlodzki.pl
-SUMMARY:Danse\, Danse Paris!
-DESCRIPTION:Danse\, Danse Paris! Poczuj magię paryskiej nocy w Twoim mieście! Światła przygasają. Kurtyna unosi się powoli. W powietrzu czuć zapach perfum\, tajemnicy i artystycznej wolności. Tak zaczyna się wieczór\, który przenosi widzów prosto do serca Paryża – miasta namiętności\, sztuki i niepowtarzalnego klimatu kabaretu. Po raz pierwszy w trasie koncertowej – spektakl „Danse\, Danse Paris!” inspirowany legendarną atmosferą Moulin Rouge\, rewią\, burleską i energetycznym kankanem. To widowisko muzyczno-taneczne\, które łączy spektakularną oprawę wizualną z poruszającą historią i wybitnymi interpretacjami wokalnymi. Akcja rozgrywa się w artystycznym świecie francuskiej bohemy – pełnym marzeń\, miłości\, uniesień i dramatów. Na scenie zobaczymy zjawiskową Danutę Bańczyk – wokalistkę o magnetycznej barwie głosu i scenicznej charyzmie (występ wyłącznie w Warszawie). W pozostałych miastach w tej roli wystąpi Julia Kozłowska\, wnosząc do spektaklu własną wrażliwość i wyjątkową interpretację tej niezwykłej opowieści. Towarzyszyć im będzie Dawid Bawor – charyzmatyczny showman\, który z lekkością i elegancją poprowadzi widzów przez ten pełen emocji wieczór. Całość spaja narrator – Jan de Cracovien – tworząc opowieść\, która wciąga od pierwszej do ostatniej minuty. Towarzyszący artystom zespół tancerek zachwyca precyzją ruchu\, zmysłowością i sceniczną energią. Kostiumy olśniewają przepychem\, piórami i błyskiem\, a choreografie łączą klasykę paryskiej rewii z nowoczesnym wyrazem scenicznym. To spektakl dopracowany w każdym detalu – od światła\, przez scenografię\, aż po dramaturgię. W repertuarze znalazły się utwory\, które rozpalają emocje i budzą wspomnienia: poruszające „Belle” z musicalu Notre Dame de Paris\, namiętne „Roxanne” z Moulin Rouge\, romantyczne „Mon amour” Slimane’a oraz wiele innych kompozycji\, które idealnie wpisują się w klimat pełnej pasji francuskiej nocy. „Danse\, Danse Paris!” to propozycja dla dorosłych widzów\, którzy pragną czegoś więcej niż zwykłego koncertu. To wieczór zmysłowy\, elegancki i wyrafinowany – idealny na randkę\, rocznicę\, wyjątkowe wyjście z przyjaciółmi lub prezent dla kogoś\, kto kocha sztukę i piękno. To odskocznia od codzienności\, podróż do świata\, w którym liczą się emocje\, estetyka i niezapomniane chwile. Kameralność paryskiego kabaretu spotyka się tu z rozmachem scenicznego show. Intymność spojrzeń miesza się z eksplozją energii tańca. Subtelność przechodzi w ogień pasji. To spektakl\, który pobudza zmysły\, wzrusza i zachwyca – pozostawiając w sercu nutę francuskiej nostalgii. Pozwól sobie na wieczór w rytmie Paryża! Daj się porwać muzyce\, tańcu i historii\, która rozgrywa się tuż przed Twoimi oczami. Danse\, Danse Paris! – tej nocy wszystko może się wydarzyć… \nCzytaj więcej na: https://www.kupbilecik.pl/imprezy/200687/%C5%81%C3%B3d%C5%BA/Danse%2C+danse+Paris%21/
-URL:https://plasterlodzki.pl/wydarzenia/danse-danse-paris/
-LOCATION:Zatoka Sportu\, Al. Politechniki 10\, Łódź\, łódzkie\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-DTSTAMP:20261030T071705
-CREATED:20260327T103907Z
-LAST-MODIFIED:20260327T103907Z
-UID:10047630-1794960000-1795046399@plasterlodzki.pl
-SUMMARY:Placebo
-DESCRIPTION:Z okazji trzydziestej rocznicy wydania przełomowego\, debiutanckiego albumu zespół Placebo ogłasza wydanie „Placebo RE:CREATED” – nowej\, porywającej wersji płyty\, która w 1996 roku po raz pierwszy zaprezentowała grupę szerokiej publiczności. Album ukaże się 19 czerwca 2026 roku nakładem wytwórni Elevator Lady Ltd za pośrednictwem AWAL. \nPojawiając się na scenie w szczytowym okresie ery britpopu\, zespół Placebo stanowił wyraźny kontrast w stosunku do panującego wówczas klimatu kulturowego. Podczas gdy większość brytyjskiej muzyki gitarowej w tamtych czasach skupiała się na chłopięcej nostalgii i tożsamości narodowej\, debiutancki album Placebo oferował coś znacznie bardziej prowokacyjnego i konfrontacyjnego. Utwory poruszały tematy seksualności\, androgynii\, uzależnień i wyobcowania z rzadko spotykaną w ówczesnym mainstreamowym rocku szczerością\, dzięki czemu zespół stał się jednym z najbardziej charakterystycznych głosów swojego pokolenia. \n  \nTrzydzieści lat później\, na albumie „Placebo RE:CREATED”\, zespół powraca do tego przełomowego wydawnictwa ze świeżym spojrzeniem. Nowa płyta zawiera przerobione i wzbogacone wersje wszystkich dziesięciu utworów z oryginalnego albumu oraz dwa utwory bonusowe z pierwotnego wydania\, oddając ewolucję tych piosenek na przestrzeni dziesięcioleci występów\, a jednocześnie zachowując surowy charakter\, który je definiował. Wśród utworów znajdują się przełomowe single „Nancy Boy” i „36 Degrees”\, które pomogły ugruntować reputację Placebo jako zespołu o odważnej liryce i brzmieniu wykraczającym poza granice gatunków. Te nowe nagrania wzmacniają intensywność i charakter\, dzięki którym oryginały wywołały tak silny oddźwięk\, jednocześnie odzwierciedlając rozwój i doświadczenie zespołu w latach\, które upłynęły od ich debiutu. \n  \nPlacebo tak komentuje swój nowy album: \n“We think of this record as a director’s cut. We haven’t recreated it from scratch. We went back to the original master tapes and brought 30 years of playing these songs live back into the record.  This project was about finally finishing the record\, dragging it into the 21st century sonically\, while preserving the integrity and the spirit of the original. It’s not about improving it\, there’s nothing wrong with it\, it’s about completing it. When we made the first album\, we didn’t yet have the experience or the studio knowledge to fully translate what was in our heads. Over the years\, the songs took on a life of their own on stage; they grew\, they developed\, they kind of completed themselves. It’s a celebration of where we began\, and a meeting point between who we were then and who we are now. It’s a way of honouring that innocence\, while letting the songs exist with the scale\, confidence\, and energy of the band we’ve become.” \n  \nKiedy w 1996 roku na scenie pojawił się nowy zespół Placebo\, jego estetyka i treść tekstów podważyły utarte standardy brytyjskiej kultury rockowej. Ich identyfikacja wizualna – celowo niejednoznaczna\, efektowna i prowokacyjna – podważała tradycyjne wyobrażenia o płci i męskości w czasach\, gdy tematy te rzadko pojawiały się w głównym nurcie dyskusji. W ten sposób Placebo wytyczyło przestrzeń dla innego rodzaju alternatywnego głosu\, który głęboko rezonował z odbiorcami pozostającymi poza głównym nurtem kultury i do dziś stanowi punkt odniesienia dla wielu ich współczesnych. \nDzisiaj dyskusje na temat tożsamości\, ekspresji płciowej i indywidualności są bardziej widoczne – i często budzą większe kontrowersje – niż kiedykolwiek wcześniej. W tym kontekście początki debiutanckiego albumu Placebo znów wydają się niezwykle aktualne. Album „Placebo RE:CREATED” nie tylko stanowi hołd dla dziedzictwa oryginalnego wydawnictwa\, ale także podkreśla jego niezmienne znaczenie kulturowe\, potwierdzając\, jak bardzo ten album wyprzedzał swoje czasy w momencie premiery. \nAlbum został odtworzony przez Briana Molko i Roba Kirwana na podstawie oryginalnych taśm master\, a miksem zajął się Adam Noble. Efektem jest kompilacja\, która zachowuje bezpośredniość i buntowniczy charakter oryginału\, jednocześnie przenosząc brzmienie na nowe terytorium – odzwierciedlając zarówno długą historię zespołu związaną z tymi utworami\, jak i jego nieustanną ewolucję twórczą. \n  \nJeszcze w tym roku Placebo wyruszy w obszerną trasę koncertową po Wielkiej Brytanii i Europie\, aby uczcić tę doniosłą rocznicę. Muzycy wykonają utwory ze swoich dwóch pierwszych albumów\, „Placebo” i „Without You I’m Nothing” – z których część nie była grana na żywo od ponad 20 lat! Trasa rozpocznie się w Portugalii\, a następnie przeniesie się do innych krajów Europy\, w tym m.in. 18 listopada do Atlas Areny w Łodzi\, by zakończyć się w Wielkiej Brytanii. W tym czasie zagrają 36 koncertów przed setkami tysięcy fanów. \n  \nPrzedsprzedaż na stronie artysty: wtorek\, 24 marca o godz. 10:00 \nPrzedsprzedaż Ticketmaster: czwartek\, 26 marca o godz. 10:00 \nSprzedaż ogólna: piątek\, 27 marca o godz. 10:00 na www.LiveNation.pl \n  \nPlacebo\, na zaproszenie Roberta Smitha z The Cure\, wystąpi również na scenie wraz ze swoimi dobrymi przyjaciółmi z zespołu „Garbage” podczas serii koncertów Teenage Cancer Trust w legendarnej Royal Albert Hall. Ta coroczna seria od dawna jest jednym z najbardziej szanowanych charytatywnych wydarzeń muzycznych w Wielkiej Brytanii\, gromadzącym czołowych artystów w celu zbierania funduszy dla młodych ludzi zmagających się z rakiem. Wszystkie bilety dostępne tutaj: https://placebo.ffm.to/live \n  \nAlbum „Placebo RE:CREATED” będzie można przedpremierowo zamówić od 18 marca w różnych wersjach. \n  \nTRACKLISTA „PLACEBO RE:CREATED” \n\nCome Home\nTeenage Angst\nBionic\n36 Degrees\nHang On To Your IQ\nNancy Boy\nI Know\nBruise Pristine\nLady of the Flowers\nSwallow\nDrowning By Numbers\nH.K. Farewell
-URL:https://plasterlodzki.pl/wydarzenia/placebo/
-LOCATION:Atlas Arena\, Bandurskiego 7\, Łódź\, łódzkie\, 94-020\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261118T190000
-DTEND;TZID=Europe/Warsaw:20261118T203000
-DTSTAMP:20261030T071705
-CREATED:20261026T103016Z
-LAST-MODIFIED:20261026T103016Z
-UID:10050907-1795028400-1795033800@plasterlodzki.pl
-SUMMARY:Koncert First Hand vol.5: „WCIAS”
-DESCRIPTION:First Hand jest cyklem koncertów poświęconych głównie muzyce swobodnie improwizowanej. Jest toprzestrzeń dla muzyków w trasach koncertowych. Nazwa jest inspirowana miejscem Lumpart\, łódzkim seceondhandem odzieżowym\, który stał się zarzewiem dla pomysłu stworzenia cyklu koncertowego specjalnie pod tę przestrzeń.. First Hand oznacza muzykę „z pierwszej ręki’\, kreowaną w czasie rzeczywistym przez występujących muzyków. Kuratorem projektu jest Paweł Sokołowski z Musica Privata. \n  \nZespół WCIAS powstał w roku 2007 w wielkopolskim Wolsztynie\, a od roku 2015 roku funkcjonuje jako duet braci bliźniaków: Karola i Filipa Majerowskich\, znanych również z innych licznych\nmuzycznych aktywności\, szczególnie w obszarze muzyki tradycyjnej. Obecnie koncertują\, grając muzykę inspirowaną tradycyjną muzyką wielkopolską\, którą zarejestrowali na albumie „Wiwaty”. \n  \nArtyści: \nKarol Majerowski [PL]— dudy wielkopolskie\, trąbka\, śpiew\nFilip Majerowski [PL]— puzon\, tuba\, sakshorn tenorowy\, corno\, trąbka\, śpiew \nOdsłuch: \nhttps://wcias.bandcamp.com/album/wiwaty \nhttps://youtu.be/Bft65fWoXpc?si=xSL5de8aACvkmjkO \nwstęp 40 zł
-URL:https://plasterlodzki.pl/wydarzenia/koncert-first-hand-vol-5-wcias/
-LOCATION:Lumpart\, Kościuszki 36\, Łódź\, Poland
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261118T193000
-DTEND;TZID=Europe/Warsaw:20261118T220000
-DTSTAMP:20261030T071705
-CREATED:20260501T090739Z
-LAST-MODIFIED:20260508T084725Z
-UID:10048368-1795030200-1795039200@plasterlodzki.pl
-SUMMARY:Interferencje
-DESCRIPTION:INTERFERENCJE  Cykl spotkań dźwiękowych organizowanych w Łodzi przez Radio Kapitał.\n wiosenna edycja „Interferencji” odbędzie się w malowniczej scenerii ogrodu pałacu Alfreda Biedermanna \n\n Tak jak w fizyce fale nakładają się\, tworząc nowe struktury\, tak tutaj spotkają się idee\, osobowości i talenty. Z tych przecięć powstanie coś niepowtarzalnego. \nKoncerty i rozmowy z twórczyniami i twórcami\, podczas których:\n słuchamy w bliskości zaglądamy głębiej w praktyki artystyczne łączymy światy muzyki współczesnej\, niezależnej i sound artu\n 10.05 niedziela godzina 16:00  koncert Tymka Papiora Rozmowę po koncercie poprowadzi Bartosz Nowickiogród Pałacu Biedermanna ul. Franciszkańska 1/5 Wstęp wolny!\n Tymek Papior \nMultiinstrumentalista\, kompozytor i producent. Artysta wykorzystuje preparowane instrumenty akustyczne\, znalezione przedmioty oraz nagrania terenowe\, które zestawia z cyfrowym brzmieniem instrumentów midi oraz elektroniki do zniekształcania i tworzenia dźwięku. W 2024 Artysta wydał albumy – LUMBAGO (Tymek Papior\, Wuja HZG) oraz debiutancką solową płytę „Rugs/Carpets”\, która została nominowana do nagrody Fryderyk 2025. W styczniu 2026 ukazał się najnowszy album Tymka – „WSPÓLNA SPRAWA LP” wydanym przez label BZR RECORDS\, który współtworzy.\nhttps://www.instagram.com/tymekpapior/https://culture.pl/pl/tworca/tymek-papior\n—\n Bartosz Nowicki – krytyk muzyczny\, publicysta\, badacz dźwięku i uważny słuchacz. W latach 2012–2018 prowadził blog 1uchem/1okiem\, poświęcony polskiej muzyce niezależnej. Publikował m.in. w „Polityce”\, „Gazecie Magnetofonowej”\, „Kwartalniku Muzycznym M/I” i „Czasie Kultury”. Na co dzień współpracuje z dwutygodnik.com.\nUwielbia dźwięki i nasłuchiwanie\, a jego teksty i wystąpienia łączą refleksję nad muzyką współczesną z czułością wobec codziennego pejzażu akustycznego. Interesuje go to\, jak słuchanie staje się sposobem poznawania świata — i jak muzyka może otwierać nas na inne formy wrażliwości.\n\n\n\n\n\n Tak jak w fizyce fale nakładają się\, tworząc nowe struktury\, tak tutaj spotkają się idee\, osobowości i talenty. Z tych przecięć powstanie coś niepowtarzalnego. \nKoncerty i rozmowy z twórczyniami i twórcami\, podczas których:\n słuchamy w bliskości zaglądamy głębiej w praktyki artystyczne łączymy światy muzyki współczesnej\, niezależnej i sound artu 24.05 niedziela godzina 16:00 koncert Antoniny Nowackiej Rozmowę po koncercie poprowadzi Bartosz Nowickiogród Pałacu Biedermanna ul. Franciszkańska 1/5 Wstęp wolny!\n Antonina Nowacka \npolska wokalistka\, kompozytorka i artystka dźwięku. Głęboko zainteresowana naturą dźwięku – zwłaszcza jego wpływem na układ nerwowy i zdolnością muzyki do wprowadzania wykonawcy i słuchaczy w określone stany umysłu.\nStudiowała na Akademii Sztuk Pięknych w Warszawie w pracowni Mirosława Bałki\, muzykologię w ISI Yogyakarta (dzięki stypendium Ministra Kultury Indonezji)\, a także tradycyjne hindustańskie techniki wokalne pod kierunkiem Shashwati Mandal\, mistrzyni stylu Gwalior.\nCzerpiąc z muzyki tradycyjnej\, zjawisk naturalnych i stanów hipnagogicznych\, tworzy performances łączące dźwięk\, architekturę i wyobraźnię. Jej eksploracje oscylują wokół muzyki dawnej – pieśni religijnych\, antycznych i operowych – oraz eksperymentów z elektroniką i aparatem mowy.\nWspółpracowała m.in. z Sofie Birch (albumy Languoria i Hiraeth). Koncertowała na festiwalach takich jak Unsound\, a jej muzyka zdobywała najwyższe noty m.in. w Pitchforku i The Wire.\n— Bartosz Nowicki – krytyk muzyczny\, publicysta\, badacz dźwięku i uważny słuchacz. W latach 2012–2018 prowadził blog 1uchem/1okiem\, poświęcony polskiej muzyce niezależnej. Publikował m.in. w „Polityce”\, „Gazecie Magnetofonowej”\, „Kwartalniku Muzycznym M/I” i „Czasie Kultury”. Na co dzień współpracuje z dwutygodnik.com.Uwielbia dźwięki i nasłuchiwanie\, a jego teksty i wystąpienia łączą refleksję nad muzyką współczesną z czułością wobec codziennego pejzażu akustycznego. Interesuje go to\, jak słuchanie staje się sposobem poznawania świata — i jak muzyka może otwierać nas na inne formy wrażliwości.\n\n\n\nKoncerty i rozmowy z twórczyniami i twórcami\, podczas których:\n słuchamy w bliskości zaglądamy głębiej w praktyki artystyczne łączymy światy muzyki współczesnej\, niezależnej i sound artu\n 31.05 niedziela godzina 16:00 koncert Katarina Gryvul Rozmowę po koncercie poprowadzi Justyna Anders-Morawskaogród Pałacu Biedermanna ul. Franciszkańska 1/5 Wstęp wolny!\n Katarina Gryvul \nKatarina Gryvul jest klasycznie wykształconą kompozytorką\, skrzypaczką i producentką muzyczną. Po ukończeniu studiów skupiła się na muzyce elektronicznej\, łącząc klasyczne przygotowanie z awangardowymi technikami. W swojej twórczości wykorzystuje live electronics\, analogowe syntezatory oraz dźwięk przestrzenny\, tworząc immersyjne pejzaże dźwiękowe. Występowała m.in. na Lunchmeat Festival\, Ephemerze\, Rewire\, Ars Electronica czy Musikprotokoll.\n„Spomyn (wspomnienie) to eksploracja kruchej\, pofragmentowanej natury pamięci\, ukazująca\, w jaki sposób kształtuje ona sedno naszej tożsamości” – pisze o swoim albumie z 2025 kompozytorka Gryvul łączy tradycyjne motywy muzyczne z eksperymentalnymi technikami. W efekcie powstaje mroczny\, gęsty pejzaż dźwiękowy.\nhttps://www.gryvul.com/\n—\n dr Justyna Anders-Morawska – badaczka dźwięku i adiunktka na Wydziale Studiów Międzynarodowych i Politologicznych UŁ. Zajmuje się politycznością audiosfery – bada\, jak pejzaż dźwiękowy miast ujawnia relacje władzy\, planowania i partycypacji. Prowadziła spacery dźwiękowe w Polsce i za granicą\, m.in. w ramach kongresu AESOP 2023\, współpracowała z Radiem Kapitał\, Teatrem Łaźnia Nowa i Glissando. Obecnie realizuje projekt “Pogłosy miast” (ScienceHub/UNIC)\, poświęcony współsłyszeniu postindustrialnej przeszłości i dźwiękowej przyszłości miast.\n\n\n  \nOsoby potrzebujące tłumaczenia na Polski Język Migowy lub innego rodzaju wsparcia w pokonaniu barier utrudniających uczestnictwo w wydarzeniu prosimy o wcześniejszy kontakt. Dołożymy wszelkich starań\, aby zapewnić dostępność.\n  \n\n\n\n\n\n Co się wydarzy?\n 6 spotkań z wybitnymi postaciami polskiej i ukraińskiej sceny muzyki eksperymentalnej i sztuki dźwięku: Tymek Papior\, Antonina Nowacka\, Katarina Gryvul\, Paweł Kulczyński\, Olga Anna Markowska\, Lutto Lento\nKażde spotkanie = rozmowa „jeden na jeden” z prowadzącymi ekspertami (Bartosz Nowicki\, Daniel Muzyczuk\, Justyna Anders-Morawska).\n Koncert to okazja i możliwość swobodnej dyskusji z twórcami do czego serdecznie zachęcamy.\n Wszystkie wydarzenia są otwarte i bezpłatne \n Zapisz daty!\n10.05 – koncert Tymek Papiorrozmowę poprowadzi Bartosz Nowicki24.05 – koncert Antonina Nowackarozmowę poprowadzi Bartosz Nowicki31.05 – koncert Katarina Gryvulrozmowę poprowadzi Justyna Anders-Morawska\n4.11 – koncert /instalacja dźwiękowaPaweł Kulczyńskirozmowę poprowadzi Daniel Muzyczuk18.11 – koncert Olga Anna Markowskarozmowę poprowadzi Justyna Anders-Morawska25.11 – koncert  Lutto Lento rozmowę poprowadzi: tba\n—\nRealizatorem zadania „Interferencje” jest Stowarzyszenie Radio Kapitał\nZadanie „Interferencje” jest realizowane dzięki dofinansowaniu z budżetu Miasta Łodzi #lodzpelnakultury #lodzkreuje Łódź pełna kultury\nZadanie realizowane jest dzięki wsparciu Uniwersytetu Łódzkiego\nprojekt graficzny: Darek Pietraszewskiprogram i koordynacja: Justyna Banaszczyk\nwsparcie medialne:MIEJ MIEJSCENN6T notes na 6 tygodniGlissando
-URL:https://plasterlodzki.pl/wydarzenia/interferencje/2026-11-18/
-LOCATION:Pałac Biedermanna\, Franciszkańska 1/5\, Łódź\, łódzkie\, Polska
-CATEGORIES:Koncert,Spotkanie
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261119T200000
-DTEND;TZID=Europe/Warsaw:20261119T210000
-DTSTAMP:20261030T071705
-CREATED:20251205T174622Z
-LAST-MODIFIED:20261026T111748Z
-UID:10045641-1795118400-1795122000@plasterlodzki.pl
-SUMMARY:JAVVA
-DESCRIPTION:JAVVA to zespół złożony z muzyków dobrze znanych polskiej scenie niezależnej. W obecnym składzie grają Piotr Bukowski\, Łukasz Jędrzejczak\, Bartek Kapsa\, Macio Moretti i Mikita Arlou — wcześniej związani m.in. z Mitch & Mitch\, Something Like Elvis\, Contemporary Noise Quintet\, Alamedą\, T’ien Lai\, Xenonami czy Hokeiem. \nIch muzyka wyrasta z post-punka\, avant rocka i improwizacji\, ale mocno ciąży też w stronę rytmu. Gitary\, dwa zestawy perkusyjne\, bas\, wokal\, syntezatory i sample składają się na granie nerwowe\, taneczne i nieoczywiste\, z wyraźnymi odniesieniami do afrobeatu i muzyki spoza europejskiego centrum. \nW 2024 roku ukazał się drugi album zespołu\, „Pícaros”. Sam tytuł odnosi się do włóczęgostwa i wykorzenienia — społecznego\, kulturowego i artystycznego — a muzycznie płyta rozwija pomysły znane z debiutanckiego „Balance of Decay”\, tylko w bardziej rozbudowanym\, pięcioosobowym składzie. \nJAVVA zagra w Fabryce Sztuki 19 listopada w ramach cyklu #przepraszamy\, że w czwartek. Jeśli lubicie koncerty\, w których rytm bierze górę nad potrzebą porządkowania wszystkiego w gatunkowe szuflady\, warto być \nWstęp wolny\, bezpłatny. \nhttps://javvaband.com/ \nhttps://www.facebook.com/JawaJavaYava/ \nhttps://www.instagram.com/javvaband/
-URL:https://plasterlodzki.pl/wydarzenia/premiera-projektu-fashion-flip-book-agaty-serge/
-LOCATION:Fabryka Sztuki w Łodzi (Art_Inkubator)\, bp. Wincentego Tymienieckiego 3\, Łódź\, łózkie\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261119T200000
-DTEND;TZID=Europe/Warsaw:20261119T210000
-DTSTAMP:20261030T071705
-CREATED:20250717T091034Z
-LAST-MODIFIED:20260717T131546Z
-UID:10042434-1795118400-1795122000@plasterlodzki.pl
-SUMMARY:Zalewski
-DESCRIPTION:Czy Krzysztof Zalewski musi coś jeszcze udowodnić sobie lub fanom? Nie musi\, ale kreatywna energia rozpierająca artystę sprawia\, że nie potrafi stać w miejscu i powraca w swojej najbardziej wymagającej i niezwykłej odsłonie. \nTej jesieni artysta wyrusza w wyjątkową trasę koncertową „Solo Act”\, udowadniając\, że jeden człowiek na scenie potrafi wykrzesać energię\, której pozazdrościłby niejeden wieloosobowy zespół. Krzysztof siądzie za perkusją\, weźmie w ręce gitarę elektryczną\, bas\, gitarę akustyczną\, zagra na instrumentach klawiszowych\, ksylofonie\, dobarwi aranż na przeszkadzajkach\, a to wszystko w POJEDYNKĘ. Koncert Solo Act to bardzo ciekawe przeżycie – siedząc na widowni słuchając i obserwując jak Zalewski nagrywa\, zapętla i nakłada kolejne warstwy muzyczne możecie być świadkami procesu tworzenia piosenki i budowania aranżu na żywo! \nZalewski Solo Act to unikalny\, przekrojowy materiał\, w którym usłyszycie największe przeboje artysty w zupełnie nowych\, zaskakujących aranżacjach. Od potężnych radiowych hymnów\, po intymne\, poruszające ballady – każdy fan powinien choć raz zobaczyć ten muzyczny teatr jednego aktora.
-URL:https://plasterlodzki.pl/wydarzenia/zalewski/
-LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261120T193000
-DTEND;TZID=Europe/Warsaw:20261120T213000
-DTSTAMP:20261030T071705
-CREATED:20240411T163851Z
-LAST-MODIFIED:20260821T120824Z
-UID:10032898-1795203000-1795210200@plasterlodzki.pl
-SUMMARY:SICK SAINTS + Hypnosaur
-DESCRIPTION:AFTER GLAM TOUR 2026\nJesienią 2026 Polskę zdominuje prawdziwa muzyczna eksplozja. SICK SAINTS wraz z warszawską formacją Hypnosaur wyruszają w trasę koncertową promującą ich nowe albumy. BRUTALGLAM oraz Afterlife\, to płyty których tej jesieni nie możesz przegapić.\nSICK SAINTS wydają swój album\, który jest idealnym podsumowaniem 3 lat intensywnego koncertowania (ponad 150 koncertów) w całej Polsce\, oraz w Europie (Anglia\, Szkocja\, Francja\, Holandia). Zespół ugruntował swoją pozycję niesamowitą energią na scenie\, energetycznymi występami – zyskał miano najlepszego supportu Nocnego Kochanka\, Huntera czy TURBO. Wystąpili na Jarocinie\, eliminacjach do Pol’and’Rocka czy Materiafeście. Za każdym razem zdobywając serca publiczności.\nHypnosaur to warszawski kwartet operujący w stylistyce ciężkiego i melodyjnego rock’n’rolla\, który zespół określa mianem „jurassic punk”. Formacja istnieje od 2017 roku i od tego czasu wydała dwie EP-ki (“Illusion” w 2019 oraz “Undead Invaders Born to Die in a Maze” w 2024) oraz albumy długogrające “Doomsday” (2022) i „Afterlife” (2026). Zespół grał trasy w Polsce i za granicą (w Czechach\, Słowacji\, Rumunii\, Chorwacji oraz na Węgrzech). Wydawnictwa zespołu zostały dobrze przyjęte zarówno przez słuchaczy\, jak i media branżowe (m.in. Teraz Rock\, Metal Hammer\, Noise Magazine\, Kvlt.pl\, SztukMix).\n\nW każdym mieście wystąpi gość specjalny!\nBilety w cenach:50 zł – I pula60 zł – II pula oraz w dniu koncertudostępne w serwisach TicketClub\, Eventim oraz Biletomat:\nhttps://ticketclub.pl/sick-saints-hypnosaur-after-glam…/https://www.eventim.pl/noapp/eventseries/4219741/…https://biletomat.pl/wydarz…/after-glam-tour-2026-33242…\nGrafiki: Przemysław Wideł\nWkrótce dostępne będa również ekskluzywne bilety kolekcjonerskie.\nŁÓDŹIron Horse Pub\, ul. Juliana Tuwima 1620/11/2026Bramy: 18:30Start: 19:30SICK SAINTS + Hypnosaur + gość specjalny\n\n\nSICK SAINTS gra BRUTALGLAM!\nBo tak naprawdęBRUTALGLAM to SICK SAINTS!\nNic więcej i aż zanadto.\nBRUTALGLAM sięga głęboko w przeszłość\, do zatęchłych piwnic Nowego Jorku początku lat 70.\, kiedy na światło dzienne chcieli wyjrzeć New York Dolls\, a Kiss stali w blokach startowych\, aby podbić świat swoimi riffami i komiksowym wizerunkiem. Sięga też do klubów Kalifornii początku kolejnej dekady\, gdzie rodziły się thrash metal oraz glam metal\, a Metallica i Mötley Crüe zaczynały swoją drogę na szczyt. SICK SAINTS nadało temu współczesną twarz unowocześniając brzmienie i tworząc mieszankę iście wybuchową.\nMighty Mike: „To z jednej strony wizerunek i makijaże na koncertach. Po drugie są to nasze osobowości – dość różne\, ale jednak składają się na pewnego rodzaju szaleńczą mieszankę wybuchową. Po trzecie muzyka\, która jest wypadkową starych brzmień i nowoczesności”.\nFB: https://www.facebook.com/sicksaints.musicIG: https://instagram.com/sicksaints.bandYT: https://www.youtube.com/watch?v=MX66pHotq74SHOP: https://sicksaints.com/shop/\n\nHYPNOSAURWydany w maju 2026 drugi album Hypnosaura „Afterlife” znalazł się na prestiżowej liście „Doom Charts”\, a single „Danger”\, „Lieflower” oraz „Afterlife” były przez wiele tygodni obecne na licznych listach przebojów (Turbo Top\, Akadera\, Radio Orbit\, Fast Forward Charts\, Radio Afera).Warstwa tekstowa płyty skupia się na problemach dezinformacji i wpływie technologii na społeczeństwo. Muzycznie to krok naprzód: zarówno pod względem kompozycji\, produkcji\, jak też bardziej rozbudowanego instrumentarium (theremin\, przeszkadzajki). Za rejestrację materiału w Sound of Records oraz mix i master odpowiada Haldor Grunberg\, który współpracował m.in. z Behemothem czy Me And That Man. O oprawę graficzną zadbał stały współpracownik zespołu\, Rafał Wechterowicz (Too Many Skulls) znany z wieloletniej współpracy z czołowymi światowymi grupami rockowymi i metalowymi\, takimi jak Ozzy Osbourne\, Ghost\, Anthrax\, Motley Crue\, Kreator\, Slayer czy Mastodon.\nhttps://linktr.ee/hypnosaurFB: https://www.facebook.com/hypnosaur/IG: https://www.instagram.com/hypnosaur666/YT: https://www.youtube.com/@hypnosaur666SHOP: https://hypnosaur.sumupstore.com/\n\nTym razem – możesz zobaczyć ich w klubach w całej Polsce:16/10 – Katowice\, Piąty Dom17/10 – Bielsko Biała\, Stolarnia23/10 – Białystok\, Podlaska Adamczycha24/10 – Kielce\, Tunel13/11 – Szczecin\, Piwnica Kany14/11 – Wrocław\, Liverpool20/11 – Łódź\, Iron Horse Pub21/11 – Warszawa\, Klesz of the sejtans\, z Leash Eye*4/12 – Tarnów\, Przepraszam5/12 – Kraków\, Zaścianek6/12 – Lublin\, Graffiti11/12 – Bydgoszcz\, Over The Under12/12 – Gdańsk\, Paszcza Lwa\n*bez Hypnosaura
-URL:https://plasterlodzki.pl/wydarzenia/death-denied-xv-years/
-LOCATION:Iron Horse\, Tuwima 16 / róg Sienkiewicza\, Łódź\, łódzkie\, Polska
-CATEGORIES:Koncert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Warsaw:20261120T200000
-DTEND;TZID=Europe/Warsaw:20261120T210000
-DTSTAMP:20261030T071705
-CREATED:20250908T124803Z
-LAST-MODIFIED:20260603T100452Z
-UID:10043089-1795204800-1795208400@plasterlodzki.pl
-SUMMARY:Daria ze Śląska
-DESCRIPTION:W 2026 Daria ze Śląska wraca z trzecim solowym albumem! Artystka jesienią ruszy w klubową trasę\, żeby zaprezentować nowy materiał na żywo. \n“Halo. Co jest grane?” to płyta o tym wszystkim\, o co sami czasem boimy się zapytać. Daria ponownie zaprasza nas do świata szczerych i osobistych historii\, jednak tym razem patrzy nieco szerzej. W przenikliwy i właściwy sobie sposób komentuje ludzkie słabości oraz absurdy rzeczywistości\, których sama bywała częścią.\n______________________ \nPierwszy album wydała w 2023 roku. Za „Tu była” otrzymała dwa Fryderyki (w kategorii Album Roku Indie Pop i Debiut Roku). Sukces debiutanckiego krążka przyniósł intensywny czas w trasie koncertowej i nowy materiał. Wiosną tego roku Daria Ze Śląska wydała płytę „Na Południu bez zmian”\, równie emocjonalną\, niekiedy bardziej hiphopową w swojej formie\, kontynuację debiutu. Świetny odbiór albumu zaowocował występami na festiwalach (Open’er\, Nowa Muzyka\, Męskie Granie) i najdłuższą klubową trasą koncertową w karierze. Rok 2024 artystka zakończyła nominacją do prestiżowej nagrody Paszporty POLITYKI a początek 2025 przyniósł kolejną już nagrodę Fryderyka w kategorii Album Roku Pop Alternatywny. Po premierze albumu “Halo. Co jest grane?” w maju bieżącego roku\, Daria ze Śląska zapełniła warszawski klub Stodoła\, a po sezonie letnich plenerowych występów\, ruszy w klubową trasę.
-URL:https://plasterlodzki.pl/wydarzenia/raz-dwa-trzy-5/
-LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 END:VCALENDAR
