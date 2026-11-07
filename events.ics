@@ -222,7 +222,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261107T170000
 DTEND;TZID=Europe/Warsaw:20261107T230000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20230120T095413Z
 LAST-MODIFIED:20261030T104937Z
 UID:10029917-1794070800-1794092400@plasterlodzki.pl
@@ -235,7 +235,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261107T190000
 DTEND;TZID=Europe/Warsaw:20261107T230000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20211118T144639Z
 LAST-MODIFIED:20261030T123622Z
 UID:10026985-1794078000-1794092400@plasterlodzki.pl
@@ -248,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261107T190000
 DTEND;TZID=Europe/Warsaw:20261107T210000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20251220T215953Z
 LAST-MODIFIED:20251220T215953Z
 UID:10045913-1794078000-1794085200@plasterlodzki.pl
@@ -261,7 +261,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261107T190000
 DTEND;TZID=Europe/Warsaw:20261107T235900
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20240530T220037Z
 LAST-MODIFIED:20260808T094016Z
 UID:10033225-1794078000-1794095940@plasterlodzki.pl
@@ -274,7 +274,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261107T190000
 DTEND;TZID=Europe/Warsaw:20261107T203000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20261026T110727Z
 LAST-MODIFIED:20261026T110727Z
 UID:10050927-1794078000-1794083400@plasterlodzki.pl
@@ -287,7 +287,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261107T200000
 DTEND;TZID=Europe/Warsaw:20261107T223000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20250825T092321Z
 LAST-MODIFIED:20261030T120447Z
 UID:10042730-1794081600-1794090600@plasterlodzki.pl
@@ -300,7 +300,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261107T210000
 DTEND;TZID=Europe/Warsaw:20261107T220000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20230310T160818Z
 LAST-MODIFIED:20261030T100844Z
 UID:10030427-1794085200-1794088800@plasterlodzki.pl
@@ -313,7 +313,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261108T160000
 DTEND;TZID=Europe/Warsaw:20261108T180000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20250718T102734Z
 LAST-MODIFIED:20261030T091557Z
 UID:10039524-1794153600-1794160800@plasterlodzki.pl
@@ -326,7 +326,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261108T173000
 DTEND;TZID=Europe/Warsaw:20261108T210000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20221118T131515Z
 LAST-MODIFIED:20261030T105059Z
 UID:10028924-1794159000-1794171600@plasterlodzki.pl
@@ -339,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261108T180000
 DTEND;TZID=Europe/Warsaw:20261108T203000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20260426T095831Z
 LAST-MODIFIED:20260426T095913Z
 UID:10037465-1794160800-1794169800@plasterlodzki.pl
@@ -352,7 +352,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261108T180000
 DTEND;TZID=Europe/Warsaw:20261108T203000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20260426T113807Z
 LAST-MODIFIED:20260426T113807Z
 UID:10048254-1794160800-1794169800@plasterlodzki.pl
@@ -365,7 +365,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261108T190000
 DTEND;TZID=Europe/Warsaw:20261108T203000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20260903T092227Z
 LAST-MODIFIED:20261030T110828Z
 UID:10050683-1794164400-1794169800@plasterlodzki.pl
@@ -378,7 +378,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261108T200000
 DTEND;TZID=Europe/Warsaw:20261108T220000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20231218T133520Z
 LAST-MODIFIED:20260515T100659Z
 UID:10032379-1794168000-1794175200@plasterlodzki.pl
@@ -391,7 +391,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261108T203000
 DTEND;TZID=Europe/Warsaw:20261108T220000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20250717T091406Z
 LAST-MODIFIED:20260515T102103Z
 UID:10042441-1794169800-1794175200@plasterlodzki.pl
@@ -404,7 +404,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20260327T103840Z
 LAST-MODIFIED:20260327T103840Z
 UID:10047629-1794268800-1794355199@plasterlodzki.pl
@@ -417,7 +417,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261111T180000
 DTEND;TZID=Europe/Warsaw:20261111T230000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20250629T080906Z
 LAST-MODIFIED:20261030T150008Z
 UID:10041673-1794420000-1794438000@plasterlodzki.pl
@@ -429,8 +429,21 @@ CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T190000
+DTEND;TZID=Europe/Warsaw:20261112T210000
+DTSTAMP:20261107T071704
+CREATED:20251220T221010Z
+LAST-MODIFIED:20261106T095619Z
+UID:10040050-1794510000-1794517200@plasterlodzki.pl
+SUMMARY:Budka Suflera
+DESCRIPTION:Z przyczyn niezależnych od organizatora Koncert Budki Suflera z dnia 24.05.2026r. godz. 18.00 jest przełożony na 12.11.2026r. godz. 19.00. \nBileterie\, w których zakupili Państwo bilety będą przesyłać bilety z aktualną datą oraz informacją o zmianie terminu. \nOrganizator przeprasza za wszelkie niedogodności. \n🎸 Budka Suflera – legenda polskiego rocka wraca na scenę! Usłysz kultowe hity: Jolka Jolka\, Takie Tango\, Bal wszystkich Świętych i inne\, które na zawsze zapisały się w historii muzyki. 🔥 Nie przegap tego koncertu! 🎤 \nBudka Suflera – polski zespół rockowy założony w Lublinie w 1974 roku przez Krzysztofa Cugowskiego i Romualda Lipkę. Znany z takich przebojów jak: Sen o dolinie\, Za ostatni grosz\, Jolka Jolka\, pamiętasz\, Takie Tango czy Bal wszystkich Świętych. Budka Suflera to jeden z najpopularniejszych zespołów polskiej muzyki rockowej. Skład zespołu wielokrotnie zmieniał się\, a przez grupę przewinęło się ponad 25 muzyków. Osobą łączącą wszystkie składy od 1975 jest perkusista Tomasz Zeliszewski\, pełniący także rolę menedżera i lidera zespołu po śmierci Romualda Lipki (zm. 2020)\, jest jedynym członkiem Budki Suflera\, który nagrał z zespołem wszystkie albumy. Podczas koncertu zespół wykona znane przeboje Budki Suflera. Budka Suflera ma na swoim koncie wiele prestiżowych nagród. Jest między innymi laureatem Fryderyków w kategoriach Zespół roku oraz Piosenka roku za przebój Takie Tango. W 2002 roku otrzymał Super Jedynkę za utwór Bal wszystkich świętych. \nZamówienia grupowe i informacje: tel. 669 288 277 | 691 778 850 \nBilety online: \n\nkupbilecik.pl https://bkb.pl/199702-975e2– Otwórz w nowej karcie\nbiletyna.pl https://bilety.io/BvxXd– Otwórz w nowej karcie\nwww.agencjabrussa.pl\n\nOpis wydarzenia został przygotowany przez organizatora.
+URL:https://plasterlodzki.pl/wydarzenia/bawialnia-4/
+LOCATION:Filharmonia Łódzka im. Artura Rubinsteina\, Narutowicza 20/22\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261112T190000
 DTEND;TZID=Europe/Warsaw:20261112T200000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20251104T111356Z
 LAST-MODIFIED:20260304T205146Z
 UID:10045328-1794510000-1794513600@plasterlodzki.pl
@@ -443,7 +456,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T190000
 DTEND;TZID=Europe/Warsaw:20261112T213000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20230113T102827Z
 LAST-MODIFIED:20261030T105137Z
 UID:10029864-1794510000-1794519000@plasterlodzki.pl
@@ -456,7 +469,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T193000
 DTEND;TZID=Europe/Warsaw:20261112T230000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20231013T103726Z
 LAST-MODIFIED:20261030T143700Z
 UID:10031943-1794511800-1794524400@plasterlodzki.pl
@@ -469,7 +482,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T193000
 DTEND;TZID=Europe/Warsaw:20261112T210000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20221115T145516Z
 LAST-MODIFIED:20261030T110301Z
 UID:10028588-1794511800-1794517200@plasterlodzki.pl
@@ -482,7 +495,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T210000
 DTEND;TZID=Europe/Warsaw:20261112T220000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050990-1794517200-1794520800@plasterlodzki.pl
@@ -495,7 +508,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T183000
 DTEND;TZID=Europe/Warsaw:20261113T233000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20230127T104019Z
 LAST-MODIFIED:20261030T143752Z
 UID:10029960-1794594600-1794612600@plasterlodzki.pl
@@ -507,8 +520,21 @@ CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T190000
+DTEND;TZID=Europe/Warsaw:20261113T213000
+DTSTAMP:20261107T071704
+CREATED:20230929T113704Z
+LAST-MODIFIED:20261030T102614Z
+UID:10031828-1794596400-1794605400@plasterlodzki.pl
+SUMMARY:Daj Ognia
+DESCRIPTION:𝟭𝟯.𝟭𝟭.𝟮𝟬𝟮𝟲 Drzwi: 19:00 Start: 20:00\n Klub Scenografia – Łódź Zachodnia 81/83\, 90-402 Łódź\n𝗕𝗜𝗟𝗘𝗧𝗬 𝗗𝗢 𝗡𝗔𝗕𝗬𝗖𝗜𝗔: KupBilecik: https://bkb.pl/217804-4e148  eBilet: https://sklep.ebilet.pl/afcm/452330287574024285\nI PULA: 50 zł II PULA: 60 złW dniu koncertu: 70 złDo podanych cen mogą zostać doliczone dodatkowe opłaty pobierane przez platformy sprzedaży biletów.\n𝗗𝗔𝗝 𝗢𝗚𝗡𝗜𝗔 | 𝗠𝗨𝗭𝗬𝗞𝗔 𝗨𝗥𝗢𝗝𝗢𝗡𝗘𝗝 𝗪𝗜𝗢𝗦𝗞𝗜\nZamarznięty Bałtyk\, pośrodku drewniana karczma. Przez półmrok wędrują melodie\, które brzmią jednocześnie obco\, i niepokojąco znajomo. Czy wejdziesz do środka?\nWizja ta jest tylko przedsmakiem tego\, co czeka nas już niebawem. Daj Ognia zaprezentuje projekt „Muzyka urojonej wioski”.\nMuzycy z Daj Ognia sami najlepiej definiują swoją twórczość w unikalny\, poetycki sposób:\n„Tułamy się między Polską a Skandynawią\, grając po tancbudach\, stypach i świętych gajach. Po drodze przystajemy u malowanych wrót w karczmach na zamarzniętym Bałtyku. Gramy pod nogę i ku zadumie ludziom spod strzechy i spod azbestowej dachówki\, przeplatając tradycje muzyczne Północy i Południa.\nOgrywamy stare wiejskie melodie na własną anachroniczną modłę\, przywołując nastroje z urojonej wioski – plebejski rejwach\, echa obrzędów\, wołanie o śmierć w panieństwie i tupot bosych stóp po zamarzniętej glebie. Tkając muzyczną opowieść wykorzystujemy dźwięki archaicznych lir smyczkowych\, śpiewu tradycyjnego\, dud\, bębnów i kości\, splatających się w pełne melancholii\, jednak porywające do tańca brzmienie.”\nMuzykę Daj Ognia cechuje unikatowa dwoistość – zawieszenie między romantycznym fantazmatem a surową rzeczywistością – i stanowi oś tożsamości zespołu. Ich twórczość\, często określana jako „dark folk” lub „folk alternatywa”\, rodzi się z tęsknoty za miejscem\, które nigdy nie istniało\, ale które podskórnie każdy z nas pamięta. Nie jest to próba rekonstrukcji historycznej\, a twórcze wyobrażenie przepełnione melancholią i nieugiętą transowością\, w której rave’y czasów minionych przeplatają się z powszednim mistycyzmem.\nDaj Ognia z pewnością wyróżnia się na tle innych zespołów swoim instrumentarium. Na scenie usłyszymy tradycyjne skandynawskie liry smyczkowe\, bębny obręczowe czy dudy – a to tylko początek.\nSKŁAD ZESPOŁU:Anna Sitko – śpiew\, basyMichał Górka – tagelharpa\, mandolaWit Rzepecki – strakharpa\, dudyAgnieszka Oramus – bęben obręczowy\, darabuka\, baraban\, santurMichał Biel – bęben obręczowy\, baraban\, kości\nCały ten zestaw tworzy mieszankę\, która od razu porywa do tańca i utwierdza w przekonaniu\, że współczesna transowa muzyka elektroniczna swoimi korzeniami sięga bardzo odległych czasów.\nKoncerty Daj Ognia to doświadczenie wykraczające daleko poza ramy zwykłego występu. Zespół słynie z teatralnego sznytu oraz niezwykle intensywnej narracji scenicznej. Każdy utwór to kolejna opowieść\, i kolejna dawka dzikiej energii\, która błyskawicznie udziela się publiczności. Muzycy regularnie hipnotyzują publiczność na największych festiwalach w Europie – od litewskiego Mėnuo Juodaragis czy Kilkim Žaibu\, przez sztokholmski Kulturfestivalen\, Gotland Medieval Week\, czeskie Lodžie Worldfest\, aż po rodzimy Ethno Port\, Etnokraków/Rozstaje\, czy Festiwal Słowian i Wikingów na Wolinie.
+URL:https://plasterlodzki.pl/wydarzenia/wojtek-szumanski/
+LOCATION:Klub Scenografia\, Zachodnia 81/83\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261113T190000
 DTEND;TZID=Europe/Warsaw:20261113T203000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20261104T102414Z
 LAST-MODIFIED:20261104T102414Z
 UID:10051325-1794596400-1794601800@plasterlodzki.pl
@@ -520,8 +546,21 @@ CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T190000
+DTEND;TZID=Europe/Warsaw:20261113T210000
+DTSTAMP:20261107T071704
+CREATED:20250828T080636Z
+LAST-MODIFIED:20261026T111227Z
+UID:10050931-1794596400-1794603600@plasterlodzki.pl
+SUMMARY:Tansman Soundscapes – soniczna architektura Łodzi | instalacja dźwiękowa Macieja Stanieckiego
+DESCRIPTION:Zapraszamy na „Tansman Soundscapes – soniczna architektura Łodzi”\, projekt Macieja Stanieckiego\, w którym twórczość Aleksandra Tansmana spotyka się z dźwiękami miasta\, tworząc przestrzeń do słuchania\, zatrzymania się i odnalezienia ciszy w miejskim zgiełku.\n„Tansman Soundscapes – soniczna architektura Łodzi” to stypendialne przedsięwzięcie Macieja Stanieckiego\, stanowiące nowoczesny dialog z twórczością Aleksandra Tansmana. Projekt jest cyklem utworów na przetwarzaną gitarę elektryczną i sonorystykę Łodzi\, a jego kształt narodził się z potrzeby zatrzymania się w środku miejskiego pędu i odnalezienia wewnętrznej ciszy. \n„Chciałem spojrzeć na Łódź inaczej. Stworzyć dźwiękową przestrzeń\, w której możemy po prostu usiąść i poczuć uwolnienie – np. takie\, jakie towarzyszy tworzeniu muzyki” – mówi Staniecki. \nZamiast tradycyjnej formy i budowania napięć\, artysta stawia na minimalizm i czyste trwanie. Przenosząc na gitarę i elektronikę nastrój oraz harmonie Tansmana\, łączy je z tkanką miejską – przypadkowymi odgłosami\, strzępkami rozmów\, szumem opon i echami architektury. \n \nFinał w postaci immersyjnej instalacji dźwiękowej („kino bez obrazu”) zostanie zaprezentowany w Fabryce Sztuki (Sala A_22 ) w Łodzi. \nData: 13 i 14 listopada o godz. 19.00\nWstęp wolny \nZe względu na ograniczoną liczbę miejsc prosimy o zgłaszanie swojej obecności w formularzu: formularz do zgłoszeń. \nMaciej Staniecki – kompozytor\, gitarzysta i producent od dwóch dekad obecny na polskiej scenie alternatywnej\, filmowej („Vinci”) i teatralnej. Współpracował m.in. z Wacławem Zimplem\, Marcinem Maseckim\, Bastardą i Zalewskim.\nmaciejstaniecki.pl \n***\nProjekt „Tansman Soundscapes – soniczna aritektura Łodzi” realizowany jest dzięki środkom otrzymanym w ramach stypendium artystycznego Miasta Łodzi\, w ramach konkursu organizowanego przez Wydział Kultury.
+URL:https://plasterlodzki.pl/wydarzenia/grudniowe-tworcze-warsztaty-2-2/2026-11-13/
+LOCATION:Fabryka Sztuki w Łodzi (Art_Inkubator)\, bp. Wincentego Tymienieckiego 3\, Łódź\, łózkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261113T190000
 DTEND;TZID=Europe/Warsaw:20261113T203000
-DTSTAMP:20261106T071704
+DTSTAMP:20261107T071704
 CREATED:20250822T132812Z
 LAST-MODIFIED:20261030T102807Z
 UID:10040114-1794596400-1794601800@plasterlodzki.pl
@@ -532,9 +571,48 @@ LOCATION:Iron Horse\, Tuwima 16 / róg Sienkiewicza\, Łódź\, łódzkie\, Pols
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261113T193000
+DTEND;TZID=Europe/Warsaw:20261113T233000
+DTSTAMP:20261107T071704
+CREATED:20260305T124604Z
+LAST-MODIFIED:20261030T120514Z
+UID:10047275-1794598200-1794612600@plasterlodzki.pl
+SUMMARY:ATROPHY + CONFESS + LUCILLE
+DESCRIPTION:Helicon Metal Promotions z dumą zaprasza na koncert legendarnej thrash metalowej formacji ATROPHY ze Stanów Zjednoczonych. Po odwołanym decyzją rządu RP z powodu pandemii COVID-19 łódzkim koncercie w marcu 2020\, który miał być pierwszym koncertem ATROPHY w Polsce\, było pewne\, że jeśli wrócimy do tematu\, zaczniemy w punkcie wyjścia. I oto ponad 6 lat później jesteśmy tam\, gdzie skończyliśmy – w Łodzi.\nW ramach trasy koncertowej ATROPHY przyjedzie w towarzystwie irańsko-norweskiej kapeli CONFESS. Jako support zaprezentuje się białostocki LUCILLE.\n Data: 13 listopada 2026 Miejsce: Łódź\, Browar Warkot Wejście: 19:00 | Start: 19:30Bilety: 100 PLN [+ opłata serwisowa] / 120 PLN https://stage24.pl/wydarzenia/atrophy-confess-lucille-9288\nZAGRAJĄ:\n ATROPHY – thrash metal [USA]– www.facebook.com/atrophyofficial\n CONFESS – groove/thrash metal [Iran/Norwegia]– www.facebook.com/confessbandIR\n LUCILLE – thrash metal [Polska]– www.facebook.com/Lvcille.thrash\n=========================\n Organizator:  𝗛𝗘𝗟𝗜𝗖𝗢𝗡 𝗠𝗘𝗧𝗔𝗟 𝗣𝗥𝗢𝗠𝗢𝗧𝗜𝗢𝗡𝗦  www.facebook.com/HeliconMetal www.instagram.com/heliconmetalpromotions heliconmediagroup@gmail.com
+URL:https://plasterlodzki.pl/wydarzenia/varmia-three-eyes-of-the-void-drowned-in-silver/
+LOCATION:Klubopiwiarnia\, Narutowicza 7/9\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261113T200000
+DTEND;TZID=Europe/Warsaw:20261113T220000
+DTSTAMP:20261107T071704
+CREATED:20261030T150917Z
+LAST-MODIFIED:20261030T150917Z
+UID:10051202-1794600000-1794607200@plasterlodzki.pl
+SUMMARY:Coma
+DESCRIPTION:XX albumu „Zaprzepaszczone siły wielkiej armii świętych znaków” \n13.11.2026 | Łódź | Atlas Arena | g. 20.00 \nJest rok 2006\, powstaje pewien album o kryzysie wiary i wartości… legendarne „Zaprzepaszczone siły wielkiej armii świętych znaków”. Mija 20 lat… \nCOMA powraca z jedynym autorskim\, wielkoformatowym wydarzeniem w 2026 roku\, aby zagrać w całości swój drugi album w łódzkiej Atlas Arenie. Po tylu latach od premiery „Zaprzepaszczone” nie są reliktem epoki i dyskografii COMY\, lecz przejmująco aktualną diagnozą świata – pękniętego\, rozedrganego\, rozszczelnionego. Świata w stanie wrzenia! \nARMIA ZAPRZEPASZCZONYCH to koncertowe widowisko zanurzone w niepokoju współczesności — w kryzysie wiary\, rozpadających się systemach\, społecznych napięciach\, medialnym chaosie i duchowym wyczerpaniu. Treści zapisane w albumie dwie dekady temu dziś uderzają jeszcze mocniej! \nW centrum tej opowieści stoi ikoniczna postać z okładki — Trickster — prowadzący publiczność przez kolejne kręgi inferna\, przez krajobraz\, w którym wszystko płonie — dosłownie\, symbolicznie\, emocjonalnie. \nARMIA ZAPRZEPASZCZONYCH została pomyślana jako wielowarstwowa immersja: muzyka\, słowo\, światło i obraz stapiają się w jeden organizm. Koncert dzieli się na dwa akty – pierwsza część jest w całości dedykowana albumowi „Zaprzepaszczone”\, druga wprowadza w zupełnie inną\, zaskakującą rzeczywistość… \n„Zabieramy widzów w bardzo autorską\, Comową podróż po kręgach współczesnego inferna przefiltrowaną przez muzykę\, emocje i sztukę. Tak jak lubimy. To będzie 2\,5 godzinna opowieść pisana animacjami\, obrazami i dźwiękami\, które są znane i nieznane. Zagramy nie tylko ten jeden album\, ale znacznie więcej! Re-Start był grą o wszystko z własną historią\, z Armią Zaprzepaszczonych schodzimy głębiej…” – wyjaśnia COMA. \nTo nie będzie sentymentalny powrót. \nTo będzie KONFRONTACJA. \nTylko raz\, tylko w Łodzi. \n⚡️13.11.2026 ⚡️ \n__________________________________________ \nEarly Entrance: 18.00 / Drzwi: 18.30 / Start: 20.00 / Koniec: 22.30 \nStart sprzedaży: 14.05 g. 12.00 \nBilety: www.comarock.art \nOrganizatorzy: CZULE + COMA
+URL:https://plasterlodzki.pl/wydarzenia/coma-2/
+LOCATION:Atlas Arena\, Bandurskiego 7\, Łódź\, łódzkie\, 94-020\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T180000
+DTEND;TZID=Europe/Warsaw:20261114T203000
+DTSTAMP:20261107T071704
+CREATED:20250502T080556Z
+LAST-MODIFIED:20260724T100919Z
+UID:10050388-1794679200-1794688200@plasterlodzki.pl
+SUMMARY:Piotr Sax - Wieczór z saksofonem
+DESCRIPTION:\,\, Najpiękniejsze melodie świata ”\,\, PIOTR SAX – WIECZÓR Z SAKSOFONEM ” Godzina 18:00 Jesteśmy Music Clubul. Jaracza 13\, ŁódźZapraszam na wyjątkowy wieczór z muzyką\, podczas którego zabrzmią najpiękniejsze melodie znane z całego świata.Usłyszycie romantyczne ballady\, ponadczasowe standardy\, utwory filmowe oraz klasyki jazzu i muzyki rozrywkowej w nastrojowych aranżacjach na saksofon.To koncert dla osób\, które cenią piękne melodie\, kameralną atmosferę i muzykę graną z sercem.W programie m.in : Besame Mucho Harlem Nocturne Only You My Way Hallelujah What a Wonderful World… i wiele innych ponadczasowych melodii\, które od lat wzruszają publiczność na całym świecie. Bilety 35 zł Rezerwacja miejsc: 531 511 500Liczba miejsc jest ograniczona
+URL:https://plasterlodzki.pl/wydarzenia/koncert-saksofonowy-jazz-swing-z-lat-20-30-4/2026-11-14/
+LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T180000
 DTEND;TZID=Europe/Warsaw:20261201T233000
-DTSTAMP:20261106T071705
+DTSTAMP:20261107T071705
 CREATED:20230224T103055Z
 LAST-MODIFIED:20261030T120719Z
 UID:10030251-1796148000-1796167800@plasterlodzki.pl
@@ -547,7 +625,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T190000
 DTEND;TZID=Europe/Warsaw:20261201T203000
-DTSTAMP:20261106T071705
+DTSTAMP:20261107T071705
 CREATED:20221202T185418Z
 LAST-MODIFIED:20261030T105612Z
 UID:10029165-1796151600-1796157000@plasterlodzki.pl
@@ -560,7 +638,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T200000
 DTEND;TZID=Europe/Warsaw:20261203T220000
-DTSTAMP:20261106T071705
+DTSTAMP:20261107T071705
 CREATED:20221118T092912Z
 LAST-MODIFIED:20261030T143510Z
 UID:10028783-1796328000-1796335200@plasterlodzki.pl
@@ -573,7 +651,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T210000
 DTEND;TZID=Europe/Warsaw:20261203T220000
-DTSTAMP:20261106T071705
+DTSTAMP:20261107T071705
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050993-1796331600-1796335200@plasterlodzki.pl
@@ -586,7 +664,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T190000
 DTEND;TZID=Europe/Warsaw:20261204T210000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20260821T124235Z
 LAST-MODIFIED:20260821T124235Z
 UID:10039619-1796410800-1796418000@plasterlodzki.pl
@@ -599,7 +677,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T200000
 DTEND;TZID=Europe/Warsaw:20261204T233000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20260304T205606Z
 LAST-MODIFIED:20261030T123334Z
 UID:10039502-1796414400-1796427000@plasterlodzki.pl
@@ -612,7 +690,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T200000
 DTEND;TZID=Europe/Warsaw:20261204T233000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20230101T180406Z
 LAST-MODIFIED:20261030T143144Z
 UID:10029653-1796414400-1796427000@plasterlodzki.pl
@@ -625,7 +703,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T180000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20260327T104006Z
 LAST-MODIFIED:20260327T104006Z
 UID:10047632-1796493600-1796511600@plasterlodzki.pl
@@ -638,7 +716,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T190000
 DTEND;TZID=Europe/Warsaw:20261205T233000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20221202T211130Z
 LAST-MODIFIED:20260814T115801Z
 UID:10029261-1796497200-1796513400@plasterlodzki.pl
@@ -651,7 +729,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T190000
 DTEND;TZID=Europe/Warsaw:20261205T220000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20231018T135944Z
 LAST-MODIFIED:20260814T120856Z
 UID:10031977-1796497200-1796508000@plasterlodzki.pl
@@ -664,7 +742,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T180000
 DTEND;TZID=Europe/Warsaw:20261206T210000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20250629T191225Z
 LAST-MODIFIED:20260130T143707Z
 UID:10041980-1796580000-1796590800@plasterlodzki.pl
@@ -677,7 +755,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T190000
 DTEND;TZID=Europe/Warsaw:20261206T220000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20230317T142725Z
 LAST-MODIFIED:20260724T102556Z
 UID:10030465-1796583600-1796594400@plasterlodzki.pl
@@ -690,7 +768,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T190000
 DTEND;TZID=Europe/Warsaw:20261207T210000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20230120T095505Z
 LAST-MODIFIED:20261030T105636Z
 UID:10029919-1796670000-1796677200@plasterlodzki.pl
@@ -703,7 +781,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T183000
 DTEND;TZID=Europe/Warsaw:20261210T220000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20230113T094437Z
 LAST-MODIFIED:20261030T143209Z
 UID:10029841-1796927400-1796940000@plasterlodzki.pl
@@ -716,7 +794,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T210000
 DTEND;TZID=Europe/Warsaw:20261210T220000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050994-1796936400-1796940000@plasterlodzki.pl
@@ -729,7 +807,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T190000
 DTEND;TZID=Europe/Warsaw:20261211T220000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20231018T140036Z
 LAST-MODIFIED:20260808T102137Z
 UID:10031979-1797015600-1797026400@plasterlodzki.pl
@@ -742,7 +820,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T200000
 DTEND;TZID=Europe/Warsaw:20261211T213000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20250629T080939Z
 LAST-MODIFIED:20260619T120058Z
 UID:10041674-1797019200-1797024600@plasterlodzki.pl
@@ -755,7 +833,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T180000
 DTEND;TZID=Europe/Warsaw:20261212T203000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20250629T191716Z
 LAST-MODIFIED:20261030T145830Z
 UID:10041989-1797098400-1797107400@plasterlodzki.pl
@@ -768,7 +846,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T180000
 DTEND;TZID=Europe/Warsaw:20261212T210000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260724T100919Z
 UID:10050389-1797098400-1797109200@plasterlodzki.pl
@@ -781,7 +859,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T190000
 DTEND;TZID=Europe/Warsaw:20261212T220000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20221222T221551Z
 LAST-MODIFIED:20260814T120841Z
 UID:10029487-1797102000-1797112800@plasterlodzki.pl
@@ -794,7 +872,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T190000
 DTEND;TZID=Europe/Warsaw:20261212T223000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20221202T211410Z
 LAST-MODIFIED:20260717T125916Z
 UID:10029267-1797102000-1797114600@plasterlodzki.pl
@@ -807,7 +885,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T200000
 DTEND;TZID=Europe/Warsaw:20261215T220000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20250717T091307Z
 LAST-MODIFIED:20260522T124152Z
 UID:10042439-1797364800-1797372000@plasterlodzki.pl
@@ -820,7 +898,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T210000
 DTEND;TZID=Europe/Warsaw:20261217T220000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050995-1797541200-1797544800@plasterlodzki.pl
@@ -833,7 +911,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T180000
 DTEND;TZID=Europe/Warsaw:20261218T210000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20221202T203001Z
 LAST-MODIFIED:20261030T120750Z
 UID:10029253-1797616800-1797627600@plasterlodzki.pl
@@ -846,7 +924,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T190000
 DTEND;TZID=Europe/Warsaw:20261218T220000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20230101T180439Z
 LAST-MODIFIED:20261030T143249Z
 UID:10029654-1797620400-1797631200@plasterlodzki.pl
@@ -859,7 +937,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T190000
 DTEND;TZID=Europe/Warsaw:20261218T210000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20221202T185909Z
 LAST-MODIFIED:20261030T102547Z
 UID:10029172-1797620400-1797627600@plasterlodzki.pl
@@ -872,7 +950,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T200000
 DTEND;TZID=Europe/Warsaw:20261218T220000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20261030T150545Z
 LAST-MODIFIED:20261030T150545Z
 UID:10051198-1797624000-1797631200@plasterlodzki.pl
@@ -885,7 +963,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T200000
 DTEND;TZID=Europe/Warsaw:20261218T210000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20251010T115101Z
 LAST-MODIFIED:20261030T123256Z
 UID:10037944-1797624000-1797627600@plasterlodzki.pl
@@ -898,7 +976,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20260327T104111Z
 LAST-MODIFIED:20260327T104111Z
 UID:10047634-1797638400-1797724799@plasterlodzki.pl
@@ -911,7 +989,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T200000
 DTEND;TZID=Europe/Warsaw:20261219T210000
-DTSTAMP:20261106T071706
+DTSTAMP:20261107T071705
 CREATED:20251220T230100Z
 LAST-MODIFIED:20260426T100412Z
 UID:10045977-1797710400-1797714000@plasterlodzki.pl
