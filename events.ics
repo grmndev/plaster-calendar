@@ -404,7 +404,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20260327T103840Z
 LAST-MODIFIED:20260327T103840Z
 UID:10047629-1794268800-1794355199@plasterlodzki.pl
@@ -417,7 +417,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261111T180000
 DTEND;TZID=Europe/Warsaw:20261111T230000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20250629T080906Z
 LAST-MODIFIED:20261030T150008Z
 UID:10041673-1794420000-1794438000@plasterlodzki.pl
@@ -430,7 +430,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T190000
 DTEND;TZID=Europe/Warsaw:20261112T210000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20251220T221010Z
 LAST-MODIFIED:20261106T095619Z
 UID:10040050-1794510000-1794517200@plasterlodzki.pl
@@ -443,7 +443,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T190000
 DTEND;TZID=Europe/Warsaw:20261112T200000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20251104T111356Z
 LAST-MODIFIED:20260304T205146Z
 UID:10045328-1794510000-1794513600@plasterlodzki.pl
@@ -456,7 +456,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T190000
 DTEND;TZID=Europe/Warsaw:20261112T213000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20230113T102827Z
 LAST-MODIFIED:20261030T105137Z
 UID:10029864-1794510000-1794519000@plasterlodzki.pl
@@ -469,7 +469,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T193000
 DTEND;TZID=Europe/Warsaw:20261112T230000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20231013T103726Z
 LAST-MODIFIED:20261030T143700Z
 UID:10031943-1794511800-1794524400@plasterlodzki.pl
@@ -482,7 +482,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T193000
 DTEND;TZID=Europe/Warsaw:20261112T210000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20221115T145516Z
 LAST-MODIFIED:20261030T110301Z
 UID:10028588-1794511800-1794517200@plasterlodzki.pl
@@ -495,7 +495,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261112T210000
 DTEND;TZID=Europe/Warsaw:20261112T220000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050990-1794517200-1794520800@plasterlodzki.pl
@@ -508,7 +508,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T183000
 DTEND;TZID=Europe/Warsaw:20261113T233000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20230127T104019Z
 LAST-MODIFIED:20261030T143752Z
 UID:10029960-1794594600-1794612600@plasterlodzki.pl
@@ -521,7 +521,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T190000
 DTEND;TZID=Europe/Warsaw:20261113T213000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20230929T113704Z
 LAST-MODIFIED:20261030T102614Z
 UID:10031828-1794596400-1794605400@plasterlodzki.pl
@@ -534,7 +534,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T190000
 DTEND;TZID=Europe/Warsaw:20261113T203000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20261104T102414Z
 LAST-MODIFIED:20261104T102414Z
 UID:10051325-1794596400-1794601800@plasterlodzki.pl
@@ -547,7 +547,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T190000
 DTEND;TZID=Europe/Warsaw:20261113T210000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20250828T080636Z
 LAST-MODIFIED:20261026T111227Z
 UID:10050931-1794596400-1794603600@plasterlodzki.pl
@@ -560,7 +560,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T190000
 DTEND;TZID=Europe/Warsaw:20261113T203000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20250822T132812Z
 LAST-MODIFIED:20261030T102807Z
 UID:10040114-1794596400-1794601800@plasterlodzki.pl
@@ -573,7 +573,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T193000
 DTEND;TZID=Europe/Warsaw:20261113T233000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20260305T124604Z
 LAST-MODIFIED:20261030T120514Z
 UID:10047275-1794598200-1794612600@plasterlodzki.pl
@@ -586,7 +586,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T200000
 DTEND;TZID=Europe/Warsaw:20261113T220000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20261030T150917Z
 LAST-MODIFIED:20261030T150917Z
 UID:10051202-1794600000-1794607200@plasterlodzki.pl
@@ -599,7 +599,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T180000
 DTEND;TZID=Europe/Warsaw:20261114T203000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260724T100919Z
 UID:10050388-1794679200-1794688200@plasterlodzki.pl
@@ -612,7 +612,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T190000
 DTEND;TZID=Europe/Warsaw:20261114T235900
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20250221T133941Z
 LAST-MODIFIED:20261009T090013Z
 UID:10042474-1794682800-1794700740@plasterlodzki.pl
@@ -625,7 +625,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T190000
 DTEND;TZID=Europe/Warsaw:20261114T210000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20261026T110757Z
 LAST-MODIFIED:20261026T110757Z
 UID:10050928-1794682800-1794690000@plasterlodzki.pl
@@ -638,7 +638,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T190000
 DTEND;TZID=Europe/Warsaw:20261114T223000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20221202T201220Z
 LAST-MODIFIED:20261030T123550Z
 UID:10029224-1794682800-1794695400@plasterlodzki.pl
@@ -651,7 +651,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T190000
 DTEND;TZID=Europe/Warsaw:20261114T210000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20250828T080636Z
 LAST-MODIFIED:20261026T111227Z
 UID:10050932-1794682800-1794690000@plasterlodzki.pl
@@ -664,7 +664,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T190000
 DTEND;TZID=Europe/Warsaw:20261114T233000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20221202T211155Z
 LAST-MODIFIED:20261030T143820Z
 UID:10029262-1794682800-1794699000@plasterlodzki.pl
@@ -677,7 +677,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T193000
 DTEND;TZID=Europe/Warsaw:20261114T220000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20221118T131025Z
 LAST-MODIFIED:20260821T120712Z
 UID:10028917-1794684600-1794693600@plasterlodzki.pl
@@ -689,8 +689,60 @@ CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T200000
+DTEND;TZID=Europe/Warsaw:20261114T233000
+DTSTAMP:20261109T071704
+CREATED:20230512T142415Z
+LAST-MODIFIED:20261030T120550Z
+UID:10030969-1794686400-1794699000@plasterlodzki.pl
+SUMMARY:CLOSTERKELLER (+Mechu + Blacklight) - koncert na 30lecie Cyan i nowe wydawnictwo "reCYAN"
+DESCRIPTION:Z okazji **30-lecia albumu „CYAN**” zespół Closterkeller zapowiada wyjątkowy projekt obejmujący nowe wydawnictwo „**reCYAN**” oraz trasę koncertową „**reCYAN TOUR 2026**”. ✦ „reCYAN” to nowo nagrana wersja albumu „CYAN”\, dzięki której album po wielu latach ponownie ukaże się na CD\, a po raz pierwszy trafi również do serwisów streamingowych. ✦ „reCYAN TOUR 2026” obejmie prawie 30 koncertów podczas koncertów usłyszymy nie tylko utwory z „CYAN”\, ale również najważniejsze kompozycje z całego dorobku Closterkellera\, w tym z wydanego w ubiegłym roku albumu „ARGENTO”. O płycie CYAN:30 lat temu Closterkeller wydał album\, który stał się symbolem artystycznej odwagi\, poszukiwań i otwarcia na nowe brzmienia. „CYAN” nie był próbą powtórzenia sukcesu płyt „VIOLET” (1993) i „SCARLET” (1995). Zamiast podążyć za oczekiwaniami i modą na coraz cięższe granie\, zespół świadomie wybrał własną drogę\, tworząc album\, który po trzech dekadach wciąż brzmi świeżo i pozostaje dla wielu fanów jednym z najważniejszych w dorobku Closterkeller. „CYAN” otworzył przed zespołem zupełnie nowe muzyczne przestrzenie – pełne analogowych syntezatorów\, nastrojowych kompozycji\, elektronicznych inspiracji i charakterystycznego\, magnetycznego klimatu.Piąty album Closterkellera przyniósł utwór „Władza”\, który dotarł do czołówki legendarnej Listy Przebojów Trójki i do dziś pozostaje jednym z najbardziej rozpoznawalnych utworów zespołu\, a jego przesłanie z biegiem lat nie straciło nic ze swojej aktualności. „CYAN” jest jednak przede wszystkim albumem niezwykle różnorodnym – od mrocznych\, monumentalnych kompozycji\, takich jak „Cisza w jej domu”\, przez industrialno-postpunkową „Klepsydrę”\, aż po zaskakująco przebojową „Ziemię obiecaną”. Tytuł „CYAN” z jednej strony oznacza komputerowy odcień niebieskiego\, a z drugiej – silnie trujący związek chemiczny o podstępnie przyjemnym zapachu. Ta dwoistość doskonale oddaje charakter albumu – pięknego i rozmarzonego\, ale też opowiadającego o toksycznych uczuciach\, lęku\, przemijaniu i emocjach\, które potrafią fascynować i jednocześnie zatruwać. Wystarczy wsłuchać się w utwór tytułowy czy poruszającą „Roszpunkę”\, tym razem pozbawioną baśniowego happy endu. Skład zespołu:Anja Orthodox – wokalKrzysztof Najman – basMichał Rollinger – klawiszeAdam Najman – perkusjaMariusz Kumala – gitara\nWcześniej zagra zespół Blacklight: https://www.facebook.com/BlackLight.PolskaBlacklight – progresywny metal przepełniony emocjami i ociekający klimatem\, gdzie wokalne partie przeplatane są przeszywającymi gitarowymi solówkami\, gdzie bas i perkusja łamią rytm nieoczywistymi zagraniami\, gdzie ambient i efekty dopełniają całości i pozwalają zatracić się w kompozycjach. Posłuchaj i przekonaj się\, że porównania do legend\, takich jak Opeth i Katatonia nie są bezsadne.\nMechu:https://www.facebook.com/MechuOfficial/Mechu – alternatywny rock\, elektronika i eksperyment połączone z nowofalowym i oryginalnym gitarowym brzmieniem. Piosenki poza schematami\, balansujące między psychodeliczną i transującą energią\, mroczniejszymi przestrzeniami i punk-rockowym pazurem. To projekt gitarzysty i multiinstrumentalisty Tomasza „Mechu” Wojciechowskiego\, który grał w takich zespołach jak Jezabel Jazz\, Blitzkrieg\, Hedone i Closterkeller. Aktualnie jest również basistą grupy Moskwa. Towarzyszy mu Tomek „Tuba” Tybulczuk\, grający na instrumentach klawiszowych\, który także występował kiedyś w Blitzkrieg. Podczas koncertu będzie można usłyszeć utwory z wydanej w zeszłym roku nakładem GAD Records płyty „MECHU 001″. Muzyka Mechu może Cię zaskoczyć\, bo trudno porównać ją do czegoś\, co już znasz
+URL:https://plasterlodzki.pl/wydarzenia/64-urodziny-zaka-the-bullseyes-oraz-chair/
+LOCATION:Klubopiwiarnia\, Narutowicza 7/9\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T200000
+DTEND;TZID=Europe/Warsaw:20261114T220000
+DTSTAMP:20261109T071704
+CREATED:20251220T220026Z
+LAST-MODIFIED:20251220T220026Z
+UID:10045914-1794686400-1794693600@plasterlodzki.pl
+SUMMARY:Dawid Kwiatkowski – Proszę Tańcz Tour
+DESCRIPTION:Dawid Kwiatkowski powraca z nową trasą koncertową promującą jego nadchodzący album. Trasa „Proszę Tańcz Tour” to zaproszenie do świata\, w którym muzyka łączy się z niesamowitą energią sceniczną. Artysta i jego zespół przygotowali show\, które zaskoczy nawet najwierniejszych słuchaczy\, nadając również znanym przebojom zupełnie nowy i emocjonalny wymiar. \nDawid Kwiatkowski Proszę Tańcz Tour 2026\nTak o trasie opowiada sam Dawid: \nPamiętam moment\, kiedy przy tworzeniu „Proszę Tańcz” poczułem\, że właśnie ten klimat poprowadzi mnie muzycznie przez kolejne lata. Energia\, która wtedy wybuchła w studiu i przelała się na następne utwory\, sprawiła\, że moja wrażliwość w końcu znalazła idealne ujście. To był ten jeden impuls\, po którym wszystko zaczęło układać się w spójną\, prawdziwą całość. Złożyłem się wtedy i ja. Zaczęła się składać również cała płyta. \nI teraz chcę Was do tego świata zaprosić. Na koncerty\, które będą czymś więcej niż tylko promocją albumu. To będzie przestrzeń dla wrażliwych\, otwartych\, dla tych\, którzy chcą poczuć muzykę inaczej niż dotąd. Dla tych\, którzy chcą poznać zupełnie innego mnie — spokojniejszego\, odważniejszego i bliższego emocjom\, które naprawdę niosą te piosenki. \nNa scenie oddam Wam dokładnie to\, co poczułem w tamtym studiu: prawdę\, żar\, lekkość\, rytmy południa i polską melancholię. Przyjdźcie. \nPoznajmy się jeszcze raz. Chcę przeżyć to z Wami. \nHarmonogram koncertu:\n\nOtwarcie bram M&G: 16:00\nOtwarcie bram bilety early entrance: 17:30\nOtwarcie bram bilety standardowe: 18:30\nStart koncertu: 20:00\n\nUwaga: podane godziny są orientacyjne i mogą ulec zmianie. \nDawid Kwiatkowski bilety\nMeet & Greet (tylko wybrane miasta)\nBilet Meet & Greet zawiera: \n\nspotkanie z Dawidem Kwiatkowskim\nzdjęcie z artystą\nbilet na koncert\nwcześniejsze wejście na koncert\nunikatowy gift\n\nBilet Early Entrance\nTo wcześniejsze wejście na koncert. Uwaga! jeżeli się spóźnisz również będziesz mógł uczestniczyć w koncercie. Nie zwracamy różnicy w cenie bądź całkowitej kwoty za zakupiony bilet \nOgraniczenia wiekowe\nOsoby małoletnie poniżej 16 roku życia muszą być pod opieką osoby pełnoletniej. Opiekun zobowiązany jest również do posiadania biletu w tej samej kategorii cenowej\, co osoba małoletnia.
+URL:https://plasterlodzki.pl/wydarzenia/dawid-kwiatkowski-prosze-tancz-tour/
+LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T200000
+DTEND;TZID=Europe/Warsaw:20261114T220000
+DTSTAMP:20261109T071704
+CREATED:20230210T102017Z
+LAST-MODIFIED:20261030T110326Z
+UID:10030184-1794686400-1794693600@plasterlodzki.pl
+SUMMARY:Izabela Ziółek / Wojtek Madajski
+DESCRIPTION:„SPOZA NASZYCH CHMUR”\nIzabela Ziółek: wokalistka\, flecistka\, lektorka. Uwielbiająca zwierzęta i przyrodę w całym jej majestacie\, ciekawa życia\, ludzi i świata.\nWojtek Madajski: pianista\, basista\, kompozytor\, aranżer oraz producent muzyczny.Admirator pięknych dźwięków w ujęciu sztuki oraz szeroko pojętego wpływu na zdrowie człowieka. Zafascynowany królestwem zapachów\, przyrody i piękna w każdym możliwym aspekcie życia.\nMuzycy sesyjni z dużym dorobkiem i doświadczeniem na polskim rynku muzycznym\, można ich kojarzyć z płyt i występów z takimi artystami jak: Maryla Rodowicz\, Ryszard Rynkowski\, Mieczysław Szcześniak\, Edyta Górniak\, Natalia Kukulska\, Bogusław Mec\, Grzegorz Turnau\, Kasia Sobczyk\, Grzegorz Ciechowski\, Jary Oddział Zamknięty oraz z wielu programów telewizyjnych t.j. All Together Now\, X Factor\, DDTVN \, Szansa na sukces itp.\nZaśpiewają dla Państwa autorskie wersje znanych utworów które poruszają ich serca i dusze\, bo tylko dla takich dźwięków warto żyć!Nazywają siebie poławiaczami muzycznych pereł na morzu obfitości życia\n\nPoczątek koncertu – 20:00\, Bilety: 60 zł. (sprzedaż biletów – tylko przed koncertem – od 19:30).
+URL:https://plasterlodzki.pl/wydarzenia/spektakl-improwizowany-efekt-motyla/
+LOCATION:Przechowalnia\, 6-tego sierpnia 6\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T200000
+DTEND;TZID=Europe/Warsaw:20261114T220000
+DTSTAMP:20261109T071704
+CREATED:20261030T111338Z
+LAST-MODIFIED:20261030T111338Z
+UID:10051021-1794686400-1794693600@plasterlodzki.pl
+SUMMARY:Konglomerat
+DESCRIPTION:Co można robić w jesienny sobotni wieczór? Przyjść na koncert do Żaka! \n Już 14.11 o godzinie 20:00\, w Studenckim Radiu „ŻAK” Politechniki Łódzkiej odbędzie się koncert zespołu Konglomerat!\n Konglomerat – grupa założona w 2025 roku przez Michała Wiosnę\, kompozytora związanego z łódzką Akademią Muzyczną. To świeże spojrzenie na gitarową alternatywę\, które wzbogaca popową przebojowość o post-rockowe ściany dźwięku i progresywne sekcje instrumentalne\, czerpiąc na równi z muzyki filmowej\, co z najnowszych nurtów brytyjskiego rocka.\n Po niespełna roku działalności zespół zdążył wyraźnie zaznaczyć swoje miejsce na muzycznej mapie Łodzi\, występując m.in. ze składem orkiestrowym czy dostając się do finału profesjonalnego przeglądu New Gens Music.\nWystąpią w składzie: Michał Wiosna – śpiew\, gitara\, klawisze Michał Marchlewski – gitara Joachim Klepaczko – gitara basowa Andrzej Danieluk – perkusja\nKoncert odbędzie się w studiu koncertowym nr 10\, III Domu Studenta przy al. Politechniki 7 w Łodzi\nPoza salą będzie można posłuchać: na falach radiowych: 88\,8 MHz online: www.zak.lodz.pl/player lub na naszym kanale YouTubena aplikacji „ŻAK Streamer” na Android\nWSTĘP TYLKO DLA OSÓB PEŁNOLETNICH!
+URL:https://plasterlodzki.pl/wydarzenia/konglomerat/
+LOCATION:Studenckie Radio Żak Politechniki Łódzkiej\, Al. Politechniki 7\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T200000
 DTEND;TZID=Europe/Warsaw:20261114T210000
-DTSTAMP:20261108T071704
+DTSTAMP:20261109T071704
 CREATED:20221202T185117Z
 LAST-MODIFIED:20261030T105150Z
 UID:10029158-1794686400-1794690000@plasterlodzki.pl
@@ -701,9 +753,48 @@ LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T210000
+DTEND;TZID=Europe/Warsaw:20261114T220000
+DTSTAMP:20261109T071704
+CREATED:20260724T105441Z
+LAST-MODIFIED:20261030T102015Z
+UID:10048377-1794690000-1794693600@plasterlodzki.pl
+SUMMARY:Piano Night - Aleksandra Rogozińska by Sandeman
+DESCRIPTION:Już w sobotę 14 listopada razem z Sandeman Porto zapraszamy na magiczną podróż koktajlową na bazie tego wyśmienitego Porto i jazzem na żywoTym razem do swojego świata zabierze Was Aleksandra Rogozińsaka.\nAleksandra Rogozińska – pianistka jazzowa z klasycznym zapleczem. Absolwentka Akademii Muzycznej w Łodzi\, obecnie kontynuuje studia jazzowe na Uniwersytecie Muzycznym Fryderyka Chopina w Warszawie. Inspiruje się różnorodnymi gatunkami muzycznymi\, a bliska jest jej filozofia Milesa Davisa\, nieustannie poszukującego nowych brzmień i kierunków artystycznych. Podczas koncertu zaprezentuje swoje ulubione utwory w autorskich interpretacjach na Pianino solo.\nNasze drzwi otwieramy dla Państwa o 18:00.Start koncertu planujemy na godzinę 21:00\n Miejsce: KIJ\, al. Kościuszki 80/8290-437 ŁódźData: 14/11/2026Cena: FREE\nWażneLokal przeznaczony jest dla osób powyżej 18 roku życia. Osoby niepełnoletnie nie zostaną wpuszczone na wydarzenie
+URL:https://plasterlodzki.pl/wydarzenia/zatanczysz-ze-mna-jeszcze-raz-7-urodziny-kija-2-8/
+LOCATION:KIJ – multitap bar\, Kościuszki 80/82\, Łódź\, łódzkie\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261114T210000
+DTEND;TZID=Europe/Warsaw:20261114T235900
+DTSTAMP:20261109T071704
+CREATED:20221118T124844Z
+LAST-MODIFIED:20261030T095655Z
+UID:10028903-1794690000-1794700740@plasterlodzki.pl
+SUMMARY:Sequento - koncert
+DESCRIPTION:SEQUENTO NA ŻYWO W NARRAGANSET!  14 LISTOPADA 2026 Klub Narraganset | Łódź KONCERT NA ŻYWO GODZ.1:00\nSzykujcie się na noc\, podczas której będzie naprawdę GŁOŚNO! \n14 listopada na scenie Narraganset wystąpi SEQUENTO – artysta\, którego numery rozkręcają imprezy\, podbijają TikToka i mają milionowe wyświetlenia w sieci! https://www.instagram.com/skulak_95/\n\n NA ŻYWO USŁYSZYCIE NAJWIĘKSZE HITY SEQUENTO!\nTo będzie koncert pełen energii\, mocnych klubowych brzmień i refrenów\, które zna cała sala.  Jeśli znasz jego kawałki z TikToka\, YouTube’a i imprez – tym razem masz okazję usłyszeć je NA ŻYWO\, kilka metrów od sceny!\n KONCERT + KLUBOWA NOC W NARRAGANSET \nNie kończymy po ostatnim numerze! Po koncercie zostajemy na parkiecie i bawimy się dalej do rana. \n SEQUENTO – KIM JEST ARTYSTA\, KTÓRY 14 LISTOPADA WYSTĄPI W NARRAGANSET? \nSequento\, czyli Przemysław Skulski\, to artysta\, influencer i jedna z najbardziej charakterystycznych postaci polskiego Internetu. Szersza publiczność poznała go m.in. dzięki programowi „Warsaw Shore – Ekipa z Warszawy”\, ale dziś Sequento konsekwentnie rozwija własną karierę muzyczną. \nJego energetyczne numery\, charakterystyczny styl i ogromny dystans do siebie świetnie odnajdują się w klubowym klimacie. Wśród jego najbardziej rozpoznawalnych kawałków znajdziecie m.in. „Stan Deweloperski” nagrany z Cypisem oraz „Bamboleo” z Maką i Panciem. \n 14 LISTOPADA Sequento wystąpi NA ŻYWO w klubie Narraganset w Łodzi!\nSpodziewajcie się dużej dawki energii\, kontaktu z publicznością i numerów\, przy których ciężko będzie stać w miejscu. \n SEQUENTO – NA ŻYWO 14.11.2026 NARRAGANSET | ŁÓDŹ\nZbieraj ekipę. Widzimy się pod sceną! \n 14.11.2026 SEQUENTO – KONCERT NA ŻYWO \, START KONCERTU OK 1:00 NARRAGANSET – ŁÓDŹ Start imprezy: 22:00BILETY :DO 23:00- 30 ZŁ PO 23:00 – 39 ZŁ PO 24:00 – 49 ZŁ BILETY W KLUBIE W DNIU KONCERTU LUB NA: https://www.kupbilecik.pl/pl/event/218588/lodz/sequento\n\n ZBIERAJ EKIPĘ I WPADAJ!\n14 listopada nie oglądamy SEQUENTO na ekranie telefonu.14 listopada widzimy go NA ŻYWO W NARRAGANSET! \n Obserwuj wydarzenie – wkrótce więcej informacji!
+URL:https://plasterlodzki.pl/wydarzenia/andrzejki/
+LOCATION:Narraganset\, Plac Komuny Paryskiej 5A\, Łódź\, łódzkie
+CATEGORIES:Clubbing,Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261115T180000
+DTEND;TZID=Europe/Warsaw:20261115T210000
+DTSTAMP:20261109T071704
+CREATED:20230113T102852Z
+LAST-MODIFIED:20261030T105210Z
+UID:10029865-1794765600-1794776400@plasterlodzki.pl
+SUMMARY:Lubelska Federacja Bardów
+DESCRIPTION:Oryginalna formacja estradowa proponująca własne rozumienie rozrywki. Sposobem organizacji pracy przypominająca piwnice artystyczne\, gdzie jest wielu autorów\, kompozytorów i wykonawców. Czerpie wzorce z folkloru Kresów\, muzyki klasycznej; nawiązuje do ambitnych nurtów rocka i popu. Charakteryzuje się niespotykaną potęgą głosów\, a także wyjątkową dbałością o stronę muzyczną i tekstową. Warte podkreślenia jest\, że zarówno muzyka jak i tekst są przeważnie dziełem członków zespołu. Najważniejsze występy w charakterze gwiazdy zanotowała podczas Przeglądu Piosenki Aktorskiej we Wrocławiu\, Studenckiego Festiwalu Piosenki w Krakowie\, II Festiwalu Piosenki Prawdziwej (Sopot – Opera Leśna)\, Olsztyńskich Spotkań Zamkowych „Śpiewajmy poezję”. Z sukcesem koncertowała w Wiedniu\, Paryżu\, Nowym Jorku\, Lwowie\, i wielokrotnie w Londynie. Najczęściej jednak w Polsce. Swoje płyty grupa nagrywała (m. in.) w studio pr. III PR im. Agnieszki Osieckiej i w studio PR Kraków. Wszystkie fonogramy były promowane przez PR\, a większość przez TVP pod postacią rejestrowanych koncertów.\nMarek Andrzejewski – śpiew\, kompozycje\, teksty\, gitara\,Jan Kondrak – śpiew\, kompozycje\, teksty\,Piotr Selim – śpiew\, kompozycje\, fortepian\, instrumenty klawiszowe\,\n\n\n„Nasze najlepsze”\nRepertuar koncertu złożony jest z najgoręcej oklaskiwanych utworów\, wybranych z całego dorobku grupy. Muzycznie budowany jest\, z jednej strony\, na motywach ludowych\, przetworzonych przez muzyków LFB (Kare konie\, Ataman); zaś z drugiej strony na motywach muzyki klasycznej(W rytmie bolera\, Do kochanki).Teksty wychodzą najczęściej spod ręki członków zespołu( Raz na walcu\, Zostaje Tania\, Piosenka w sama porę) ale znaleźć można w repertuarze zespołu utwory klasyków polskiej poezji\, ( np. Mikołaja Reja\, Jana Kochanowskiego\, Józefa Czechowicza\, Karola Wojtyły\, Edwarda Stachury). Sposób prowadzenia koncertu i znaczna część repertuaru ma charakter kabaretowy. Występy LFB wyglądają najczęściej tak jak spotkania w grupie przyjaciół\, to znaczy\, że nie ma ścisłego podziału na scenę i widownię; -mogą śpiewać wszyscy i najczęściej śpiewają.\n\n\nRezerw. tel 609 152420\nBilety 60 zł do dnia 15.10.202680 zł od dnia 17.10.2026\nKupbilecik.plhttps://kbq.pl/219605Biletyna.plhttps://bilety.io/cYBuWTawerna Keja
+URL:https://plasterlodzki.pl/wydarzenia/beltaine/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T180000
 DTEND;TZID=Europe/Warsaw:20261201T233000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20230224T103055Z
 LAST-MODIFIED:20261030T120719Z
 UID:10030251-1796148000-1796167800@plasterlodzki.pl
@@ -716,7 +807,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T190000
 DTEND;TZID=Europe/Warsaw:20261201T203000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20221202T185418Z
 LAST-MODIFIED:20261030T105612Z
 UID:10029165-1796151600-1796157000@plasterlodzki.pl
@@ -729,7 +820,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T200000
 DTEND;TZID=Europe/Warsaw:20261203T220000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20221118T092912Z
 LAST-MODIFIED:20261030T143510Z
 UID:10028783-1796328000-1796335200@plasterlodzki.pl
@@ -742,7 +833,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T210000
 DTEND;TZID=Europe/Warsaw:20261203T220000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050993-1796331600-1796335200@plasterlodzki.pl
@@ -755,7 +846,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T190000
 DTEND;TZID=Europe/Warsaw:20261204T210000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20260821T124235Z
 LAST-MODIFIED:20260821T124235Z
 UID:10039619-1796410800-1796418000@plasterlodzki.pl
@@ -768,7 +859,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T200000
 DTEND;TZID=Europe/Warsaw:20261204T233000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20260304T205606Z
 LAST-MODIFIED:20261030T123334Z
 UID:10039502-1796414400-1796427000@plasterlodzki.pl
@@ -781,7 +872,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T200000
 DTEND;TZID=Europe/Warsaw:20261204T233000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20230101T180406Z
 LAST-MODIFIED:20261030T143144Z
 UID:10029653-1796414400-1796427000@plasterlodzki.pl
@@ -794,7 +885,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T180000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20260327T104006Z
 LAST-MODIFIED:20260327T104006Z
 UID:10047632-1796493600-1796511600@plasterlodzki.pl
@@ -807,7 +898,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T190000
 DTEND;TZID=Europe/Warsaw:20261205T233000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20221202T211130Z
 LAST-MODIFIED:20260814T115801Z
 UID:10029261-1796497200-1796513400@plasterlodzki.pl
@@ -820,7 +911,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T190000
 DTEND;TZID=Europe/Warsaw:20261205T220000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20231018T135944Z
 LAST-MODIFIED:20260814T120856Z
 UID:10031977-1796497200-1796508000@plasterlodzki.pl
@@ -833,7 +924,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T180000
 DTEND;TZID=Europe/Warsaw:20261206T210000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20250629T191225Z
 LAST-MODIFIED:20260130T143707Z
 UID:10041980-1796580000-1796590800@plasterlodzki.pl
@@ -846,7 +937,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T190000
 DTEND;TZID=Europe/Warsaw:20261206T220000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20230317T142725Z
 LAST-MODIFIED:20260724T102556Z
 UID:10030465-1796583600-1796594400@plasterlodzki.pl
@@ -859,7 +950,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T190000
 DTEND;TZID=Europe/Warsaw:20261207T210000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20230120T095505Z
 LAST-MODIFIED:20261030T105636Z
 UID:10029919-1796670000-1796677200@plasterlodzki.pl
@@ -872,7 +963,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T183000
 DTEND;TZID=Europe/Warsaw:20261210T220000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20230113T094437Z
 LAST-MODIFIED:20261030T143209Z
 UID:10029841-1796927400-1796940000@plasterlodzki.pl
@@ -885,7 +976,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T210000
 DTEND;TZID=Europe/Warsaw:20261210T220000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050994-1796936400-1796940000@plasterlodzki.pl
@@ -898,7 +989,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T190000
 DTEND;TZID=Europe/Warsaw:20261211T220000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20231018T140036Z
 LAST-MODIFIED:20260808T102137Z
 UID:10031979-1797015600-1797026400@plasterlodzki.pl
@@ -911,7 +1002,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T200000
 DTEND;TZID=Europe/Warsaw:20261211T213000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20250629T080939Z
 LAST-MODIFIED:20260619T120058Z
 UID:10041674-1797019200-1797024600@plasterlodzki.pl
@@ -924,7 +1015,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T180000
 DTEND;TZID=Europe/Warsaw:20261212T203000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20250629T191716Z
 LAST-MODIFIED:20261030T145830Z
 UID:10041989-1797098400-1797107400@plasterlodzki.pl
@@ -937,7 +1028,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T180000
 DTEND;TZID=Europe/Warsaw:20261212T210000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260724T100919Z
 UID:10050389-1797098400-1797109200@plasterlodzki.pl
@@ -950,7 +1041,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T190000
 DTEND;TZID=Europe/Warsaw:20261212T220000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20221222T221551Z
 LAST-MODIFIED:20260814T120841Z
 UID:10029487-1797102000-1797112800@plasterlodzki.pl
@@ -963,7 +1054,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T190000
 DTEND;TZID=Europe/Warsaw:20261212T223000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20221202T211410Z
 LAST-MODIFIED:20260717T125916Z
 UID:10029267-1797102000-1797114600@plasterlodzki.pl
@@ -976,7 +1067,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T200000
 DTEND;TZID=Europe/Warsaw:20261215T220000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20250717T091307Z
 LAST-MODIFIED:20260522T124152Z
 UID:10042439-1797364800-1797372000@plasterlodzki.pl
@@ -989,7 +1080,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T210000
 DTEND;TZID=Europe/Warsaw:20261217T220000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050995-1797541200-1797544800@plasterlodzki.pl
@@ -1002,7 +1093,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T180000
 DTEND;TZID=Europe/Warsaw:20261218T210000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20221202T203001Z
 LAST-MODIFIED:20261030T120750Z
 UID:10029253-1797616800-1797627600@plasterlodzki.pl
@@ -1015,7 +1106,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T190000
 DTEND;TZID=Europe/Warsaw:20261218T220000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20230101T180439Z
 LAST-MODIFIED:20261030T143249Z
 UID:10029654-1797620400-1797631200@plasterlodzki.pl
@@ -1028,7 +1119,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T190000
 DTEND;TZID=Europe/Warsaw:20261218T210000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20221202T185909Z
 LAST-MODIFIED:20261030T102547Z
 UID:10029172-1797620400-1797627600@plasterlodzki.pl
@@ -1041,7 +1132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T200000
 DTEND;TZID=Europe/Warsaw:20261218T220000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20261030T150545Z
 LAST-MODIFIED:20261030T150545Z
 UID:10051198-1797624000-1797631200@plasterlodzki.pl
@@ -1054,7 +1145,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T200000
 DTEND;TZID=Europe/Warsaw:20261218T210000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20251010T115101Z
 LAST-MODIFIED:20261030T123256Z
 UID:10037944-1797624000-1797627600@plasterlodzki.pl
@@ -1067,7 +1158,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20260327T104111Z
 LAST-MODIFIED:20260327T104111Z
 UID:10047634-1797638400-1797724799@plasterlodzki.pl
@@ -1080,7 +1171,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261219T200000
 DTEND;TZID=Europe/Warsaw:20261219T210000
-DTSTAMP:20261108T071705
+DTSTAMP:20261109T071705
 CREATED:20251220T230100Z
 LAST-MODIFIED:20260426T100412Z
 UID:10045977-1797710400-1797714000@plasterlodzki.pl
