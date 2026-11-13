@@ -508,7 +508,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T183000
 DTEND;TZID=Europe/Warsaw:20261113T233000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20230127T104019Z
 LAST-MODIFIED:20261030T143752Z
 UID:10029960-1794594600-1794612600@plasterlodzki.pl
@@ -521,7 +521,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T190000
 DTEND;TZID=Europe/Warsaw:20261113T213000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20230929T113704Z
 LAST-MODIFIED:20261030T102614Z
 UID:10031828-1794596400-1794605400@plasterlodzki.pl
@@ -534,7 +534,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T190000
 DTEND;TZID=Europe/Warsaw:20261113T203000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20261104T102414Z
 LAST-MODIFIED:20261104T102414Z
 UID:10051325-1794596400-1794601800@plasterlodzki.pl
@@ -547,7 +547,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T190000
 DTEND;TZID=Europe/Warsaw:20261113T210000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20250828T080636Z
 LAST-MODIFIED:20261026T111227Z
 UID:10050931-1794596400-1794603600@plasterlodzki.pl
@@ -560,7 +560,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T190000
 DTEND;TZID=Europe/Warsaw:20261113T203000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20250822T132812Z
 LAST-MODIFIED:20261030T102807Z
 UID:10040114-1794596400-1794601800@plasterlodzki.pl
@@ -573,7 +573,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T193000
 DTEND;TZID=Europe/Warsaw:20261113T233000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20260305T124604Z
 LAST-MODIFIED:20261030T120514Z
 UID:10047275-1794598200-1794612600@plasterlodzki.pl
@@ -584,9 +584,22 @@ LOCATION:Klubopiwiarnia\, Narutowicza 7/9\, Łódź\, łódzkie\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261113T193000
+DTEND;TZID=Europe/Warsaw:20261113T220000
+DTSTAMP:20261113T071704
+CREATED:20250520T122302Z
+LAST-MODIFIED:20261112T103759Z
+UID:10040787-1794598200-1794607200@plasterlodzki.pl
+SUMMARY:Mikołaj Trzaska
+DESCRIPTION:13.11.2026 r\, o g.19.30\,\nMikołaj Trzaska\, kompozytor muzyki do filmów Wojciecha Smarzowskiego \, wybitny muzyk\,  saksofonista\ni lider wielu zespołów\, zagra  koncert w Ciągotach promujący nową płytę kwartetu:\nTrzaska-Czitrom-Porteleki-Ajtai\n\nZespół zagra w składzie:\nMikołaj Trzaska – saksofonyÁdám Czitrom – gitaraÁron Porteleki – perkusja\, instrumenty perkusyjnePéter Ajtai – kontrabas\nMikołaj Trzaska – saksofon\, klarnet basowyCzołowa postać polskiej sceny muzyki improwizowanej\, kompozytor i współtwórca yassu (m.in. Miłość\, Łoskot). Lider międzynarodowych projektów (Shofar\, IRCHA Clarinet Quartet)\, w których łączy surową ekspresję jazzu z refleksją nad pamięcią i przestrzenią. Ceniony twórca muzyki teatralnej oraz filmowej\, autor głośnych ścieżek dźwiękowych do filmów Wojciecha Smarzowskiego.\nÁdám Czitrom – gitara: Wszechstronny gitarzysta i kompozytor muzyki teatralnej oraz filmowej. W swoich improwizacjach łączy liryzm z rozszerzonymi technikami gry i elektroniką\, tworząc dynamiczne pejzaże brzmieniowe.\nÁron Porteleki – perkusja\, instrumenty perkusyjne: Czołowa postać węgierskiej sceny kreatywnej i twórca muzyki do spektakli tanecznych. Łączy grę na perkusji z niekonwencjonalnym wykorzystaniem instrumentów ludowych (kontra\, gardon\, tapan)\, budując transowy\, ewoluujący puls.\nPéter Ajtai – kontrabas: Kontrabasista i badacz zajmujący się percepcją muzyczną oraz wspólnotowym wymiarem sztuki. Wykorzystuje techniki perkusyjne\, ghost notes i szumy\, precyzyjnie sterując dynamiką i formą zespołowej improwizacji.\nbilety:przedsprzedaż – 50zł – https://www.kupbilecik.pl/…/224335/lodz/mikolaj-trzaskastudenckie – 35\,-\nw dniu koncertu 60zł:\nSzczegóły:\nhttps://fb.me/e/cmLH4kcot
+URL:https://plasterlodzki.pl/wydarzenia/gnawa-meets-oberek/
+LOCATION:Ciągoty i Tęsknoty\, Wojska Polskiego 144a\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261113T200000
 DTEND;TZID=Europe/Warsaw:20261113T220000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20261030T150917Z
 LAST-MODIFIED:20261030T150917Z
 UID:10051202-1794600000-1794607200@plasterlodzki.pl
@@ -599,7 +612,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T180000
 DTEND;TZID=Europe/Warsaw:20261114T203000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260724T100919Z
 UID:10050388-1794679200-1794688200@plasterlodzki.pl
@@ -612,7 +625,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T190000
 DTEND;TZID=Europe/Warsaw:20261114T235900
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20250221T133941Z
 LAST-MODIFIED:20261009T090013Z
 UID:10042474-1794682800-1794700740@plasterlodzki.pl
@@ -625,7 +638,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T190000
 DTEND;TZID=Europe/Warsaw:20261114T210000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20261026T110757Z
 LAST-MODIFIED:20261026T110757Z
 UID:10050928-1794682800-1794690000@plasterlodzki.pl
@@ -638,7 +651,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T190000
 DTEND;TZID=Europe/Warsaw:20261114T223000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20221202T201220Z
 LAST-MODIFIED:20261030T123550Z
 UID:10029224-1794682800-1794695400@plasterlodzki.pl
@@ -651,7 +664,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T190000
 DTEND;TZID=Europe/Warsaw:20261114T210000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20250828T080636Z
 LAST-MODIFIED:20261026T111227Z
 UID:10050932-1794682800-1794690000@plasterlodzki.pl
@@ -664,7 +677,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T190000
 DTEND;TZID=Europe/Warsaw:20261114T233000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20221202T211155Z
 LAST-MODIFIED:20261030T143820Z
 UID:10029262-1794682800-1794699000@plasterlodzki.pl
@@ -677,7 +690,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T193000
 DTEND;TZID=Europe/Warsaw:20261114T220000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20221118T131025Z
 LAST-MODIFIED:20260821T120712Z
 UID:10028917-1794684600-1794693600@plasterlodzki.pl
@@ -690,7 +703,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T200000
 DTEND;TZID=Europe/Warsaw:20261114T233000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20230512T142415Z
 LAST-MODIFIED:20261030T120550Z
 UID:10030969-1794686400-1794699000@plasterlodzki.pl
@@ -703,7 +716,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T200000
 DTEND;TZID=Europe/Warsaw:20261114T220000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20251220T220026Z
 LAST-MODIFIED:20251220T220026Z
 UID:10045914-1794686400-1794693600@plasterlodzki.pl
@@ -716,7 +729,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T200000
 DTEND;TZID=Europe/Warsaw:20261114T220000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20230210T102017Z
 LAST-MODIFIED:20261030T110326Z
 UID:10030184-1794686400-1794693600@plasterlodzki.pl
@@ -729,7 +742,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T200000
 DTEND;TZID=Europe/Warsaw:20261114T220000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20261030T111338Z
 LAST-MODIFIED:20261030T111338Z
 UID:10051021-1794686400-1794693600@plasterlodzki.pl
@@ -742,7 +755,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T200000
 DTEND;TZID=Europe/Warsaw:20261114T210000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20221202T185117Z
 LAST-MODIFIED:20261030T105150Z
 UID:10029158-1794686400-1794690000@plasterlodzki.pl
@@ -755,7 +768,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T210000
 DTEND;TZID=Europe/Warsaw:20261114T220000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20260724T105441Z
 LAST-MODIFIED:20261030T102015Z
 UID:10048377-1794690000-1794693600@plasterlodzki.pl
@@ -768,7 +781,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261114T210000
 DTEND;TZID=Europe/Warsaw:20261114T235900
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20221118T124844Z
 LAST-MODIFIED:20261030T095655Z
 UID:10028903-1794690000-1794700740@plasterlodzki.pl
@@ -781,7 +794,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T180000
 DTEND;TZID=Europe/Warsaw:20261115T210000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20251010T101717Z
 LAST-MODIFIED:20261009T091107Z
 UID:10042066-1794765600-1794776400@plasterlodzki.pl
@@ -794,7 +807,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T180000
 DTEND;TZID=Europe/Warsaw:20261115T210000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20230113T102852Z
 LAST-MODIFIED:20261030T105210Z
 UID:10029865-1794765600-1794776400@plasterlodzki.pl
@@ -807,7 +820,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T190000
 DTEND;TZID=Europe/Warsaw:20261115T210000
-DTSTAMP:20261112T071704
+DTSTAMP:20261113T071704
 CREATED:20250629T191443Z
 LAST-MODIFIED:20261030T145944Z
 UID:10041985-1794769200-1794776400@plasterlodzki.pl
@@ -818,9 +831,74 @@ LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261115T190000
+DTEND;TZID=Europe/Warsaw:20261115T220000
+DTSTAMP:20261113T071704
+CREATED:20221202T211432Z
+LAST-MODIFIED:20261030T143847Z
+UID:10029268-1794769200-1794780000@plasterlodzki.pl
+SUMMARY:Vołosi
+DESCRIPTION:Koncert w Łodzi. VOŁOSI.\nRekomendowani przez najlepszych:“Żywiołowi!” The Guardian“Olśniewający!” RFWM Festival“Przekraczają granice” BBC\nVOŁOSI zagrali ponad 950 koncertów na całym świecie. Powstali w samym środkupolskich gór\, w wyniku niespodziewanego spotkania miejscowych muzyków zewspółczesnymi artystami ze Śląska.\nCiekawość doprowadziła ich do nieokiełznanych i dzikich sesji improwizacji.Różnorodność ukształtowała ich styl\, w którym zawiera się wszystko od zapadających wpamięć\, pięknych melodii po ekstatyczne szaleństwo. Można tu wyczuć ślady rocka\,punka\, jazzu\, muzyki filmowej\, doprawione sekcjami ambientowymi ale fakt\, że towszystko zagrane jest na instrumentach smyczkowych czyni ich prawdziwym fenomenem.\nSiłą grupy VOŁOSI jest to\, w jaki sposób wyzwala emocje – jest ekscytująco\, zabawnie\,wzruszająco\, gniewnie\, relaksująco\, niepokojąco\, przyjemnie i ostatecznie\, ta mieszankadaje wyzwalające i wyjątkowo satysfakcjonujące doświadczenie.\nZarezerwuj bilet. Liczba miejsc ograniczona.
+URL:https://plasterlodzki.pl/wydarzenia/kashell/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261115T200000
+DTEND;TZID=Europe/Warsaw:20261115T213000
+DTSTAMP:20261113T071704
+CREATED:20260426T100345Z
+LAST-MODIFIED:20260426T100345Z
+UID:10048173-1794772800-1794778200@plasterlodzki.pl
+SUMMARY:Danse\, Danse Paris!
+DESCRIPTION:Danse\, Danse Paris! Poczuj magię paryskiej nocy w Twoim mieście! Światła przygasają. Kurtyna unosi się powoli. W powietrzu czuć zapach perfum\, tajemnicy i artystycznej wolności. Tak zaczyna się wieczór\, który przenosi widzów prosto do serca Paryża – miasta namiętności\, sztuki i niepowtarzalnego klimatu kabaretu. Po raz pierwszy w trasie koncertowej – spektakl „Danse\, Danse Paris!” inspirowany legendarną atmosferą Moulin Rouge\, rewią\, burleską i energetycznym kankanem. To widowisko muzyczno-taneczne\, które łączy spektakularną oprawę wizualną z poruszającą historią i wybitnymi interpretacjami wokalnymi. Akcja rozgrywa się w artystycznym świecie francuskiej bohemy – pełnym marzeń\, miłości\, uniesień i dramatów. Na scenie zobaczymy zjawiskową Danutę Bańczyk – wokalistkę o magnetycznej barwie głosu i scenicznej charyzmie (występ wyłącznie w Warszawie). W pozostałych miastach w tej roli wystąpi Julia Kozłowska\, wnosząc do spektaklu własną wrażliwość i wyjątkową interpretację tej niezwykłej opowieści. Towarzyszyć im będzie Dawid Bawor – charyzmatyczny showman\, który z lekkością i elegancją poprowadzi widzów przez ten pełen emocji wieczór. Całość spaja narrator – Jan de Cracovien – tworząc opowieść\, która wciąga od pierwszej do ostatniej minuty. Towarzyszący artystom zespół tancerek zachwyca precyzją ruchu\, zmysłowością i sceniczną energią. Kostiumy olśniewają przepychem\, piórami i błyskiem\, a choreografie łączą klasykę paryskiej rewii z nowoczesnym wyrazem scenicznym. To spektakl dopracowany w każdym detalu – od światła\, przez scenografię\, aż po dramaturgię. W repertuarze znalazły się utwory\, które rozpalają emocje i budzą wspomnienia: poruszające „Belle” z musicalu Notre Dame de Paris\, namiętne „Roxanne” z Moulin Rouge\, romantyczne „Mon amour” Slimane’a oraz wiele innych kompozycji\, które idealnie wpisują się w klimat pełnej pasji francuskiej nocy. „Danse\, Danse Paris!” to propozycja dla dorosłych widzów\, którzy pragną czegoś więcej niż zwykłego koncertu. To wieczór zmysłowy\, elegancki i wyrafinowany – idealny na randkę\, rocznicę\, wyjątkowe wyjście z przyjaciółmi lub prezent dla kogoś\, kto kocha sztukę i piękno. To odskocznia od codzienności\, podróż do świata\, w którym liczą się emocje\, estetyka i niezapomniane chwile. Kameralność paryskiego kabaretu spotyka się tu z rozmachem scenicznego show. Intymność spojrzeń miesza się z eksplozją energii tańca. Subtelność przechodzi w ogień pasji. To spektakl\, który pobudza zmysły\, wzrusza i zachwyca – pozostawiając w sercu nutę francuskiej nostalgii. Pozwól sobie na wieczór w rytmie Paryża! Daj się porwać muzyce\, tańcu i historii\, która rozgrywa się tuż przed Twoimi oczami. Danse\, Danse Paris! – tej nocy wszystko może się wydarzyć… \nCzytaj więcej na: https://www.kupbilecik.pl/imprezy/200687/%C5%81%C3%B3d%C5%BA/Danse%2C+danse+Paris%21/
+URL:https://plasterlodzki.pl/wydarzenia/danse-danse-paris/
+LOCATION:Zatoka Sportu\, Al. Politechniki 10\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261117T190000
+DTEND;TZID=Europe/Warsaw:20261117T210000
+DTSTAMP:20261113T071704
+CREATED:20261110T110016Z
+LAST-MODIFIED:20261110T110016Z
+UID:10051553-1794942000-1794949200@plasterlodzki.pl
+SUMMARY:Patrycja Markowska. 25 lat na scenie – koncert jubileuszowy
+DESCRIPTION:To będzie trasa bliżej ludzi niż kiedykolwiek: intymnie\, prawdziwie i z rockowym charakterem Patrycji\, który kochamy. Jubileuszowe koncerty Markowskiej to okazja\, by usłyszeć jej piosenki w akustycznych aranżacjach i przeżyć je na nowo. \nW programie znajdą się największe przeboje\, ale także utwory\, których Patrycja dotąd nie wykonywała na żywo – m.in. „Jest mnie coraz mniej” (z płyty „Droga” nagranej z Grzegorzem Markowskim) oraz „Wyznanie” (nagrany z Leszkiem Możdżerem). Nie zabraknie również najnowszego singla „FALE” nagranego z Kamilem Bednarkiem i Andrzejem Krzywym. \nJubileuszowe koncerty Patrycji Markowskiej\nAkustyczne brzmienie wydobędzie teksty i melodie\, a jednocześnie pozwoli zachować energię zespołu\, która zawsze była znakiem rozpoznawczym tych koncertów. \nTo podróż przez 25 lat muzyki – od utworów\, które publiczność zna na pamięć\, po niespodzianki dla fanów\, którzy śledzą każdy rozdział tej historii. Jeśli jesteś z Patrycją od lat\, ten jubileusz jest dla Ciebie. Jeśli dopiero chcesz zobaczyć ją na żywo – trudno o lepszy moment.
+URL:https://plasterlodzki.pl/wydarzenia/patrycja-markowska-25-lat-na-scenie-koncert-jubileuszowy/
+LOCATION:Teatr Muzyczny w Łodzi\, Północna 47/51\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261117T201500
+DTEND;TZID=Europe/Warsaw:20261117T223000
+DTSTAMP:20261113T071704
+CREATED:20221118T093029Z
+LAST-MODIFIED:20261030T143918Z
+UID:10028786-1794946500-1794954600@plasterlodzki.pl
+SUMMARY:Doogie White's White Noise | 30 years of Stranger in Us All
+DESCRIPTION:DOOGIE WHITE`S WHITE NOISE – 30-lecie „STRANGER IN US ALL”\nW listopadzie legenda hard rocka powraca do Polski! Doogie White\, szkocki wokalista znany z występów z formacją Rainbow\, Yngwie Malmsteenem czy Michael Schenker Group\, wyrusza w trasę koncertową.\nNadchodzące koncerty to wydarzenie wyjątkowe – wspólnie świętujemy 30-lecie kultowego albumu „Stranger in Us All” grupy Rainbow. Podczas występów usłyszycie ten legendarny materiał w całości\, a setlistę uzupełnią największe rockowe klasyki z pozostałych projektów wokalisty.\nSzykujcie się na hardrockowe uderzenie i świetną energię pod sceną.\n INFORMACJE ORGANIZACYJNE:Data: 17.11.2026Miejsce: Klub Wooltura\, ŁódźBramki: 19:30Start koncertu: 20:15\n BILETY:\nI Pula (Early Bird) – 80 zł (ściśle limitowana ilościowo! dostępna maksymalnie do 18 października)II Pula (Regular) – 100 zł (od 19 października do dnia przed koncertem)III Pula (W dniu koncertu) – 120 zł (online i na bramce)\nKolekcjonerski bilet wstępu z autografem – 150 złMeet & Greet + Kolekcjonerski bilet wstępu z autografem – 300zł\n KUP BILET ONLINE:Going: https://goingapp.pl/…/doogie-white…/lodz-listopad-2026\nEmpik Bilety: https://empikbilety.pl/…/doogie…/lodz-listopad-2026\n Bilety będą dostępne również stacjonarnie w każdym salonie Empik!\nPula biletów w przedsprzedaży jest ograniczona. W przypadku niewyprzedania puli\, bilety będą dostępne również na bramce w dniu koncertu.\nBilety wstępu w dniu koncertu będzie można kupić wyłącznie na bramce za 120zł.\nDoogie White’s White Noise:Doogie White – wokalBartosz “Bratek” Wójcik – gitara elektrycznaKarol Wójcik – gitara basowaKrzysztof Żurek – perkusja\nLong Live Rock’n’Roll\n—————————-\nDOOGIE WHITE`S WHITE NOISE – 30 YEARS OF „STRANGER IN US ALL”\nIn November\, a hard rock legend returns to Poland! Doogie White\, the Scottish vocalist known for his work with Rainbow\, Yngwie Malmsteen\, and the Michael Schenker Group\, is embarking on a tour.\nThe upcoming shows are a truly special event – together\, we are celebrating the 30th anniversary of Rainbow’s iconic album\, „Stranger in Us All”. During the shows\, you will hear this legendary material in its entirety\, with the setlist rounded out by the greatest rock classics from the vocalist’s other projects.\nGet ready for a massive hard rock strike and fantastic energy in front of the stage.\n EVENT DETAILS:Date: 17.11.2026Venue: Klub Wooltura\, ŁódźDoors: 19:30Show starts: 20:15\n TICKETS:\nTier I (Early Bird) – 80 PLN (strictly limited! available until October 18th at the latest)Tier II (Regular) – 100 PLN (from October 19th until the day before the show)Tier III (Day of show) – 120 PLN (online and at the door)\n BUY TICKETS ONLINE:Going: https://goingapp.pl/…/doogie-white…/lodz-listopad-2026\nEmpik Bilety: https://empikbilety.pl/…/doogie…/lodz-listopad-2026\n Tickets are also available at all physical Empik stores!\nThe pre-sale ticket pool is limited. If not sold out\, tickets will also be available at the door on the day of the show.\nOn the day of the event\, tickets can only be purchased at the door for 120 PLN.\nDoogie White’s White Noise:Doogie White – vocalBartosz “Bratek” Wójcik – guitarKarol Wójcik – bassKrzysztof Żurek – drums\nLong Live Rock’n’Roll
+URL:https://plasterlodzki.pl/wydarzenia/lodz-death-fest-vi/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20261113T071704
+CREATED:20260327T103907Z
+LAST-MODIFIED:20260327T103907Z
+UID:10047630-1794960000-1795046399@plasterlodzki.pl
+SUMMARY:Placebo
+DESCRIPTION:Z okazji trzydziestej rocznicy wydania przełomowego\, debiutanckiego albumu zespół Placebo ogłasza wydanie „Placebo RE:CREATED” – nowej\, porywającej wersji płyty\, która w 1996 roku po raz pierwszy zaprezentowała grupę szerokiej publiczności. Album ukaże się 19 czerwca 2026 roku nakładem wytwórni Elevator Lady Ltd za pośrednictwem AWAL. \nPojawiając się na scenie w szczytowym okresie ery britpopu\, zespół Placebo stanowił wyraźny kontrast w stosunku do panującego wówczas klimatu kulturowego. Podczas gdy większość brytyjskiej muzyki gitarowej w tamtych czasach skupiała się na chłopięcej nostalgii i tożsamości narodowej\, debiutancki album Placebo oferował coś znacznie bardziej prowokacyjnego i konfrontacyjnego. Utwory poruszały tematy seksualności\, androgynii\, uzależnień i wyobcowania z rzadko spotykaną w ówczesnym mainstreamowym rocku szczerością\, dzięki czemu zespół stał się jednym z najbardziej charakterystycznych głosów swojego pokolenia. \n  \nTrzydzieści lat później\, na albumie „Placebo RE:CREATED”\, zespół powraca do tego przełomowego wydawnictwa ze świeżym spojrzeniem. Nowa płyta zawiera przerobione i wzbogacone wersje wszystkich dziesięciu utworów z oryginalnego albumu oraz dwa utwory bonusowe z pierwotnego wydania\, oddając ewolucję tych piosenek na przestrzeni dziesięcioleci występów\, a jednocześnie zachowując surowy charakter\, który je definiował. Wśród utworów znajdują się przełomowe single „Nancy Boy” i „36 Degrees”\, które pomogły ugruntować reputację Placebo jako zespołu o odważnej liryce i brzmieniu wykraczającym poza granice gatunków. Te nowe nagrania wzmacniają intensywność i charakter\, dzięki którym oryginały wywołały tak silny oddźwięk\, jednocześnie odzwierciedlając rozwój i doświadczenie zespołu w latach\, które upłynęły od ich debiutu. \n  \nPlacebo tak komentuje swój nowy album: \n“We think of this record as a director’s cut. We haven’t recreated it from scratch. We went back to the original master tapes and brought 30 years of playing these songs live back into the record.  This project was about finally finishing the record\, dragging it into the 21st century sonically\, while preserving the integrity and the spirit of the original. It’s not about improving it\, there’s nothing wrong with it\, it’s about completing it. When we made the first album\, we didn’t yet have the experience or the studio knowledge to fully translate what was in our heads. Over the years\, the songs took on a life of their own on stage; they grew\, they developed\, they kind of completed themselves. It’s a celebration of where we began\, and a meeting point between who we were then and who we are now. It’s a way of honouring that innocence\, while letting the songs exist with the scale\, confidence\, and energy of the band we’ve become.” \n  \nKiedy w 1996 roku na scenie pojawił się nowy zespół Placebo\, jego estetyka i treść tekstów podważyły utarte standardy brytyjskiej kultury rockowej. Ich identyfikacja wizualna – celowo niejednoznaczna\, efektowna i prowokacyjna – podważała tradycyjne wyobrażenia o płci i męskości w czasach\, gdy tematy te rzadko pojawiały się w głównym nurcie dyskusji. W ten sposób Placebo wytyczyło przestrzeń dla innego rodzaju alternatywnego głosu\, który głęboko rezonował z odbiorcami pozostającymi poza głównym nurtem kultury i do dziś stanowi punkt odniesienia dla wielu ich współczesnych. \nDzisiaj dyskusje na temat tożsamości\, ekspresji płciowej i indywidualności są bardziej widoczne – i często budzą większe kontrowersje – niż kiedykolwiek wcześniej. W tym kontekście początki debiutanckiego albumu Placebo znów wydają się niezwykle aktualne. Album „Placebo RE:CREATED” nie tylko stanowi hołd dla dziedzictwa oryginalnego wydawnictwa\, ale także podkreśla jego niezmienne znaczenie kulturowe\, potwierdzając\, jak bardzo ten album wyprzedzał swoje czasy w momencie premiery. \nAlbum został odtworzony przez Briana Molko i Roba Kirwana na podstawie oryginalnych taśm master\, a miksem zajął się Adam Noble. Efektem jest kompilacja\, która zachowuje bezpośredniość i buntowniczy charakter oryginału\, jednocześnie przenosząc brzmienie na nowe terytorium – odzwierciedlając zarówno długą historię zespołu związaną z tymi utworami\, jak i jego nieustanną ewolucję twórczą. \n  \nJeszcze w tym roku Placebo wyruszy w obszerną trasę koncertową po Wielkiej Brytanii i Europie\, aby uczcić tę doniosłą rocznicę. Muzycy wykonają utwory ze swoich dwóch pierwszych albumów\, „Placebo” i „Without You I’m Nothing” – z których część nie była grana na żywo od ponad 20 lat! Trasa rozpocznie się w Portugalii\, a następnie przeniesie się do innych krajów Europy\, w tym m.in. 18 listopada do Atlas Areny w Łodzi\, by zakończyć się w Wielkiej Brytanii. W tym czasie zagrają 36 koncertów przed setkami tysięcy fanów. \n  \nPrzedsprzedaż na stronie artysty: wtorek\, 24 marca o godz. 10:00 \nPrzedsprzedaż Ticketmaster: czwartek\, 26 marca o godz. 10:00 \nSprzedaż ogólna: piątek\, 27 marca o godz. 10:00 na www.LiveNation.pl \n  \nPlacebo\, na zaproszenie Roberta Smitha z The Cure\, wystąpi również na scenie wraz ze swoimi dobrymi przyjaciółmi z zespołu „Garbage” podczas serii koncertów Teenage Cancer Trust w legendarnej Royal Albert Hall. Ta coroczna seria od dawna jest jednym z najbardziej szanowanych charytatywnych wydarzeń muzycznych w Wielkiej Brytanii\, gromadzącym czołowych artystów w celu zbierania funduszy dla młodych ludzi zmagających się z rakiem. Wszystkie bilety dostępne tutaj: https://placebo.ffm.to/live \n  \nAlbum „Placebo RE:CREATED” będzie można przedpremierowo zamówić od 18 marca w różnych wersjach. \n  \nTRACKLISTA „PLACEBO RE:CREATED” \n\nCome Home\nTeenage Angst\nBionic\n36 Degrees\nHang On To Your IQ\nNancy Boy\nI Know\nBruise Pristine\nLady of the Flowers\nSwallow\nDrowning By Numbers\nH.K. Farewell
+URL:https://plasterlodzki.pl/wydarzenia/placebo/
+LOCATION:Atlas Arena\, Bandurskiego 7\, Łódź\, łódzkie\, 94-020\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T173000
 DTEND;TZID=Europe/Warsaw:20261201T213000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20250717T091406Z
 LAST-MODIFIED:20261110T094231Z
 UID:10051534-1796146200-1796160600@plasterlodzki.pl
@@ -833,7 +911,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T180000
 DTEND;TZID=Europe/Warsaw:20261201T233000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20230224T103055Z
 LAST-MODIFIED:20261030T120719Z
 UID:10030251-1796148000-1796167800@plasterlodzki.pl
@@ -846,7 +924,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T190000
 DTEND;TZID=Europe/Warsaw:20261201T203000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20221202T185418Z
 LAST-MODIFIED:20261030T105612Z
 UID:10029165-1796151600-1796157000@plasterlodzki.pl
@@ -859,7 +937,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T200000
 DTEND;TZID=Europe/Warsaw:20261203T220000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20221118T092912Z
 LAST-MODIFIED:20261030T143510Z
 UID:10028783-1796328000-1796335200@plasterlodzki.pl
@@ -872,7 +950,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T210000
 DTEND;TZID=Europe/Warsaw:20261203T220000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050993-1796331600-1796335200@plasterlodzki.pl
@@ -885,7 +963,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T190000
 DTEND;TZID=Europe/Warsaw:20261204T210000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20260821T124235Z
 LAST-MODIFIED:20260821T124235Z
 UID:10039619-1796410800-1796418000@plasterlodzki.pl
@@ -898,7 +976,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T200000
 DTEND;TZID=Europe/Warsaw:20261204T233000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20260304T205606Z
 LAST-MODIFIED:20261030T123334Z
 UID:10039502-1796414400-1796427000@plasterlodzki.pl
@@ -911,7 +989,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T200000
 DTEND;TZID=Europe/Warsaw:20261204T233000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20230101T180406Z
 LAST-MODIFIED:20261030T143144Z
 UID:10029653-1796414400-1796427000@plasterlodzki.pl
@@ -924,7 +1002,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T180000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20260327T104006Z
 LAST-MODIFIED:20260327T104006Z
 UID:10047632-1796493600-1796511600@plasterlodzki.pl
@@ -937,7 +1015,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T190000
 DTEND;TZID=Europe/Warsaw:20261205T233000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20221202T211130Z
 LAST-MODIFIED:20260814T115801Z
 UID:10029261-1796497200-1796513400@plasterlodzki.pl
@@ -950,7 +1028,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T190000
 DTEND;TZID=Europe/Warsaw:20261205T220000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20231018T135944Z
 LAST-MODIFIED:20260814T120856Z
 UID:10031977-1796497200-1796508000@plasterlodzki.pl
@@ -963,7 +1041,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T180000
 DTEND;TZID=Europe/Warsaw:20261206T210000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20250629T191225Z
 LAST-MODIFIED:20260130T143707Z
 UID:10041980-1796580000-1796590800@plasterlodzki.pl
@@ -976,7 +1054,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T190000
 DTEND;TZID=Europe/Warsaw:20261206T220000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20230317T142725Z
 LAST-MODIFIED:20260724T102556Z
 UID:10030465-1796583600-1796594400@plasterlodzki.pl
@@ -989,7 +1067,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T190000
 DTEND;TZID=Europe/Warsaw:20261207T210000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20230120T095505Z
 LAST-MODIFIED:20261030T105636Z
 UID:10029919-1796670000-1796677200@plasterlodzki.pl
@@ -1002,7 +1080,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T183000
 DTEND;TZID=Europe/Warsaw:20261210T220000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20230113T094437Z
 LAST-MODIFIED:20261030T143209Z
 UID:10029841-1796927400-1796940000@plasterlodzki.pl
@@ -1015,7 +1093,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T210000
 DTEND;TZID=Europe/Warsaw:20261210T220000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050994-1796936400-1796940000@plasterlodzki.pl
@@ -1028,7 +1106,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T190000
 DTEND;TZID=Europe/Warsaw:20261211T220000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20231018T140036Z
 LAST-MODIFIED:20260808T102137Z
 UID:10031979-1797015600-1797026400@plasterlodzki.pl
@@ -1041,7 +1119,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T200000
 DTEND;TZID=Europe/Warsaw:20261211T213000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20250629T080939Z
 LAST-MODIFIED:20260619T120058Z
 UID:10041674-1797019200-1797024600@plasterlodzki.pl
@@ -1054,7 +1132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T180000
 DTEND;TZID=Europe/Warsaw:20261212T203000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20250629T191716Z
 LAST-MODIFIED:20261030T145830Z
 UID:10041989-1797098400-1797107400@plasterlodzki.pl
@@ -1067,7 +1145,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T180000
 DTEND;TZID=Europe/Warsaw:20261212T210000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071705
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260724T100919Z
 UID:10050389-1797098400-1797109200@plasterlodzki.pl
@@ -1080,7 +1158,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T190000
 DTEND;TZID=Europe/Warsaw:20261212T220000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071706
 CREATED:20221222T221551Z
 LAST-MODIFIED:20260814T120841Z
 UID:10029487-1797102000-1797112800@plasterlodzki.pl
@@ -1093,7 +1171,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T190000
 DTEND;TZID=Europe/Warsaw:20261212T223000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071706
 CREATED:20221202T211410Z
 LAST-MODIFIED:20260717T125916Z
 UID:10029267-1797102000-1797114600@plasterlodzki.pl
@@ -1106,7 +1184,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261215T200000
 DTEND;TZID=Europe/Warsaw:20261215T220000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071706
 CREATED:20250717T091307Z
 LAST-MODIFIED:20260522T124152Z
 UID:10042439-1797364800-1797372000@plasterlodzki.pl
@@ -1119,7 +1197,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261217T210000
 DTEND;TZID=Europe/Warsaw:20261217T220000
-DTSTAMP:20261112T071705
+DTSTAMP:20261113T071706
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050995-1797541200-1797544800@plasterlodzki.pl
@@ -1132,7 +1210,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T180000
 DTEND;TZID=Europe/Warsaw:20261218T210000
-DTSTAMP:20261112T071706
+DTSTAMP:20261113T071706
 CREATED:20221202T203001Z
 LAST-MODIFIED:20261030T120750Z
 UID:10029253-1797616800-1797627600@plasterlodzki.pl
@@ -1145,7 +1223,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T190000
 DTEND;TZID=Europe/Warsaw:20261218T220000
-DTSTAMP:20261112T071706
+DTSTAMP:20261113T071706
 CREATED:20230101T180439Z
 LAST-MODIFIED:20261030T143249Z
 UID:10029654-1797620400-1797631200@plasterlodzki.pl
@@ -1158,7 +1236,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T190000
 DTEND;TZID=Europe/Warsaw:20261218T210000
-DTSTAMP:20261112T071706
+DTSTAMP:20261113T071706
 CREATED:20221202T185909Z
 LAST-MODIFIED:20261030T102547Z
 UID:10029172-1797620400-1797627600@plasterlodzki.pl
@@ -1171,7 +1249,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T200000
 DTEND;TZID=Europe/Warsaw:20261218T220000
-DTSTAMP:20261112T071706
+DTSTAMP:20261113T071706
 CREATED:20261030T150545Z
 LAST-MODIFIED:20261030T150545Z
 UID:10051198-1797624000-1797631200@plasterlodzki.pl
@@ -1184,7 +1262,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261218T200000
 DTEND;TZID=Europe/Warsaw:20261218T210000
-DTSTAMP:20261112T071706
+DTSTAMP:20261113T071706
 CREATED:20251010T115101Z
 LAST-MODIFIED:20261030T123256Z
 UID:10037944-1797624000-1797627600@plasterlodzki.pl
@@ -1197,7 +1275,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261112T071706
+DTSTAMP:20261113T071706
 CREATED:20260327T104111Z
 LAST-MODIFIED:20260327T104111Z
 UID:10047634-1797638400-1797724799@plasterlodzki.pl
