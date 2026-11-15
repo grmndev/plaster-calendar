@@ -794,7 +794,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T160000
 DTEND;TZID=Europe/Warsaw:20261115T180000
-DTSTAMP:20261114T071705
+DTSTAMP:20261115T071704
 CREATED:20250718T102734Z
 LAST-MODIFIED:20261113T113902Z
 UID:10039524-1794758400-1794765600@plasterlodzki.pl
@@ -807,7 +807,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T180000
 DTEND;TZID=Europe/Warsaw:20261115T210000
-DTSTAMP:20261114T071705
+DTSTAMP:20261115T071704
 CREATED:20251010T101717Z
 LAST-MODIFIED:20261009T091107Z
 UID:10042066-1794765600-1794776400@plasterlodzki.pl
@@ -820,7 +820,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T180000
 DTEND;TZID=Europe/Warsaw:20261115T210000
-DTSTAMP:20261114T071705
+DTSTAMP:20261115T071704
 CREATED:20230113T102852Z
 LAST-MODIFIED:20261030T105210Z
 UID:10029865-1794765600-1794776400@plasterlodzki.pl
@@ -833,7 +833,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T190000
 DTEND;TZID=Europe/Warsaw:20261115T210000
-DTSTAMP:20261114T071705
+DTSTAMP:20261115T071704
 CREATED:20250629T191443Z
 LAST-MODIFIED:20261030T145944Z
 UID:10041985-1794769200-1794776400@plasterlodzki.pl
@@ -846,7 +846,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T190000
 DTEND;TZID=Europe/Warsaw:20261115T220000
-DTSTAMP:20261114T071705
+DTSTAMP:20261115T071704
 CREATED:20221202T211432Z
 LAST-MODIFIED:20261030T143847Z
 UID:10029268-1794769200-1794780000@plasterlodzki.pl
@@ -859,7 +859,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261115T200000
 DTEND;TZID=Europe/Warsaw:20261115T213000
-DTSTAMP:20261114T071705
+DTSTAMP:20261115T071704
 CREATED:20260426T100345Z
 LAST-MODIFIED:20260426T100345Z
 UID:10048173-1794772800-1794778200@plasterlodzki.pl
@@ -872,7 +872,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T190000
 DTEND;TZID=Europe/Warsaw:20261117T210000
-DTSTAMP:20261114T071705
+DTSTAMP:20261115T071704
 CREATED:20261110T110016Z
 LAST-MODIFIED:20261110T110016Z
 UID:10051553-1794942000-1794949200@plasterlodzki.pl
@@ -885,7 +885,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T201500
 DTEND;TZID=Europe/Warsaw:20261117T223000
-DTSTAMP:20261114T071705
+DTSTAMP:20261115T071704
 CREATED:20221118T093029Z
 LAST-MODIFIED:20261030T143918Z
 UID:10028786-1794946500-1794954600@plasterlodzki.pl
@@ -911,7 +911,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T180000
 DTEND;TZID=Europe/Warsaw:20261118T235900
-DTSTAMP:20261114T071705
+DTSTAMP:20261115T071704
 CREATED:20260327T103907Z
 LAST-MODIFIED:20261113T153529Z
 UID:10047630-1795024800-1795046340@plasterlodzki.pl
@@ -924,7 +924,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T190000
 DTEND;TZID=Europe/Warsaw:20261118T203000
-DTSTAMP:20261114T071705
+DTSTAMP:20261115T071704
 CREATED:20261026T103016Z
 LAST-MODIFIED:20261026T103016Z
 UID:10050907-1795028400-1795033800@plasterlodzki.pl
@@ -937,7 +937,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T193000
 DTEND;TZID=Europe/Warsaw:20261118T220000
-DTSTAMP:20261114T071705
+DTSTAMP:20261115T071704
 CREATED:20260501T090739Z
 LAST-MODIFIED:20261030T094028Z
 UID:10048368-1795030200-1795039200@plasterlodzki.pl
@@ -950,7 +950,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T190000
 DTEND;TZID=Europe/Warsaw:20261119T210000
-DTSTAMP:20261114T071705
+DTSTAMP:20261115T071704
 CREATED:20230120T095532Z
 LAST-MODIFIED:20261030T104626Z
 UID:10029920-1795114800-1795122000@plasterlodzki.pl
@@ -963,7 +963,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T200000
 DTEND;TZID=Europe/Warsaw:20261119T210000
-DTSTAMP:20261114T071705
+DTSTAMP:20261115T071704
 CREATED:20251205T174622Z
 LAST-MODIFIED:20261026T111748Z
 UID:10045641-1795118400-1795122000@plasterlodzki.pl
@@ -976,7 +976,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T200000
 DTEND;TZID=Europe/Warsaw:20261119T210000
-DTSTAMP:20261114T071705
+DTSTAMP:20261115T071704
 CREATED:20250717T091034Z
 LAST-MODIFIED:20260717T131546Z
 UID:10042434-1795118400-1795122000@plasterlodzki.pl
@@ -989,7 +989,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T210000
 DTEND;TZID=Europe/Warsaw:20261119T220000
-DTSTAMP:20261114T071705
+DTSTAMP:20261115T071704
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050991-1795122000-1795125600@plasterlodzki.pl
@@ -1002,7 +1002,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T193000
 DTEND;TZID=Europe/Warsaw:20261120T213000
-DTSTAMP:20261114T071705
+DTSTAMP:20261115T071704
 CREATED:20240411T163851Z
 LAST-MODIFIED:20260821T120824Z
 UID:10032898-1795203000-1795210200@plasterlodzki.pl
@@ -1013,9 +1013,191 @@ LOCATION:Iron Horse\, Tuwima 16 / róg Sienkiewicza\, Łódź\, łódzkie\, Pols
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261120T200000
+DTEND;TZID=Europe/Warsaw:20261120T210000
+DTSTAMP:20261115T071705
+CREATED:20250908T124803Z
+LAST-MODIFIED:20260603T100452Z
+UID:10043089-1795204800-1795208400@plasterlodzki.pl
+SUMMARY:Daria ze Śląska
+DESCRIPTION:W 2026 Daria ze Śląska wraca z trzecim solowym albumem! Artystka jesienią ruszy w klubową trasę\, żeby zaprezentować nowy materiał na żywo. \n“Halo. Co jest grane?” to płyta o tym wszystkim\, o co sami czasem boimy się zapytać. Daria ponownie zaprasza nas do świata szczerych i osobistych historii\, jednak tym razem patrzy nieco szerzej. W przenikliwy i właściwy sobie sposób komentuje ludzkie słabości oraz absurdy rzeczywistości\, których sama bywała częścią.\n______________________ \nPierwszy album wydała w 2023 roku. Za „Tu była” otrzymała dwa Fryderyki (w kategorii Album Roku Indie Pop i Debiut Roku). Sukces debiutanckiego krążka przyniósł intensywny czas w trasie koncertowej i nowy materiał. Wiosną tego roku Daria Ze Śląska wydała płytę „Na Południu bez zmian”\, równie emocjonalną\, niekiedy bardziej hiphopową w swojej formie\, kontynuację debiutu. Świetny odbiór albumu zaowocował występami na festiwalach (Open’er\, Nowa Muzyka\, Męskie Granie) i najdłuższą klubową trasą koncertową w karierze. Rok 2024 artystka zakończyła nominacją do prestiżowej nagrody Paszporty POLITYKI a początek 2025 przyniósł kolejną już nagrodę Fryderyka w kategorii Album Roku Pop Alternatywny. Po premierze albumu “Halo. Co jest grane?” w maju bieżącego roku\, Daria ze Śląska zapełniła warszawski klub Stodoła\, a po sezonie letnich plenerowych występów\, ruszy w klubową trasę.
+URL:https://plasterlodzki.pl/wydarzenia/raz-dwa-trzy-5/
+LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261120T200000
+DTEND;TZID=Europe/Warsaw:20261120T210000
+DTSTAMP:20261115T071705
+CREATED:20230810T122029Z
+LAST-MODIFIED:20261030T104613Z
+UID:10045563-1795204800-1795208400@plasterlodzki.pl
+SUMMARY:Koncert grupy Nijak
+DESCRIPTION:Kultowa grupa nurtu piosenki studenckiej\, jedna z najbardziej znanych grup w historii Yapy Od 40 lat zawsze na topie\, zawsze obecni na ustach rozśpiewanych miłośników klimatuRezerw.tel 609 152 420\nBilety 50 złKupbilecik.plBiletyna.plTawerna Keja
+URL:https://plasterlodzki.pl/wydarzenia/gabi-gunia/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261120T200000
+DTEND;TZID=Europe/Warsaw:20261120T220000
+DTSTAMP:20261115T071705
+CREATED:20220514T180504Z
+LAST-MODIFIED:20261030T123512Z
+UID:10027652-1795204800-1795212000@plasterlodzki.pl
+SUMMARY:Mateusz Tomczak i Lola Woch
+DESCRIPTION:Mateusz Tomczak jest urodzonym w 2001 roku\, łódzkim piosenkopisarzem i producentem. Na koncie ma trzy wydane albumy długogrające; Ekshibicjonizm (2023)\, Niektóre sekrety powinny pozostać marzeniem (2024) i Miłość i inne perwersje (2025). Nad wydaniami współpracował z labelami enjoy life\, Opus Elefantum Collective i Niebieskim Labelem.Na przestrzeni ostatnich lat wystąpił m.in. na festiwalach i showcase’ach takich jak OFF Festival\, Slot Art Festival\, Great September czy Next Fest.Tym razem\, po kilkumiesięcznej przerwie od koncertowania\, zaprezentuje swoje piosenki w formie solowego koncertu\, uzbrojony wyłącznie w gitarę i własny głos.\nhttps://www.instagram.com/mateusztomczak/\n\nLola Woch twierdzi\, że chciała nagrać porządną folkową płytę\, ale rzeczywistość zmusiła ją do bardziej impresjonistycznych działań: nagrywania piosenek na laptop gamingowy\, radykalnego montażu i wchodzenia na czerwone. Tak powstał jej anglojęzyczny debiut piosenkowy „Lucid for Warbler”\, który miał premierę w październiku. Lola to warszawska piosenkarka-szwendaczka\, wcześniej działająca na scenie m.in. jako producentka rapu dla galerzystów (pod pseudonimem Mlody kotek)\, punkowa frontmenka w kryzysie wiary (z zespołem Cegant d’Or)\, improwizująca gitarzystka i krytyczka muzyczna. stworzony w dużej mierze w celu skonsolidowania tych sprzecznych praktyk nowy album jest gruntem walki pomiędzy wrażliwością dwudziestowiecznego popu i nieprzewidywalną ręką oprogramowania produkcyjnego\, wykolejającą piosenki na tory postrzępionego R&B\, niezgrabnie zdigitalizowego jazzu\, podmuchów przesteru\, rozrzuconych świstów i ćwierknięć. mijając miraże\, lola lawiruje między metodami patrzenia w lusterko: uzbrojona w bezwarunkową miłość i nieustępliwą krytykę\, odrzuca zachwyt jako burżuazyjny luksus i nieustannie go poszukuje\, potępia język śpiewając po angielsku\, oraz obserwuje\, jak wielka teraźniejszość miesza się z małą\, zostawiając po sobie dziwny smak.\ninstagram: https://www.instagram.com/cholerai/bandcamp: https://dupnac.bandcamp.com/album/lucid-for-warblerwebsite: https://cholerai.neocities.org/\n\nWydarzenie pod patronatem Nisza Polska oraz independent.pl\nplakat: Lola\nSugerowana kwota 30/40 zł
+URL:https://plasterlodzki.pl/wydarzenia/zakazane-i-dozwolone-techniki-malarstwa-akademickiego/
+LOCATION:Cyrk Pod Zielonym Xiężycem\, Próchnika 1\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261120T200000
+DTEND;TZID=Europe/Warsaw:20261120T220000
+DTSTAMP:20261115T071705
+CREATED:20230317T142655Z
+LAST-MODIFIED:20260814T115821Z
+UID:10030464-1795204800-1795212000@plasterlodzki.pl
+SUMMARY:PIKERS x MFC x HNN
+DESCRIPTION:HNN W ŁODZI \n△△△△△△△△△△△△△△△△△△△△\nBILETY ONLINE:https://stage24.pl/wydarzenia/mfc-pikers-wooltura-8657\nBILET VIP ZAWIERA:– płyta z podpisem– wstęp na próbę zespołu– zdjęcie z artystami aparatem typu polaroid– wejście bez kolejki– spotkanie z artystami\n△△△△△△△△△△△△△△△△△△△△\nNIEPEŁNOLETNI\nPoniżej 18 lat – ZGODA OD RODZICÓW https://drive.google.com/…/1yJ39FZoajhfltAG23dE…/view…\nPoniżej 16 lat – POD OPIEKĄ OSOBY DOROSŁEJ
+URL:https://plasterlodzki.pl/wydarzenia/drip-of-lies-sanity-control/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261120T210000
+DTEND;TZID=Europe/Warsaw:20261120T220000
+DTSTAMP:20261115T071705
+CREATED:20250502T085344Z
+LAST-MODIFIED:20261030T101626Z
+UID:10039127-1795208400-1795212000@plasterlodzki.pl
+SUMMARY:Danny Boy
+DESCRIPTION:Zapraszamy na magiczny wieczór przy koktajlu i bluesie.Można trochę potańczyć\, można się pobujać\, można po prostu posłuchać.Będzie pięknie!Zaśpiewa i zagra Danny Boy czyli Daniel Frontczak\nNasze drzwi otwieramy dla Państwa o 18:00. Start koncertu planujemy na godzinę 21:00.Większe grupy (od 4 osób) zachęcamy do wcześniejszej rezerwacji!!!\nMiejsce: KIJ\, al. Kościuszki 80/8290-437 ŁódźData: 20/11/2026cena: FREE\nWażneLokal przeznaczony jest dla osób powyżej 18 roku życia. Osoby niepełnoletnie nie zostaną wpuszczone na wydarzenie\nArtysta\, zagra standardy nie stroniąc własnych interpretacji mistrzów jak Lee Hooker\, Mudy Waters\, BB King\, JJ Cale ale też Bob Dylan\, Tadeusz Nalepa.\nDaniel „Danny Boy” Frontczak. Urodzony w Łodzi polski gitarzysta i wokalista bluesowy. Założyciel Los Potatos i Danny Boy Experience. Ma za sobą liczne koncerty w klubach i festiwalach w Polsce i za granicą.\nW 2021 ukazała się płyta Danny Boy Experience pod tym samym tytułem. To 13 autorskich kompozycji i 1 cover. Cała płyta trwająca nieco ponad godzinę to zbiór utworów z szerokiego spektrum jakie w arsenale mają blues i rock.
+URL:https://plasterlodzki.pl/wydarzenia/zatanczysz-ze-mna-jeszcze-raz-7-urodziny-kija-3/
+LOCATION:KIJ – multitap bar\, Kościuszki 80/82\, Łódź\, łódzkie\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261121T114500
+DTEND;TZID=Europe/Warsaw:20261121T130000
+DTSTAMP:20261115T071705
+CREATED:20241203T085549Z
+LAST-MODIFIED:20261109T093002Z
+UID:10051518-1795261500-1795266000@plasterlodzki.pl
+SUMMARY:BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING
+DESCRIPTION:Historyczna trasa BTS przez Azję\, bijąca kolejne rekordy\, trafia na wielki ekran! Poczuj niesamowitą atmosferę koncertów BTS i dołącz do tysięcy fanów zgromadzonych w listopadzie na stadionie w Kaohsiung. Przeżyj spektakularne występy i niezwykłą energię stadionowej trasy koncertowej zespołu. Nie przegap okazji\, by zobaczyć BTS WORLD TOUR 'ARIRANG’ w pełnej okazałości na wielkim ekranie w kinach na całym świecie!
+URL:https://plasterlodzki.pl/wydarzenia/nct-dream-mystery-lab-dream-scape-in-cinemas/2026-11-21/1/
+LOCATION:Cinema City\, Drewnowska 58\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261121T150000
+DTEND;TZID=Europe/Warsaw:20261121T170000
+DTSTAMP:20261115T071705
+CREATED:20260702T113731Z
+LAST-MODIFIED:20261109T094642Z
+UID:10047744-1795273200-1795280400@plasterlodzki.pl
+SUMMARY:Hauser symfonicznie z londyńskiej Royal Albert Hall
+DESCRIPTION:Szarmancki wirtuoz w wielkim koncercie z Londynu! Wybierz się w niezwykłą muzyczną podróż ze światowej sławy chorwackim wiolonczelistą Stjepanem Hauserem. Jego pełne pasji wykonania klasycznych arcydzieł\, a także filmowych i musicalowych hitów zachwycają miliony słuchaczy na całym świecie. Artysta z niezwykłą swobodą łączy klasyczną elegancję ze współczesną energią\, tworząc własny\, niepowtarzalny muzyczny świat. Każda nuta wydobyta spod jego smyczka odsłania kolejne pokłady piękna\, intensywnych emocji i artystycznej wrażliwości. \nWidzowie projektu Helios na Scenie oraz KinoMaestro.pl na pewno pamiętają HAUSERA z wyjątkowego koncertu „90. urodziny Pavarottiego”. Teraz ten diaboliczno-romantyczny wiolonczelista powraca do kin jako główna gwiazda własnego wielkiego show\, prezentując swoją wirtuozerię i niezwykłą umiejętność budowania bezpośredniej więzi z publicznością. \nKoncert z londyńskiej Royal Albert Hall to dwie godziny muzycznej pasji\, piękna i emocji\, które wybrzmiewają z wyjątkową siłą na wielkim kinowym ekranie. W koncercie wystąpią także: wirtuozowska skrzypaczka Caroline Campbell\, gwiazda najważniejszych scen operowych Aida Garifullina oraz popularna piosenkarka Lara Fabian. \n Czas trwania: około 135 minut w tym jedna przerwa \nSeans z  polskimi napisami.
+URL:https://plasterlodzki.pl/wydarzenia/kultura-dostepna-5-3/
+LOCATION:Kino Helios Sukcesja\, Al. Politechniki 1\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261121T160000
+DTEND;TZID=Europe/Warsaw:20261121T170000
+DTSTAMP:20261115T071705
+CREATED:20241203T085549Z
+LAST-MODIFIED:20261109T093002Z
+UID:10051519-1795276800-1795280400@plasterlodzki.pl
+SUMMARY:BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING
+DESCRIPTION:Historyczna trasa BTS przez Azję\, bijąca kolejne rekordy\, trafia na wielki ekran! Poczuj niesamowitą atmosferę koncertów BTS i dołącz do tysięcy fanów zgromadzonych w listopadzie na stadionie w Kaohsiung. Przeżyj spektakularne występy i niezwykłą energię stadionowej trasy koncertowej zespołu. Nie przegap okazji\, by zobaczyć BTS WORLD TOUR 'ARIRANG’ w pełnej okazałości na wielkim ekranie w kinach na całym świecie!
+URL:https://plasterlodzki.pl/wydarzenia/nct-dream-mystery-lab-dream-scape-in-cinemas/2026-11-21/2/
+LOCATION:Cinema City\, Drewnowska 58\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261121T180000
+DTEND;TZID=Europe/Warsaw:20261121T230000
+DTSTAMP:20261115T071705
+CREATED:20230317T142804Z
+LAST-MODIFIED:20261030T143555Z
+UID:10030466-1795284000-1795302000@plasterlodzki.pl
+SUMMARY:"DZIADY" Teatr- Koncert ZNICH & Sieniesie
+DESCRIPTION:Dziady  Wooltura / Łódź Głęboka\, prastara noc… Gdy światło gaśnie\, a cienie ożywają. To wtedy zasłona między światami staje się najcieńsza\, a duchy przodków wyczuwają naszą obecność. To czas\, gdy ziemia oddaje echa dawnych pokoleń\, a iskry z rytualnego ognia niosą w sobie modlitwy zapomniane przez wieki.„Dziady” to nie tylko koncert – to mistyczne przeżycie\, powrót do korzeni\, gdzie dźwięk\, ogień i mrok splatają się w jedność. Scena rozbłyśnie blaskiem świec\, a muzyka poprowadzi was w głąb pradawnych obrzędów\, gdzie sacrum łączy się z dziką energią żywiołów. Jeśli masz odwagę – wejdź do kręgu. Posłuchaj\, jak muzyka otwiera wrota do świata\, w którym czas nie ma znaczenia.2 listopada\, w samą sakralną godzinę\, odbędzie się wyjątkowe misterium\, które przeniesie nas wprost do świata słowiańskich przodków! Tego wieczoru usłyszycie folk\, etno\, pradawne obrzędy i ciężki metal\, a wszystko to w otoczeniu kraboszek – masek\, które od wieków strzegą tajemnic naszych przodków i nadają tej nocy magiczny wymiar.Kraboszki – symbol ochrony i połączenia z zaświatami – będą nie tylko mile widziane\, ale wręcz pożądane! Załóż je\, stań się częścią rytuału\, daj się ponieść magii tej niezwykłej nocy.Wystąpią:ZNICH – ( ethno arhaic folk black metal) Białoruś / PolandSIENIESIE – ( arhaic folk) Białoruś /Poland —————————————————-Lodz \, Wooltura clubWejście: 18:00Start: 18:3018:35 – Ritual (część 1)18:50 – SIENIESIE19:40 – Ritual (część 2)20:20 – ADAM MICKEWICZ21:00 – ZNICHBilety:–80 zl -90 zl -(100 zl)Link do zgody dla osób niepełnoletnich:https://www.voodooclub.pl/…/PISEMNA-ZGODA-OSWIADCZENIE…PS: Stroje i maski kraboszki – stańcie się częścią rytuału!—————————————————-ZNICH· IG: https://www.instagram.com/znich_band· FB: https://www.facebook.com/znichofficial· YT: https://www.youtube.com/@znichmetalLegenda wschodnioeuropejskiego folk metalu. Zespół łączy ciężkie riffy z ludowymi pieśniami\, etnicznymi instrumentami i obrzędowym klimatem.W ich muzyce spotykają się growl\, biały śpiew i mitologia słowiańska. Koncerty Znicha to mistyczne\, energetyczne widowisko\, przywodzące na myśl dawną moc rytuałów.– Tatačka (Official Video) https://youtu.be/jjVY3RiPfck– Čur Viedźma Čur (Official Audio) https://youtu.be/FM-XWCAMGrA– Дунаю… (Official Video) https://youtu.be/Xt9vK0RgXiQ– Voj Sama Sama Ja (Official Audio) https://youtu.be/kC5GKM8rGTU\n***SIENIESIE· IG: https://www.instagram.com/_sieniesie_· FB: https://www.facebook.com/profile.php?id=61577313506692Sieniesie to grupa zrodzona z radości i dla radości – przestrzeń\, gdzie wspólny śpiew staje się pretekstem do spotkania i dialogu.To miejsce\, gdzie przez śpiew naturalny krzyżują się tradycja polska i białoruska z innymi kulturami ludowymi.—————————————————-Osoby poniżej 16 roku życia wpuszczane będą wyłącznie z rodzicem / opiekunem prawnymOsoby w wieku 16-18 lat będą wpuszczane za pisemną zgodą rodzica / opiekuna prawnegoREGULAMIN KLUBU dostępny pod adresem
+URL:https://plasterlodzki.pl/wydarzenia/ale-baja-fright-night-hashche-muut/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261121T180000
+DTEND;TZID=Europe/Warsaw:20261121T223000
+DTSTAMP:20261115T071705
+CREATED:20231004T085509Z
+LAST-MODIFIED:20261030T120618Z
+UID:10031877-1795284000-1795300200@plasterlodzki.pl
+SUMMARY:Deloraine\, Żniwa i Szlakiem Starych Drzew
+DESCRIPTION:Deloraine [CZ]\, Żniwa i Szlakiem Starych Drzew wracają do Łodzi!\nWyjątkowy paganfolkowy wieczór pełen muzyki\, tańca i magii zawita już 21. listopada do Browaru Warkot – nie może Was zabraknąć pod sceną! \n Data: 21.11.2026 Miejsce: Łódź\, Browar Warkot 17:00 – otwarcie bram18:00 – 19:40 – koncert Szlakiem Starych Drzew & Żniwa20:00 – 21:40 – koncert Deloraine22:00 – meet & greet\n Bilety:I pula 99 zł do 31. majaII pula 130 zł do 20. listopadaw dniu koncertu 150 zł https://stage24.pl/…/deloraine-zniwa-ssz-browar-warkot…\nPo koncercie będzie możliwość spotkania z muzykami oraz zakupu płyt i merchu.\n Deloraine mistrzowsko splatają potężne wokale charyzmatycznych wokalistów z bogatym brzmieniem szerokiej gamy egzotycznych\, etnicznych instrumentów. To nie jest zwykły koncert – to show łączący rytuał i muzykę\, zabierając słuchaczy w epicką podróż do światów pełnych pogańskich tańców\, tajemniczych rytuałów i mitologicznych postaci ożywających na scenie w każdym utworze. Przed koncertem posłuchaj na  https://www.youtube.com/Deloraine\n Żniwa to pagan folkowy zespół multiinstrumentalistów Skjere i Raido. W swojej twórczości splatają brzmienia słowiańskie\, celtyckie i wikińskie oraz najciekawsze tradycje muzyczne z całego świata. Zespół tworzy autorski repertuar w oparciu o dawne wierzenia\, legendy\, mitologię i fantastykę\, zapraszając zarówno do dzikiego tańca\, jak i magicznych\, refleksyjnych momentów. Przed koncertem posłuchaj na  YouTube.com/ZNIWA\n Szlakiem Starych Drzew to projekt łączący dawne brzmienia talharpy\, sazu\, liry korbowej i fletu ze współczesnymi formami ekspresji: beatboxem\, ognista gitarą elektryczną\, śpiewem i słowem mówionym. Całość tworzona jest w czasie rzeczywistym za pomocą techniki live loopingu\, co czyni każdy występ niepowtarzalnym muzycznym rytuałem – mostem między przeszłością a współczesnością. Przed koncertem posłuchaj na  YouTube.com/Szlakiem_Starych_Drzew
+URL:https://plasterlodzki.pl/wydarzenia/pull-the-wire-zenek-kupatasa-antyreflks/
+LOCATION:Klubopiwiarnia\, Narutowicza 7/9\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261121T190000
+DTEND;TZID=Europe/Warsaw:20261121T200000
+DTSTAMP:20261115T071705
+CREATED:20241108T122430Z
+LAST-MODIFIED:20261113T113922Z
+UID:10037960-1795287600-1795291200@plasterlodzki.pl
+SUMMARY:AMOR FATI — muzyka utkana z emocji
+DESCRIPTION:Ile historii nosisz w sercu\, których nigdy nikomu nie opowiedziałeś? \nO miłości\, która zmieniła wszystko. O tęsknocie\, która nie mija. O marzeniach\, które wciąż czekają. O chwilach\, do których wracamy\, choć czas już dawno poszedł dalej…\nAMOR FATI — duet\, który zamienia emocje w muzykę\, a muzykę w osobiste historie.\nAutorskie kompozycje\, szczere słowa i melodie pełne nostalgii\, wrażliwości i melancholii.\nBo czasem jedna piosenka potrafi dotknąć miejsca\, do którego nie docierają żadne słowa.\n 21 listopada spotkajmy się tam\, gdzie muzyka mówi językiem emocji.\n Klub Muzyczny Jesteśmy\, Łódź 21.11.2026 (sobota) Godz. 19:00\nAMOR FATI — muzyka utkana z emocji.Przyjdź. Posłuchaj. Poczuj. \nwww.tiktok.com/@izabela.mariusz
+URL:https://plasterlodzki.pl/wydarzenia/karaoke-w-jestesmy/
+LOCATION:Jesteśmy\, Jaracza 13\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261121T190000
+DTEND;TZID=Europe/Warsaw:20261121T210000
+DTSTAMP:20261115T071705
+CREATED:20261026T111015Z
+LAST-MODIFIED:20261026T111015Z
+UID:10050930-1795287600-1795294800@plasterlodzki.pl
+SUMMARY:Odyseja | koncert
+DESCRIPTION:Zapraszamy na pierwszy popremierowy koncert „Odyseja” w wykonaniu Chóru Spółdzielczego z Teatru CHOREA\, na scenie Fabryki Sztuki w Łodzi. \n\ndata: 21 listopada 2026 | sobota \ngo­dzi­na: 19:00 \nmiej­sce: Scena\, Fabryka Sztuki w Łodzi\, ul. Tymienieckiego 3 \nwiek widzów: bez ograniczeń \nczas trwania: 60 minut \nbilety: 50 zł – normalny | 40 zł – ulgowy | 30 zł – grupowy\, minimum 10 osób \nre­zer­wa­cja biletów: mail: te­atr­cho­rea@gma­il.com  | sms: +48 506 103 207 \nzakup bi­le­tów: za po­śred­nic­twem por­ta­lu biletomat.pl \n\n\n„Odyseja” to drugi projekt muzyczny Chóru Spółdzielczego\, prowadzonego przez Grzegorza Wierusa i Elinę Tonevę\, w Teatrze CHOREA. Pierwszy projekt „Hoson Zes / Lśnij” był szukaniem energii\, życia i nadziei\, w starożytnych zapisach muzyki antycznej Grecji. Rekompozycje tych zabytków muzycznych\, stworzone przez Macieja Rychłego\, Tomasza Krzyżanowskiego\, Macieja Maciaszka i Grzegorza Wierusa\, dały 30-osobowemu zespołowi wykonawców z Chóru Spółdzielczego szansę na powołanie niezwykłego i unikatowego zjawiska artystycznego o niepowtarzalnej jakości\, które odwiedziło już wiele miast i ważnych festiwali w Polsce. \n\nProjekt „Odyseja” jest kontynuacją i rozwinięciem tej drogi – ku współczesności. Tą podróż chcemy odbyć razem z widzami\, z ich obecnością i ich głosami. Szukając wspólnoty. Ideą łączącą nas z mitem Odysei jest to\, że razem poszukujemy drogi do wspólnego domu\, że wędrujemy przez różne muzyczne krainy\, które u celu podróży pozwolą nam dowiedzieć się kim jesteśmy. \n\nNasza „Odyseja” nie jest tułaczką czy poniewierką. To podróż przez muzykę\, do samych siebie. To droga przez epoki\, tradycje\, konwencje i style muzyczne\, w którą zabieramy widzów. To wędrowanie całej naszej spółdzielni muzycznej\, wraz z uczestnikami wydarzenia\, w poszukiwaniu współbrzmienia\, harmonii\, wspólnoty i radości\, które muzyka może dać nam wszystkim\, ponieważ potrafi dotrzeć do naszych najczulszych emocji i obejmuje całą ludzką wrażliwość. \n\n„Odyseja” artystów naszej spółdzielni nie jest wygnaniem i zagubieniem. To wędrówka\, która zaczyna się od tego co w nas ciemne\, co boli i sytuuje nas na obrzeżach szaleństwa\, by poprzez kolejne zaśpiewy i pieśni prowadzić do zrozumienia i zaakceptowania naszych najtrudniejszych ludzkich sprzeczności. Poprzez słuchanie siebie\, odnalezienie harmonii i spójności w brzmieniach. Za pośrednictwem pieśni\, bliskości i wzajemności – czyli tego\, czego można szukać wyłącznie w zaufaniu\, otwartości i wspólnocie oraz we wzajemnej podróży z widzami. \n\nNaszą „Odyseję” zaczynamy od inkantacji\, lamentu\, zaklinania ran\, od opłakiwania tego co utracone – niespełnionej miłości\, odejścia matki\, śmierci bożego syna… Po to\, żeby uwolnić się od bólu tego świata i od tego\, co budzi największy strach. Żeby ból i lęk zostawić na początku wspólnej drogi. Żeby ruszyć w kierunku\, który pozwoli nam dotrzeć do wspólnego domu. \n\nBłądzimy i krążymy. Od starożytności do współczesności\, w tę i z powrotem. Jakbyśmy chcieli odnaleźć odpowiedź na pytanie – czym jest ta pierwotna potrzeba człowieka\, dzięki której zaczął śpiewać razem z innymi? \n\nDlatego zanurzamy się w pieśni szalonych kapłanów i zaklęcia starych modlitw. Bo chcemy odnaleźć siłę\, która wyprowadzi nas z mroku i pozostawi w nas niezbywalny ślad żarliwości i radości życia. W końcu tylko po to się śpiewa\, żeby jaśnieć i lśnić. Żeby móc spojrzeć gwiazdom i wszystkim ludziom – prosto w oczy. \n\nTwór­cy: Chór Spół­dziel­czy\, Te­atr CHO­REA \nPro­wa­dze­nie Chó­ru: Grze­gorz Wie­rus\, Eli­na To­ne­va \nCho­re­ogra­fia: To­masz Ro­do­wicz\, Eli­na To­ne­va \nObsada: Maciej Bednarek\, Magdalena Bielecka\, Magdalena Borowska\, Jacek Czapnik\, Łukasz Filipow\, Katarzyna Ga­licka-Szer\, Katarzyna Gronkiewicz\, Zofia Kędra\, Marcin Kobyliński\, Ewa Korycka-Grzegorczyk\, Róża Kubasiewicz\, Piotr Matyjaszczyk\, Wiktor Moraczewski\, Wanda Poteraj\, Anna Przybyt\, Kamila Robakiewicz\, Joanna Stanecka\, Marta Sterna\, Aleksandra Szałek\, Paula Tralewska\, Aleksandra Ziomek \nGrafika\, plakat: Magdalena Bielecka \nProducentka: Zofia Kędra \nProdukcja: Teatr CHO­REA \nPremiera: 30 sierpnia 2026\, Teatr CHOREA\, Międzynarodowy Festiwal Teatralny Retroperspektywy \nWięcej informacji: www.chorea.com.pl/koncerty/odyseja / www.chorea.com.pl/chor-spoldzielczy \n\n\n\n\nZAKUP / REZERWACJA BILETÓW \n\n\nBi­le­ty normalne i ulgowe moż­na zaku­pić online\, za po­śred­nic­twem por­ta­lu biletomat.pl\, lub kli­ka­jąc przy­cisk „KUP BI­LET ON­LI­NE” na stro­nie www.chorea.com.pl.\n\n\n\nBi­le­ty normalne\, ulgowe i grupowe można zarezerwować\, od po­nie­dział­ku do piąt­ku\, od godziny 12:00 do 18:00:\n– ma­ilo­wo: te­atr­cho­rea@gma­il.com\n– sms-owo: +48 506 103 207\n\n\n\nW wiadomości mailowej lub sms-owej pro­si­my po­dać:\n– ty­tuł wydarzenia\,\n– datę wydarzeniata­klu\,\n– imię i na­zwi­sko\, na któ­re ma być do­ko­na­na re­zer­wa­cja\,\n– ilość re­zer­wo­wa­nych bi­le­tów oraz czy będą to bi­le­ty normalne\, ulgo­we\, czy grupowe.\n\n  \n\nSystemu rezerwacji nie pro­wa­dzi­my w week­en­dy (so­bo­ty i nie­dzie­le) oraz w dni świą­tecz­ne.\n\n  \n\nSys­tem re­zer­wa­cji bi­le­tów za­my­ka­my po wy­czer­pa­niu li­mi­tu miejsc\, lub o go­dzi­nie 18:00 w dniu po­prze­dza­ją­cym wy­da­rze­nie.\n\n  \n\nZarezerwowane bi­le­ty moż­na zakupić w dniu wy­da­rze­nia\, naj­wcze­śniej go­dzi­nę przed jego roz­po­czę­ciem\, w szkla­nym holu\, w Fa­bry­ce Sztu­ki w Ło­dzi\, ul. Ty­mie­niec­kie­go 3. \n\n  \n\nPłat­ność za bi­le­ty zakupione w dniu wydarzenia przyj­mu­je­my wy­łącz­nie go­tów­ką.\n\n\n\nRe­zer­wa­cje wy­ga­sa­ją 15 mi­nut przed roz­po­czę­ciem wy­da­rze­nia.\n\n\n\nDo za­ku­pu bi­le­tów ulgo­wych uprawnione są oso­by nie­peł­no­let­nie (do 18 roku ży­cia)\, ucznio­wie\, stu­den­ci\, eme­ry­ci\, ren­ci­ści\, oso­by z nie­peł­no­spraw­no­ścia­mi\, oso­by po­wy­żej 80 roku ży­cia oraz oso­by ob­ję­te ulgą usta­wo­wą.
+URL:https://plasterlodzki.pl/wydarzenia/odyseja-koncert/
+LOCATION:Fabryka Sztuki w Łodzi (Art_Inkubator)\, bp. Wincentego Tymienieckiego 3\, Łódź\, łózkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261121T190000
+DTEND;TZID=Europe/Warsaw:20261121T210000
+DTSTAMP:20261115T071705
+CREATED:20230929T113730Z
+LAST-MODIFIED:20260612T091725Z
+UID:10031829-1795287600-1795294800@plasterlodzki.pl
+SUMMARY:ShataQS
+DESCRIPTION:Wiosenna odsłona to finał trasy „Wracam” – świadome dopełnienie drogi rozpoczętej po „Czy mnie słyszysz?”\, rozwijanej przez cały 2025 rok. To koncerty bardziej skupione\, intensywne\, będące podsumowaniem etapu\, który dojrzewał na scenie i w kontakcie z publicznością.\nJesienią ubiegłego roku wróciliśmy na scenę z trasą „Wracam”. Emocje\, spotkania i rozmowy po koncertach zostawiły w nas niedosyt – taki sam\, o jakim pisaliście w komentarzach. Pytaliście\, czy odwiedzimy kolejne miasta. Dlatego wracamy raz jeszcze\, by domknąć tę historię wspólnie.\nPodczas wiosennych koncertów ShataQS zaprezentuje utwory z albumów Fenix i Weda\, a także kompozycje z nadchodzącej płyty\, nad którą obecnie pracuje. To muzyczne spotkania pełne uważności\, emocji i przestrzeni – z wiosennym światłem\, ale wciąż z charakterystyczną wrażliwością artystki.\nWiosenny finał trasy „Wracam” nie jest powtórzeniem.To odpowiedź na Wasze głosy i naturalne domknięcie jesiennej opowieści.\nTo ostatnia odsłona trasy „Wracam”.Zanim pojawi się nowy album.Zanim nadejdzie nowy rozdział.\n\nDaty koncertów – Finał trasy „Wracam”• 27.03.2026 – Wrocław\, CK Agora• 11.04.2026 – Zabrze\, CK Wiatrak• 22.05.2026 – Gdańsk\, Klub Parlament• 23.05.2026 – Łódź\, Scenografia\n\nHarmonogram wydarzeń (Wrocław\, Zabrze\, Łódź):18:30 – otwarcie bram 19:00 – koncert ShataQS\nCeny biletów:• I pula – 120 zł • II pula – 130 zł • W dniu koncertu – 150 zł\nBilety kolekcjonerskie (papierowe):https://independentmusicmarket.com/pl/221-bilety\nBilety elektroniczne:Kupbilecik\, Biletyna\, eBilet\, Bilety24
+URL:https://plasterlodzki.pl/wydarzenia/daria-ze-slaska/
+LOCATION:Klub Scenografia\, Zachodnia 81/83\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261121T193000
+DTEND;TZID=Europe/Warsaw:20261121T220000
+DTSTAMP:20261115T071705
+CREATED:20261030T150838Z
+LAST-MODIFIED:20261030T150838Z
+UID:10051201-1795289400-1795298400@plasterlodzki.pl
+SUMMARY:BACK TO THE 90'S – największa impreza lat 90. w Polsce
+DESCRIPTION:Haddaway\, 2 Unlimited i Michał Wiśniewski. Atlas Arena zamieni się w największą dyskotekę w klimacie lat 90. \nPamiętasz „What Is Love”\, „No Limit” i „A wszystko to\, bo ciebie kocham”? 21 listopada te hity zabrzmią na żywo w Atlas Arenie w Łodzi. Czeka nas muzyczna podróż do dekady\, która zmieniła oblicze popu i muzyki tanecznej. Na jednej scenie wystąpią Haddaway i 2 Unlimited – gwiazdy eurodance’u znane w całej Europie – oraz Michał Wiśniewski\, lider Ich Troje i głos polskich przebojów\, które śpiewają kolejne pokolenia. Sprzedaż biletów trwa! \nBACK TO THE 90’S to autorski projekt Atlas Areny\, przygotowany z myślą zarówno o  łodzianach\, jak i gościach z całej Polski\, którzy tej jesieni odwiedzą Łódź. \nHity\, które zna cała Europa \nHaddaway to autor jednego z najbardziej kultowych przebojów lat 90. – „What Is Love”. Utwór stał się światowym hymnem muzyki dance i do dziś rozbrzmiewa na imprezach na całym świecie. W jego dorobku znajdują się również przeboje „Life” oraz „Rock My Heart”\, które podbijały europejskie listy przebojów. \nNa scenie pojawi się również 2 Unlimited – legenda eurodance’u i jeden z najbardziej rozpoznawalnych duetów tamtej dekady. „No Limit”\, „Get Ready For This”\, „Twilight Zone” czy „Tribal Dance” na stałe zapisały się w historii muzyki klubowej i do dziś wywołują eksplozję energii na parkietach. \nMichał Wiśniewski na scenie BACK TO THE 90’S \nTo właśnie jego głos i charakterystyczny sceniczny wizerunek towarzyszyły jednej\nz najbardziej rozpoznawalnych er polskiej muzyki rozrywkowej. \nDołączenie do line-up’u lidera Ich Troje do wydarzenia to ukłon w stronę wielbicieli polskiej muzyki tamtych czasów. „A wszystko to\, bo ciebie kocham”\, „Powiedz” czy „Zawsze z tobą chciałbym być” to utwory\, które na stałe wpisały się w muzyczne wspomnienia tamtego pokolenia. Michał Wiśniewski przywoła na scenie klimat polskich dyskotek! \nKlimat lat 90.! \nWizualizacje\, światła\, konfetti i pirotechnika zamienią Atlas Arenę w wielki parkiet rodem z lat 90. Organizatorzy zachęcają\, by publiczność dołączyła do zabawy także strojem — kolorowe dresy\, jeansowe kurtki i neonowe dodatki będą mile widziane! \nO oprawę muzyczną całego wieczoru zadba DJ i promotor muzyki eurodance. \nBACK TO THE 90’S w Atlas Arenie – bilety \nWydarzenie odbędzie się w sobotę\, 21 listopada 2026 roku. Bilety na BACK TO THE 90’S wciąż są w sprzedaży na www.bilety.atlasarena.pl \n\nPłyta – 149 zł – strefa stojąca\, przeznaczona dla osób\, które chcą przez cztery\ngodziny tańczyć i bawić się w rytmie największych hitów lat 90.\nGolden Circle – 199 zł – strefa bezpośrednio przy scenie.\n\nSprawdź kalendarz wydarzeń: www.atlasarena.pl/wydarzenia/ \nPartnerem Medialnym wydarzenia jest Radio Złote Przeboje.
+URL:https://plasterlodzki.pl/wydarzenia/back-to-the-90s-najwieksza-impreza-lat-90-w-polsce/
+LOCATION:Atlas Arena\, Bandurskiego 7\, Łódź\, łódzkie\, 94-020\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T173000
 DTEND;TZID=Europe/Warsaw:20261201T190000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20250717T091406Z
 LAST-MODIFIED:20261113T160421Z
 UID:10051690-1796146200-1796151600@plasterlodzki.pl
@@ -1028,7 +1210,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T180000
 DTEND;TZID=Europe/Warsaw:20261201T233000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20230224T103055Z
 LAST-MODIFIED:20261030T120719Z
 UID:10030251-1796148000-1796167800@plasterlodzki.pl
@@ -1041,7 +1223,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T190000
 DTEND;TZID=Europe/Warsaw:20261201T203000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20221202T185418Z
 LAST-MODIFIED:20261030T105612Z
 UID:10029165-1796151600-1796157000@plasterlodzki.pl
@@ -1054,7 +1236,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T203000
 DTEND;TZID=Europe/Warsaw:20261201T220000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20261113T160330Z
 LAST-MODIFIED:20261113T160410Z
 UID:10051691-1796157000-1796162400@plasterlodzki.pl
@@ -1067,7 +1249,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T190000
 DTEND;TZID=Europe/Warsaw:20261203T210000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20221118T131649Z
 LAST-MODIFIED:20261113T123351Z
 UID:10028928-1796324400-1796331600@plasterlodzki.pl
@@ -1080,7 +1262,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T200000
 DTEND;TZID=Europe/Warsaw:20261203T220000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20221118T092912Z
 LAST-MODIFIED:20261030T143510Z
 UID:10028783-1796328000-1796335200@plasterlodzki.pl
@@ -1093,7 +1275,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T210000
 DTEND;TZID=Europe/Warsaw:20261203T220000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050993-1796331600-1796335200@plasterlodzki.pl
@@ -1106,7 +1288,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T190000
 DTEND;TZID=Europe/Warsaw:20261204T210000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20260821T124235Z
 LAST-MODIFIED:20260821T124235Z
 UID:10039619-1796410800-1796418000@plasterlodzki.pl
@@ -1119,7 +1301,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T190000
 DTEND;TZID=Europe/Warsaw:20261204T220000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20231018T135944Z
 LAST-MODIFIED:20261113T121403Z
 UID:10031977-1796410800-1796421600@plasterlodzki.pl
@@ -1132,7 +1314,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T200000
 DTEND;TZID=Europe/Warsaw:20261204T233000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20260304T205606Z
 LAST-MODIFIED:20261030T123334Z
 UID:10039502-1796414400-1796427000@plasterlodzki.pl
@@ -1145,7 +1327,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T200000
 DTEND;TZID=Europe/Warsaw:20261204T233000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20230101T180406Z
 LAST-MODIFIED:20261030T143144Z
 UID:10029653-1796414400-1796427000@plasterlodzki.pl
@@ -1158,7 +1340,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T203000
 DTEND;TZID=Europe/Warsaw:20261204T220000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20221202T185732Z
 LAST-MODIFIED:20261113T121744Z
 UID:10029171-1796416200-1796421600@plasterlodzki.pl
@@ -1171,7 +1353,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T180000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20260327T104006Z
 LAST-MODIFIED:20260327T104006Z
 UID:10047632-1796493600-1796511600@plasterlodzki.pl
@@ -1184,7 +1366,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T190000
 DTEND;TZID=Europe/Warsaw:20261205T233000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20221202T211130Z
 LAST-MODIFIED:20260814T115801Z
 UID:10029261-1796497200-1796513400@plasterlodzki.pl
@@ -1197,7 +1379,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T200000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20221202T185543Z
 LAST-MODIFIED:20261113T123409Z
 UID:10029168-1796500800-1796511600@plasterlodzki.pl
@@ -1210,7 +1392,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T210000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20221202T161347Z
 LAST-MODIFIED:20261113T120722Z
 UID:10029109-1796504400-1796511600@plasterlodzki.pl
@@ -1223,7 +1405,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T180000
 DTEND;TZID=Europe/Warsaw:20261206T210000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20250629T191225Z
 LAST-MODIFIED:20260130T143707Z
 UID:10041980-1796580000-1796590800@plasterlodzki.pl
@@ -1236,7 +1418,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T180000
 DTEND;TZID=Europe/Warsaw:20261206T213000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20221118T131452Z
 LAST-MODIFIED:20261113T123427Z
 UID:10028923-1796580000-1796592600@plasterlodzki.pl
@@ -1249,7 +1431,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T190000
 DTEND;TZID=Europe/Warsaw:20261206T220000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20230317T142725Z
 LAST-MODIFIED:20260724T102556Z
 UID:10030465-1796583600-1796594400@plasterlodzki.pl
@@ -1262,7 +1444,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T190000
 DTEND;TZID=Europe/Warsaw:20261207T210000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20230120T095505Z
 LAST-MODIFIED:20261030T105636Z
 UID:10029919-1796670000-1796677200@plasterlodzki.pl
@@ -1275,7 +1457,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T183000
 DTEND;TZID=Europe/Warsaw:20261210T220000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20230113T094437Z
 LAST-MODIFIED:20261030T143209Z
 UID:10029841-1796927400-1796940000@plasterlodzki.pl
@@ -1288,7 +1470,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T210000
 DTEND;TZID=Europe/Warsaw:20261210T220000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050994-1796936400-1796940000@plasterlodzki.pl
@@ -1301,7 +1483,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T190000
 DTEND;TZID=Europe/Warsaw:20261211T223000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20230217T114354Z
 LAST-MODIFIED:20261113T130906Z
 UID:10030209-1797015600-1797028200@plasterlodzki.pl
@@ -1314,7 +1496,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T190000
 DTEND;TZID=Europe/Warsaw:20261211T220000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20231018T140036Z
 LAST-MODIFIED:20260808T102137Z
 UID:10031979-1797015600-1797026400@plasterlodzki.pl
@@ -1327,7 +1509,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T200000
 DTEND;TZID=Europe/Warsaw:20261211T213000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20250629T080939Z
 LAST-MODIFIED:20260619T120058Z
 UID:10041674-1797019200-1797024600@plasterlodzki.pl
@@ -1340,7 +1522,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T210000
 DTEND;TZID=Europe/Warsaw:20261211T210000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20230120T093905Z
 LAST-MODIFIED:20261113T120623Z
 UID:10029909-1797022800-1797022800@plasterlodzki.pl
@@ -1353,7 +1535,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T180000
 DTEND;TZID=Europe/Warsaw:20261212T203000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20250629T191716Z
 LAST-MODIFIED:20261030T145830Z
 UID:10041989-1797098400-1797107400@plasterlodzki.pl
@@ -1366,7 +1548,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T180000
 DTEND;TZID=Europe/Warsaw:20261212T210000
-DTSTAMP:20261114T071706
+DTSTAMP:20261115T071706
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260724T100919Z
 UID:10050389-1797098400-1797109200@plasterlodzki.pl
@@ -1379,7 +1561,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T190000
 DTEND;TZID=Europe/Warsaw:20261212T220000
-DTSTAMP:20261114T071707
+DTSTAMP:20261115T071706
 CREATED:20221222T221551Z
 LAST-MODIFIED:20260814T120841Z
 UID:10029487-1797102000-1797112800@plasterlodzki.pl
@@ -1392,7 +1574,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T190000
 DTEND;TZID=Europe/Warsaw:20261212T223000
-DTSTAMP:20261114T071707
+DTSTAMP:20261115T071706
 CREATED:20221202T211410Z
 LAST-MODIFIED:20260717T125916Z
 UID:10029267-1797102000-1797114600@plasterlodzki.pl
