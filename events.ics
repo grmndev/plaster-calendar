@@ -872,7 +872,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T190000
 DTEND;TZID=Europe/Warsaw:20261117T210000
-DTSTAMP:20261115T071704
+DTSTAMP:20261116T071705
 CREATED:20261110T110016Z
 LAST-MODIFIED:20261110T110016Z
 UID:10051553-1794942000-1794949200@plasterlodzki.pl
@@ -885,7 +885,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261117T201500
 DTEND;TZID=Europe/Warsaw:20261117T223000
-DTSTAMP:20261115T071704
+DTSTAMP:20261116T071705
 CREATED:20221118T093029Z
 LAST-MODIFIED:20261030T143918Z
 UID:10028786-1794946500-1794954600@plasterlodzki.pl
@@ -911,7 +911,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T180000
 DTEND;TZID=Europe/Warsaw:20261118T235900
-DTSTAMP:20261115T071704
+DTSTAMP:20261116T071705
 CREATED:20260327T103907Z
 LAST-MODIFIED:20261113T153529Z
 UID:10047630-1795024800-1795046340@plasterlodzki.pl
@@ -924,7 +924,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T190000
 DTEND;TZID=Europe/Warsaw:20261118T203000
-DTSTAMP:20261115T071704
+DTSTAMP:20261116T071705
 CREATED:20261026T103016Z
 LAST-MODIFIED:20261026T103016Z
 UID:10050907-1795028400-1795033800@plasterlodzki.pl
@@ -937,7 +937,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261118T193000
 DTEND;TZID=Europe/Warsaw:20261118T220000
-DTSTAMP:20261115T071704
+DTSTAMP:20261116T071705
 CREATED:20260501T090739Z
 LAST-MODIFIED:20261030T094028Z
 UID:10048368-1795030200-1795039200@plasterlodzki.pl
@@ -950,7 +950,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T190000
 DTEND;TZID=Europe/Warsaw:20261119T210000
-DTSTAMP:20261115T071704
+DTSTAMP:20261116T071705
 CREATED:20230120T095532Z
 LAST-MODIFIED:20261030T104626Z
 UID:10029920-1795114800-1795122000@plasterlodzki.pl
@@ -963,7 +963,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T200000
 DTEND;TZID=Europe/Warsaw:20261119T210000
-DTSTAMP:20261115T071704
+DTSTAMP:20261116T071705
 CREATED:20251205T174622Z
 LAST-MODIFIED:20261026T111748Z
 UID:10045641-1795118400-1795122000@plasterlodzki.pl
@@ -976,7 +976,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T200000
 DTEND;TZID=Europe/Warsaw:20261119T210000
-DTSTAMP:20261115T071704
+DTSTAMP:20261116T071705
 CREATED:20250717T091034Z
 LAST-MODIFIED:20260717T131546Z
 UID:10042434-1795118400-1795122000@plasterlodzki.pl
@@ -989,7 +989,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261119T210000
 DTEND;TZID=Europe/Warsaw:20261119T220000
-DTSTAMP:20261115T071704
+DTSTAMP:20261116T071705
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050991-1795122000-1795125600@plasterlodzki.pl
@@ -1002,7 +1002,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T193000
 DTEND;TZID=Europe/Warsaw:20261120T213000
-DTSTAMP:20261115T071704
+DTSTAMP:20261116T071705
 CREATED:20240411T163851Z
 LAST-MODIFIED:20260821T120824Z
 UID:10032898-1795203000-1795210200@plasterlodzki.pl
@@ -1015,7 +1015,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T200000
 DTEND;TZID=Europe/Warsaw:20261120T210000
-DTSTAMP:20261115T071705
+DTSTAMP:20261116T071705
 CREATED:20250908T124803Z
 LAST-MODIFIED:20260603T100452Z
 UID:10043089-1795204800-1795208400@plasterlodzki.pl
@@ -1028,7 +1028,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T200000
 DTEND;TZID=Europe/Warsaw:20261120T210000
-DTSTAMP:20261115T071705
+DTSTAMP:20261116T071705
 CREATED:20230810T122029Z
 LAST-MODIFIED:20261030T104613Z
 UID:10045563-1795204800-1795208400@plasterlodzki.pl
@@ -1041,7 +1041,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T200000
 DTEND;TZID=Europe/Warsaw:20261120T220000
-DTSTAMP:20261115T071705
+DTSTAMP:20261116T071705
 CREATED:20220514T180504Z
 LAST-MODIFIED:20261030T123512Z
 UID:10027652-1795204800-1795212000@plasterlodzki.pl
@@ -1054,7 +1054,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T200000
 DTEND;TZID=Europe/Warsaw:20261120T220000
-DTSTAMP:20261115T071705
+DTSTAMP:20261116T071705
 CREATED:20230317T142655Z
 LAST-MODIFIED:20260814T115821Z
 UID:10030464-1795204800-1795212000@plasterlodzki.pl
@@ -1067,7 +1067,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T210000
 DTEND;TZID=Europe/Warsaw:20261120T220000
-DTSTAMP:20261115T071705
+DTSTAMP:20261116T071705
 CREATED:20250502T085344Z
 LAST-MODIFIED:20261030T101626Z
 UID:10039127-1795208400-1795212000@plasterlodzki.pl
@@ -1080,7 +1080,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T114500
 DTEND;TZID=Europe/Warsaw:20261121T130000
-DTSTAMP:20261115T071705
+DTSTAMP:20261116T071705
 CREATED:20241203T085549Z
 LAST-MODIFIED:20261109T093002Z
 UID:10051518-1795261500-1795266000@plasterlodzki.pl
@@ -1093,7 +1093,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T150000
 DTEND;TZID=Europe/Warsaw:20261121T170000
-DTSTAMP:20261115T071705
+DTSTAMP:20261116T071705
 CREATED:20260702T113731Z
 LAST-MODIFIED:20261109T094642Z
 UID:10047744-1795273200-1795280400@plasterlodzki.pl
@@ -1106,7 +1106,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T160000
 DTEND;TZID=Europe/Warsaw:20261121T170000
-DTSTAMP:20261115T071705
+DTSTAMP:20261116T071705
 CREATED:20241203T085549Z
 LAST-MODIFIED:20261109T093002Z
 UID:10051519-1795276800-1795280400@plasterlodzki.pl
@@ -1119,7 +1119,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T180000
 DTEND;TZID=Europe/Warsaw:20261121T230000
-DTSTAMP:20261115T071705
+DTSTAMP:20261116T071705
 CREATED:20230317T142804Z
 LAST-MODIFIED:20261030T143555Z
 UID:10030466-1795284000-1795302000@plasterlodzki.pl
@@ -1132,7 +1132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T180000
 DTEND;TZID=Europe/Warsaw:20261121T223000
-DTSTAMP:20261115T071705
+DTSTAMP:20261116T071705
 CREATED:20231004T085509Z
 LAST-MODIFIED:20261030T120618Z
 UID:10031877-1795284000-1795300200@plasterlodzki.pl
@@ -1145,7 +1145,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T190000
 DTEND;TZID=Europe/Warsaw:20261121T200000
-DTSTAMP:20261115T071705
+DTSTAMP:20261116T071705
 CREATED:20241108T122430Z
 LAST-MODIFIED:20261113T113922Z
 UID:10037960-1795287600-1795291200@plasterlodzki.pl
@@ -1158,7 +1158,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T190000
 DTEND;TZID=Europe/Warsaw:20261121T210000
-DTSTAMP:20261115T071705
+DTSTAMP:20261116T071705
 CREATED:20261026T111015Z
 LAST-MODIFIED:20261026T111015Z
 UID:10050930-1795287600-1795294800@plasterlodzki.pl
@@ -1171,7 +1171,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T190000
 DTEND;TZID=Europe/Warsaw:20261121T210000
-DTSTAMP:20261115T071705
+DTSTAMP:20261116T071705
 CREATED:20230929T113730Z
 LAST-MODIFIED:20260612T091725Z
 UID:10031829-1795287600-1795294800@plasterlodzki.pl
@@ -1184,7 +1184,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T193000
 DTEND;TZID=Europe/Warsaw:20261121T220000
-DTSTAMP:20261115T071705
+DTSTAMP:20261116T071705
 CREATED:20261030T150838Z
 LAST-MODIFIED:20261030T150838Z
 UID:10051201-1795289400-1795298400@plasterlodzki.pl
@@ -1195,9 +1195,87 @@ LOCATION:Atlas Arena\, Bandurskiego 7\, Łódź\, łódzkie\, 94-020\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261121T210000
+DTEND;TZID=Europe/Warsaw:20261121T223000
+DTSTAMP:20261116T071705
+CREATED:20221118T123847Z
+LAST-MODIFIED:20261113T120906Z
+UID:10028884-1795294800-1795300200@plasterlodzki.pl
+SUMMARY:Gentlemantime z Jazzem - Jung/Guźniczak/Kozłowski
+DESCRIPTION:KochaniJuż 21 listopada razem z Naszym partnerem Jack Daniel’s Gentleman Jack zapraszamy na koncert z cyklu #GENTLEMANTIME z JAZZEM.\nZagrają:Kuba Jung – gitara\,Kamil Guźniczak – kontrabas\,Błażej Kozłowski – perkusja.\nJak zawsze gościmy Was od 18:00\, muzyka na żywo startuje o godzinie 21:00. Idealny wieczór to nie tylko odpowiednia oprawa muzyczne\, dopełnieniem wieczoru będzie specjalne menu przygotowane na legendarnej whiskey Jack Daniel’s Gentleman Jack.\nWażneLokal przeznaczony jest dla osób powyżej 18 roku życia. Osoby niepełnoletnie nie zostaną wpuszczone na wydarzenie\nZPRASZAMY WSZYTKICH MUZYKÓW DO WSPÓLNEGO JAZZOWANIAMiejsce: KIJ\, Łódź\, al. Kościuszki 80/8290-437 ŁódźData: 21/11/2026Cena: FREE
+URL:https://plasterlodzki.pl/wydarzenia/danny-boy-experience/
+LOCATION:Klub Kij\, Kościuszki 80/82\, Łódź\, łódzkie\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261122T180000
+DTEND;TZID=Europe/Warsaw:20261122T210000
+DTSTAMP:20261116T071705
+CREATED:20230810T122001Z
+LAST-MODIFIED:20261030T104538Z
+UID:10031594-1795370400-1795381200@plasterlodzki.pl
+SUMMARY:CAVE · COHEN · WYSOCKI · WAITS. CZTERECH BARDÓW. JEDEN WIECZÓR. YANISTAN
+DESCRIPTION:Cztery niezwykłe osobowości. Cztery odmienne muzyczne światy. Jeden koncert\, podczas którego spotykają się mroczne ballady Nicka Cave’a\, poetyckie pieśni Leonarda Cohena\, pełna pasji twórczość Włodzimierza Wysockiego oraz niepokorny\, chropawy świat Toma Waitsa.\nZespół Yanistan zabiera publiczność w pełną emocji podróż przez utwory wybitnych bardów i poetów piosenki.\nZnane pieśni zabrzmią w polskich wersjach językowych oraz autorskich aranżacjach zespołu. Charakterystyczny\, chropawy głos Janusza Kasprowicza\, subtelniejszy wokal Stanisława Marinczenki\, wielogłosowe partie oraz bogate instrumentarium tworzą brzmienie dalekie od typowego koncertu bardowskiego. Gitary\, fortepian\, akordeon\, mandolina\, melodyka i instrumenty perkusyjne nadają każdej pieśni odrębny charakter.\nGrupa Yanistan:\nJanusz Kasprowicz – wokal\, gitara basowa\, gitaralider Projektu Volodia\, kompozytor\, autor tekstów\, propagator i znawca twórczości Włodzimierza Wysockiego. Ma na swoim koncie setki koncertów\, osiem wydanych albumów oraz współpracę z wieloma uznanymi artystami.\nStanisław Marinczenko – wokal\, gitary\, fortepian\, akordeon\, mandolinawszechstronny multiinstrumentalista poruszający się swobodnie w świecie piosenki literackiej\, folku i muzyki irlandzkiej.\nBogdan Bińczak – wokal\, instrumenty perkusyjne\, melodykamuzyk wywodzący się z jazzu tradycyjnego\, wzbogacający brzmienie zespołu rytmem\, partiami instrumentalnymi oraz wielogłosowymi harmoniami wokalnymi.\nBilety 60 zł\nKupbilecik.pl\nhttps://kbq.pl/219538Biletyna.pl\nhttps://bilety.io/hKAk3Tawerna Keja\nInfo i rezerwacje 609 152 4
+URL:https://plasterlodzki.pl/wydarzenia/grazyna-lobaszewska/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261122T200000
+DTEND;TZID=Europe/Warsaw:20261122T220000
+DTSTAMP:20261116T071705
+CREATED:20250629T080837Z
+LAST-MODIFIED:20261110T094518Z
+UID:10041672-1795377600-1795384800@plasterlodzki.pl
+SUMMARY:Marcel Baliński Orchestra „95”
+DESCRIPTION:Premiera płyty „95” i koncert na urodziny Radia Łódź \nMarcel Baliński nie komponował tym razem dla istniejącego zespołu. Najpierw wyobraził sobie brzmienie\, a następnie stworzył orkiestrę zdolną je wydobyć. \nTak powstała Marcel Baliński Orchestra. Zespół tworzy dziesięciu muzyków\, a o jego brzmieniu decydują trzy zestawy perkusyjne\, tuba\, kontrabas i saksofon barytonowy budujące jego niskie rejestry oraz fortepian\, wibrafon\, trąbka i saksofon altowy. \nMuzyka Marcela Balińskiego czerpie z minimalizmu repetywnego\, współczesnego jazzu\, tradycji Polish Jazzu i muzyki filmowej. Powracające motywy rozwijają się stopniowo\, a kolejne warstwy instrumentów zmieniają ich znaczenie i prowadzą słuchacza przez kolejne etapy muzycznej opowieści. \nPłyta powstała z okazji 95-lecia Radia Łódź jako nawiązanie do tradycji radiowych orkiestr\, które przez dziesięciolecia współtworzyły muzyczną historię polskich rozgłośni\, w tym orkiestry działającej pod kierownictwem Henryka Debicha. \n„Radio Łódź to dla wielu ludzi dźwięk domu. Chcieliśmy oddać to w muzyce – bez patosu\, za to z sercem. Każdy utwór na tej płycie ma w sobie kawałek tych 95. lat” – mówi Marcel Baliński\, kompozytor i lider orkiestry. \nMarcel Baliński Orchestra nie odwołuje się jednak do przeszłości w sposób nostalgiczny. Podejmuje tę ideę na nowo i rozwija we współczesnym języku kompozytorskim\, pokazując\, że prawdziwie żywa tradycja rodzi nową muzykę. \nMarcel Baliński jest jednym z najbardziej najbardziej utalentowanych muzyków jazzowych młodego pokolenia. Pianista\, kompozytor\, animator kultury\, pedagog i społecznik. Laureat Fryderyka 2025 za Album roku „Współgłosy”.\n. \nMarcel Baliński Orchestra tworzą: \nMarcel Baliński – fortepian\, kompozycje \nMacio Moretti – perkusja \nBartosz Szablowski – perkusja \nJan Pieniążek – perkusja \nRasmus Svale Kjærgård Lund – tuba \nRafał Różalski – kontrabas \nPiotr Chęcki – saksofon barytonowy\, saksofon tenorowy \nTomasz Dąbrowski – trąbka \nMiłosz Pieczonka – saksofon altowy \nTymon Kosma – wibrafon \n\nMuzyka i aranżacje: Marcel Baliński \nMiks i mastering: Jeremiasz Hendzel \nProjekt okładki\, identyfikacja wizualna: Krzysztof Guzek \nZdjęcia: Tomasz Lazar\, Wojtek Bryndel \nWydawca: Radio Łódź i Agencja Muzyczna Polskiego Radia \nPremiera płyty: 20 listopada 2026 r.
+URL:https://plasterlodzki.pl/wydarzenia/18-laj-aga-derlak-neurodivergent-i-craig-taborn-solo/
+LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261123T190000
+DTEND;TZID=Europe/Warsaw:20261123T210000
+DTSTAMP:20261116T071705
+CREATED:20260426T102721Z
+LAST-MODIFIED:20260426T102721Z
+UID:10048203-1795460400-1795467600@plasterlodzki.pl
+SUMMARY:Micha Bajor
+DESCRIPTION:Michał Bajor „Piosenki\, które lubię” | Wyjątkowy koncert pełen emocji. Zapraszamy na niezapomniany koncert Michała Bajora – jednego z najbardziej charyzmatycznych i cenionych artystów polskiej sceny muzycznej. Nowy recital zatytułowany „Piosenki\, które lubię” to wyjątkowa muzyczna podróż przez najpiękniejsze utwory z bogatego repertuaru Artysty. Podczas ostatnich tras koncertowych\, promujących album „No\, a ja?”\, publiczność miała okazję usłyszeć zarówno wybrane utwory z wcześniejszego repertuaru Artysty\, jak i zupełnie nowe kompozycje i teksty autorstwa Michała Bajora. W trakcie przeszło dwóch sezonów padało wiele pytań i muzycznych sugestii na temat tytułów piosenek\, które chcieliby Państwo usłyszeć. A zatem Michał Bajor\, z kilkuset napisanych dla niego utworów\, wybrał kolejnych kilkanaście\, które lubi szczególnie\, a na których usłyszenie Państwo czekają. Od „Chciałbym”\, przez „La Boheme”\, po „Moją miłość największą”. Ponadto w trakcie koncertu nie zabraknie również nowych\, nieznanych muzyczno-literackich niespodzianek\, które z pewnością Państwa zachwycą. UWAGA!!! W związku ze specyficznym i kameralnym charakterem recitalu Michała Bajora uprzejmie prosimy o nie przyprowadzanie na koncert małych dzieci poniżej 6 roku życia. \nCzytaj więcej na: https://www.kupbilecik.pl/imprezy/196839/%C5%81%C3%B3d%C5%BA/Micha%C5%82+Bajor/
+URL:https://plasterlodzki.pl/wydarzenia/micha-bajor/
+LOCATION:Teatr Muzyczny w Łodzi\, Północna 47/51\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261124T190000
+DTEND;TZID=Europe/Warsaw:20261124T203000
+DTSTAMP:20261116T071705
+CREATED:20261026T104532Z
+LAST-MODIFIED:20261026T104532Z
+UID:10050919-1795546800-1795552200@plasterlodzki.pl
+SUMMARY:Koncert „First Hand vol.6: Håkon Berre / Martin Küchen”
+DESCRIPTION:First Hand jest cyklem koncertów poświęconych głównie muzyce swobodnie improwizowanej. Jest to przestrzeń dla muzyków w trasach koncertowych. Nazwa jest inspirowana miejscem Lumpart\, łódzkim seceondhandem odzieżowym\, który stał się zarzewiem dla pomysłu stworzenia cyklu koncertowego specjalnie pod tę przestrzeń. First Hand oznacza muzykę „z pierwszej ręki’\, kreowaną w czasie rzeczywistym przez występujących muzyków. Kuratorem projektu jest Paweł Sokołowski z Musica Privata. \n  \nWspółpraca duetu Küchen/Berre rozpoczęła się w 2016 roku od okazjonalnych sesji improwizacyjnych w sali prób Berrego w Kopenhadze. Nagrali swój pierwszy wspólny album zatytułowany „På Snurr” (co oznacza „krzywy/zniekształcony/pijany” lub „wirujący”)\, dla wytwórni Barefoot Records. Duet zgłębia możliwości brzmieniowe perkusji preparowanej oraz saksofonu sopraninowego w sposób surowy\, nieoszlifowany i intuicyjny. \n  \nOd ponad dwóch dekad szwedzki multiinstrumentalista (grający na różnych instrumentach stroikowych) Martin Küchen ugruntowuje swoją pozycję jako jeden z najbardziej wszechstronnych muzyków sceny improwizowanej i eksperymentalnej\, kierując się wrodzoną ciekawością i podejmując różnorodne działania artystyczne. W zależności od preferencji estetycznych słuchacza\, może on być kojarzony jako żywiołowy twórca freejazzowy (w formacji Threnody z Johanem Berthlingiem i Steve’em Noble’em)\, kompozytor i lider zespołów grających muzykę z pogranicza post-bopu i pełnego szorstkiej emocjonalności soulu (szczególnie jako spiritus movens rozbudowanego skandynawskiego nonetu Angles 9 oraz Trespass Trio) lub też jako bezkompromisowy improwizator. Jest artystą niezwykle otwartym na współpracę; współdziałał z niezliczoną rzeszą postaci świata muzyki improwizowanej\, takimi jak Trondheim Jazz Orchestra\, Fire! Orchestra\, Per Zanussi’s Research Ensemble (PZE)\, Michaela Antalova\, Dirar Kalash\, Roger Turner\, Anders Lindsjö\, Mathias Landæus czy Keith Rowe. We wszystko\, czego się podejmuje\, wnosi połączenie intelektualnej dyscypliny i emocjonalnej czystości\, nadając swojej twórczości autentyczny wymiar – zwłaszcza gdy odnosi się ona do historii jego rodziny. \n  \nHåkon Berre (Norwegia) dał się poznać jako jeden z najciekawszych perkusistów na duńskiej scenie muzyki improwizowanej. Rozbudowując swój zestaw perkusyjny o różnorodne przedmioty codziennego użytku i odpady\, umiejętnie operuje takimi materiałami jak metal\, plastik\, papier\, drewno czy styropian\, okazjonalnie włączając do gry elektronikę przetwarzaną w czasie rzeczywistym. Jego pomysłowa i pełna energii gra na perkusji zaprowadziła go do wielu klubów i na festiwale na całym świecie; można ją usłyszeć na 44 albumach\, z których wiele ukazało się nakładem wytwórni Barefoot Records\, współtworzonej przez Håkona. Håkon współtworzy liczne zespoły\, działając zarówno jako kompozytor\, jak i improwizator. Współpracował z takimi artystami jak Peter Brötzmann\, Phil Minton\, Axel Dörner\, Peter Friis-Nielsen\, John Tchicai\, Jamie Branch\, Liudas Mockunas\, Fred Lonberg-Holm\, Susana Santos Silva\, Peter Evans\, Akira Sakata czy Otomo Yoshihide. \n  \nOdsłuch: \nhttps://barefootrecords.bandcamp.com/album/p-snurr \n 
+URL:https://plasterlodzki.pl/wydarzenia/koncert-first-hand-vol-6-hakon-berre-martin-kuchen/
+LOCATION:Lumpart\, Kościuszki 36\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261125T190000
+DTEND;TZID=Europe/Warsaw:20261125T210000
+DTSTAMP:20261116T071705
+CREATED:20260305T174137Z
+LAST-MODIFIED:20261030T104511Z
+UID:10045564-1795633200-1795640400@plasterlodzki.pl
+SUMMARY:Druga Wachta
+DESCRIPTION:Druga Wachta to kapela\, która pojawiła się nagle i przebojem wdarła się na polską scenę szantową\, zdobywając na kolejnych festiwalach wiele nagród i wyróżnień. Między innymi było to Grand Prix festiwalu KOPYŚĆ 2024 w Białymstoku\, pierwsze miejsce na festiwalu Szanta Claus 2024 w Poznaniu\, pierwsze miejsce na festiwalu SHANTIES 2025 w Krakowie.Grupa wykonuje całkowicie własny repertuar\, którego autorem jest Maciej Bossowski – z wykształcenia inżynier mechanik\, z zamiłowania żeglarz i gitarzysta\, a z potrzeby serca i chwili kompozytor i tekściarz. Jego twórczość przedstawia na scenie szantowej świeży\, niekonwencjonalny i na pewno nieortodoksyjny kierunek\, który można określić jako lekką piosenkę żeglarską\, opisującą mazurską i morską rzeczywistość z pewnym przymrużeniem oka.Druga Wachta od wielu lat związana jest z klubem żeglarskim Jacht Oldtimer\, skupiającym pasjonatów starych żaglowców co sprawia\, że ich piosenki oparte są często na prawdziwych zdarzeniach i dotyczą realnych ludzi oraz ich jachtów – między innymi takich ikon Wielkich Jezior Mazurskich jak Biegnąca Po Falach czy Płynący Obłok.Jednocześnie w repertuarze grupy pojawiają się typowe ballady o różnej tematyce. Może właśnie dlatego koncerty Drugiej Wachty są dobrze przyjmowane zarówno przez żeglarzy jak i „zwykłych” słuchaczy.A zatem – zapraszamy na muzyczny rejs z Drugą Wachtą!\n\nSkład grupy:Maciej Bossowski – ukulele\, śpiewPiotr Maciejczyk – akordeonKrzysztof Rukat – gitaraMario Matysek – gitara basowa\nLinki:Strona Int. – www.drugawachta.plFacebook – https://www.facebook.com/drugawachtaYouTube – @drugawachta\nBilety 30 złKupbilecik.pl\nhttps://kbq.pl/218866Biletyna.plTawerna Keja\nInfo i rezerwacje 609 152 420
+URL:https://plasterlodzki.pl/wydarzenia/gabi-gunia-2/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T173000
 DTEND;TZID=Europe/Warsaw:20261201T190000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20250717T091406Z
 LAST-MODIFIED:20261113T160421Z
 UID:10051690-1796146200-1796151600@plasterlodzki.pl
@@ -1210,7 +1288,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T180000
 DTEND;TZID=Europe/Warsaw:20261201T233000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20230224T103055Z
 LAST-MODIFIED:20261030T120719Z
 UID:10030251-1796148000-1796167800@plasterlodzki.pl
@@ -1223,7 +1301,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T190000
 DTEND;TZID=Europe/Warsaw:20261201T203000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20221202T185418Z
 LAST-MODIFIED:20261030T105612Z
 UID:10029165-1796151600-1796157000@plasterlodzki.pl
@@ -1236,7 +1314,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T203000
 DTEND;TZID=Europe/Warsaw:20261201T220000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20261113T160330Z
 LAST-MODIFIED:20261113T160410Z
 UID:10051691-1796157000-1796162400@plasterlodzki.pl
@@ -1249,7 +1327,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T190000
 DTEND;TZID=Europe/Warsaw:20261203T210000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20221118T131649Z
 LAST-MODIFIED:20261113T123351Z
 UID:10028928-1796324400-1796331600@plasterlodzki.pl
@@ -1262,7 +1340,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T200000
 DTEND;TZID=Europe/Warsaw:20261203T220000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20221118T092912Z
 LAST-MODIFIED:20261030T143510Z
 UID:10028783-1796328000-1796335200@plasterlodzki.pl
@@ -1275,7 +1353,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T210000
 DTEND;TZID=Europe/Warsaw:20261203T220000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050993-1796331600-1796335200@plasterlodzki.pl
@@ -1288,7 +1366,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T190000
 DTEND;TZID=Europe/Warsaw:20261204T210000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20260821T124235Z
 LAST-MODIFIED:20260821T124235Z
 UID:10039619-1796410800-1796418000@plasterlodzki.pl
@@ -1301,7 +1379,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T190000
 DTEND;TZID=Europe/Warsaw:20261204T220000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20231018T135944Z
 LAST-MODIFIED:20261113T121403Z
 UID:10031977-1796410800-1796421600@plasterlodzki.pl
@@ -1314,7 +1392,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T200000
 DTEND;TZID=Europe/Warsaw:20261204T233000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20260304T205606Z
 LAST-MODIFIED:20261030T123334Z
 UID:10039502-1796414400-1796427000@plasterlodzki.pl
@@ -1327,7 +1405,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T200000
 DTEND;TZID=Europe/Warsaw:20261204T233000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20230101T180406Z
 LAST-MODIFIED:20261030T143144Z
 UID:10029653-1796414400-1796427000@plasterlodzki.pl
@@ -1340,7 +1418,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T203000
 DTEND;TZID=Europe/Warsaw:20261204T220000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20221202T185732Z
 LAST-MODIFIED:20261113T121744Z
 UID:10029171-1796416200-1796421600@plasterlodzki.pl
@@ -1353,7 +1431,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T180000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20260327T104006Z
 LAST-MODIFIED:20260327T104006Z
 UID:10047632-1796493600-1796511600@plasterlodzki.pl
@@ -1366,7 +1444,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T190000
 DTEND;TZID=Europe/Warsaw:20261205T233000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20221202T211130Z
 LAST-MODIFIED:20260814T115801Z
 UID:10029261-1796497200-1796513400@plasterlodzki.pl
@@ -1379,7 +1457,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T200000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20221202T185543Z
 LAST-MODIFIED:20261113T123409Z
 UID:10029168-1796500800-1796511600@plasterlodzki.pl
@@ -1392,7 +1470,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T210000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20221202T161347Z
 LAST-MODIFIED:20261113T120722Z
 UID:10029109-1796504400-1796511600@plasterlodzki.pl
@@ -1405,7 +1483,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T180000
 DTEND;TZID=Europe/Warsaw:20261206T210000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20250629T191225Z
 LAST-MODIFIED:20260130T143707Z
 UID:10041980-1796580000-1796590800@plasterlodzki.pl
@@ -1418,7 +1496,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T180000
 DTEND;TZID=Europe/Warsaw:20261206T213000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20221118T131452Z
 LAST-MODIFIED:20261113T123427Z
 UID:10028923-1796580000-1796592600@plasterlodzki.pl
@@ -1431,7 +1509,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T190000
 DTEND;TZID=Europe/Warsaw:20261206T220000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20230317T142725Z
 LAST-MODIFIED:20260724T102556Z
 UID:10030465-1796583600-1796594400@plasterlodzki.pl
@@ -1444,7 +1522,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T190000
 DTEND;TZID=Europe/Warsaw:20261207T210000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20230120T095505Z
 LAST-MODIFIED:20261030T105636Z
 UID:10029919-1796670000-1796677200@plasterlodzki.pl
@@ -1457,7 +1535,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T183000
 DTEND;TZID=Europe/Warsaw:20261210T220000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20230113T094437Z
 LAST-MODIFIED:20261030T143209Z
 UID:10029841-1796927400-1796940000@plasterlodzki.pl
@@ -1470,7 +1548,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T210000
 DTEND;TZID=Europe/Warsaw:20261210T220000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050994-1796936400-1796940000@plasterlodzki.pl
@@ -1483,7 +1561,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T190000
 DTEND;TZID=Europe/Warsaw:20261211T223000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20230217T114354Z
 LAST-MODIFIED:20261113T130906Z
 UID:10030209-1797015600-1797028200@plasterlodzki.pl
@@ -1496,7 +1574,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T190000
 DTEND;TZID=Europe/Warsaw:20261211T220000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20231018T140036Z
 LAST-MODIFIED:20260808T102137Z
 UID:10031979-1797015600-1797026400@plasterlodzki.pl
@@ -1509,7 +1587,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T200000
 DTEND;TZID=Europe/Warsaw:20261211T213000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20250629T080939Z
 LAST-MODIFIED:20260619T120058Z
 UID:10041674-1797019200-1797024600@plasterlodzki.pl
@@ -1522,7 +1600,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T210000
 DTEND;TZID=Europe/Warsaw:20261211T210000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20230120T093905Z
 LAST-MODIFIED:20261113T120623Z
 UID:10029909-1797022800-1797022800@plasterlodzki.pl
@@ -1535,7 +1613,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T180000
 DTEND;TZID=Europe/Warsaw:20261212T203000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20250629T191716Z
 LAST-MODIFIED:20261030T145830Z
 UID:10041989-1797098400-1797107400@plasterlodzki.pl
@@ -1548,7 +1626,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T180000
 DTEND;TZID=Europe/Warsaw:20261212T210000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260724T100919Z
 UID:10050389-1797098400-1797109200@plasterlodzki.pl
@@ -1561,7 +1639,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T190000
 DTEND;TZID=Europe/Warsaw:20261212T220000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20221222T221551Z
 LAST-MODIFIED:20260814T120841Z
 UID:10029487-1797102000-1797112800@plasterlodzki.pl
@@ -1574,7 +1652,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T190000
 DTEND;TZID=Europe/Warsaw:20261212T223000
-DTSTAMP:20261115T071706
+DTSTAMP:20261116T071706
 CREATED:20221202T211410Z
 LAST-MODIFIED:20260717T125916Z
 UID:10029267-1797102000-1797114600@plasterlodzki.pl
