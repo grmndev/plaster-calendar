@@ -1015,7 +1015,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T173000
 DTEND;TZID=Europe/Warsaw:20261120T190000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071703
 CREATED:20230403T125337Z
 LAST-MODIFIED:20261116T090528Z
 UID:10030662-1795195800-1795201200@plasterlodzki.pl
@@ -1028,7 +1028,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T180000
 DTEND;TZID=Europe/Warsaw:20261120T233000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071703
 CREATED:20221116T135933Z
 LAST-MODIFIED:20261116T091050Z
 UID:10051700-1795197600-1795217400@plasterlodzki.pl
@@ -1041,7 +1041,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T193000
 DTEND;TZID=Europe/Warsaw:20261120T213000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071703
 CREATED:20240411T163851Z
 LAST-MODIFIED:20260821T120824Z
 UID:10032898-1795203000-1795210200@plasterlodzki.pl
@@ -1054,7 +1054,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T200000
 DTEND;TZID=Europe/Warsaw:20261120T210000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071703
 CREATED:20250908T124803Z
 LAST-MODIFIED:20260603T100452Z
 UID:10043089-1795204800-1795208400@plasterlodzki.pl
@@ -1067,7 +1067,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T200000
 DTEND;TZID=Europe/Warsaw:20261120T210000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071703
 CREATED:20230810T122029Z
 LAST-MODIFIED:20261030T104613Z
 UID:10045563-1795204800-1795208400@plasterlodzki.pl
@@ -1080,7 +1080,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T200000
 DTEND;TZID=Europe/Warsaw:20261120T220000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071703
 CREATED:20220514T180504Z
 LAST-MODIFIED:20261030T123512Z
 UID:10027652-1795204800-1795212000@plasterlodzki.pl
@@ -1093,7 +1093,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T200000
 DTEND;TZID=Europe/Warsaw:20261120T220000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071703
 CREATED:20230317T142655Z
 LAST-MODIFIED:20260814T115821Z
 UID:10030464-1795204800-1795212000@plasterlodzki.pl
@@ -1106,7 +1106,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261120T210000
 DTEND;TZID=Europe/Warsaw:20261120T220000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071703
 CREATED:20250502T085344Z
 LAST-MODIFIED:20261030T101626Z
 UID:10039127-1795208400-1795212000@plasterlodzki.pl
@@ -1119,7 +1119,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T114500
 DTEND;TZID=Europe/Warsaw:20261121T130000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071703
 CREATED:20241203T085549Z
 LAST-MODIFIED:20261109T093002Z
 UID:10051518-1795261500-1795266000@plasterlodzki.pl
@@ -1132,7 +1132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T150000
 DTEND;TZID=Europe/Warsaw:20261121T170000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071704
 CREATED:20260702T113731Z
 LAST-MODIFIED:20261109T094642Z
 UID:10047744-1795273200-1795280400@plasterlodzki.pl
@@ -1145,7 +1145,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T160000
 DTEND;TZID=Europe/Warsaw:20261121T170000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071704
 CREATED:20241203T085549Z
 LAST-MODIFIED:20261109T093002Z
 UID:10051519-1795276800-1795280400@plasterlodzki.pl
@@ -1158,7 +1158,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T163000
 DTEND;TZID=Europe/Warsaw:20261121T233000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071704
 CREATED:20221116T135933Z
 LAST-MODIFIED:20261116T091050Z
 UID:10051701-1795278600-1795303800@plasterlodzki.pl
@@ -1171,7 +1171,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T180000
 DTEND;TZID=Europe/Warsaw:20261121T230000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071704
 CREATED:20230317T142804Z
 LAST-MODIFIED:20261030T143555Z
 UID:10030466-1795284000-1795302000@plasterlodzki.pl
@@ -1184,7 +1184,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T180000
 DTEND;TZID=Europe/Warsaw:20261121T223000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071704
 CREATED:20231004T085509Z
 LAST-MODIFIED:20261030T120618Z
 UID:10031877-1795284000-1795300200@plasterlodzki.pl
@@ -1197,7 +1197,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T190000
 DTEND;TZID=Europe/Warsaw:20261121T200000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071704
 CREATED:20241108T122430Z
 LAST-MODIFIED:20261113T113922Z
 UID:10037960-1795287600-1795291200@plasterlodzki.pl
@@ -1210,7 +1210,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T190000
 DTEND;TZID=Europe/Warsaw:20261121T210000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071704
 CREATED:20261026T111015Z
 LAST-MODIFIED:20261026T111015Z
 UID:10050930-1795287600-1795294800@plasterlodzki.pl
@@ -1223,7 +1223,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T190000
 DTEND;TZID=Europe/Warsaw:20261121T210000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071704
 CREATED:20230929T113730Z
 LAST-MODIFIED:20260612T091725Z
 UID:10031829-1795287600-1795294800@plasterlodzki.pl
@@ -1236,7 +1236,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T193000
 DTEND;TZID=Europe/Warsaw:20261121T220000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071704
 CREATED:20261030T150838Z
 LAST-MODIFIED:20261030T150838Z
 UID:10051201-1795289400-1795298400@plasterlodzki.pl
@@ -1249,7 +1249,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T210000
 DTEND;TZID=Europe/Warsaw:20261121T223000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071704
 CREATED:20221118T123847Z
 LAST-MODIFIED:20261113T120906Z
 UID:10028884-1795294800-1795300200@plasterlodzki.pl
@@ -1262,7 +1262,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261122T180000
 DTEND;TZID=Europe/Warsaw:20261122T210000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071704
 CREATED:20230810T122001Z
 LAST-MODIFIED:20261030T104538Z
 UID:10031594-1795370400-1795381200@plasterlodzki.pl
@@ -1275,7 +1275,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261122T200000
 DTEND;TZID=Europe/Warsaw:20261122T220000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071704
 CREATED:20250629T080837Z
 LAST-MODIFIED:20261110T094518Z
 UID:10041672-1795377600-1795384800@plasterlodzki.pl
@@ -1288,7 +1288,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T190000
 DTEND;TZID=Europe/Warsaw:20261123T210000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071704
 CREATED:20260426T102721Z
 LAST-MODIFIED:20260426T102721Z
 UID:10048203-1795460400-1795467600@plasterlodzki.pl
@@ -1301,7 +1301,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T190000
 DTEND;TZID=Europe/Warsaw:20261124T203000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071704
 CREATED:20261026T104532Z
 LAST-MODIFIED:20261026T104532Z
 UID:10050919-1795546800-1795552200@plasterlodzki.pl
@@ -1314,7 +1314,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T190000
 DTEND;TZID=Europe/Warsaw:20261125T210000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071704
 CREATED:20260305T174137Z
 LAST-MODIFIED:20261030T104511Z
 UID:10045564-1795633200-1795640400@plasterlodzki.pl
@@ -1327,7 +1327,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T190000
 DTEND;TZID=Europe/Warsaw:20261125T220000
-DTSTAMP:20261119T071705
+DTSTAMP:20261120T071704
 CREATED:20260410T102859Z
 LAST-MODIFIED:20261030T123441Z
 UID:10048084-1795633200-1795644000@plasterlodzki.pl
@@ -1338,9 +1338,74 @@ LOCATION:Cyrk Pod Zielonym Xiężycem\, Próchnika 1\, Łódź\, Poland
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261125T193000
+DTEND;TZID=Europe/Warsaw:20261125T220000
+DTSTAMP:20261120T071704
+CREATED:20260501T090739Z
+LAST-MODIFIED:20261030T094028Z
+UID:10048369-1795635000-1795644000@plasterlodzki.pl
+SUMMARY:Interferencje
+DESCRIPTION:INTERFERENCJE  Cykl spotkań dźwiękowych organizowanych w Łodzi przez Radio Kapitał.\n jesienna edycja „Interferencji” odbędzie się w historycznych wnętrzach sali balowej Pałacu Biedermanna \n Tak jak w fizyce fale nakładają się\, tworząc nowe struktury\, tak tutaj spotkają się idee\, osobowości i talenty. Z tych przecięć powstanie coś niepowtarzalnego. \nKoncerty i rozmowy z twórczyniami i twórcami\, podczas których:\n słuchamy w bliskości zaglądamy głębiej w praktyki artystyczne łączymy światy muzyki współczesnej\, niezależnej i sound artu 18.11 środa godzina 19:00 koncert Antoniny Nowackiej Rozmowę po koncercie poprowadzi Bartosz Nowickisala balowa Pałacu Biedermanna ul. Franciszkańska 1/5 Wstęp wolny!\n Antonina Nowacka \npolska wokalistka\, kompozytorka i artystka dźwięku. Głęboko zainteresowana naturą dźwięku – zwłaszcza jego wpływem na układ nerwowy i zdolnością muzyki do wprowadzania wykonawcy i słuchaczy w określone stany umysłu.\nStudiowała na Akademii Sztuk Pięknych w Warszawie w pracowni Mirosława Bałki\, muzykologię w ISI Yogyakarta (dzięki stypendium Ministra Kultury Indonezji)\, a także tradycyjne hindustańskie techniki wokalne pod kierunkiem Shashwati Mandal\, mistrzyni stylu Gwalior.\nCzerpiąc z muzyki tradycyjnej\, zjawisk naturalnych i stanów hipnagogicznych\, tworzy performances łączące dźwięk\, architekturę i wyobraźnię. Jej eksploracje oscylują wokół muzyki dawnej – pieśni religijnych\, antycznych i operowych – oraz eksperymentów z elektroniką i aparatem mowy.\nWspółpracowała m.in. z Sofie Birch (albumy Languoria i Hiraeth). Koncertowała na festiwalach takich jak Unsound\, a jej muzyka zdobywała najwyższe noty m.in. w Pitchforku i The Wire.\n— Bartosz Nowicki – krytyk muzyczny\, publicysta\, badacz dźwięku i uważny słuchacz. W latach 2012–2018 prowadził blog 1uchem/1okiem\, poświęcony polskiej muzyce niezależnej. Publikował m.in. w „Polityce”\, „Gazecie Magnetofonowej”\, „Kwartalniku Muzycznym M/I” i „Czasie Kultury”. Na co dzień współpracuje z dwutygodnik.com.Uwielbia dźwięki i nasłuchiwanie\, a jego teksty i wystąpienia łączą refleksję nad muzyką współczesną z czułością wobec codziennego pejzażu akustycznego. Interesuje go to\, jak słuchanie staje się sposobem poznawania świata — i jak muzyka może otwierać nas na inne formy wrażliwości.\nOsoby potrzebujące tłumaczenia na Polski Język Migowy lub innego rodzaju wsparcia w pokonaniu barier utrudniających uczestnictwo w wydarzeniu prosimy o wcześniejszy kontakt. Dołożymy wszelkich starań\, aby zapewnić dostępność.\n Co się wydarzy?\n 6 spotkań z wybitnymi postaciami polskiej i ukraińskiej sceny muzyki eksperymentalnej i sztuki dźwięku: Tymek Papior\, Antonina Nowacka\, Katarina Gryvul\, Paweł Kulczyński\, Olga Anna Markowska\, Lutto Lento\nKażde spotkanie = rozmowa „jeden na jeden” z prowadzącymi ekspertami (Bartosz Nowicki\, Daniel Muzyczuk\, Justyna Anders-Morawska).\n Koncert to okazja i możliwość swobodnej dyskusji z twórcami do czego serdecznie zachęcamy.\n Wszystkie wydarzenia są otwarte i bezpłatne \n Zapisz daty!\n4.11 – koncert /instalacja dźwiękowaPaweł Kulczyńskirozmowę poprowadzi Daniel Muzyczuk18.11 – koncert Antonina Nowackarozmowę poprowadzi Bartosz Nowicki25.11 – koncert  Lutto Lento rozmowę poprowadzi: Daniel Muzyczuk25.11 – koncert  Lutto Lento rozmowę poprowadzi: Daniel Muzyczuk2.12 – koncert Olga Anna Markowskarozmowę poprowadzi Justyna Anders-Morawska\nwiosną odbyły się koncerty Tymka Papiora i Katariny Gryvul\n—Realizatorem zadania „Interferencje” jest Stowarzyszenie Radio Kapitał\nZadanie „Interferencje” jest realizowane dzięki dofinansowaniu z budżetu Miasta Łodzi #lodzpelnakultury #lodzkreuje Łódź pełna kultury\nZadanie realizowane jest dzięki wsparciu Uniwersytetu Łódzkiego\nprojekt graficzny: Darek Pietraszewskiprogram i koordynacja: Justyna Banaszczyk\nwsparcie medialne:MIEJ MIEJSCENN6T notes na 6 tygodniGlissando
+URL:https://plasterlodzki.pl/wydarzenia/interferencje/2026-11-25/
+LOCATION:Pałac Biedermanna\, Franciszkańska 1/5\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert,Spotkanie
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T170000
+DTEND;TZID=Europe/Warsaw:20261126T190000
+DTSTAMP:20261120T071704
+CREATED:20260426T113924Z
+LAST-MODIFIED:20261106T092828Z
+UID:10048256-1795712400-1795719600@plasterlodzki.pl
+SUMMARY:Popołudnie z Filharmonią Koncerty szkolne
+DESCRIPTION:Popołudnie z Filharmonią\n\n\n\n\n\nKoncerty szkolne\n26 listopada 2026\, czwartek\, 17:00\nKoncert PSM I stopnia im. Aleksandra Tansmana\nCena biletów: 40 zł\n\n\n\n\n\n\n\n\n\nWykonawcy:\n\nChór\, orkiestra\, grupa rytmiczna i soliści PSM I st. im. Aleksandra Tansmana w Łodzi
+URL:https://plasterlodzki.pl/wydarzenia/pop-opera-od-opery-do-musicalu-4/
+LOCATION:Filharmonia Łódzka im. Artura Rubinsteina\, Narutowicza 20/22\, Łódź\, łódzkie\, 90-135\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T180000
+DTEND;TZID=Europe/Warsaw:20261126T193000
+DTSTAMP:20261120T071704
+CREATED:20221117T135639Z
+LAST-MODIFIED:20261106T104007Z
+UID:10028729-1795716000-1795721400@plasterlodzki.pl
+SUMMARY:„Głosy zza muru getta” – koncert inspirowany dziennikiem Rywki Lipszyc
+DESCRIPTION:„Głosy zza muru getta” – trzy koncerty inspirowane dziennikiem Rywki Lipszyc\nW dniach 25–27 listopada 2026 roku w Krakowie\, Łodzi i Gdańsku odbędzie się cykl koncertów „Głosy zza muru getta”. To nowa kompozycja Macieja Zimki – audycja na mezzosopran\, zespół instrumentalny i elektronikę\, inspirowana „Dziennikiem” Rywki Lipszyc\, nastoletniej więźniarki getta łódzkiego.\nW projekcie wystąpią Magdalena Kulig – mezzosopran oraz Pro Sonus Ensemble. Utwór łączy muzykę wykonywaną na żywo z warstwą elektroniczną\, odwołując się do zapisków Rywki – świadectwa życia w getcie\, ale także jej osobistych refleksji\, wiary i nadziei.\nPierwszy koncert odbędzie się 25 listopada o godz. 18.00 w Żydowskim Muzeum Galicja w Krakowie. Dzień później\, 26 listopada o godz. 18.00\, projekt zostanie zaprezentowany w Stacji Radegast – Oddziale Muzeum Tradycji Niepodległościowych w Łodzi. Ostatni koncert zaplanowano na 27 listopada o godz. 18.00 w Akademii Muzycznej im. Stanisława Moniuszki w Gdańsku\, w ramach 17. Gdańskiej Sztuki Interpretacji Muzyki Akordeonowej.Motyw graficzny projektu został opracowany na podstawie elementu Pomnika Zagłady Litzmannstadt Getto znajdującego się na terenie Stacji Radegast.\nPatronat nad projektem objęli: Żydowski Instytut Sztuki\, POLMIC.PL oraz Instytut Polski w Tel Awiwie. W realizację i prezentację wydarzeń zaangażowane są również Muzeum Tradycji Niepodległościowych w Łodzi oraz Żydowskie Muzeum Galicja.\nWstęp na wszystkie koncerty jest wolny. Projekt zrealizowano w ramach stypendium Ministra Kultury i Dziedzictwa Narodowego.
+URL:https://plasterlodzki.pl/wydarzenia/finisaz-wystawy-byli-sasiadami-ludzkie-wybory-i-zachowania-wobec-zaglady/
+LOCATION:Muzeum Stacja Radegast\, Al. Pamięci Ofiar Litzmannstadt Ghetto 12\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T190000
+DTEND;TZID=Europe/Warsaw:20261126T213000
+DTSTAMP:20261120T071704
+CREATED:20221118T131602Z
+LAST-MODIFIED:20261030T104440Z
+UID:10028926-1795719600-1795728600@plasterlodzki.pl
+SUMMARY:Mistrzowie gitary klasycznej Pełech & Horna Duo
+DESCRIPTION:Krzysztof Pełech i Robert Horna to duet gitarklasycznych specjalizujący się w wykonywaniuoryginalnych aranżacji w stylu samby\, tanga\,latynosko-hiszpańskich\, oraz jazzowychimprowizowanych klimatów. To bogactwo pięknychmelodii\, harmonii i rytmu. Debiutancka płyta„Sambalanco” została nominowana do WrocławskiejNagrody Muzycznej. Wiosną 2022 roku ukazał siędrugi album zespołu\, nagrany wspólnie z wybitnympianistą Leszkiem Możdżerem.Krzysztof Pełech to wybitny wrocławski muzyk\,trzykrotnie wybrany najlepszym polskim gitarzystąklasycznym przez magazyn „Gitara i Bas”. JestDyrektorem artystycznym Wrocławskiego FestiwaluGitarowego GITARA +/ Guitar Masters i SummerGuitar Festival w Krzyżowej. Artysta wykonuje ok 60koncertów rocznie i ma na swoim koncie 16albumów. Od 2005 roku prowadzi klasę gitary wAkademii Muzycznej w Bydgoszczy\, gdzie uzyskałtytuł profesora.\nRobert Horna jest laureatem wieluogólnopolskich i międzynarodowych konkursówgitarowych. Aktywnie koncertuje w Polsce\,Szwajcarii\, Rumunii\, Mołdawii\, Niemczech\,Belgii\, Holandii oraz w Ameryce Południowej.Gości z recitalami na wielu prestiżowychfestiwalach muzycznych w Polsce i za granicą\,podczas których regularnie jest zapraszany doprowadzenia lekcji mistrzowskich. Robert Hornajest artystą wszechstronnym – występuje wzespołach kameralnych\, na koncertach ztowarzyszeniem orkiestr i w ramach solowychrecitali.W programie zespołu znajdują się międzyinnymi:Sambalanco – Celso MachadoIf – Ralph TownerMeio do Caminho – Ulisses RochaDuende – Ralph TownerSpain – Chick CoreaBohemian Rhapsody – Freddie MercurySambinha – Celso MachadoAsturias – Isaac AlbenizMilonga del Angel – Astor PiazzollaLibertango – Astor Piazzolla\n\n\nBilety\nPrzedsprzedaż do dnia 8.11.2026 80 zł\nod dnia 9.11.2026 100 zł\nDo nabycia\nKupbilecik.pl\nBiletyna.pl\nTawerna Keja\nInfo 609 152 420
+URL:https://plasterlodzki.pl/wydarzenia/zabawa-andrzejkowa-z-wrozka/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T193000
+DTEND;TZID=Europe/Warsaw:20261126T210000
+DTSTAMP:20261120T071704
+CREATED:20251220T215855Z
+LAST-MODIFIED:20260821T124303Z
+UID:10045911-1795721400-1795726800@plasterlodzki.pl
+SUMMARY:MACY GRAY
+DESCRIPTION:Macy Gray na czterech koncetyach w Polsce! \n23.11.2026 – B90\, Gdańsk \n26.11.2026 – Wytwórnia\, Łódź \n27.11.2026 – B17\, Poznań29.11.2026 – CK A2\, Wrocław \nPrzedsprzedaż Spotify rozpocznie się w czwartek\, 23 lipca o godz. 10:00 \nPrzedsprzedaż dla klientów Ticketmaster rozpocznie się w czwartek\, 23 lipca o godz. 10:00 Sprzedaż ogólna rozpocznie się w piątek\, 24 lipca o godz. 10:00 na www.LiveNation.pl \nMacy Gray – niepodrabialny głos\, który od ponad dwóch dekad definiuje współczesny soul \nJej charakterystycznego\, lekko zachrypniętego głosu nie sposób pomylić z żadnym innym. Macy Gray\, zdobywczyni nagrody GRAMMY®\, autorka światowego przeboju „I Try” i jedna z najbardziej wyrazistych osobowości współczesnego R&B oraz soulu\, od ponad dwóch dekad konsekwentnie podąża własną artystyczną drogą. \nW muzyce Macy Gray szczerość spotyka się z bezkompromisowością\, a klasyczne brzmienia soulu\, funku i jazzu łączą się ze współczesną produkcją. Artystka od początku kariery udowadnia\, że nie potrzebuje schematów ani bezpiecznych rozwiązań. Jej twórczość pozostaje osobista\, emocjonalna i natychmiast rozpoznawalna. \nPochodząca z Canton w stanie Ohio Gray przyjechała do Los Angeles\, aby studiować scenariopisarstwo na University of Southern California. Muzyczna kariera początkowo nie była częścią jej planu. Zaczęła pisać piosenki dla znajomych\, a własny głos odkryła przypadkiem\, kiedy wokalista\, który miał nagrać przygotowane przez nią demo\, nie pojawił się w studiu. To właśnie wtedy narodził się jeden z najbardziej charakterystycznych głosów muzyki przełomu wieków. \nPrzełom nastąpił w 1999 roku wraz z premierą debiutanckiego albumu „On How Life Is”. Wydawnictwo osiągnęło status potrójnej platyny\, a pochodzący z niego singiel „I Try” stał się międzynarodowym przebojem. Utwór przyniósł artystce nagrodę GRAMMY® za najlepsze kobiece wykonanie popowe. W swojej karierze Macy Gray otrzymała łącznie pięć nominacji do  GRAMMY®\, zdobyła także dwie nagrody BRIT Awards i sprzedała ponad 25 milionów albumów na całym świecie. \nNa przestrzeni lat współpracowała między innymi z Arianą Grande\, Bobbym Brownem\, zespołem Galactic oraz wieloma cenionymi producentami i muzykami. Jej koncerty przyciągają publiczność niemal na wszystkich kontynentach\, a Gray pozostaje artystką\, która z równą swobodą odnajduje się na kameralnej scenie klubowej\, jak i przed wielotysięcznym audytorium. \nJej działalność wykracza jednak daleko poza muzykę. Macy Gray pojawiła się w licznych produkcjach filmowych i telewizyjnych\, między innymi w nagradzanym filmie Tylera Perry’ego „For Colored Girls”\, serialu „Fuller House”\, produkcjach „Brotherly Love” i „Cardboard Boxer”\, a także w kultowym „Dniu próby” u boku Denzela Washingtona. \nW 2023 roku artystka\, wspólnie z zespołem The California Jet Club\, wydała album „The Reset”. Materiał powstał jako reakcja na społeczne i emocjonalne konsekwencje pandemii\, polityczne podziały oraz potrzebę ponownego zdefiniowania relacji międzyludzkich. Na płycie Gray porusza tematy samotności\, rozczarowania\, odporności\, wolności i poszukiwania własnego miejsca w zmieniającym się świecie. \nAlbum przyniósł między innymi utwory „Thinking of You”\, „America”\, „Alien”\, „Disco Song” oraz „Undone”. Każdy z nich ukazuje inne oblicze artystki – od intymnych\, pełnych refleksji ballad\, przez społecznie zaangażowane teksty\, po energetyczne kompozycje inspirowane muzyką klubową\, funkiem i disco. \nW 2024 roku Macy Gray ponownie zaznaczyła swoją obecność na scenie muzycznej singlem „I AM”\, nagranym wspólnie z Big Freedią. Pulsujący energią utwór\, czerpiący z tradycji nowoorleańskiej muzyki bounce\, jest afirmacyjnym manifestem samoakceptacji\, autentyczności i prawa do życia na własnych zasadach. Jego przesłanie jest proste\, ale niezwykle aktualne: każdy ma prawo być sobą i czuć dumę z tego\, kim jest. \nMacy Gray pozostaje artystką trudną do zaszufladkowania. Jest wokalistką\, autorką piosenek\, producentką\, aktorką i aktywistką\, która nigdy nie bała się mówić głośno o sprawach istotnych społecznie. Jej muzyka czerpie z wieloletniej tradycji R&B\, soulu\, bluesa i jazzu\, a jednocześnie pozostaje świeża\, odważna i skierowana ku przyszłości. Po ponad dwóch dekadach na scenie Macy Gray nadal zachwyca nie tylko swoim wyjątkowym głosem\, lecz także artystyczną niezależnością. W świecie pełnym starannie zaprojektowanych wizerunków pozostaje sobą – szczerą\, nieprzewidywalną i całkowicie niepodrabialną.
+URL:https://plasterlodzki.pl/wydarzenia/palion-kolory-tour/
+LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T173000
 DTEND;TZID=Europe/Warsaw:20261201T190000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20250717T091406Z
 LAST-MODIFIED:20261113T160421Z
 UID:10051690-1796146200-1796151600@plasterlodzki.pl
@@ -1353,7 +1418,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T180000
 DTEND;TZID=Europe/Warsaw:20261201T233000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20230224T103055Z
 LAST-MODIFIED:20261030T120719Z
 UID:10030251-1796148000-1796167800@plasterlodzki.pl
@@ -1366,7 +1431,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T190000
 DTEND;TZID=Europe/Warsaw:20261201T203000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20221202T185418Z
 LAST-MODIFIED:20261030T105612Z
 UID:10029165-1796151600-1796157000@plasterlodzki.pl
@@ -1379,7 +1444,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T203000
 DTEND;TZID=Europe/Warsaw:20261201T220000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20261113T160330Z
 LAST-MODIFIED:20261113T160410Z
 UID:10051691-1796157000-1796162400@plasterlodzki.pl
@@ -1392,7 +1457,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T190000
 DTEND;TZID=Europe/Warsaw:20261203T210000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20221118T131649Z
 LAST-MODIFIED:20261113T123351Z
 UID:10028928-1796324400-1796331600@plasterlodzki.pl
@@ -1405,7 +1470,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T200000
 DTEND;TZID=Europe/Warsaw:20261203T220000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20221118T092912Z
 LAST-MODIFIED:20261030T143510Z
 UID:10028783-1796328000-1796335200@plasterlodzki.pl
@@ -1418,7 +1483,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T210000
 DTEND;TZID=Europe/Warsaw:20261203T220000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050993-1796331600-1796335200@plasterlodzki.pl
@@ -1431,7 +1496,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T190000
 DTEND;TZID=Europe/Warsaw:20261204T210000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20260821T124235Z
 LAST-MODIFIED:20260821T124235Z
 UID:10039619-1796410800-1796418000@plasterlodzki.pl
@@ -1444,7 +1509,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T190000
 DTEND;TZID=Europe/Warsaw:20261204T220000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20231018T135944Z
 LAST-MODIFIED:20261113T121403Z
 UID:10031977-1796410800-1796421600@plasterlodzki.pl
@@ -1457,7 +1522,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T200000
 DTEND;TZID=Europe/Warsaw:20261204T233000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20260304T205606Z
 LAST-MODIFIED:20261030T123334Z
 UID:10039502-1796414400-1796427000@plasterlodzki.pl
@@ -1470,7 +1535,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T200000
 DTEND;TZID=Europe/Warsaw:20261204T233000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20230101T180406Z
 LAST-MODIFIED:20261030T143144Z
 UID:10029653-1796414400-1796427000@plasterlodzki.pl
@@ -1483,7 +1548,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T203000
 DTEND;TZID=Europe/Warsaw:20261204T220000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20221202T185732Z
 LAST-MODIFIED:20261113T121744Z
 UID:10029171-1796416200-1796421600@plasterlodzki.pl
@@ -1496,7 +1561,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T180000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20260327T104006Z
 LAST-MODIFIED:20260327T104006Z
 UID:10047632-1796493600-1796511600@plasterlodzki.pl
@@ -1509,7 +1574,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T190000
 DTEND;TZID=Europe/Warsaw:20261205T233000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20221202T211130Z
 LAST-MODIFIED:20260814T115801Z
 UID:10029261-1796497200-1796513400@plasterlodzki.pl
@@ -1522,7 +1587,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T200000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20221202T185543Z
 LAST-MODIFIED:20261113T123409Z
 UID:10029168-1796500800-1796511600@plasterlodzki.pl
@@ -1535,7 +1600,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T210000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20221202T161347Z
 LAST-MODIFIED:20261113T120722Z
 UID:10029109-1796504400-1796511600@plasterlodzki.pl
@@ -1548,7 +1613,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T180000
 DTEND;TZID=Europe/Warsaw:20261206T210000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20250629T191225Z
 LAST-MODIFIED:20260130T143707Z
 UID:10041980-1796580000-1796590800@plasterlodzki.pl
@@ -1561,7 +1626,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T180000
 DTEND;TZID=Europe/Warsaw:20261206T213000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20221118T131452Z
 LAST-MODIFIED:20261113T123427Z
 UID:10028923-1796580000-1796592600@plasterlodzki.pl
@@ -1574,7 +1639,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T190000
 DTEND;TZID=Europe/Warsaw:20261206T220000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20230317T142725Z
 LAST-MODIFIED:20260724T102556Z
 UID:10030465-1796583600-1796594400@plasterlodzki.pl
@@ -1587,7 +1652,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T190000
 DTEND;TZID=Europe/Warsaw:20261207T210000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20230120T095505Z
 LAST-MODIFIED:20261030T105636Z
 UID:10029919-1796670000-1796677200@plasterlodzki.pl
@@ -1600,7 +1665,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T183000
 DTEND;TZID=Europe/Warsaw:20261210T220000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20230113T094437Z
 LAST-MODIFIED:20261030T143209Z
 UID:10029841-1796927400-1796940000@plasterlodzki.pl
@@ -1613,7 +1678,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T210000
 DTEND;TZID=Europe/Warsaw:20261210T220000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050994-1796936400-1796940000@plasterlodzki.pl
@@ -1626,7 +1691,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T190000
 DTEND;TZID=Europe/Warsaw:20261211T223000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20230217T114354Z
 LAST-MODIFIED:20261113T130906Z
 UID:10030209-1797015600-1797028200@plasterlodzki.pl
@@ -1639,7 +1704,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T190000
 DTEND;TZID=Europe/Warsaw:20261211T220000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20231018T140036Z
 LAST-MODIFIED:20260808T102137Z
 UID:10031979-1797015600-1797026400@plasterlodzki.pl
@@ -1652,7 +1717,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T200000
 DTEND;TZID=Europe/Warsaw:20261211T213000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20250629T080939Z
 LAST-MODIFIED:20260619T120058Z
 UID:10041674-1797019200-1797024600@plasterlodzki.pl
@@ -1665,7 +1730,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T210000
 DTEND;TZID=Europe/Warsaw:20261211T210000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20230120T093905Z
 LAST-MODIFIED:20261113T120623Z
 UID:10029909-1797022800-1797022800@plasterlodzki.pl
@@ -1678,7 +1743,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T180000
 DTEND;TZID=Europe/Warsaw:20261212T203000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20250629T191716Z
 LAST-MODIFIED:20261030T145830Z
 UID:10041989-1797098400-1797107400@plasterlodzki.pl
@@ -1691,7 +1756,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T180000
 DTEND;TZID=Europe/Warsaw:20261212T210000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260724T100919Z
 UID:10050389-1797098400-1797109200@plasterlodzki.pl
@@ -1704,7 +1769,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T190000
 DTEND;TZID=Europe/Warsaw:20261212T220000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20221222T221551Z
 LAST-MODIFIED:20260814T120841Z
 UID:10029487-1797102000-1797112800@plasterlodzki.pl
@@ -1717,7 +1782,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T190000
 DTEND;TZID=Europe/Warsaw:20261212T223000
-DTSTAMP:20261119T071706
+DTSTAMP:20261120T071705
 CREATED:20221202T211410Z
 LAST-MODIFIED:20260717T125916Z
 UID:10029267-1797102000-1797114600@plasterlodzki.pl
