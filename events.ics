@@ -1119,7 +1119,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T114500
 DTEND;TZID=Europe/Warsaw:20261121T130000
-DTSTAMP:20261120T071703
+DTSTAMP:20261121T071704
 CREATED:20241203T085549Z
 LAST-MODIFIED:20261109T093002Z
 UID:10051518-1795261500-1795266000@plasterlodzki.pl
@@ -1132,7 +1132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T150000
 DTEND;TZID=Europe/Warsaw:20261121T170000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20260702T113731Z
 LAST-MODIFIED:20261109T094642Z
 UID:10047744-1795273200-1795280400@plasterlodzki.pl
@@ -1145,7 +1145,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T160000
 DTEND;TZID=Europe/Warsaw:20261121T170000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20241203T085549Z
 LAST-MODIFIED:20261109T093002Z
 UID:10051519-1795276800-1795280400@plasterlodzki.pl
@@ -1158,7 +1158,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T163000
 DTEND;TZID=Europe/Warsaw:20261121T233000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20221116T135933Z
 LAST-MODIFIED:20261116T091050Z
 UID:10051701-1795278600-1795303800@plasterlodzki.pl
@@ -1171,7 +1171,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T180000
 DTEND;TZID=Europe/Warsaw:20261121T230000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20230317T142804Z
 LAST-MODIFIED:20261030T143555Z
 UID:10030466-1795284000-1795302000@plasterlodzki.pl
@@ -1184,7 +1184,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T180000
 DTEND;TZID=Europe/Warsaw:20261121T223000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20231004T085509Z
 LAST-MODIFIED:20261030T120618Z
 UID:10031877-1795284000-1795300200@plasterlodzki.pl
@@ -1197,7 +1197,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T190000
 DTEND;TZID=Europe/Warsaw:20261121T200000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20241108T122430Z
 LAST-MODIFIED:20261113T113922Z
 UID:10037960-1795287600-1795291200@plasterlodzki.pl
@@ -1210,7 +1210,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T190000
 DTEND;TZID=Europe/Warsaw:20261121T210000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20261026T111015Z
 LAST-MODIFIED:20261026T111015Z
 UID:10050930-1795287600-1795294800@plasterlodzki.pl
@@ -1223,7 +1223,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T190000
 DTEND;TZID=Europe/Warsaw:20261121T210000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20230929T113730Z
 LAST-MODIFIED:20260612T091725Z
 UID:10031829-1795287600-1795294800@plasterlodzki.pl
@@ -1236,7 +1236,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T193000
 DTEND;TZID=Europe/Warsaw:20261121T220000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20261030T150838Z
 LAST-MODIFIED:20261030T150838Z
 UID:10051201-1795289400-1795298400@plasterlodzki.pl
@@ -1249,7 +1249,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261121T210000
 DTEND;TZID=Europe/Warsaw:20261121T223000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20221118T123847Z
 LAST-MODIFIED:20261113T120906Z
 UID:10028884-1795294800-1795300200@plasterlodzki.pl
@@ -1262,7 +1262,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261122T180000
 DTEND;TZID=Europe/Warsaw:20261122T210000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20230810T122001Z
 LAST-MODIFIED:20261030T104538Z
 UID:10031594-1795370400-1795381200@plasterlodzki.pl
@@ -1275,7 +1275,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261122T200000
 DTEND;TZID=Europe/Warsaw:20261122T220000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20250629T080837Z
 LAST-MODIFIED:20261110T094518Z
 UID:10041672-1795377600-1795384800@plasterlodzki.pl
@@ -1288,7 +1288,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T190000
 DTEND;TZID=Europe/Warsaw:20261123T210000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20260426T102721Z
 LAST-MODIFIED:20260426T102721Z
 UID:10048203-1795460400-1795467600@plasterlodzki.pl
@@ -1301,7 +1301,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T190000
 DTEND;TZID=Europe/Warsaw:20261124T203000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20261026T104532Z
 LAST-MODIFIED:20261026T104532Z
 UID:10050919-1795546800-1795552200@plasterlodzki.pl
@@ -1314,7 +1314,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T190000
 DTEND;TZID=Europe/Warsaw:20261125T210000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20260305T174137Z
 LAST-MODIFIED:20261030T104511Z
 UID:10045564-1795633200-1795640400@plasterlodzki.pl
@@ -1327,7 +1327,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T190000
 DTEND;TZID=Europe/Warsaw:20261125T220000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20260410T102859Z
 LAST-MODIFIED:20261030T123441Z
 UID:10048084-1795633200-1795644000@plasterlodzki.pl
@@ -1340,7 +1340,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T193000
 DTEND;TZID=Europe/Warsaw:20261125T220000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20260501T090739Z
 LAST-MODIFIED:20261030T094028Z
 UID:10048369-1795635000-1795644000@plasterlodzki.pl
@@ -1353,7 +1353,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T170000
 DTEND;TZID=Europe/Warsaw:20261126T190000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20260426T113924Z
 LAST-MODIFIED:20261106T092828Z
 UID:10048256-1795712400-1795719600@plasterlodzki.pl
@@ -1366,7 +1366,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T180000
 DTEND;TZID=Europe/Warsaw:20261126T193000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20221117T135639Z
 LAST-MODIFIED:20261106T104007Z
 UID:10028729-1795716000-1795721400@plasterlodzki.pl
@@ -1379,7 +1379,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T190000
 DTEND;TZID=Europe/Warsaw:20261126T213000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20221118T131602Z
 LAST-MODIFIED:20261030T104440Z
 UID:10028926-1795719600-1795728600@plasterlodzki.pl
@@ -1392,7 +1392,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T193000
 DTEND;TZID=Europe/Warsaw:20261126T210000
-DTSTAMP:20261120T071704
+DTSTAMP:20261121T071704
 CREATED:20251220T215855Z
 LAST-MODIFIED:20260821T124303Z
 UID:10045911-1795721400-1795726800@plasterlodzki.pl
@@ -1403,9 +1403,113 @@ LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T200000
+DTEND;TZID=Europe/Warsaw:20261126T220000
+DTSTAMP:20261121T071704
+CREATED:20261110T110042Z
+LAST-MODIFIED:20261110T110042Z
+UID:10051554-1795723200-1795730400@plasterlodzki.pl
+SUMMARY:Julia Pietrucha – Parsley X
+DESCRIPTION:Dziesięć lat po premierze swojego debiutanckiego albumu „Parsley” Julia Pietrucha wraca do muzycznych korzeni – dojrzalsza\, bogatsza o doświadczenia\, ale wciąż wierna swojej autentyczności i lekkości. Z okazji jubileuszu artystka przygotowała wyjątkową\, nową odsłonę płyty – „Parsley 2026” – oraz zaprasza na trasę koncertową\, która odwiedzi największe miasta w Polsce. \nBędzie to niezwykła podróż przez utwory\, które zapoczątkowały jej muzyczną drogę – dziś opowiedziane na nowo i ze świeżym brzmieniem. Podczas koncertów usłyszymy dobrze znane utwory\, takie jak „On My Own” \, „Tonight”\, „We Care So Much”\, „Growl It” oraz „Swing Boy”\, w nowych aranżacjach\, a także historie\, które towarzyszyły ich powstawaniu – pełne słońca\, wrażliwości\, marzeń i tęsknoty. \nWieczory z „Parsley 2026” to nie tylko sentymentalny powrót do pierwszego albumu\, ale także opowieść o artystycznej drodze Julii Pietruchy – od intuicyjnego debiutu po dojrzałą\, niezależną twórczość. \nTo wydarzenie dla tych\, którzy są z Julią od początku – i dla tych\, którzy dopiero teraz odkrywają jej muzyczny świat. \nOd sceny teatralnej do muzycznej niezależności\nJulia Pietrucha to aktorka filmowa i teatralna\, wokalistka\, autorka tekstów i kompozytorka. Zadebiutowała jako dziecko na deskach warszawskiego Teatru Syrena\, zdobywając później uznanie w filmie i telewizji. Od 2016 roku z sukcesem rozwija swoją niezależną karierę muzyczną. Ma na koncie cztery autorskie albumy\, współpracę z czołowymi polskimi artystami oraz wyjątkowy projekt „Sierpniowe”\, zrealizowany z Muzeum Powstania Warszawskiego. To laureatka licznych nagród\, w tym Mateusza Trójki i MocArta RMF Classic. \nNie przegap trasy „Parsley X” – pozwól się zaprosić w muzyczną podróż\, która zaczęła się od marzeń\, a dziś dojrzewa razem z Tobą.
+URL:https://plasterlodzki.pl/wydarzenia/julia-pietrucha-parsley-x/
+LOCATION:Teatr Muzyczny w Łodzi\, Północna 47/51\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T200000
+DTEND;TZID=Europe/Warsaw:20261126T210000
+DTSTAMP:20261121T071704
+CREATED:20251216T081737Z
+LAST-MODIFIED:20261026T111820Z
+UID:10039248-1795723200-1795726800@plasterlodzki.pl
+SUMMARY:MŁYN
+DESCRIPTION:MŁYN to wrocławskie trio łączące leftfield jazz\, muzykę improwizowaną i eksperymentalną elektronikę. Żywa perkusja i instrumenty klawiszowe są tu na bieżąco przetwarzane\, zapętlane i wpuszczane w kolejne warstwy brzmienia. \nDo samego „jazzu” muzycy podchodzą zresztą z odpowiednim dystansem. Ich nowy album nie bez powodu nosi tytuł „Cały ten jazz”. Jak mówi Sebastian Milewski: „W pewnym sensie udajemy zespół jazzowy”. Zamiast akademickiego podejścia stawiają na intuicję\, wspólne doświadczenie i język wypracowany podczas grania. \nDobrym przykładem tego podejścia jest sposób\, w jaki Cezary Rosiński postanowił dołożyć do zespołu własny „jazz”. Najpierw sterował wirtualnym saksofonem za pomocą głosu\, później sięgnął po kontroler oddechowy przypominający alkomat. Dmuchając w niego\, może kontrolować ekspresję wirtualnego instrumentu – i\, jak sam przyznaje\, przez chwilę poczuć się jak prawdziwy jazzman. \nTytuł albumu zaproponował Michał Wdowikowski. „Cały ten jazz” to także ukłon w stronę Świata według Kiepskich\, więc dystans do gatunkowych etykiet jest tu wpisany w projekt od początku. \nMŁYN tworzą:\nSebastian Milewski\nMichał Wdowikowski\nCezary Rosiński \nAlbum „Cały ten jazz” ukaże się 23 października 2026 nakładem Coastline Northern Cuts. Koncert z nowym materiałem odbędzie się w Fabryce Sztuki 26 listopada w ramach cyklu #przepraszamy\, że w czwartek. \n 
+URL:https://plasterlodzki.pl/wydarzenia/grudniowe-tworcze-warsztaty-21/
+LOCATION:Fabryka Sztuki w Łodzi (Art_Inkubator)\, bp. Wincentego Tymienieckiego 3\, Łódź\, łózkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261126T210000
+DTEND;TZID=Europe/Warsaw:20261126T220000
+DTSTAMP:20261121T071704
+CREATED:20221202T161122Z
+LAST-MODIFIED:20261030T101025Z
+UID:10050992-1795726800-1795730400@plasterlodzki.pl
+SUMMARY:Czwartkowe\, Jazzowe Jam Session
+DESCRIPTION:Jak co tydzień zapraszamy na czwartkowe\, jazzowe Jam Session w KIJu.Nasze drzwi otwieramy dla Państwa o 18:00. Start koncertu planujemy na godzinę 21:00\n\nZapraszamy WSZYSTKICH muzyków do wspólnego jammowania.\nWażneLokal przeznaczony jest dla osób powyżej 18 roku życia. Osoby niepełnoletnie nie zostaną wpuszczone na wydarzenie\nMiejsce: KIJ\, al. Kościuszki 80/8290-437 ŁódźCena: FREE
+URL:https://plasterlodzki.pl/wydarzenia/ladies-of-soul-jam/2026-11-26/
+LOCATION:KIJ – multitap bar\, Kościuszki 80/82\, Łódź\, łódzkie\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261127T180000
+DTEND;TZID=Europe/Warsaw:20261127T235900
+DTSTAMP:20261121T071704
+CREATED:20260327T103938Z
+LAST-MODIFIED:20261113T153619Z
+UID:10047631-1795802400-1795823940@plasterlodzki.pl
+SUMMARY:Pitbull
+DESCRIPTION:PITBULL OGŁASZA KONTYNUACJĘ EUROPEJSKIEJ TRASY KONCERTOWEJ NA ZIMĘ 2026 ROKU\n\nMR. WORLDWIDE Z TRASĄ „I’M BACK” UDA SIĘ DO PORTUGALII\, HISZPANII\, SZWAJCARII\, WŁOCH\, FRANCJI\, SERBII\, SŁOWACJI\, NIEMIEC\, AUSTRII\, CZECH\, WĘGIER\, POLSKI\, LITWY I FINLANDII.\n \nSprzedaż ogólna rozpocznie się w piątek\, 13 marca\, o godz. 10:00 na LiveNation.pl \n27 listopada 2026 – Atlas Arena\, Łódź\n3 grudnia 2026 – ERGO ARENA\, Gdańsk/Sopot\nGOŚĆ SPECJALNY: LIL JON\nOPENING DJ SET BY: DJ LAZ \nZatwierdzone zdjęcia i grafiki w wysokiej rozdzielczości\, pobierz\nTUTAJ. \nSPRZEDAŻ BILETÓW:\n\nPrzedsprzedaż na stronie artysty: środa\, 11 marca o godz. 10:00\nPrzedsprzedaż Mastercard: środa\, 11 marca o godz. 10:00\nPrzedsprzedaż Ticketmaster: czwartek\, 12 marca o godz. 10:00\nPrzedsprzedaż Spotify: czwartek\, 12 marca o godz. 12:00\nSprzedaż ogólna: piątek\, 13 marca o godz. 10:00 na www.LiveNation.pl\n\n[Londyn\, Wielka Brytania – 5 marca 2026 r.] – odpowiadając na nieustanne prośby fanów z całej Europy\, Pitbull (Mr. 305 / Mr. Worldwide) powraca na Stary Kontynent z nowymi koncertami w ramach swojej wielkiej trasy „I’M BACK”. Po serii międzynarodowych występów\, które okazały się wielkim sukcesem\, oraz akcji fanów\, która zamieniła areny w morze łysych czepków\, Pitbull zamierza zapewnić kolejną elektryzującą\, wielopokoleniową imprezę na żywo\, pełną rozpoznawalnych hitów z całej swojej kariery. \nPitbull od lat należy do najbardziej konsekwentnych artystów koncertowych swojego pokolenia i pozostaje jedną z dominujących postaci na światowych trasach\, regularnie osiągając czołowe wyniki w rankingach koncertowych. Według danych Billboard Boxscore\, Pitbull zarobił ponad 250 milionów dolarów i sprzedał ponad 4\,7 miliona biletów na całym świecie w trakcie swojej kariery. Jego ostatnia trasa koncertowa\, Party After Dark Tour\, była największą solową trasą w jego karierze\, obejmującą ponad 50 koncertów w 13 krajach\, umacniając reputację Mr. Worldwide jako artysty zapewniającego pełną energii zabawę i niezapomniane chwile dla fanów każdej nocy. \nOprócz nowo ogłoszonych dat koncertów w arenach\, Pitbull będzie główną gwiazdą American Express presents BST Hyde Park w piątek 10 lipca 2026 r.\, gdzie podczas tego występu odbędzie się oficjalna próba pobicia GUINNESS WORLD RECORDS™ w kategorii największego zgromadzenia osób noszących czepki z łysiną – fenomenu zapoczątkowanego przez fanów\, nazwanego pieszczotliwie „The Bald E’s”. Ostatnie bilety są już w sprzedaży na stronie bst-hydepark.com. \nBILETY: Bilety na arenowe koncerty będą dostępne w ramach przedsprzedaży od środy\, 11 marca\, od godziny 10:00. Dodatkowe przedsprzedaże\, w tym przedsprzedaż dla posiadaczy kart Mastercard (szczegóły poniżej)\, potrwa przez cały tydzień przed rozpoczęciem ogólnej sprzedaży\, która rozpocznie się w piątek\, 13 marca\, o godzinie 10:00 na stronie LiveNation.pl. \nMastercard: Posiadacze kart Mastercard Banku Pekao S.A. zyskują wyjątkowy dostęp do biletów w przedsprzedaży Mastercard w Polsce. Przedsprzedaż Mastercard potrwa od środy\, 11 marca od godz. 10:00 do piątku\, 13 marca do godz. 9:00. Dodatkowo od piątku\, 13 marca od godz. 10:00 dostępne będą bilety preferencyjne na jedne z najlepszych miejsc. Więcej informacji na priceless.com/pekao. \nVIP: W ramach trasy koncertowej dostępne będą również liczne pakiety VIP i atrakcje\, dzięki którym fani będą mogli przenieść swoje muzyczne przeżycia na wyższy poziom. Pakiety różnią się między sobą\, ale mogą obejmować bilety premium\, dostęp do ekskluzywnej wizyty za kulisami\, zaproszenie do salonu VIP przed koncertem\, specjalnie zaprojektowane upominki VIP i wiele innych atrakcji. Zawartość pakietów VIP różni się w zależności od wybranej oferty. Więcej informacji można znaleźć na stronie vipnation.eu. \nPITBULL I’M BACK TOUR EUROPE / UK DATES:\n\nTue Jun 23 – Stockholm\, SE – 3Arena\nSat Jun 27 – Werchter\, BE – Werchter Boutique*\nTue Jun 30 – Belfast\, UK – Ormeau Park (Belsonic)\nWed Jul 01 – Glasgow\, UK – Glasgow Summer Sessions\, Bellahouston Park\nFri Jul 03 – Leeds\, UK – American Express Presents Roundhay Park *\nTue Jul 07 – Dublin\, IE- Marlay Park\nWed Jul 08 – Limerick\, IE- Thomond Park Stadium\nFri Jul 10 – London\, UK – American Express Presents BST Hyde Park London*\nSat Jul 12 – Nice\, FR – Allianz Arena\nWed Jul 15 – Arnhem\, NL – GelreDome\nSun Jul 19 – Dusseldorf\, DE – Arena Im Open Air Park\nTue Jul 21 – Budapest\, HU – Puskas Arena\nThu Jul 23 – Warsaw\, PL – PGE Narodowy\nSun Jul 26 – Prague\, CZ – Airport Letnany\nWed Jul 29 – Riga\, LV – Mezaparks Great Bandstand\nFri Jul 31 – Kaunas\, LT – Darius and Girenas Stadium\nMon Nov 02 – Lisbon\, Portugal – MEO Arena – NEW SHOW\nWed Nov 04 – Barcelona\, Spain – Palau Sant Jordi – NEW SHOW\nThu Nov 05 – Madrid\, Spain – Movistar Arena – NEW SHOW\nSun Nov 08 – Zurich\, Switzerland – Hallenstadion – NEW SHOW\nMon Nov 09 – Milan\, Italy – Unipol Dome – NEW SHOW\nWed Nov 11 – Lyon\, France – LDLC Arena – NEW SHOW\nFri Nov 13 – Belgrade\, Serbia – Belgrade Arena – NEW SHOW\nSat Nov 14 – Bratislava\, Slovakia – Tipos Arena – NEW SHOW\nMon Nov 16 – Dortmund\, Germany – Westfalenhallen – NEW SHOW\nWed Nov 18 – Vienna\, Austria – Stadthalle – NEW SHOW\nThu Nov 19 – Stuttgart\, Germany – Schleyerhalle – NEW SHOW\nSun Nov 22 – Prague\, Czech Republic – O2 Arena – NEW SHOW\nTue Nov 24 – Budapest\, Hungary – MVM Dome – NEW SHOW\nFri Nov 27 – Lodz\, Poland – Atlas Arena – NEW SHOW\nMon Nov 30 – Kaunas\, Lithuania – Zalgiris Arena – NEW SHOW\nThu Dec 03 – Gdansk/Sopot\, Poland – ERGO ARENA – NEW SHOW\nMon Dec 07 – Helsinki\, Finland – Veikkaus Arena – NEW SHOW\n\n* Festival Date \nPITBULL\nArmando Christian Pérez\, znany na całym świecie jako Pitbull\, wywołuje globalne poruszenie jako niezależna międzynarodowa supergwiazda\, laureat nagrody GRAMMY\, ambasador edukacji\, przedsiębiorca i mówca motywacyjny. Dzięki miliardom odtworzeń audio i wyświetleń wideo oraz setkom złotych i platynowych płyt\, jego kariera jest jedną z najbardziej imponujących w historii muzyki. \nPoza muzyką Pitbull zbudował zróżnicowane i rozwijające się portfolio biznesowe. Założył wytwórnię płytową Mr. 305 i markę wódki Voli 305 Vodka\, a także uruchomił Globalization\, kanał SiriusXM prezentujący światowe hity muzyczne. \nPitbull jest również zagorzałym orędownikiem edukacji. Jest współzałożycielem SLAM! (Sports Leadership Arts Management)\, sieci bezpłatnych publicznych szkół czarterowych uznanych na całym świecie za wiodącą organizację edukacyjną\, obsługującej obecnie ponad 10 000 uczniów w 14 szkołach w Stanach Zjednoczonych. \nW 2024 roku Pitbull połączył siły z Bon Jovi\, tworząc przebojowy utwór „Now or Never”\, który zadebiutował na listach przebojów Billboardu\, łącząc międzynarodową energię taneczną z klasycznym rockiem i wzmacniając jego międzypokoleniową popularność. W 2025 roku artysta rozpoczął trasę koncertową po Europie\, zwracając na siebie uwagę największych mediów. \nWebsite | Facebook | Twitter | Instagram | YouTube \nO LIL JON\nPrzez ostatnią dekadę słowa „YEAHHH”\, „OKAYY” i „WHATTT” były synonimami wielokrotnie platynowego artysty Lil Jona\, laureata nagrody Grammy. Jest on jedną z najwybitniejszych postaci zarówno w muzyce\, jak i popkulturze\, który występował przed setkami tysięcy fanów m.in. wraz z Usherem i Ludacrisem\, Afrojackiem\, Stevem Aokim\, Pitbullem\, TLC (w programie FOX American Idol)\, Becky G\, Offsetem\, LMFAO\, Too $hortem i E-40. \nZnany przede wszystkim z tworzenia i popularyzacji południowego ruchu i stylu życia znanego jako Crunk\, Lil Jon wydał serię regionalnych hitów (w latach 90.) z East Side Boyz\, a w 2001 roku stał się gwiazdą narodową dzięki utworom „Bia Bia” i „Put Yo Hood Up”. Do jego kultowych albumów należą We Still Crunk!\, Put Yo Hood Up\, Kings of Crunk i Crunk Juice. \nLil Jon ma na swoim koncie długą listę platynowych wydawnictw\, tworząc przełomowe hity dla różnorodnych artystów\, takich jak E-40\, Usher\, Ciara\, The Ying Yang Twins\, Ice Cube i wielu innych. Współpracował również z will.i.am\, Miley Cyrus\, Britney Spears\, Bretem Michaelsem\, Travisem Barkerem\, Jennifer Lopez\, Machine Gun Kelly\, DJ Snake’iem i wieloma innymi. \nJako artysta sprzedał miliony płyt jako frontman Lil Jon & The East Side Boyz\, których hity „Get Low” i „What U Gon’ Do” znalazły się wśród największych crossoverowych płyt hip-hopowych. Jego konsekwentne tworzenie hitów przyniosło mu rzesze fanów od Los Angeles po Nowy Jork\, Środkowy Zachód i oczywiście jego rodzimy region\, Południe. \nPodróżował również po całym świecie\, występując jako DJ w takich miejscach jak Francja\, Niemcy\, Korea Południowa\, Chiny\, Indie\, Dubaj\, Londyn\, Meksyk i Australia. Lil Jon zdobył dwie nagrody BMI Songwriter of the Year\, a także jedenaście nagród Billboard Awards (za dwa hity Ushera „Yeah!” i „Lovers and Friends”)\, Grammy\, Radio Music Award\, BET Award\, dwie MTV Video Music Awards i American Music Award.
+URL:https://plasterlodzki.pl/wydarzenia/pitbull/
+LOCATION:Atlas Arena\, Bandurskiego 7\, Łódź\, łódzkie\, 94-020\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261127T180000
+DTEND;TZID=Europe/Warsaw:20261127T193000
+DTSTAMP:20261121T071704
+CREATED:20221116T132106Z
+LAST-MODIFIED:20261113T145917Z
+UID:10028649-1795802400-1795807800@plasterlodzki.pl
+SUMMARY:Ukeje Moje Boskie Buenos
+DESCRIPTION:Damian Ukeje\, zwycięzca pierwszej edycji programu „The Voice of Polana”\, zagra akustycznie najpopularniejsze utwory grupy Maanam jak również doda kilka swoich. Jednak wieczór zdecydowanie będzie należał do legendarnej\, rockowej grupy. Koncert będzie swoistym hołdem dla zespołu i  próbą ponownego odkrycia tej muzyki. \nZapisy od 9.11 od 12.00 pod numerem: 42 636 25 98
+URL:https://plasterlodzki.pl/wydarzenia/suski-obiezyswiat/
+LOCATION:Klub Nauczyciela\, Piotrkowska 137/139\, Łódź\, łódzkie\, 90-434\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261127T190000
+DTEND;TZID=Europe/Warsaw:20261127T230000
+DTSTAMP:20261121T071704
+CREATED:20260321T110538Z
+LAST-MODIFIED:20260321T110538Z
+UID:10047578-1795806000-1795820400@plasterlodzki.pl
+SUMMARY:ILLUSION\, HOSTIA\, IRON HEAD
+DESCRIPTION:Ta trasa to spotkanie zespołów\, które łączy jedno: na scenie nie biorą jeńców.\nILLUSION przyjeżdża z repertuarem\, który od lat działa na żywo i sprawia\, że pod sceną zawsze robi się tłoczno.\nHostia wnosi do tego zestawu swój charakterystyczny\, bezlitosny grindcore – szybki\, agresywny\, ale z groove’em\, który potrafi rozbujać cały klub.\nIron Head pokazuje z kolei młodszą twarz ciężkiego grania\, łącząc metalcore z klasycznym hard’n’heavy i bardzo mocnymi wokalami.\nRazem daje to koncertowy wieczór\, w którym ciężkie riffy\, tempo i energia będą się tylko nakręcać z każdym kolejnym utworem.\nŁódź – 27.11.2026 r Klub Scenografia\, ul. Zachodnia 81/83\nOtwarcie wejść: 18:00 Start: 19:00\nBilety przedsprzedaż pierwsza pula 99 zł\, druga pula 120 zł w dniu koncertu 130 zł\nBilety do nabycia:\nOd Organizatora https://www.galicja.net/pl/tickets/646317\nTicketmaster https://www.ticketmaster.pl/artist/illusion-bilety/992767\nEbilet https://www.ebilet.pl/muzyka/hard-heavy/illusion…\nKupBilecik https://www.kupbilecik.pl/…/%C5%81%C3%B3d%C5%BA/Illusion/\nBiletyna https://bilety.io/Da3q9\nwięcej o trasie www.galicja.net
+URL:https://plasterlodzki.pl/wydarzenia/illusion-hostia-iron-head/
+LOCATION:Klub Scenografia\, Zachodnia 81/83\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261127T193000
+DTEND;TZID=Europe/Warsaw:20261127T203000
+DTSTAMP:20261121T071704
+CREATED:20250629T191414Z
+LAST-MODIFIED:20261030T145916Z
+UID:10041984-1795807800-1795811400@plasterlodzki.pl
+SUMMARY:Hubert. & prawy brzeg – sei porobilo … tour
+DESCRIPTION:Jeszcze kurz nie opadł po pierwszym w historii koncercie na skoczni narciarskiej\, a Hubert. już rusza dalej. Dla naszej wiary – z trasą promującą najświeższy krążek „sie porobiło…”. \nHubert. – artysta alternatywnego pokolenia młodych twórców z prawego brzegu Szczecina\, który ma już na koncie Popkillera za „kolorowe domy”\, ogromny koncert na Chałupach i 6 tysięcy osób na skoczni w Wiśle – tym razem wraca do klubów. \nAby to\, co na albumie\, stało się rzeczywistością\, całe prawobrzeskie creeeeew zagra koncerty w największych miastach i klubach naszego kraju. Osoby poniżej 16. r.ż. muszą być pod opieką rodzica lub opiekuna prawnego.\nOsoby od 16. r.ż. mogą uczestniczyć w wydarzeniu za zgodą rodzica lub opiekuna prawnego.
+URL:https://plasterlodzki.pl/wydarzenia/18-laj-koncert-familijny-no-czesc/
+LOCATION:Klub Wytwórnia\, Łąkowa 29\, Łódź\, łódzkie\, 90-554\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261127T193000
+DTEND;TZID=Europe/Warsaw:20261127T213000
+DTSTAMP:20261121T071704
+CREATED:20261030T153550Z
+LAST-MODIFIED:20261030T153550Z
+UID:10051239-1795807800-1795815000@plasterlodzki.pl
+SUMMARY:Oreada
+DESCRIPTION:OREADA ma 10 lat   \nI z tej okazji zaplanowaliśmy coś wyjątkowego!27 listopada 2026 roku spotkamy się w Łodzi na jubileuszowym koncercie i premierze naszej jubileuszowej płyty WINYLOWEJ „Migawki”.\nPrzygotowaliśmy specjalny koncert\, w którym spotka się cała nasza muzyczna historia\, ale też to\, co jest dopiero przed nami. Wrócimy do starszych piosenek\, których dawno nie graliśmy i tych\, po które sięgamy rzadko. Zagramy utwory z obu naszych płyt\, Leśnej Live Sesji i z EP-ki też coś będzie  Zaprezentujemy nową muzykę przygotowaną na ten okrągły jubileusz. Na scenie pojawią się GOŚCIE SPECJALNI (na razie pozostaną niespodzianką). Archiwalne zdjęcia i wspomnienia z 10 lat OREADY staną się częścią koncertowej oprawy.\nTo jednak nie wszystko!Będziecie świadkami spełnienia jednego z naszych muzycznych marzeń „Migawki”\, nasz jubileuszowy winyl\, po raz pierwszy trafi do Waszych rąk właśnie podczas tego koncertu!!!To pierwsze winylowe wydawnictwo w historii OREADY. Znajdą się na nim utwory\, które znacie z naszych wcześniejszych płyt oraz nowe nagrania przygotowane specjalnie na 10-lecie naszych działań.\nAle przede wszystkim chcemy tego wieczoru po prostu być razem z Wami Dekada za nami.Wszystkie te koncerty\, próby\, piosenki\, podróże\, spotkania\, przygody… Mnóstwo historii\, których nie da się zamknąć w jednej płycie ani jednym zdaniu.\nTen wieczór będzie okazją\, żeby na chwilę się zatrzymać i podziękować Wam za to\, że przez te lata byliście z nami.Tym\, którzy pamiętają nasze początki.Tym\, którzy dołączyli po drodze.I miejmy nadzieję – tym\, którzy dopiero nas poznają.\nKiedy\, jak nie teraz? Bo jubileusz jest dla nas okazją do wspomnień\, ale i idealnym momentem do realizacji wyjątkowego koncertu pełnego muzyki\, którą dobrze znacie\, piosenek\, do których dawno nie wracaliśmy\, nowych rzeczy i tego\, co dopiero przed nami.\n 27.11.2026 | Scena Monopolis\, Łódźul. Kopcińskiego 62a\nI pula biletów (przedsprzedaż – do wyczerpania zapasów): 79 złII pula biletów : 99 złW dniu koncertu: 119 zł\n10 lat OREADY! Celebrujcie te wyjątkowe chwile razem z nami już 27 listopada \nPartnerem działania jest Województwo Łódzkie – Urząd Marszałkowski oraz Stowarzyszenie Autorów ZAiKS.
+URL:https://plasterlodzki.pl/wydarzenia/oreada-3/
+LOCATION:Artkombinat Scena Monopolis\, Kopcińskiego 62a\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T173000
 DTEND;TZID=Europe/Warsaw:20261201T190000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071705
 CREATED:20250717T091406Z
 LAST-MODIFIED:20261113T160421Z
 UID:10051690-1796146200-1796151600@plasterlodzki.pl
@@ -1418,7 +1522,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T180000
 DTEND;TZID=Europe/Warsaw:20261201T233000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071705
 CREATED:20230224T103055Z
 LAST-MODIFIED:20261030T120719Z
 UID:10030251-1796148000-1796167800@plasterlodzki.pl
@@ -1431,7 +1535,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T190000
 DTEND;TZID=Europe/Warsaw:20261201T203000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071705
 CREATED:20221202T185418Z
 LAST-MODIFIED:20261030T105612Z
 UID:10029165-1796151600-1796157000@plasterlodzki.pl
@@ -1444,7 +1548,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T203000
 DTEND;TZID=Europe/Warsaw:20261201T220000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071705
 CREATED:20261113T160330Z
 LAST-MODIFIED:20261113T160410Z
 UID:10051691-1796157000-1796162400@plasterlodzki.pl
@@ -1457,7 +1561,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T190000
 DTEND;TZID=Europe/Warsaw:20261203T210000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071705
 CREATED:20221118T131649Z
 LAST-MODIFIED:20261113T123351Z
 UID:10028928-1796324400-1796331600@plasterlodzki.pl
@@ -1470,7 +1574,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T200000
 DTEND;TZID=Europe/Warsaw:20261203T220000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071705
 CREATED:20221118T092912Z
 LAST-MODIFIED:20261030T143510Z
 UID:10028783-1796328000-1796335200@plasterlodzki.pl
@@ -1483,7 +1587,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T210000
 DTEND;TZID=Europe/Warsaw:20261203T220000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071705
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050993-1796331600-1796335200@plasterlodzki.pl
@@ -1496,7 +1600,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T190000
 DTEND;TZID=Europe/Warsaw:20261204T210000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071705
 CREATED:20260821T124235Z
 LAST-MODIFIED:20260821T124235Z
 UID:10039619-1796410800-1796418000@plasterlodzki.pl
@@ -1509,7 +1613,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T190000
 DTEND;TZID=Europe/Warsaw:20261204T220000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071705
 CREATED:20231018T135944Z
 LAST-MODIFIED:20261113T121403Z
 UID:10031977-1796410800-1796421600@plasterlodzki.pl
@@ -1522,7 +1626,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T200000
 DTEND;TZID=Europe/Warsaw:20261204T233000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071705
 CREATED:20260304T205606Z
 LAST-MODIFIED:20261030T123334Z
 UID:10039502-1796414400-1796427000@plasterlodzki.pl
@@ -1535,7 +1639,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T200000
 DTEND;TZID=Europe/Warsaw:20261204T233000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071705
 CREATED:20230101T180406Z
 LAST-MODIFIED:20261030T143144Z
 UID:10029653-1796414400-1796427000@plasterlodzki.pl
@@ -1548,7 +1652,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T203000
 DTEND;TZID=Europe/Warsaw:20261204T220000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20221202T185732Z
 LAST-MODIFIED:20261113T121744Z
 UID:10029171-1796416200-1796421600@plasterlodzki.pl
@@ -1561,7 +1665,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T180000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20260327T104006Z
 LAST-MODIFIED:20260327T104006Z
 UID:10047632-1796493600-1796511600@plasterlodzki.pl
@@ -1574,7 +1678,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T190000
 DTEND;TZID=Europe/Warsaw:20261205T233000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20221202T211130Z
 LAST-MODIFIED:20260814T115801Z
 UID:10029261-1796497200-1796513400@plasterlodzki.pl
@@ -1587,7 +1691,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T200000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20221202T185543Z
 LAST-MODIFIED:20261113T123409Z
 UID:10029168-1796500800-1796511600@plasterlodzki.pl
@@ -1600,7 +1704,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T210000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20221202T161347Z
 LAST-MODIFIED:20261113T120722Z
 UID:10029109-1796504400-1796511600@plasterlodzki.pl
@@ -1613,7 +1717,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T180000
 DTEND;TZID=Europe/Warsaw:20261206T210000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20250629T191225Z
 LAST-MODIFIED:20260130T143707Z
 UID:10041980-1796580000-1796590800@plasterlodzki.pl
@@ -1626,7 +1730,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T180000
 DTEND;TZID=Europe/Warsaw:20261206T213000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20221118T131452Z
 LAST-MODIFIED:20261113T123427Z
 UID:10028923-1796580000-1796592600@plasterlodzki.pl
@@ -1639,7 +1743,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T190000
 DTEND;TZID=Europe/Warsaw:20261206T220000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20230317T142725Z
 LAST-MODIFIED:20260724T102556Z
 UID:10030465-1796583600-1796594400@plasterlodzki.pl
@@ -1652,7 +1756,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T190000
 DTEND;TZID=Europe/Warsaw:20261207T210000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20230120T095505Z
 LAST-MODIFIED:20261030T105636Z
 UID:10029919-1796670000-1796677200@plasterlodzki.pl
@@ -1665,7 +1769,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T183000
 DTEND;TZID=Europe/Warsaw:20261210T220000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20230113T094437Z
 LAST-MODIFIED:20261030T143209Z
 UID:10029841-1796927400-1796940000@plasterlodzki.pl
@@ -1678,7 +1782,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T210000
 DTEND;TZID=Europe/Warsaw:20261210T220000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050994-1796936400-1796940000@plasterlodzki.pl
@@ -1691,7 +1795,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T190000
 DTEND;TZID=Europe/Warsaw:20261211T223000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20230217T114354Z
 LAST-MODIFIED:20261113T130906Z
 UID:10030209-1797015600-1797028200@plasterlodzki.pl
@@ -1704,7 +1808,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T190000
 DTEND;TZID=Europe/Warsaw:20261211T220000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20231018T140036Z
 LAST-MODIFIED:20260808T102137Z
 UID:10031979-1797015600-1797026400@plasterlodzki.pl
@@ -1717,7 +1821,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T200000
 DTEND;TZID=Europe/Warsaw:20261211T213000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20250629T080939Z
 LAST-MODIFIED:20260619T120058Z
 UID:10041674-1797019200-1797024600@plasterlodzki.pl
@@ -1730,7 +1834,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T210000
 DTEND;TZID=Europe/Warsaw:20261211T210000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20230120T093905Z
 LAST-MODIFIED:20261113T120623Z
 UID:10029909-1797022800-1797022800@plasterlodzki.pl
@@ -1743,7 +1847,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T180000
 DTEND;TZID=Europe/Warsaw:20261212T203000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20250629T191716Z
 LAST-MODIFIED:20261030T145830Z
 UID:10041989-1797098400-1797107400@plasterlodzki.pl
@@ -1756,7 +1860,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T180000
 DTEND;TZID=Europe/Warsaw:20261212T210000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260724T100919Z
 UID:10050389-1797098400-1797109200@plasterlodzki.pl
@@ -1769,7 +1873,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T190000
 DTEND;TZID=Europe/Warsaw:20261212T220000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20221222T221551Z
 LAST-MODIFIED:20260814T120841Z
 UID:10029487-1797102000-1797112800@plasterlodzki.pl
@@ -1782,7 +1886,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T190000
 DTEND;TZID=Europe/Warsaw:20261212T223000
-DTSTAMP:20261120T071705
+DTSTAMP:20261121T071706
 CREATED:20221202T211410Z
 LAST-MODIFIED:20260717T125916Z
 UID:10029267-1797102000-1797114600@plasterlodzki.pl
