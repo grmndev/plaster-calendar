@@ -1262,7 +1262,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261122T180000
 DTEND;TZID=Europe/Warsaw:20261122T210000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071703
 CREATED:20230810T122001Z
 LAST-MODIFIED:20261030T104538Z
 UID:10031594-1795370400-1795381200@plasterlodzki.pl
@@ -1275,7 +1275,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261122T200000
 DTEND;TZID=Europe/Warsaw:20261122T220000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071703
 CREATED:20250629T080837Z
 LAST-MODIFIED:20261110T094518Z
 UID:10041672-1795377600-1795384800@plasterlodzki.pl
@@ -1288,7 +1288,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261123T190000
 DTEND;TZID=Europe/Warsaw:20261123T210000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071703
 CREATED:20260426T102721Z
 LAST-MODIFIED:20260426T102721Z
 UID:10048203-1795460400-1795467600@plasterlodzki.pl
@@ -1301,7 +1301,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261124T190000
 DTEND;TZID=Europe/Warsaw:20261124T203000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071703
 CREATED:20261026T104532Z
 LAST-MODIFIED:20261026T104532Z
 UID:10050919-1795546800-1795552200@plasterlodzki.pl
@@ -1314,7 +1314,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T190000
 DTEND;TZID=Europe/Warsaw:20261125T210000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071703
 CREATED:20260305T174137Z
 LAST-MODIFIED:20261030T104511Z
 UID:10045564-1795633200-1795640400@plasterlodzki.pl
@@ -1327,7 +1327,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T190000
 DTEND;TZID=Europe/Warsaw:20261125T220000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071703
 CREATED:20260410T102859Z
 LAST-MODIFIED:20261030T123441Z
 UID:10048084-1795633200-1795644000@plasterlodzki.pl
@@ -1340,7 +1340,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261125T193000
 DTEND;TZID=Europe/Warsaw:20261125T220000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071704
 CREATED:20260501T090739Z
 LAST-MODIFIED:20261030T094028Z
 UID:10048369-1795635000-1795644000@plasterlodzki.pl
@@ -1353,7 +1353,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T170000
 DTEND;TZID=Europe/Warsaw:20261126T190000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071704
 CREATED:20260426T113924Z
 LAST-MODIFIED:20261106T092828Z
 UID:10048256-1795712400-1795719600@plasterlodzki.pl
@@ -1366,7 +1366,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T180000
 DTEND;TZID=Europe/Warsaw:20261126T193000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071704
 CREATED:20221117T135639Z
 LAST-MODIFIED:20261106T104007Z
 UID:10028729-1795716000-1795721400@plasterlodzki.pl
@@ -1379,7 +1379,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T190000
 DTEND;TZID=Europe/Warsaw:20261126T213000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071704
 CREATED:20221118T131602Z
 LAST-MODIFIED:20261030T104440Z
 UID:10028926-1795719600-1795728600@plasterlodzki.pl
@@ -1392,7 +1392,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T193000
 DTEND;TZID=Europe/Warsaw:20261126T210000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071704
 CREATED:20251220T215855Z
 LAST-MODIFIED:20260821T124303Z
 UID:10045911-1795721400-1795726800@plasterlodzki.pl
@@ -1405,7 +1405,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T200000
 DTEND;TZID=Europe/Warsaw:20261126T220000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071704
 CREATED:20261110T110042Z
 LAST-MODIFIED:20261110T110042Z
 UID:10051554-1795723200-1795730400@plasterlodzki.pl
@@ -1418,7 +1418,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T200000
 DTEND;TZID=Europe/Warsaw:20261126T210000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071704
 CREATED:20251216T081737Z
 LAST-MODIFIED:20261026T111820Z
 UID:10039248-1795723200-1795726800@plasterlodzki.pl
@@ -1431,7 +1431,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261126T210000
 DTEND;TZID=Europe/Warsaw:20261126T220000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071704
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050992-1795726800-1795730400@plasterlodzki.pl
@@ -1444,7 +1444,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261127T180000
 DTEND;TZID=Europe/Warsaw:20261127T235900
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071704
 CREATED:20260327T103938Z
 LAST-MODIFIED:20261113T153619Z
 UID:10047631-1795802400-1795823940@plasterlodzki.pl
@@ -1457,7 +1457,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261127T180000
 DTEND;TZID=Europe/Warsaw:20261127T193000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071704
 CREATED:20221116T132106Z
 LAST-MODIFIED:20261113T145917Z
 UID:10028649-1795802400-1795807800@plasterlodzki.pl
@@ -1470,7 +1470,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261127T190000
 DTEND;TZID=Europe/Warsaw:20261127T230000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071704
 CREATED:20260321T110538Z
 LAST-MODIFIED:20260321T110538Z
 UID:10047578-1795806000-1795820400@plasterlodzki.pl
@@ -1483,7 +1483,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261127T193000
 DTEND;TZID=Europe/Warsaw:20261127T203000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071704
 CREATED:20250629T191414Z
 LAST-MODIFIED:20261030T145916Z
 UID:10041984-1795807800-1795811400@plasterlodzki.pl
@@ -1496,7 +1496,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261127T193000
 DTEND;TZID=Europe/Warsaw:20261127T213000
-DTSTAMP:20261121T071704
+DTSTAMP:20261122T071704
 CREATED:20261030T153550Z
 LAST-MODIFIED:20261030T153550Z
 UID:10051239-1795807800-1795815000@plasterlodzki.pl
@@ -1507,9 +1507,152 @@ LOCATION:Artkombinat Scena Monopolis\, Kopcińskiego 62a\, Łódź\, Poland
 CATEGORIES:Koncert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261127T200000
+DTEND;TZID=Europe/Warsaw:20261127T210000
+DTSTAMP:20261122T071704
+CREATED:20240916T102845Z
+LAST-MODIFIED:20261113T123602Z
+UID:10036983-1795809600-1795813200@plasterlodzki.pl
+SUMMARY:Balkanska
+DESCRIPTION:Serbska energia i polski temperament – tak najprościej można opisać zespół Balkanska\, który tworzy piątka przyjaciół. Połączyła ich pasja do kultury południowej Europy. Podczas koncertów wykonują największe bałkańskie hity (w dużej mierze znane polskim słuchaczom) w popowo-rockowych aranżacjach.\nSkład zespołu Balkanska tworzą: Darko Bugarić (wokal\, gitara)\, Andrzej Granat (bas)\, Kacper Kuta (perkusja)\, Michał Mroziński (akordeon) i Julia Wiśniewska (skrzypce).\nBilety: 50 zł do 31.10.26 oraz 60 zl do dnia koncertu\nTawerna KejaKupbilecik.plhttps://kbq.pl/224670Biletyna.plhttps://bilety.io/fBGnlRezerwacje tel. 609 152 420
+URL:https://plasterlodzki.pl/wydarzenia/rowerem-z-polski-w-himalaje-piotr-strzezysz/
+LOCATION:Keja Pub\, Kopernika 46\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261127T200000
+DTEND;TZID=Europe/Warsaw:20261127T220000
+DTSTAMP:20261122T071704
+CREATED:20241010T120834Z
+LAST-MODIFIED:20261030T143623Z
+UID:10037602-1795809600-1795816800@plasterlodzki.pl
+SUMMARY:Omasta
+DESCRIPTION:Omasta wraca do Łodzi!Omasta podąża nowymi drogami\, nie porzucając tych już przetartych. Zakorzenieni w jazzie\, ale głęboko zanurzeni w hip-hopie i kulturze ulicznej\, tworzą śmiałą fuzję tradycji i innowacji. Sama nazwa zespołu pochodzi z krakowskiej gwary i oznacza „tłuszcz dodawany do potrawy dla smaku” – trafnie oddając charakter ich gęstego brzmienia. Zespół formował się w Krakowie przez kilka lat\, a oficjalnie zadebiutował w lutym 2024 roku podczas hołdu dla J Dilli w Paul’s Boutique. Od tego czasu Omasta występowała na prestiżowych festiwalach i w renomowanych klubach\, m.in. London Jazz Festival\, OFF Festival\, Gent Jazz Festival\, Ronnie Scott’s czy AB w Brukseli\, współpracując z artystami takimi jak Madlib\, Aquiles Navarro\, Marysia Osu\, Tenderlonious i Leszek Żądło. Debiutancki album wydany w 2025 roku nakładem Astigmatic Records spotkał się z bardzo dobrym przyjęciem i trafił do wielu zestawień najlepszych płyt roku. Nowy album „Hits Different” wyszedł 16 października i z tym albumem i nie tylko\, Omasta wraca do Łodzi już 27 listopada.\n27.11\, Wooltura\, start 20:00.Bilety dostępne na going – link w wydarzeniu.\nhttps://linktr.ee/omasta
+URL:https://plasterlodzki.pl/wydarzenia/clodie-2/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261127T200000
+DTEND;TZID=Europe/Warsaw:20261127T220000
+DTSTAMP:20261122T071704
+CREATED:20240913T080246Z
+LAST-MODIFIED:20261113T121710Z
+UID:10036975-1795809600-1795816800@plasterlodzki.pl
+SUMMARY:Soundcheck - koncert EKSTREMALNEJ SZKOŁY WOKALNEJ Ady Rusinkiewicz
+DESCRIPTION:Soundcheck to koncert EKSTREMALNEJ SZKOŁY WOKALNEJ Ady Rusinkiewicz. Jesteśmy łódzką szkołą wokalną z najszerszą ofertą edukacyjną w województwie. Specjalizujemy się w wokalnych technikach ekstremalnych\, śpiewie operowym oraz śpiewie rozrywkowym.\nNa koncercie zaprezentują się klientki\, klienci\, uczniowie i uczennice szkoły. Zaśpiewają bardzo zróżnicowane utwory – ale w Ironie\, tradycyjnie już\, spodziewajcie się przede wszystkim rocka i metalu. Koncert poprowadzi zarząd szkoły: Ada Rusinkiewicz\, Paulina Glinka i Alicja Tranda.\nJeśli marzysz o nauce śpiewu\, growlu albo screamu\, wbijaj na Soundcheck i zobacz\, co potrafimy!\nGDZIE: Iron Horse PubKIEDY: 27 listopada 2026O KTÓREJ: 20:00ZA ILE: WSTĘP WOLNY
+URL:https://plasterlodzki.pl/wydarzenia/redneck-rampage-estonia-death-denied-devil-in-the-name/
+LOCATION:Iron Horse\, Tuwima 16 / róg Sienkiewicza\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261127T210000
+DTEND;TZID=Europe/Warsaw:20261127T230000
+DTSTAMP:20261122T071704
+CREATED:20230120T093807Z
+LAST-MODIFIED:20261030T100301Z
+UID:10029907-1795813200-1795820400@plasterlodzki.pl
+SUMMARY:Sukla
+DESCRIPTION:SUKLA to łódzki skład\, tworzący autorską mieszankę soulu\, funky\, bluesa i innych gatunków. Debiutowali wideosesją zarejestrowaną w lipcu 2020 roku w studio Manximum Records. W czerwcu 2021 premierę miał klip do pierwszego polskojęzycznego singla zatytułowanego „Onemusze”\, który wpisał się w aktualną dyskusję na temat kobiecości i odbił się echem w mediach społecznościowych. Znaki rozpoznawalne Sukli to przystępne\, ale wysmakowane brzmienie z pogranicza popu\, soulu i acid jazzu oraz niebanalne teksty\, które zostają w głowie na długo.\nDotąd funkcjonujący jako kwartet zespół wystąpi po raz pierwszy w towarzystwie klawiszowca Michała Karkusińskiego. W czasie koncertu można będzie usłyszeć zarówno autorski repertuar jak i utwory zapożyczone od szerokiego wachlarza wykonawców.\nSUKLA wystąpi w składzie:\nAlicja Szeligowska – wokal Piotr Szeligowski – gitaraPaweł Pira – perkusjaHubert Krześlak – basMichał Karkusiński – klawisze\nPosłuchaj na YT: https://youtube.com/@suklaband5225?si=1v3qhWJXNEApGCOyLub Spotify: https://open.spotify.com/artist/0755bAKyijhNwZfTqcGis1…\nMiejsce: KIJ\, al. Kościuszki 8090-437 ŁódźData: 27/11/2026Godzina 21:00Cena: FREE Ważne: Lokal przeznaczony jest dla osób powyżej 18 roku życia. Osoby niepełnoletnie nie zostaną wpuszczone na wydarzenie
+URL:https://plasterlodzki.pl/wydarzenia/live-jazz-janiak-bonkowski-kazmierski/
+LOCATION:KIJ – multitap bar\, Kościuszki 80/82\, Łódź\, łódzkie\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261128T150000
+DTEND;TZID=Europe/Warsaw:20261128T170000
+DTSTAMP:20261122T071704
+CREATED:20260501T171325Z
+LAST-MODIFIED:20261109T092742Z
+UID:10046830-1795878000-1795885200@plasterlodzki.pl
+SUMMARY:Hauser symfonicznie z londyńskiej Royal
+DESCRIPTION:Szarmancki wirtuoz w wielkim koncercie z Londynu! Wybierz się w niezwykłą muzyczną podróż ze światowej sławy chorwackim wiolonczelistą Stjepanem Hauserem. Jego pełne pasji wykonania klasycznych arcydzieł\, a także filmowych i musicalowych hitów zachwycają miliony słuchaczy na całym świecie. Artysta z niezwykłą swobodą łączy klasyczną elegancję ze współczesną energią\, tworząc własny\, niepowtarzalny muzyczny świat. Każda nuta wydobyta spod jego smyczka odsłania kolejne pokłady piękna\, intensywnych emocji i artystycznej wrażliwości.
+URL:https://plasterlodzki.pl/wydarzenia/nct-dream-mystery-lab-dream-scape-in-cinemas-2/
+LOCATION:Cinema City\, Drewnowska 58\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261128T170000
+DTEND;TZID=Europe/Warsaw:20261128T183000
+DTSTAMP:20261122T071704
+CREATED:20251011T133421Z
+LAST-MODIFIED:20261116T090102Z
+UID:10038197-1795885200-1795890600@plasterlodzki.pl
+SUMMARY:CORAZ BLIŻEJ ŚWIĘTA - koncert męskiego zespołu wokalnego „The Singing Heads
+DESCRIPTION:▶️ 28.11. | sobota | Godz. 17:00 – CORAZ BLIŻEJ ŚWIĘTA – koncert męskiego zespołu wokalnego „The Singing Heads (bezpłatnie)
+URL:https://plasterlodzki.pl/wydarzenia/swiadomosc-roznorodnosci-czyli-o-postrzeganiu-akceptacji-i-empatii-na-co-dzien-2/
+LOCATION:Centrum Kultury Młodych – Filia Dąbrowa\, Dąbrowskiego 93\, Łodź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261128T180000
+DTEND;TZID=Europe/Warsaw:20261128T223000
+DTSTAMP:20261122T071704
+CREATED:20230217T113937Z
+LAST-MODIFIED:20261113T121726Z
+UID:10030206-1795888800-1795905000@plasterlodzki.pl
+SUMMARY:MALWARE.TOUR.INIT ŁÓDŹ + HARVEST + STACJA XI
+DESCRIPTION:TO JUŻ! Pierwszy album Malware wjeżdża na rejon. Z tej okazji zapraszamy do wspólnego napier***ania na koncertach i zdzierania gardeł pod sceną! \nBILETY: 40 ZŁ / BRAMKA\nCZASÓWKA:// STATUS: IN PROGRESS //\n\nGOŚCIE:\nHARVESTHeavy/thrash metalowy zespół ze świętokrzyskiego grający ciężką muzę szybko\, ostro i maksymalnie głośno! Pełna moc to coś co lubimy najbardziej i nigdy nie odpuszczamy! We wrześniu wydaliśmy nasz debiutancki album\, który śmiga już po wszystkich streamingach. Zróbcie z nami młyn i żniwo pod sceną!https://linktr.ee/realharvest\nSTACJA XIPlugastwo\, smród\, i jałowa ziemia\, to wszystko zostawia po sobie Stacja XI. Brudne chugi połączone z mrocznymi melodiami i piekielnymi iterlude’ami walczą w kakofonicznej batalii z niskimi guturalami wokalisty.
+URL:https://plasterlodzki.pl/wydarzenia/bandaz-elastyczny-2/
+LOCATION:Iron Horse\, Tuwima 16 / róg Sienkiewicza\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261128T180000
+DTEND;TZID=Europe/Warsaw:20261128T230000
+DTSTAMP:20261122T071704
+CREATED:20221202T211348Z
+LAST-MODIFIED:20260808T094035Z
+UID:10029266-1795888800-1795906800@plasterlodzki.pl
+SUMMARY:Ritual of Lament: SYMBOLICAL VOMITVSANCTVS ASHUR HELLROSE
+DESCRIPTION:Symbolical to deathmetalowy zespół wywodzący się z Tomaszowa Mazowieckiego\, powstały z inicjatywy Karola Goździka. Formacja od lat konsekwentnie buduje własne muzyczne uniwersum\, łącząc ciężkie\, bezkompromisowe brzmienie z mroczną\, filozoficzną i apokaliptyczną narracją.\nTwórczość Symbolical opiera się na rozbudowanej koncepcji\, w której kolejne albumy i wydawnictwa tworzą spójną\, wielowymiarową opowieść inspirowaną m.in. mitologią Williama Blake’a\, motywami chaosu\, upadku\, duchowego zniewolenia i walki o resztki człowieczeństwa.\nZespół ma na swoim koncie liczne koncerty zagrane w Polsce oraz kilka wydawnictw studyjnych\, a jego muzyka łączy brutalność death metalu z atmosferą\, teatralnością i wyrazistą warstwą koncepcyjną.\nKoncert w Szczecinie odbędzie się w ramach Lament Tour — trasy promującej nadchodzący album „Lament”\, który ukaże się po wakacjach. Nowy materiał stanowi kolejny rozdział w historii Symbolical i rozwija dotychczasową wizję zespołu w jeszcze bardziej mrocznym\, intensywnym i monumentalnym kierunku.\nSkład Symbolical to:Cymer – Vocal & GuitarLukas – BassHoffman – GuitarDaray – DrumsClawdia – Back vocals & Screams\n\n Sprawdź daty koncertów i bądź częścią tej podróży!FB: https://www.facebook.com/SymbolicalofficialYT: https://www.youtube.com/@symbolicalofficialIN: https://www.instagram.com/symbolicalofficial\nshop: https://www.symbolical-store.pl\nTeledyski SYMBOLICAL:Natura EP: https://www.youtube.com/watch?v=hO59-ub8VnQ…The Universe: https://www.youtube.com/watch?v=10Y5ZsG9mQ0CiA full album: https://www.youtube.com/watch?v=Oj9tDbDl6B0&t=1821sHfA: https://www.youtube.com/watch?v=fmSR2nheVrw…
+URL:https://plasterlodzki.pl/wydarzenia/parahuman-tankograd-frantic-beth/
+LOCATION:Wooltura\, Wólczańska 40/42\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261128T190000
+DTEND;TZID=Europe/Warsaw:20261128T235900
+DTSTAMP:20261122T071704
+CREATED:20260321T103220Z
+LAST-MODIFIED:20261030T120650Z
+UID:10046486-1795892400-1795910340@plasterlodzki.pl
+SUMMARY:Folk Metal Night Łódź - Runika\, Ariadne's Thread\, Diaboł Boruta
+DESCRIPTION:Zapraszamy na kolejną edycję Folk Metal Night w Łodzi!\n 28.11.2026 Bramka: 19:00\, Start: 19:30 Browar Warkot\, ul. Gabriela Narutowicza 7/lok 311\,90-117 Łódź Bilety:– 50zł przedsprzedaż– 60zł na miejscu w dniu koncertuLink do biletów: https://www.kupbilecik.pl/…/%C5%81%C3…/Folk+Metal+Night/\n————————————Zagrają dla Was: ARIADNE’S THREAD (Folk Metal)· FB: https://www.facebook.com/ariadnesthreadofficial– IG: https://www.instagram.com/ariadnesthread_official– YT: https://www.youtube.com/@ariadnesthread3609\nAriadne’s Thread to nietuzinkowy projekt muzyczny założony w Krakowie na początku 2018 roku przez Adriannę Zborowską\, wokalistkę\, multiinstrumentalistkę.Ich muzyka opiera się na zróżnicowanym zestawie tradycyjnych instrumentów i złożonych i złożonych zainteresowaniach muzycznych jego członków. Jest to próba świeżego spojrzenia na muzykę ludową poprzezłączenie nowoczesnych\, metalowych elementów z archaicznymi dźwiękami\, tworząc prawdziwie klimatyczną jedność.Twórczość Ariadne’s Thread nawiązuje do mrocznego i tajemniczego folkloru i tajemniczym europejskim folklorem\, wywodzącym się z muzyki średniowiecznej\, renesansowej\, skandynawskiej i celtyckiej z elementy pierwotnego pulsującego transu\, napędzającego rocka i metalu wraz z bardziej subtelnym\, dworskim podejściem.Po wydaniu EP-ki „From the very beginning” w 2019 roku\, Nić Ariadny zagrała szereg koncertów i festiwali w całej Polsce przez cały 2019 rok\, a także pojawił się w kilku internetowych e-zinach i zagrał w RockRadio Lublin.Na początku 2020 roku sprawy przybrały inny obrót wraz z odejściem 3/4 oryginalnego składu\, pozostawiając wokalistce Adriannie decyzję o obraniu zespół w nowym kierunkuWraz z wprowadzeniem 4 nowych członków\, Sebastiana Najdera (gitara akustyczna i wsparcie Vox)\, . Hubert Kalinowski (gitara elektryczna)\, Adam Barry (gitara basowa) i Paweł Czartoryski (perkusja)\, wydali swoją pierwszą metalową EP-kę „The Hammer of Witches” w październiku 2024 roku.Niestety\, Sebastian opuścił zespół na początku jesieni 2024 roku\, aby skupić się na innych projektach.Obecnie 4-częściowy Ariadne’s Thread pracuje nad swoim pierwszym pełnym albumem na 2025 rok\, łącząc djent\, pseudo black metal\, melodeath i nowoczesne style metalowe\, pozostając jednocześnie wiernym swoim tradycyjnym folkowym korzeniom.\nPosłuchaj: Ariadne’s Thread – A Time for Harvesthttps://www.youtube.com/watch?v=IprWVeyw2TY Ariadne’s Thread – Malleus Maleficarumhttps://www.youtube.com/watch?v=nNitZLdtEeA\n+++\n RUNIKA (folk metal – Warszawa\, PL)· FB: https://www.facebook.com/Runikaband· IG: https://www.instagram.com/runikaband_official· YT: https://www.youtube.com/RunikaBand\nRUNIKA to zespół z charyzmatycznym damskim wokalem\, grający inspirowane folkiem melodie w mocnej\, metalowej oprawie.Na scenie łączy mistycyzm z energią czterech żywiołów\, przenosząc słuchaczy do czasów epickich bitew\, sutych biesiad przy kupalnym ogniu\, tajemnic zaklętych w posągach i niezwykłych istot kryjących się w leśnych ostępach.\nPosłuchaj:Egzorcysta z Wojsławic: https://youtu.be/45aa-tpIR10Sabat: https://youtu.be/hKpn6ISufVABiesiada: https://youtu.be/a1AP12pv2XYCisza przed burzą: https://youtu.be/v5L_HeXWBxU\n+++\nDIABOŁ BORUTA ( folk rock\, folk metal – Rzeszów\, PL)· FB: https://www.facebook.com/diabolboruta· BC: https://diaboboruta.bandcamp.com· YT: https://www.youtube.com/@diaboboruta6424\nDiaboł Boruta jest najprawdopodobniej najstarszym polskim zespołem grającym gędźby\, gdyż pierwsze wzmianki o jego działalności sięgają X wieku\, kiedy to w 996 roku zagrali na osobistą prośbę Mieszka I swój pierwszy publiczny występ z okazji Chrztu Polski (z powodu kłopotów z prądem był to oczywiście wytęp „unplugged”).Jest to legendarna rzeszowska formacja folk metalowa\, znana każdemu polskiemu fanowi tego gatunku. Zespół powstał w 2011 roku\, ma na koncie 7 płyt\, kilka teledysków\, i wiele zagranych koncertów.\nPosłuchaj:Czary (official video) https://youtu.be/qtI9-5qt_R8Stare Ględźby (official video) https://youtu.be/qck4BbUnti4…z popiołów (official video) https://youtu.be/O-VNYjG0HRASobótki (official video) https://youtu.be/KFbxpMbGVCE \n\n\n 
+URL:https://plasterlodzki.pl/wydarzenia/cronica-wandal-vanvidd-2/
+LOCATION:Klubopiwiarnia\, Narutowicza 7/9\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261128T190000
+DTEND;TZID=Europe/Warsaw:20261128T220000
+DTSTAMP:20261122T071704
+CREATED:20220514T180608Z
+LAST-MODIFIED:20261030T123409Z
+UID:10037020-1795892400-1795903200@plasterlodzki.pl
+SUMMARY:San Escobar / Czarnoksiężnik / Sepia
+DESCRIPTION:San Escobar / Czarnoksiężnik / Sepia | 28.11.26 | Cyrk Pod Zielonym Xiężycem\nNajmilsi! Zapraszamy Was na trzy koncerty zapowiadające zimę. W pewien ciemny listopadowy wieczór w Cyrku Pod Zielonym Xiężycem zagrają dla Was San Escobar\, Czarnoksiężnik i Sepia\nSan Escobar\nSan Escobar powstał w 2017 roku w Łodzi regularnie przemierzając miasta\, miasteczka\, wsie i elementy przyrody\, żeby dzielić się swoją muzyką. Zagrali wiele koncertów w Polsce\, pokazują się również za granicą.\nTwórczość grupy to instrumentalne kompozycje łączące elementy rocka\, jazzu i muzyki świata z domieszką elektroniki i nutą improwizacji. Przyjdźcie\, posłuchajcie i przekonacie się sami.\nSan Escobar ma na swoim koncie trzy niezależnie wydane albumy: \,\,Podróż do kraju\, który nie istnieje”\, \,\,Muzyka do słuchania w podróży” i \,\,Podróże w czasie i przestrzeni”. Obecnie zespół promuje swoją trzecią płytę i przygotowuje się do nagrania kolejnej.\nskład: Marta Niedużak – saksofonAlicja Grzelak – gitara basowa i elektronikaMichał Gruszkiewicz – trąbkaPaweł Ciszewski – gitara elektrycznaWojciech Skowron – perkusjonalia i elektronika\nmuzyka i socjale:bit.ly/SanEscobarYTopen.spotify.com/artist/5l0TkaMjJDMsiKANllcncPfacebook.com/san.escobar.audio/instagram.com/san.escobar.audio/\n\nCzarnoksiężnik – Dungeon Synth\nPonad starym zamczyskiem zaległa mgła. Trakt wije się ku górze przez prastary las. Okoliczni powiadają\, że poprzedniej nocy coś wypełzło z wilgotnych i nieprzeniknionych lochów….Jakby mało było w okolicy goblinów\, trolli i innego paskudztwa!Lepiej trzymaj swą dłoń na rękojeści miecza\, wędrowcze…\nlinki:https://czarnoksieznik.bandcamp.com/album/stara-wie-ahttps://youtu.be/US-M1-Yb9SA?is=QaTZWaKTxaH5J8Io\nSepia\nSepia to trio ziemi łódzkiej grające jazz noir z elektroniką. Łączymy saksofon z efektami\, perkusję z talerzami\, bas z bajerami\, a całość okraszamy syntezatorami. Lubimy określać naszą muzykę jako neo jazz noir\, choć nikt z nas nie wie do końca\, co to znaczy. Tworzymy transowe utwory prowadzone przez saksofonowe improwizacje\, doprawione elektroniką.\nMarta Niedużak – saksofon\, elektronikaMateusz Lewonowski – gitara basowa Radek Sherzai – perkusja\nData: 28.11.26Drzwi: 19:00Adres: Rewolucji 1905 roku nr 10Sugerowana wrzutka: 30 zł
+URL:https://plasterlodzki.pl/wydarzenia/warsztaty-muzykoterapeutyczne-wyrazanie-wyrazow-wewnetrznych/
+LOCATION:Cyrk Pod Zielonym Xiężycem\, Próchnika 1\, Łódź\, Poland
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Warsaw:20261128T190000
+DTEND;TZID=Europe/Warsaw:20261128T235900
+DTSTAMP:20261122T071704
+CREATED:20230127T103857Z
+LAST-MODIFIED:20260327T100402Z
+UID:10029959-1795892400-1795910340@plasterlodzki.pl
+SUMMARY:Wojtek Szumański
+DESCRIPTION:Bajki o życiu i śmierci to jesienna trasa koncertowa Wojtka Szumańskiego.\nW programie utwory znane oraz nowe\, które ukażą się w 2026 roku. Piosenki Wojtka opowiadają o sprawach prostych i ostatecznych jednocześnie: o życiu\, śmierci\, bliskości\, pogubieniu i codziennych emocjach. O rzeczach trudnych lekko\, a o lekkich – zaskakująco serio.\nKoncerty Wojtka Szumańskiego słyną z intensywnej atmosfery i bliskiego kontaktu z publicznością – szybko zamieniają się we wspólne przeżycie. Zeszłoroczna „Trasa Jesień ’25” niemal w całości została wyprzedana\, w tym m.in. warszawski Klub Stodoła. Wojtek jest także laureatem nagrody Złotego Bączka\, która umożliwiła mu występ na Dużej Scenie Pol’and’Rock Festival.\n18:00 – otwarcie bram19:00 – start koncertu\nBilety:I pula – 89\,99 złII pula – 99\,99 zł
+URL:https://plasterlodzki.pl/wydarzenia/house-carnival-edition/
+LOCATION:Klub Scenografia\, Zachodnia 81/83\, Łódź\, łódzkie\, Polska
+CATEGORIES:Koncert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T173000
 DTEND;TZID=Europe/Warsaw:20261201T190000
-DTSTAMP:20261121T071705
+DTSTAMP:20261122T071705
 CREATED:20250717T091406Z
 LAST-MODIFIED:20261113T160421Z
 UID:10051690-1796146200-1796151600@plasterlodzki.pl
@@ -1522,7 +1665,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T180000
 DTEND;TZID=Europe/Warsaw:20261201T233000
-DTSTAMP:20261121T071705
+DTSTAMP:20261122T071705
 CREATED:20230224T103055Z
 LAST-MODIFIED:20261030T120719Z
 UID:10030251-1796148000-1796167800@plasterlodzki.pl
@@ -1535,7 +1678,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T190000
 DTEND;TZID=Europe/Warsaw:20261201T203000
-DTSTAMP:20261121T071705
+DTSTAMP:20261122T071705
 CREATED:20221202T185418Z
 LAST-MODIFIED:20261030T105612Z
 UID:10029165-1796151600-1796157000@plasterlodzki.pl
@@ -1548,7 +1691,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261201T203000
 DTEND;TZID=Europe/Warsaw:20261201T220000
-DTSTAMP:20261121T071705
+DTSTAMP:20261122T071705
 CREATED:20261113T160330Z
 LAST-MODIFIED:20261113T160410Z
 UID:10051691-1796157000-1796162400@plasterlodzki.pl
@@ -1561,7 +1704,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T190000
 DTEND;TZID=Europe/Warsaw:20261203T210000
-DTSTAMP:20261121T071705
+DTSTAMP:20261122T071705
 CREATED:20221118T131649Z
 LAST-MODIFIED:20261113T123351Z
 UID:10028928-1796324400-1796331600@plasterlodzki.pl
@@ -1574,7 +1717,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T200000
 DTEND;TZID=Europe/Warsaw:20261203T220000
-DTSTAMP:20261121T071705
+DTSTAMP:20261122T071705
 CREATED:20221118T092912Z
 LAST-MODIFIED:20261030T143510Z
 UID:10028783-1796328000-1796335200@plasterlodzki.pl
@@ -1587,7 +1730,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261203T210000
 DTEND;TZID=Europe/Warsaw:20261203T220000
-DTSTAMP:20261121T071705
+DTSTAMP:20261122T071705
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050993-1796331600-1796335200@plasterlodzki.pl
@@ -1600,7 +1743,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T190000
 DTEND;TZID=Europe/Warsaw:20261204T210000
-DTSTAMP:20261121T071705
+DTSTAMP:20261122T071705
 CREATED:20260821T124235Z
 LAST-MODIFIED:20260821T124235Z
 UID:10039619-1796410800-1796418000@plasterlodzki.pl
@@ -1613,7 +1756,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T190000
 DTEND;TZID=Europe/Warsaw:20261204T220000
-DTSTAMP:20261121T071705
+DTSTAMP:20261122T071705
 CREATED:20231018T135944Z
 LAST-MODIFIED:20261113T121403Z
 UID:10031977-1796410800-1796421600@plasterlodzki.pl
@@ -1626,7 +1769,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T200000
 DTEND;TZID=Europe/Warsaw:20261204T233000
-DTSTAMP:20261121T071705
+DTSTAMP:20261122T071705
 CREATED:20260304T205606Z
 LAST-MODIFIED:20261030T123334Z
 UID:10039502-1796414400-1796427000@plasterlodzki.pl
@@ -1639,7 +1782,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T200000
 DTEND;TZID=Europe/Warsaw:20261204T233000
-DTSTAMP:20261121T071705
+DTSTAMP:20261122T071705
 CREATED:20230101T180406Z
 LAST-MODIFIED:20261030T143144Z
 UID:10029653-1796414400-1796427000@plasterlodzki.pl
@@ -1652,7 +1795,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261204T203000
 DTEND;TZID=Europe/Warsaw:20261204T220000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20221202T185732Z
 LAST-MODIFIED:20261113T121744Z
 UID:10029171-1796416200-1796421600@plasterlodzki.pl
@@ -1665,7 +1808,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T180000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20260327T104006Z
 LAST-MODIFIED:20260327T104006Z
 UID:10047632-1796493600-1796511600@plasterlodzki.pl
@@ -1678,7 +1821,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T190000
 DTEND;TZID=Europe/Warsaw:20261205T233000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20221202T211130Z
 LAST-MODIFIED:20260814T115801Z
 UID:10029261-1796497200-1796513400@plasterlodzki.pl
@@ -1691,7 +1834,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T200000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20221202T185543Z
 LAST-MODIFIED:20261113T123409Z
 UID:10029168-1796500800-1796511600@plasterlodzki.pl
@@ -1704,7 +1847,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261205T210000
 DTEND;TZID=Europe/Warsaw:20261205T230000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20221202T161347Z
 LAST-MODIFIED:20261113T120722Z
 UID:10029109-1796504400-1796511600@plasterlodzki.pl
@@ -1717,7 +1860,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T180000
 DTEND;TZID=Europe/Warsaw:20261206T210000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20250629T191225Z
 LAST-MODIFIED:20260130T143707Z
 UID:10041980-1796580000-1796590800@plasterlodzki.pl
@@ -1730,7 +1873,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T180000
 DTEND;TZID=Europe/Warsaw:20261206T213000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20221118T131452Z
 LAST-MODIFIED:20261113T123427Z
 UID:10028923-1796580000-1796592600@plasterlodzki.pl
@@ -1743,7 +1886,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261206T190000
 DTEND;TZID=Europe/Warsaw:20261206T220000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20230317T142725Z
 LAST-MODIFIED:20260724T102556Z
 UID:10030465-1796583600-1796594400@plasterlodzki.pl
@@ -1756,7 +1899,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261207T190000
 DTEND;TZID=Europe/Warsaw:20261207T210000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20230120T095505Z
 LAST-MODIFIED:20261030T105636Z
 UID:10029919-1796670000-1796677200@plasterlodzki.pl
@@ -1769,7 +1912,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T183000
 DTEND;TZID=Europe/Warsaw:20261210T220000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20230113T094437Z
 LAST-MODIFIED:20261030T143209Z
 UID:10029841-1796927400-1796940000@plasterlodzki.pl
@@ -1782,7 +1925,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261210T210000
 DTEND;TZID=Europe/Warsaw:20261210T220000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20221202T161122Z
 LAST-MODIFIED:20261030T101025Z
 UID:10050994-1796936400-1796940000@plasterlodzki.pl
@@ -1795,7 +1938,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T190000
 DTEND;TZID=Europe/Warsaw:20261211T223000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20230217T114354Z
 LAST-MODIFIED:20261113T130906Z
 UID:10030209-1797015600-1797028200@plasterlodzki.pl
@@ -1808,7 +1951,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T190000
 DTEND;TZID=Europe/Warsaw:20261211T220000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20231018T140036Z
 LAST-MODIFIED:20260808T102137Z
 UID:10031979-1797015600-1797026400@plasterlodzki.pl
@@ -1821,7 +1964,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T200000
 DTEND;TZID=Europe/Warsaw:20261211T213000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20250629T080939Z
 LAST-MODIFIED:20260619T120058Z
 UID:10041674-1797019200-1797024600@plasterlodzki.pl
@@ -1834,7 +1977,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261211T210000
 DTEND;TZID=Europe/Warsaw:20261211T210000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20230120T093905Z
 LAST-MODIFIED:20261113T120623Z
 UID:10029909-1797022800-1797022800@plasterlodzki.pl
@@ -1847,7 +1990,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T180000
 DTEND;TZID=Europe/Warsaw:20261212T203000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20250629T191716Z
 LAST-MODIFIED:20261030T145830Z
 UID:10041989-1797098400-1797107400@plasterlodzki.pl
@@ -1860,7 +2003,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T180000
 DTEND;TZID=Europe/Warsaw:20261212T210000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20250502T080556Z
 LAST-MODIFIED:20260724T100919Z
 UID:10050389-1797098400-1797109200@plasterlodzki.pl
@@ -1873,7 +2016,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T190000
 DTEND;TZID=Europe/Warsaw:20261212T220000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20221222T221551Z
 LAST-MODIFIED:20260814T120841Z
 UID:10029487-1797102000-1797112800@plasterlodzki.pl
@@ -1886,7 +2029,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Warsaw:20261212T190000
 DTEND;TZID=Europe/Warsaw:20261212T223000
-DTSTAMP:20261121T071706
+DTSTAMP:20261122T071705
 CREATED:20221202T211410Z
 LAST-MODIFIED:20260717T125916Z
 UID:10029267-1797102000-1797114600@plasterlodzki.pl
